@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7119535</PMCID>
+        <PMCID>7114105</PMCID>
+        <PMCID>7112832</PMCID>
+        <PMCID>7127790</PMCID>
+        <PMCID>7126893</PMCID>
+        <PMCID>7111791</PMCID>
+        <PMCID>7110378</PMCID>
+        <PMCID>6563846</PMCID>
+        <PMCID>6466229</PMCID>
+        <PMCID>5899197</PMCID>
+        <PMCID>5096721</PMCID>
+        <PMCID>4236159</PMCID>
+        <PMCID>4159302</PMCID>
+        <PMCID>3973752</PMCID>
+        <PMCID>3185660</PMCID>
+        <PMCID>2888095</PMCID>
+        <PMCID>2855553</PMCID>
+        <PMCID>2573278</PMCID>
+        <PMCID>2395209</PMCID>
+        <PMCID>2735111</PMCID>
+        <PMCID>141104</PMCID>
+        <GeneBankPMID>16574184</GeneBankPMID>
+        <id>331642</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine enteric calicivirus Newbury agent 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Newbury agent 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4236159</PMCID>
+        <PMCID>4159302</PMCID>
+        <GeneBankPMID>12239283</GeneBankPMID>
+        <id>190239</id>
+        <scientificName>Calicivirus strain NB</scientificName>
+    </subSpecies>
+    <PMCID>7173516</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7123905</PMCID>
+    <PMCID>7087015</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>6563846</PMCID>
+    <PMCID>6466229</PMCID>
+    <PMCID>6466040</PMCID>
+    <PMCID>5899197</PMCID>
+    <PMCID>5370393</PMCID>
+    <PMCID>4221606</PMCID>
+    <id>2170030</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Newbury-1 virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Newbury-1 virus</scientificName>
+</pathogen>

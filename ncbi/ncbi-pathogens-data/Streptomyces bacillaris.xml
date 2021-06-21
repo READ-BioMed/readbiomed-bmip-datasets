@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7823745</PMCID>
+    <PMCID>7692652</PMCID>
+    <PMCID>7565578</PMCID>
+    <PMCID>7215201</PMCID>
+    <PMCID>6880775</PMCID>
+    <PMCID>6406340</PMCID>
+    <PMCID>5830883</PMCID>
+    <PMCID>5221355</PMCID>
+    <PMCID>4075427</PMCID>
+    <PMCID>3595109</PMCID>
+    <PMCID>3769009</PMCID>
+    <PMCID>4034472</PMCID>
+    <id>68179</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces bacillaris
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces bacillaris" Krasil'nikov 1958
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces bacillaris (Krasil'nikov 1958) Pridham 1970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   AS 4.1548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 15855
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:15855
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 788.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:788.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:4.1548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 13487
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:13487
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   INMI 445
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   INMI:445
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4727
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4727
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 9018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:9018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 13487
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:13487
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-3038
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-3038
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1448
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 336
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1448
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:336
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-58
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:58
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:AS:4.1548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:3038
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces bacillaris</scientificName>
+</pathogen>

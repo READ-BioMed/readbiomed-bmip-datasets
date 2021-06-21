@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7566193</PMCID>
+    <PMCID>7551687</PMCID>
+    <PMCID>7476758</PMCID>
+    <PMCID>7074263</PMCID>
+    <PMCID>6595964</PMCID>
+    <PMCID>7256872</PMCID>
+    <PMCID>6089837</PMCID>
+    <PMCID>6042205</PMCID>
+    <PMCID>6175699</PMCID>
+    <PMCID>5741634</PMCID>
+    <PMCID>5717199</PMCID>
+    <PMCID>5705629</PMCID>
+    <PMCID>5388647</PMCID>
+    <PMCID>5260662</PMCID>
+    <PMCID>4918961</PMCID>
+    <PMCID>4896468</PMCID>
+    <PMCID>4306928</PMCID>
+    <PMCID>4144093</PMCID>
+    <PMCID>3695772</PMCID>
+    <PMCID>3595109</PMCID>
+    <PMCID>3564162</PMCID>
+    <PMCID>2945581</PMCID>
+    <PMCID>2881590</PMCID>
+    <PMCID>2642832</PMCID>
+    <PMCID>2376397</PMCID>
+    <PMCID>1347288</PMCID>
+    <PMCID>1173090</PMCID>
+    <PMCID>520868</PMCID>
+    <PMCID>95193</PMCID>
+    <PMCID>114835</PMCID>
+    <PMCID>94883</PMCID>
+    <PMCID>110722</PMCID>
+    <PMCID>94186</PMCID>
+    <PMCID>103624</PMCID>
+    <PMCID>91574</PMCID>
+    <PMCID>94106</PMCID>
+    <PMCID>103605</PMCID>
+    <PMCID>106649</PMCID>
+    <PMCID>106727</PMCID>
+    <PMCID>107828</PMCID>
+    <PMCID>106195</PMCID>
+    <PMCID>178196</PMCID>
+    <PMCID>7150297</PMCID>
+    <PMCID>243206</PMCID>
+    <PMCID>243175</PMCID>
+    <PMCID>187266</PMCID>
+    <PMCID>377236</PMCID>
+    <GeneBankPMID>8234485</GeneBankPMID>
+    <GeneBankPMID>7582009</GeneBankPMID>
+    <id>1923</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces pheochromogenus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces phaeochromogenus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces pheochromogenus
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Streptomyces phaeochromogenes subsp. phaeochromogenes
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces phaeochromatogenes
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces pheochromogenus" (sic) Conn 1917
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Streptomyces phaeochromogenus" (sic) (Conn 1917) Waksman and Henrici 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Streptomyces pheochromogenus" (sic) (Conn 1917) Pridham et al. 1958
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces phaechromogenes
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces phaeochromogenes</scientificName>
+</pathogen>

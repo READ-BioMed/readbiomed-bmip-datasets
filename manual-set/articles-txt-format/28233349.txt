@@ -1,0 +1,11 @@
+
+Inhibitory effect of 2,4-dichlorophenoxyacetic acid on ROS, autophagy formation, and mRNA replication for influenza virus infection.
+
+Influenza virus has had a high rate of antigenic shift and drift that causes significant morbidity and mortality in humans and animals. 
+The lack of excellent pharmacological treatment underlines the importance of the development of the novel antiviral drugs. 
+We investigated the anti-influenza A and B viruses of 2,4-dichlorophenoxyacetic acid (2,4-D), which is the synthetic analog to auxin and is used as a popular herbicide in the agricultural practices. 2,4-D was evaluated using a cytopathic effect reduction method; assay results showed that 2,4-D possessed strong anti-influenza A and B viruses inhibiting the formation of a visible cytopathic effect. 
+Influenza viral RNA expression was performed by quantitative real-time polymerase chain reaction. 2,4-D also inhibited virus replication in the early stage of influenza virus infection without direct interaction with virus particles. 
+Additionally, 2,4-D significantly inhibited various factors occur during influenza virus infection as the acidic vesicular formation and reactive oxygen species production. 
+Moreover, 2,4-D represented no cytotoxicity in normal kidney cell. 
+Therefore, these findings provide an understanding of the mechanism and efficient use of 2,4-D in pharmacological applications against influenza virus infection.
+

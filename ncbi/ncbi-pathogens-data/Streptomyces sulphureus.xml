@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1123321</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Streptomyces sulphureus JCM 4085
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces sulphureus JCM 4835
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces sulphureus NBRC 13345
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces sulphureus NBRL B-1627
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces sulphureus str. DSM 40104
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces sulphureus strain DSM 40104
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Streptomyces sulphureus DSM 40104</scientificName>
+    </subSpecies>
+    <PMCID>7369989</PMCID>
+    <PMCID>6527748</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>5924784</PMCID>
+    <PMCID>4392272</PMCID>
+    <PMCID>4257720</PMCID>
+    <PMCID>4155686</PMCID>
+    <PMCID>4018334</PMCID>
+    <PMCID>3569392</PMCID>
+    <PMCID>3570808</PMCID>
+    <PMCID>3466018</PMCID>
+    <PMCID>3416231</PMCID>
+    <id>47758</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  "Nocardia sulphurea" (Gasperini 1894) Vuillemin 1931
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Actinomyces sulphureus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia sulphurea (Gasperini 1894) Vuillemin 1931
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptothrix sulphurea
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces sulphureus" Gasperini 1894
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Streptothrix sulphurea" (Gasperini 1894) Caminiti 1907
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces sulphureus (Gasperini 1894) Waksman 1953
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces sulphureus (Gasperini 1894) Waksman 1953 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27468
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27468
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:19355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 13764
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:13764
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 646.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:646.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 13764
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:13764
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HUT 6080
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HUT:6080
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 13345
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:13345
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMET 40623
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMET:40623
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4085
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4835
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4085
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4835
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 19355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:19355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 13345
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:13345
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-1627
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-2195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-1627
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-2195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1306
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1306
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-1820
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:1820
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:1627
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:2195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces sulphureus</scientificName>
+</pathogen>

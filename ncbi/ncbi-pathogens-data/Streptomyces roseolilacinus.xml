@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7324872</PMCID>
+    <PMCID>6327992</PMCID>
+    <id>66904</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces roseolilacinus
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces roseililacinus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces roseolilacinus" Preobrazhenskaya and Sveshnikova in Gauze et al. 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces roseolilacinus (Preobrazhenskaya and Sveshnikova 1957) Pridham et al. 1958
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 12329
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:12329
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 558.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:558.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 12329
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:12329
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40173
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40173
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 12815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:12815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   INA 14250
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   INA:14250
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5173
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5173
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4335
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4606
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4335
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4606
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 12815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:12815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-2699
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5173
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5173
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-2699
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1085
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1085
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM 192
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM:192
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-1276
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:1276
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:2699
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces roseolilacinus</scientificName>
+</pathogen>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>6930155</PMCID>
+    <PMCID>6864206</PMCID>
+    <PMCID>4399334</PMCID>
+    <PMCID>3526185</PMCID>
+    <PMCID>6640463</PMCID>
+    <id>68210</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces glomeroaurantiacus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces glomeroaurantiacus" Krasil'nikov and Yuan in Krasil'nikov 1965
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces glomeroaurantiacus</scientificName>
+</pathogen>

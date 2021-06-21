@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8155483</PMCID>
+    <PMCID>8100043</PMCID>
+    <PMCID>7944603</PMCID>
+    <PMCID>7601869</PMCID>
+    <PMCID>7285244</PMCID>
+    <PMCID>7205953</PMCID>
+    <PMCID>7221717</PMCID>
+    <PMCID>7106814</PMCID>
+    <PMCID>6998099</PMCID>
+    <PMCID>7256699</PMCID>
+    <PMCID>6423291</PMCID>
+    <PMCID>6429109</PMCID>
+    <PMCID>6439349</PMCID>
+    <PMCID>6100412</PMCID>
+    <PMCID>5992853</PMCID>
+    <PMCID>5924784</PMCID>
+    <PMCID>5869327</PMCID>
+    <PMCID>5872131</PMCID>
+    <PMCID>6641397</PMCID>
+    <PMCID>5481584</PMCID>
+    <PMCID>5473282</PMCID>
+    <PMCID>5454204</PMCID>
+    <PMCID>5289526</PMCID>
+    <PMCID>6273661</PMCID>
+    <PMCID>4676553</PMCID>
+    <PMCID>4972787</PMCID>
+    <PMCID>4406830</PMCID>
+    <PMCID>4257720</PMCID>
+    <PMCID>4188492</PMCID>
+    <PMCID>3811609</PMCID>
+    <PMCID>3370914</PMCID>
+    <PMCID>3271363</PMCID>
+    <PMCID>3190882</PMCID>
+    <PMCID>3064724</PMCID>
+    <PMCID>3067094</PMCID>
+    <PMCID>3042426</PMCID>
+    <PMCID>2897453</PMCID>
+    <PMCID>2783456</PMCID>
+    <PMCID>2813333</PMCID>
+    <PMCID>2224763</PMCID>
+    <PMCID>2519147</PMCID>
+    <PMCID>2561995</PMCID>
+    <PMCID>151604</PMCID>
+    <PMCID>126441</PMCID>
+    <PMCID>127163</PMCID>
+    <PMCID>134914</PMCID>
+    <PMCID>101600</PMCID>
+    <PMCID>546669</PMCID>
+    <id>68264</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  'Streptomyces hazeliensis'
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces hazeliensis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces hazeliensis var. hazeliensis
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. TSR41
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces rishiriensis Kawaguchi et al. 1965
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14812
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14812
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 12333
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:12333
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 708.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:708.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 12333
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:12333
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40489
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40489
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 13407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:13407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5489
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5489
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4821
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4821
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 13407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:13407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 11890
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:11890
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-3239
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5489
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5489
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-3239
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-1188
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:1188
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:3239
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces rishiriensis</scientificName>
+</pathogen>

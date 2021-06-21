@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7827161</PMCID>
+        <PMCID>6797598</PMCID>
+        <PMCID>5069985</PMCID>
+        <PMCID>4848607</PMCID>
+        <PMCID>4337061</PMCID>
+        <PMCID>4303929</PMCID>
+        <PMCID>3505155</PMCID>
+        <PMCID>2949663</PMCID>
+        <id>1183064</id>
+        <scientificName>Salmonid alphavirus subtype 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7242702</PMCID>
+        <PMCID>7159363</PMCID>
+        <PMCID>5957455</PMCID>
+        <PMCID>4951118</PMCID>
+        <PMCID>4709744</PMCID>
+        <PMCID>4259830</PMCID>
+        <PMCID>3848773</PMCID>
+        <PMCID>2772843</PMCID>
+        <PMCID>2569925</PMCID>
+        <PMCID>1440445</PMCID>
+        <GeneBankPMID>10590104</GeneBankPMID>
+        <GeneBankPMID>18822126</GeneBankPMID>
+        <GeneBankPMID>23449806</GeneBankPMID>
+        <GeneBankPMID>12021349</GeneBankPMID>
+        <id>78540</id>
+        <scientificName>Sleeping disease virus</scientificName>
+    </subSpecies>
+    <PMCID>7905232</PMCID>
+    <PMCID>7823518</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7010070</PMCID>
+    <PMCID>7193772</PMCID>
+    <PMCID>7149648</PMCID>
+    <PMCID>7149611</PMCID>
+    <PMCID>6096723</PMCID>
+    <PMCID>5957455</PMCID>
+    <PMCID>5507449</PMCID>
+    <PMCID>5090867</PMCID>
+    <PMCID>5075195</PMCID>
+    <PMCID>5069985</PMCID>
+    <PMCID>4975881</PMCID>
+    <PMCID>4827186</PMCID>
+    <PMCID>4433699</PMCID>
+    <PMCID>4259830</PMCID>
+    <PMCID>4287844</PMCID>
+    <PMCID>4091863</PMCID>
+    <PMCID>3866610</PMCID>
+    <PMCID>3835772</PMCID>
+    <PMCID>3534007</PMCID>
+    <PMCID>3080810</PMCID>
+    <PMCID>2949663</PMCID>
+    <PMCID>2919011</PMCID>
+    <PMCID>2772843</PMCID>
+    <PMCID>2762864</PMCID>
+    <PMCID>3258923</PMCID>
+    <PMCID>2569925</PMCID>
+    <PMCID>1440445</PMCID>
+    <PMCID>136221</PMCID>
+    <PMCID>114586</PMCID>
+    <PMCID>114155</PMCID>
+    <PMCID>114842</PMCID>
+    <PMCID>111526</PMCID>
+    <GeneBankPMID>18822126</GeneBankPMID>
+    <GeneBankPMID>12021349</GeneBankPMID>
+    <id>84589</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SPDV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Salmon pancreas disease virus</scientificName>
+</pathogen>

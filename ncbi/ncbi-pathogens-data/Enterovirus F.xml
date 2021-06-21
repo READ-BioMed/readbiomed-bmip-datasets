@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3470038</PMCID>
+        <PMCID>1160218</PMCID>
+        <id>269638</id>
+        <scientificName>Bovine enterovirus type 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5240211</PMCID>
+        <GeneBankPMID>16906477</GeneBankPMID>
+        <id>263532</id>
+        <scientificName>Possum enterovirus W6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3302533</PMCID>
+        <GeneBankPMID>16906477</GeneBankPMID>
+        <id>263531</id>
+        <scientificName>Possum enterovirus W1</scientificName>
+    </subSpecies>
+    <PMCID>7825084</PMCID>
+    <PMCID>7124307</PMCID>
+    <PMCID>6834195</PMCID>
+    <PMCID>6607526</PMCID>
+    <PMCID>6562951</PMCID>
+    <PMCID>6518482</PMCID>
+    <PMCID>6384098</PMCID>
+    <PMCID>6293526</PMCID>
+    <PMCID>6443042</PMCID>
+    <PMCID>5633025</PMCID>
+    <PMCID>5471348</PMCID>
+    <PMCID>5240211</PMCID>
+    <PMCID>4838371</PMCID>
+    <PMCID>4682392</PMCID>
+    <PMCID>3988102</PMCID>
+    <PMCID>3741315</PMCID>
+    <GeneBankPMID>16432025</GeneBankPMID>
+    <id>1330520</id>
+    <scientificName>Enterovirus F</scientificName>
+</pathogen>

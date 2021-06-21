@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7715054</PMCID>
+    <PMCID>7375171</PMCID>
+    <PMCID>6155160</PMCID>
+    <PMCID>5577230</PMCID>
+    <PMCID>3848773</PMCID>
+    <id>66882</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces cuspidisporus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces cuspidosporus Higashide et al. 1966
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   AS 4.1886
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33340
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33340
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 192.78
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:192.78
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC 4.1686
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:4.1686
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:4.1886
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 41425
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 41653
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:41425
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:41653
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 12378
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:12378
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4316
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4316
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 9718
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:9718
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 12378
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:12378
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-5620
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-5620
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-599
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:599
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:AS:4.1886
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:5620
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces cuspidosporus</scientificName>
+</pathogen>

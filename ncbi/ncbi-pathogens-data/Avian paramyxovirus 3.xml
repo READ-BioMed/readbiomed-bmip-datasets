@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>207247</id>
+        <scientificName>Avian paramyxovirus 3b</scientificName>
+    </subSpecies>
+    <PMCID>5865735</PMCID>
+    <GeneBankPMID>20079781</GeneBankPMID>
+    <id>2560327</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  APMV-3
+ &lt;/GenbankAcronym&gt; 
+ &lt;Synonym&gt;
+  Avian avulavirus 3
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian paramyxovirus 3</scientificName>
+</pathogen>

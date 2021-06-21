@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>1031920</id>
+            <scientificName>Campylobacter sputorum bv. faecalis CCUG 20703</scientificName>
+        </subSpecies>
+        <PMCID>6066527</PMCID>
+        <id>1031919</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bv. faecalis
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Campylobacter sputorum biovar fecalis
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Campylobacter sputorum bv. fecalis
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Campylobacter sputorum biovar faecalis</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1032066</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bv. paraureolyticus str. LMG 11764
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bv. paraureolyticus strain LMG 11764
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Campylobacter sputorum bv. paraureolyticus LMG 11764</scientificName>
+        </subSpecies>
+        <PMCID>7324872</PMCID>
+        <id>593874</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bv. paraureolyticus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Campylobacter sputorum biovar paraureolyticus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1031754</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bv. sputorum str. RM3237
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bv. sputorum strain RM3237
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Campylobacter sputorum bv. sputorum RM3237</scientificName>
+        </subSpecies>
+        <PMCID>7672430</PMCID>
+        <PMCID>5762599</PMCID>
+        <id>32024</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Campylobacter sputorum subsp. sputorum
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bv. sputorum
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum sputorum
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Campylobacter sputorum subsp. sputorum (Prevot 1940) Veron and Chatelain 1973 (Approved Lists 1980) emend. Roop et al. 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Campylobacter sputorum biovar sputorum</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4202331</PMCID>
+        <PMCID>1319875</PMCID>
+        <PMCID>277605</PMCID>
+        <id>32023</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Campylobacter bubulus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Vibrio bubulus
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Campylobacter sputorum bubulus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Campylobacter bubulus" (Florent 1953) Sebald and Veron 1963
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Vibrio bubulus" Florent 1953
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Campylobacter sputorum subsp. bubulus (Florent 1953) Veron and Chatelain 1973
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33562
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33562
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:6447
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 11289
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:11289
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 53.103
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 53103
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:53.103
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 5363
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:5363
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 6447
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:6447
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Campylobacter sputorum subsp. bubulus</scientificName>
+    </subSpecies>
+    <PMCID>8092128</PMCID>
+    <PMCID>7973286</PMCID>
+    <PMCID>7997435</PMCID>
+    <PMCID>7844543</PMCID>
+    <PMCID>7773321</PMCID>
+    <PMCID>7672430</PMCID>
+    <PMCID>7311638</PMCID>
+    <PMCID>7324872</PMCID>
+    <PMCID>7167206</PMCID>
+    <PMCID>6838626</PMCID>
+    <PMCID>7159723</PMCID>
+    <PMCID>6066527</PMCID>
+    <PMCID>6018663</PMCID>
+    <PMCID>5799301</PMCID>
+    <PMCID>5524749</PMCID>
+    <PMCID>5644652</PMCID>
+    <PMCID>5499875</PMCID>
+    <PMCID>5140060</PMCID>
+    <PMCID>5014926</PMCID>
+    <PMCID>5762599</PMCID>
+    <PMCID>4547314</PMCID>
+    <PMCID>4601489</PMCID>
+    <PMCID>4202331</PMCID>
+    <PMCID>4541103</PMCID>
+    <PMCID>3907429</PMCID>
+    <PMCID>3911451</PMCID>
+    <PMCID>3827621</PMCID>
+    <PMCID>3805878</PMCID>
+    <PMCID>3765806</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3347071</PMCID>
+    <PMCID>3417633</PMCID>
+    <PMCID>3123193</PMCID>
+    <PMCID>3067447</PMCID>
+    <PMCID>3073708</PMCID>
+    <PMCID>3020476</PMCID>
+    <PMCID>2916566</PMCID>
+    <PMCID>2650897</PMCID>
+    <PMCID>2395105</PMCID>
+    <PMCID>2045264</PMCID>
+    <PMCID>1855770</PMCID>
+    <PMCID>1393111</PMCID>
+    <PMCID>1233920</PMCID>
+    <PMCID>535264</PMCID>
+    <PMCID>525216</PMCID>
+    <PMCID>492433</PMCID>
+    <PMCID>383034</PMCID>
+    <PMCID>356813</PMCID>
+    <PMCID>194945</PMCID>
+    <PMCID>161499</PMCID>
+    <PMCID>150087</PMCID>
+    <PMCID>149560</PMCID>
+    <PMCID>134389</PMCID>
+    <PMCID>127350</PMCID>
+    <PMCID>130948</PMCID>
+    <PMCID>88526</PMCID>
+    <PMCID>92989</PMCID>
+    <PMCID>88115</PMCID>
+    <PMCID>88048</PMCID>
+    <PMCID>87189</PMCID>
+    <PMCID>87040</PMCID>
+    <PMCID>86777</PMCID>
+    <PMCID>86472</PMCID>
+    <PMCID>88711</PMCID>
+    <PMCID>85910</PMCID>
+    <PMCID>91231</PMCID>
+    <PMCID>2809604</PMCID>
+    <PMCID>2711436</PMCID>
+    <PMCID>2653097</PMCID>
+    <PMCID>106591</PMCID>
+    <PMCID>106123</PMCID>
+    <PMCID>178088</PMCID>
+    <PMCID>228588</PMCID>
+    <PMCID>1255193</PMCID>
+    <PMCID>176204</PMCID>
+    <PMCID>271183</PMCID>
+    <PMCID>7172716</PMCID>
+    <PMCID>1419408</PMCID>
+    <PMCID>1419085</PMCID>
+    <PMCID>275110</PMCID>
+    <PMCID>277605</PMCID>
+    <PMCID>277410</PMCID>
+    <MeSHPMID>28633450</MeSHPMID>
+    <MeSHPMID>24974680</MeSHPMID>
+    <MeSHPMID>21757020</MeSHPMID>
+    <MeSHPMID>21431911</MeSHPMID>
+    <MeSHPMID>19702949</MeSHPMID>
+    <MeSHPMID>16204551</MeSHPMID>
+    <MeSHPMID>15624407</MeSHPMID>
+    <id>206</id>
+    <meSHTree>B03.440.180.700, B03.660.150.235.250.500.740</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Vibrio sputorum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Vibrio sputorum" Prevot 1940
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Campylobacter sputorum (Prevot 1940) Veron and Chatelain 1973 (Approved Lists 1980) emend. On et al. 1998
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Campylobacter sputorum (Prevot 1940) Veron and Chatelain 1973 (Aproved Lists 1980) emend. Roop et al. 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 35980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:35980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:7795
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 9728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:9728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103749
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103749
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 7795
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:7795
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11528
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11528
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI S-17
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:S:17
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::Forsyth ER33
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain Forsyth ER33
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Campylobacter sputorum</scientificName>
+</pathogen>

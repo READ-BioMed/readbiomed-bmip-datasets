@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1440059</id>
+        <scientificName>Streptomyces exfoliatus DSM 41693</scientificName>
+    </subSpecies>
+    <PMCID>8068249</PMCID>
+    <PMCID>7990538</PMCID>
+    <PMCID>7956481</PMCID>
+    <PMCID>7912845</PMCID>
+    <PMCID>7851449</PMCID>
+    <PMCID>7780072</PMCID>
+    <PMCID>7839719</PMCID>
+    <PMCID>7537782</PMCID>
+    <PMCID>7531957</PMCID>
+    <PMCID>7417921</PMCID>
+    <PMCID>7369989</PMCID>
+    <PMCID>7355561</PMCID>
+    <PMCID>7230286</PMCID>
+    <PMCID>7143476</PMCID>
+    <PMCID>6933164</PMCID>
+    <PMCID>6779837</PMCID>
+    <PMCID>6505623</PMCID>
+    <PMCID>6215055</PMCID>
+    <PMCID>6240786</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6121496</PMCID>
+    <PMCID>6029080</PMCID>
+    <PMCID>5960965</PMCID>
+    <PMCID>5977293</PMCID>
+    <PMCID>5996221</PMCID>
+    <PMCID>5748449</PMCID>
+    <PMCID>5599378</PMCID>
+    <PMCID>5585785</PMCID>
+    <PMCID>5599884</PMCID>
+    <PMCID>5588592</PMCID>
+    <PMCID>5487221</PMCID>
+    <PMCID>5343024</PMCID>
+    <PMCID>5245892</PMCID>
+    <PMCID>5154626</PMCID>
+    <PMCID>5148692</PMCID>
+    <PMCID>5132015</PMCID>
+    <PMCID>7158365</PMCID>
+    <PMCID>5042876</PMCID>
+    <PMCID>5082573</PMCID>
+    <PMCID>4963284</PMCID>
+    <PMCID>4785404</PMCID>
+    <PMCID>4728502</PMCID>
+    <PMCID>4598422</PMCID>
+    <PMCID>4421045</PMCID>
+    <PMCID>4419841</PMCID>
+    <PMCID>4375501</PMCID>
+    <PMCID>4311827</PMCID>
+    <PMCID>4204977</PMCID>
+    <PMCID>4229319</PMCID>
+    <PMCID>4108320</PMCID>
+    <PMCID>4146655</PMCID>
+    <PMCID>3916498</PMCID>
+    <PMCID>3741128</PMCID>
+    <PMCID>3695772</PMCID>
+    <PMCID>3592006</PMCID>
+    <PMCID>3496644</PMCID>
+    <PMCID>3416617</PMCID>
+    <PMCID>3365244</PMCID>
+    <PMCID>3294458</PMCID>
+    <PMCID>7080157</PMCID>
+    <PMCID>3288687</PMCID>
+    <PMCID>3183284</PMCID>
+    <PMCID>3173220</PMCID>
+    <PMCID>3051010</PMCID>
+    <PMCID>3041837</PMCID>
+    <PMCID>2865362</PMCID>
+    <PMCID>2954215</PMCID>
+    <PMCID>2840623</PMCID>
+    <PMCID>2832523</PMCID>
+    <PMCID>2746310</PMCID>
+    <PMCID>2747811</PMCID>
+    <PMCID>2666664</PMCID>
+    <PMCID>2581546</PMCID>
+    <PMCID>3258855</PMCID>
+    <PMCID>2603548</PMCID>
+    <PMCID>2074902</PMCID>
+    <PMCID>1694256</PMCID>
+    <PMCID>1636227</PMCID>
+    <PMCID>1636158</PMCID>
+    <PMCID>1595390</PMCID>
+    <PMCID>1609407</PMCID>
+    <PMCID>1236656</PMCID>
+    <PMCID>1151818</PMCID>
+    <PMCID>1082842</PMCID>
+    <PMCID>1087993</PMCID>
+    <PMCID>538825</PMCID>
+    <PMCID>523223</PMCID>
+    <PMCID>166420</PMCID>
+    <PMCID>151468</PMCID>
+    <PMCID>95381</PMCID>
+    <PMCID>94950</PMCID>
+    <PMCID>94551</PMCID>
+    <PMCID>101983</PMCID>
+    <PMCID>101893</PMCID>
+    <PMCID>91997</PMCID>
+    <PMCID>94361</PMCID>
+    <PMCID>91814</PMCID>
+    <PMCID>59410</PMCID>
+    <PMCID>93938</PMCID>
+    <PMCID>91002</PMCID>
+    <PMCID>107730</PMCID>
+    <PMCID>107596</PMCID>
+    <PMCID>1219386</PMCID>
+    <PMCID>179747</PMCID>
+    <PMCID>201429</PMCID>
+    <id>1905</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces exfoliatus
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. (strain UC5319)
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. UC5319
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC006
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC040
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC041
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC049
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC052
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC053
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC058
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC062
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC065
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC066
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC068
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC070
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces exfoliatus" Waksman and Curtis 1916
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces exfoliatus (Waksman and Curtis 1916) Waksman and Henrici 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces exfoliatus (Waksman and Curtis 1916) Waksman and Henrici 1948 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   AS 4.1407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 12627
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19750
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:12627
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19750
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:19307
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 11469
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:11469
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 489.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:489.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 11469
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:11469
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 11113
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:11113
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:4.1407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40060
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40060
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 13191
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:13191
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5060
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5060
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4366
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4366
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 19307
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:19307
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 13191
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:13191
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 12599
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:12599
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-1237
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-2924
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5060
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5060
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-1237
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-2924
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   PCM 2367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   PCM:2367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1031
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1031
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM 137
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM:137
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-767
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:767
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:AS:4.1407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:1237
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:2924
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces exfoliatus</scientificName>
+</pathogen>

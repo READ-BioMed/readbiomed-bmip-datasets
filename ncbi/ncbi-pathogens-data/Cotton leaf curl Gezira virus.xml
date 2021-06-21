@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2792513</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Okra/Jordan-J10-27]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2792512</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Okra/Jordan-J3-17 ]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2792511</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Okra/Jordan-J2-4]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313350</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Gezira virus [Egypt:Cairo:2010]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf curl Gezira virus-[Egypt:Cairo:2010]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863578</id>
+        <scientificName>Cotton leaf curl Gezira virus-[okra/Tanzania]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>756757</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Hollyhock/Jordan]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>679314</id>
+        <scientificName>Cotton leaf curl Gezira virus-[okra:BFA]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>627501</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Cameroon]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>502871</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Gezira virus-[Niger:Okra]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Gezira virus-[Okra/Niger]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf curl Gezira virus-[okra:Niger]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>454129</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Gezira virus - Mali[Mali:Bamako:okra:2006]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Okra leaf curl Mali virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269096</id>
+        <scientificName>Hollyhock leaf crumple virus - [Cairo2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268964</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Gezira virus - [Okra-Shambat]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf curl Gezira virus-[Okra/Shambat]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222463</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Sida]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222462</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Okra/Gezira]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222461</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Okra/Egypt]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>12086146</GeneBankPMID>
+        <id>222460</id>
+        <scientificName>Cotton leaf curl Gezira virus-[Cotton]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>7305810</PMCID>
+    <PMCID>7085495</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6842478</PMCID>
+    <PMCID>6451280</PMCID>
+    <PMCID>5727119</PMCID>
+    <PMCID>5624494</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5355441</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>4872795</PMCID>
+    <PMCID>4776191</PMCID>
+    <PMCID>4250495</PMCID>
+    <PMCID>4036549</PMCID>
+    <PMCID>3970147</PMCID>
+    <PMCID>3917440</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3328289</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3224789</PMCID>
+    <PMCID>3102712</PMCID>
+    <PMCID>2839976</PMCID>
+    <PMCID>6640326</PMCID>
+    <GeneBankPMID>21637815</GeneBankPMID>
+    <id>222459</id>
+    <scientificName>Cotton leaf curl Gezira virus</scientificName>
+</pathogen>

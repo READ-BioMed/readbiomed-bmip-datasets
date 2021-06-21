@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>12919731</GeneBankPMID>
+        <id>211787</id>
+        <scientificName>Human papillomavirus type 92</scientificName>
+    </subSpecies>
+    <id>334208</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 92
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - cand92
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 92
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Betapapillomavirus 4</scientificName>
+</pathogen>

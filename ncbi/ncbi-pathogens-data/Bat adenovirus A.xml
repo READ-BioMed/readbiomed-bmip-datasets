@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4074940</PMCID>
+        <GeneBankPMID>20089640</GeneBankPMID>
+        <id>727977</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bat adenovirus TJF
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bat adenovirus TJM</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6631154</PMCID>
+    <PMCID>6345744</PMCID>
+    <PMCID>6116233</PMCID>
+    <PMCID>6018157</PMCID>
+    <PMCID>5744146</PMCID>
+    <PMCID>5215340</PMCID>
+    <PMCID>4074940</PMCID>
+    <PMCID>3264355</PMCID>
+    <id>1146877</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bat adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bat adenovirus A</scientificName>
+</pathogen>

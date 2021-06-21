@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1032477</id>
+        <scientificName>Sida golden mosaic virus - whitefly VEM Citra Florida</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>587624</id>
+        <scientificName>Sida golden mosaic virus - Florida [Phaseolus]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>414526</id>
+        <scientificName>Sida golden mosaic virus Jamaica</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>361737</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sida golden mosaic virus-[Malvastrum isolate]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sida golden mosaic virus - [Malvastrum isolate]</scientificName>
+    </subSpecies>
+    <PMCID>7996905</PMCID>
+    <PMCID>4249065</PMCID>
+    <PMCID>3784915</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3416813</PMCID>
+    <PMCID>3081322</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>110531</PMCID>
+    <id>51034</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sida golden mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Sida golden mosaic virus</scientificName>
+</pathogen>

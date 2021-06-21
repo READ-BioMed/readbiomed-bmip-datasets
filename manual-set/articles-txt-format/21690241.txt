@@ -1,0 +1,17 @@
+
+The poly-γ-D-glutamic acid capsule of Bacillus anthracis enhances lethal toxin activity.
+
+The poly-γ-D-glutamic acid (PGA) capsule is one of the major virulence factors of Bacillus anthracis, which causes a highly lethal infectious disease. 
+The PGA capsule disguises B. anthracis from immune surveillance and allows its unimpeded growth in the host. 
+The PGA capsule recently was reported to be associated with lethal toxin (LT) in the blood of experimentally infected animals (M. 
+H. 
+Cho, et al., Infect. 
+Immun. 78:387-392, 2010). 
+The effect of PGA, either alone or in combination with LT, on macrophages, which play an important role in the progression of anthrax disease, has not been thoroughly investigated. 
+In this study, we investigated the effect of PGA on LT cytotoxicity using the mouse macrophage cell line J774A.1. 
+PGA produced a concentration-dependent enhancement of the cytotoxicity of LT on J774A.1 cells through an enhancement in the binding and accumulation of protective antigen to its receptors. 
+The increase of LT activity was confirmed using Western blot analysis, which showed that the combination of PGA and LT produced a greater degree of degradation of mitogen-activated protein kinase kinases and an increased level of the activation of the proform of caspase-1 to its processed form compared to the effects of LT alone. 
+In addition, mice that received a tail vein injection of both PGA and LT had a significantly increased rate of death compared to that of mice injected with LT alone. 
+PGA had no effect when added to cultures or administered to mice in the absence of LT. 
+These results emphasize the importance of PGA in the pathogenesis of anthrax infection.
+

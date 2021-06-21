@@ -1,0 +1,13 @@
+
+Integrated SERS-Based Microdroplet Platform for the Automated Immunoassay of F1 Antigens in Yersinia pestis.
+
+The development of surface-enhanced Raman scattering (SERS)-based microfluidic platforms has attracted significant recent attention in the biological sciences. 
+SERS is a highly sensitive detection modality, with microfluidic platforms providing many advantages over microscale methods, including high analytical throughput, facile automation, and reduced sample requirements. 
+Accordingly, the integration of SERS with microfluidic platforms offers significant utility in chemical and biological experimentation. 
+Herein, we report a fully integrated SERS-based microdroplet platform for the automatic immunoassay of specific antigen fraction 1 (F1) in Yersinia pestis. 
+Specifically, highly efficient and rapid immunoreactions are achieved through sequential droplet generation, transport, and merging, while wash-free immunodetection is realized through droplet-splitting. 
+Such integration affords a novel multifunctional platform capable of performing complex multistep immunoassays in nL-volume droplets. 
+The limit of detection of the F1 antigen for Yersinia pestis using the integrated SERS-based microdroplet platform is 59.6 pg/mL, a value approximately 2 orders of magnitude more sensitive than conventional enzyme-linked immunosorbent assays. 
+This assay system has additional advantages including reduced sample consumption (less than 100 μL), rapid assay times (less than 10 min), and fully automated fluid control. 
+We anticipate that this integrated SERS-based microdroplet device will provide new insights in the development of facile assay platforms for various hazardous materials.
+

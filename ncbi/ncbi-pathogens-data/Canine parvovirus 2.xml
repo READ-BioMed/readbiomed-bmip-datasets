@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7810815</PMCID>
+        <PMCID>7223230</PMCID>
+        <PMCID>6829998</PMCID>
+        <PMCID>5591469</PMCID>
+        <PMCID>4795697</PMCID>
+        <id>568986</id>
+        <scientificName>Canine parvovirus 2b</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7811793</PMCID>
+        <PMCID>7430366</PMCID>
+        <PMCID>7149534</PMCID>
+        <id>544789</id>
+        <scientificName>Canine parvovirus 2c</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6829998</PMCID>
+        <PMCID>6739549</PMCID>
+        <PMCID>5904411</PMCID>
+        <PMCID>4795697</PMCID>
+        <PMCID>3818428</PMCID>
+        <id>497961</id>
+        <scientificName>Canine parvovirus 2a</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>59284</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CANINE PARVOVIRUS (STRAIN B)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine parvovirus strain B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10791</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine parvovirus (STRAIN N)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine parvovirus strain N</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10790</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine parvovirus (STRAIN CPV-D CORNELL 320)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine parvovirus strain CPV-D CORNELL 320</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10789</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine parvovirus (STRAIN 780929)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine parvovirus strain 780929</scientificName>
+    </subSpecies>
+    <PMCID>8025432</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>7895312</PMCID>
+    <PMCID>7729692</PMCID>
+    <PMCID>7166845</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>7152455</PMCID>
+    <PMCID>7149553</PMCID>
+    <PMCID>7119530</PMCID>
+    <PMCID>7114942</PMCID>
+    <PMCID>7081494</PMCID>
+    <PMCID>7088697</PMCID>
+    <PMCID>7661784</PMCID>
+    <PMCID>7332235</PMCID>
+    <PMCID>7306396</PMCID>
+    <PMCID>7270207</PMCID>
+    <PMCID>7228315</PMCID>
+    <PMCID>7161403</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7148634</PMCID>
+    <PMCID>7127419</PMCID>
+    <PMCID>7117162</PMCID>
+    <PMCID>7087227</PMCID>
+    <PMCID>6971383</PMCID>
+    <PMCID>6739549</PMCID>
+    <PMCID>6857037</PMCID>
+    <PMCID>6563200</PMCID>
+    <PMCID>6337814</PMCID>
+    <PMCID>6261901</PMCID>
+    <PMCID>6111946</PMCID>
+    <PMCID>6002733</PMCID>
+    <PMCID>5904411</PMCID>
+    <PMCID>5938446</PMCID>
+    <PMCID>5856200</PMCID>
+    <PMCID>5877851</PMCID>
+    <PMCID>5877847</PMCID>
+    <PMCID>5684217</PMCID>
+    <PMCID>5674863</PMCID>
+    <PMCID>5558738</PMCID>
+    <PMCID>5264587</PMCID>
+    <PMCID>4932751</PMCID>
+    <PMCID>4617543</PMCID>
+    <PMCID>4562665</PMCID>
+    <PMCID>4300749</PMCID>
+    <PMCID>4139836</PMCID>
+    <PMCID>3944821</PMCID>
+    <PMCID>4188178</PMCID>
+    <PMCID>3897641</PMCID>
+    <PMCID>3846929</PMCID>
+    <PMCID>3503119</PMCID>
+    <PMCID>3768885</PMCID>
+    <PMCID>3264339</PMCID>
+    <PMCID>3255849</PMCID>
+    <PMCID>3352364</PMCID>
+    <PMCID>3217050</PMCID>
+    <PMCID>3550768</PMCID>
+    <PMCID>2937742</PMCID>
+    <PMCID>3086253</PMCID>
+    <PMCID>2891977</PMCID>
+    <PMCID>1325096</PMCID>
+    <PMCID>155078</PMCID>
+    <PMCID>96110</PMCID>
+    <id>246878</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine parvovirus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Canine parvovirus 2</scientificName>
+</pathogen>

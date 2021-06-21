@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5107571</PMCID>
+        <PMCID>4831475</PMCID>
+        <PMCID>3755882</PMCID>
+        <id>278992</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces ambofaciens str. ATCC 23877
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces ambofaciens strain ATCC 23877
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Streptomyces ambofaciens ATCC 23877</scientificName>
+    </subSpecies>
+    <PMCID>8161019</PMCID>
+    <PMCID>8150546</PMCID>
+    <PMCID>8144104</PMCID>
+    <PMCID>8143475</PMCID>
+    <PMCID>8040282</PMCID>
+    <PMCID>7983949</PMCID>
+    <PMCID>7841765</PMCID>
+    <PMCID>7828015</PMCID>
+    <PMCID>7817352</PMCID>
+    <PMCID>7936300</PMCID>
+    <PMCID>7642069</PMCID>
+    <PMCID>7652997</PMCID>
+    <PMCID>7601869</PMCID>
+    <PMCID>7492732</PMCID>
+    <PMCID>7460540</PMCID>
+    <PMCID>7396648</PMCID>
+    <PMCID>7375171</PMCID>
+    <PMCID>7351256</PMCID>
+    <PMCID>7369989</PMCID>
+    <PMCID>7343708</PMCID>
+    <PMCID>7311520</PMCID>
+    <PMCID>7327026</PMCID>
+    <PMCID>7296167</PMCID>
+    <PMCID>7347517</PMCID>
+    <PMCID>7356834</PMCID>
+    <PMCID>7277575</PMCID>
+    <PMCID>7278167</PMCID>
+    <PMCID>7142297</PMCID>
+    <PMCID>7286424</PMCID>
+    <PMCID>7101270</PMCID>
+    <PMCID>7105598</PMCID>
+    <PMCID>7253389</PMCID>
+    <PMCID>7169405</PMCID>
+    <PMCID>6974644</PMCID>
+    <PMCID>6811527</PMCID>
+    <PMCID>6835768</PMCID>
+    <PMCID>6963833</PMCID>
+    <PMCID>6593493</PMCID>
+    <PMCID>6617194</PMCID>
+    <PMCID>6509861</PMCID>
+    <PMCID>6560455</PMCID>
+    <PMCID>6774760</PMCID>
+    <PMCID>6425556</PMCID>
+    <PMCID>6999378</PMCID>
+    <PMCID>6680616</PMCID>
+    <PMCID>6379999</PMCID>
+    <PMCID>6379672</PMCID>
+    <PMCID>6260466</PMCID>
+    <PMCID>6215055</PMCID>
+    <PMCID>6864206</PMCID>
+    <PMCID>6256703</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6058180</PMCID>
+    <PMCID>6057502</PMCID>
+    <PMCID>6340160</PMCID>
+    <PMCID>6999544</PMCID>
+    <PMCID>5940873</PMCID>
+    <PMCID>5939072</PMCID>
+    <PMCID>5869714</PMCID>
+    <PMCID>6130790</PMCID>
+    <PMCID>5869120</PMCID>
+    <PMCID>5797532</PMCID>
+    <PMCID>6329604</PMCID>
+    <PMCID>5884252</PMCID>
+    <PMCID>5825375</PMCID>
+    <PMCID>5742849</PMCID>
+    <PMCID>7151763</PMCID>
+    <PMCID>6045372</PMCID>
+    <PMCID>5681882</PMCID>
+    <PMCID>5883857</PMCID>
+    <PMCID>5664650</PMCID>
+    <PMCID>5712612</PMCID>
+    <PMCID>5771827</PMCID>
+    <PMCID>5737476</PMCID>
+    <PMCID>5606533</PMCID>
+    <PMCID>5522933</PMCID>
+    <PMCID>5427115</PMCID>
+    <PMCID>5333409</PMCID>
+    <PMCID>6296574</PMCID>
+    <PMCID>5498114</PMCID>
+    <PMCID>5373568</PMCID>
+    <PMCID>5216682</PMCID>
+    <PMCID>5177626</PMCID>
+    <PMCID>5187497</PMCID>
+    <PMCID>5124664</PMCID>
+    <PMCID>5107571</PMCID>
+    <PMCID>5031334</PMCID>
+    <PMCID>5179280</PMCID>
+    <PMCID>4891641</PMCID>
+    <PMCID>5975829</PMCID>
+    <PMCID>4849082</PMCID>
+    <PMCID>4831475</PMCID>
+    <PMCID>5010777</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4599437</PMCID>
+    <PMCID>4629343</PMCID>
+    <PMCID>4589764</PMCID>
+    <PMCID>4585818</PMCID>
+    <PMCID>4646404</PMCID>
+    <PMCID>4572928</PMCID>
+    <PMCID>6331918</PMCID>
+    <PMCID>4757526</PMCID>
+    <PMCID>4506494</PMCID>
+    <PMCID>4499154</PMCID>
+    <PMCID>4393426</PMCID>
+    <PMCID>4249514</PMCID>
+    <PMCID>4353338</PMCID>
+    <PMCID>4178676</PMCID>
+    <PMCID>4171686</PMCID>
+    <PMCID>4097579</PMCID>
+    <PMCID>4047045</PMCID>
+    <PMCID>4018334</PMCID>
+    <PMCID>3992017</PMCID>
+    <PMCID>4101813</PMCID>
+    <PMCID>3992020</PMCID>
+    <PMCID>3909215</PMCID>
+    <PMCID>3911114</PMCID>
+    <PMCID>3927463</PMCID>
+    <PMCID>3913187</PMCID>
+    <PMCID>3946952</PMCID>
+    <PMCID>3811609</PMCID>
+    <PMCID>3719765</PMCID>
+    <PMCID>4634941</PMCID>
+    <PMCID>3671524</PMCID>
+    <PMCID>3755882</PMCID>
+    <PMCID>3623137</PMCID>
+    <PMCID>5452324</PMCID>
+    <PMCID>3591988</PMCID>
+    <PMCID>3617294</PMCID>
+    <PMCID>3610266</PMCID>
+    <PMCID>3536200</PMCID>
+    <PMCID>3520106</PMCID>
+    <PMCID>3536979</PMCID>
+    <PMCID>3466318</PMCID>
+    <PMCID>3430259</PMCID>
+    <PMCID>3302616</PMCID>
+    <PMCID>3364876</PMCID>
+    <PMCID>3294458</PMCID>
+    <PMCID>3289957</PMCID>
+    <PMCID>3269738</PMCID>
+    <PMCID>4036034</PMCID>
+    <PMCID>3218068</PMCID>
+    <PMCID>3288161</PMCID>
+    <PMCID>3183031</PMCID>
+    <PMCID>3153929</PMCID>
+    <PMCID>3148500</PMCID>
+    <PMCID>3209910</PMCID>
+    <PMCID>3556457</PMCID>
+    <PMCID>3146451</PMCID>
+    <PMCID>6264563</PMCID>
+    <PMCID>3076887</PMCID>
+    <PMCID>3063769</PMCID>
+    <PMCID>6259636</PMCID>
+    <PMCID>3056787</PMCID>
+    <PMCID>3818867</PMCID>
+    <PMCID>3818861</PMCID>
+    <PMCID>3818857</PMCID>
+    <PMCID>4833758</PMCID>
+    <PMCID>3067597</PMCID>
+    <PMCID>2963817</PMCID>
+    <PMCID>2939310</PMCID>
+    <PMCID>2953699</PMCID>
+    <PMCID>2953024</PMCID>
+    <PMCID>2963348</PMCID>
+    <PMCID>2930742</PMCID>
+    <PMCID>2897453</PMCID>
+    <PMCID>2897285</PMCID>
+    <PMCID>2893494</PMCID>
+    <PMCID>2888486</PMCID>
+    <PMCID>2876496</PMCID>
+    <PMCID>2869129</PMCID>
+    <PMCID>2849233</PMCID>
+    <PMCID>2784482</PMCID>
+    <PMCID>3026452</PMCID>
+    <PMCID>2786537</PMCID>
+    <PMCID>2788895</PMCID>
+    <PMCID>2694998</PMCID>
+    <PMCID>2715719</PMCID>
+    <PMCID>2774760</PMCID>
+    <PMCID>3815755</PMCID>
+    <PMCID>2667750</PMCID>
+    <PMCID>2663221</PMCID>
+    <PMCID>2639381</PMCID>
+    <PMCID>3086045</PMCID>
+    <PMCID>2614427</PMCID>
+    <PMCID>2568937</PMCID>
+    <PMCID>2592862</PMCID>
+    <PMCID>3258855</PMCID>
+    <PMCID>2566197</PMCID>
+    <PMCID>2440964</PMCID>
+    <PMCID>2415749</PMCID>
+    <PMCID>2415747</PMCID>
+    <PMCID>2387273</PMCID>
+    <PMCID>2396628</PMCID>
+    <PMCID>2395053</PMCID>
+    <PMCID>2395044</PMCID>
+    <PMCID>2347384</PMCID>
+    <PMCID>2258576</PMCID>
+    <PMCID>2168647</PMCID>
+    <PMCID>2140096</PMCID>
+    <PMCID>2515277</PMCID>
+    <PMCID>1899397</PMCID>
+    <PMCID>1803119</PMCID>
+    <PMCID>1595491</PMCID>
+    <PMCID>1594589</PMCID>
+    <PMCID>1563522</PMCID>
+    <PMCID>1489304</PMCID>
+    <PMCID>2881644</PMCID>
+    <PMCID>1195420</PMCID>
+    <PMCID>1168676</PMCID>
+    <PMCID>1140374</PMCID>
+    <PMCID>1065233</PMCID>
+    <PMCID>549225</PMCID>
+    <PMCID>525210</PMCID>
+    <PMCID>522083</PMCID>
+    <PMCID>490935</PMCID>
+    <PMCID>478514</PMCID>
+    <PMCID>8147684</PMCID>
+    <PMCID>415753</PMCID>
+    <PMCID>423284</PMCID>
+    <PMCID>387814</PMCID>
+    <PMCID>400760</PMCID>
+    <PMCID>344421</PMCID>
+    <PMCID>321545</PMCID>
+    <PMCID>310192</PMCID>
+    <PMCID>152487</PMCID>
+    <PMCID>196017</PMCID>
+    <PMCID>142817</PMCID>
+    <PMCID>141165</PMCID>
+    <PMCID>152451</PMCID>
+    <PMCID>152450</PMCID>
+    <PMCID>134931</PMCID>
+    <PMCID>123845</PMCID>
+    <PMCID>93144</PMCID>
+    <PMCID>93060</PMCID>
+    <PMCID>95329</PMCID>
+    <PMCID>95328</PMCID>
+    <PMCID>88986</PMCID>
+    <PMCID>99645</PMCID>
+    <PMCID>99626</PMCID>
+    <PMCID>55702</PMCID>
+    <PMCID>92810</PMCID>
+    <PMCID>95104</PMCID>
+    <PMCID>94950</PMCID>
+    <PMCID>90232</PMCID>
+    <PMCID>138892</PMCID>
+    <PMCID>90211</PMCID>
+    <PMCID>92170</PMCID>
+    <PMCID>90022</PMCID>
+    <PMCID>316786</PMCID>
+    <PMCID>94586</PMCID>
+    <PMCID>110581</PMCID>
+    <PMCID>94522</PMCID>
+    <PMCID>111311</PMCID>
+    <PMCID>94408</PMCID>
+    <PMCID>58866</PMCID>
+    <PMCID>89572</PMCID>
+    <PMCID>94147</PMCID>
+    <PMCID>103644</PMCID>
+    <PMCID>103624</PMCID>
+    <PMCID>94091</PMCID>
+    <PMCID>94051</PMCID>
+    <PMCID>93918</PMCID>
+    <PMCID>91403</PMCID>
+    <PMCID>96457</PMCID>
+    <PMCID>103534</PMCID>
+    <PMCID>93421</PMCID>
+    <PMCID>24367</PMCID>
+    <PMCID>107606</PMCID>
+    <PMCID>105906</PMCID>
+    <PMCID>107476</PMCID>
+    <PMCID>106764</PMCID>
+    <PMCID>106736</PMCID>
+    <PMCID>107393</PMCID>
+    <PMCID>107804</PMCID>
+    <PMCID>20407</PMCID>
+    <PMCID>107240</PMCID>
+    <PMCID>106929</PMCID>
+    <PMCID>106860</PMCID>
+    <PMCID>179291</PMCID>
+    <PMCID>3188426</PMCID>
+    <PMCID>201981</PMCID>
+    <PMCID>196831</PMCID>
+    <PMCID>284672</PMCID>
+    <PMCID>206609</PMCID>
+    <PMCID>208276</PMCID>
+    <PMCID>208074</PMCID>
+    <PMCID>182971</PMCID>
+    <PMCID>185005</PMCID>
+    <PMCID>213357</PMCID>
+    <PMCID>400899</PMCID>
+    <PMCID>209604</PMCID>
+    <PMCID>209547</PMCID>
+    <PMCID>454269</PMCID>
+    <PMCID>219096</PMCID>
+    <PMCID>232940</PMCID>
+    <GeneBankPMID>2657820</GeneBankPMID>
+    <GeneBankPMID>7934842</GeneBankPMID>
+    <GeneBankPMID>8029324</GeneBankPMID>
+    <GeneBankPMID>8559072</GeneBankPMID>
+    <GeneBankPMID>8366038</GeneBankPMID>
+    <GeneBankPMID>2721504</GeneBankPMID>
+    <GeneBankPMID>9620953</GeneBankPMID>
+    <id>1889</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces ambofaciens Pinnert-Sindico 1954
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces ambofaciens Pinnert-Sindico 1954 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 23877
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:23877
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 11857
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:11857
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 616.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:616.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 11857
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:11857
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT 3101
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT:3101
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 12836
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:12836
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4204
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4618
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4204
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4618
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 9111
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:9111
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 12836
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:12836
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL 2420
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-2516
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:2420
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-2516
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1115
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1115
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:2516
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces ambofaciens</scientificName>
+</pathogen>

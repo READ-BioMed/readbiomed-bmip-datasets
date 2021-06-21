@@ -1,0 +1,10 @@
+
+Plastic enzyme-linked immunosorbent assays (ELISA)-on-a-chip biosensor for botulinum neurotoxin A.
+
+A plastic ELISA-on-a-chip (EOC) employing the concept of cross-flow immuno-chromatographic analysis was applied to the measurement of botulinum neurotoxin A (BoNT/A) as agent for bio-terrorism. 
+Two monoclonal antibodies specific to the heavy chain of the toxin were raised and identified to form sandwich binding complexes as the pair with the analyte. 
+For the construction of an immuno-strip, one was utilized as the capture antibody immobilized onto nitrocellulose membrane and the other as the detection coupled to an enzyme, horseradish peroxidase. 
+The two plates of EOC used in this study were fabricated by injection molding of polycarbonate to improve the reproducibility of manufacture and, after inclusion of the immuno-strip, bonded using a UV-sensitive adhesive. 
+Under optimal conditions of analysis, the chip produced a color signal in proportion to the analyte dose and the signal was quantified using a detector equipped with a digital camera. 
+From the dose-response curve, the detection limit of BoNT/A was 2.0 ng mL(-1), approximately five times more sensitive than a commercial-version detection kit employing colloidal gold tracer.
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1131262</id>
+        <scientificName>Mungbean yellow mosaic India virus Indonesia</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>407833</id>
+        <scientificName>Mungbean yellow mosaic India virus - [India:Varanasi:Dolichos:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>346671</id>
+        <scientificName>Mungbean yellow mosaic India virus-[Bogra]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269102</id>
+        <scientificName>Mungbean yellow mosaic India virus - [Mungbean Pakistan]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269101</id>
+        <scientificName>Mungbean yellow mosaic India virus - [Nepal]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269100</id>
+        <scientificName>Mungbean yellow mosaic India virus - [Cowpea Pakistan]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269099</id>
+        <scientificName>Mungbean yellow mosaic India virus - [Akola]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223292</id>
+        <scientificName>Mungbean yellow mosaic India virus-[SoybeanTN]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223291</id>
+        <scientificName>Mungbean yellow mosaic India virus-[Soybean]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223290</id>
+        <scientificName>Mungbean yellow mosaic India virus-[Mungbean]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223289</id>
+        <scientificName>Mungbean yellow mosaic India virus-[Cowpea]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223288</id>
+        <scientificName>Mungbean yellow mosaic India virus-[Bangladesh]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6213642</PMCID>
+        <PMCID>5657823</PMCID>
+        <id>88774</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Indian mungbean yellow mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Indian mungbean yellow mosaic virus</scientificName>
+    </subSpecies>
+    <PMCID>7802970</PMCID>
+    <PMCID>7757248</PMCID>
+    <PMCID>7363689</PMCID>
+    <PMCID>7766089</PMCID>
+    <PMCID>7113345</PMCID>
+    <PMCID>7291442</PMCID>
+    <PMCID>7120842</PMCID>
+    <PMCID>7114155</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6842478</PMCID>
+    <PMCID>6864324</PMCID>
+    <PMCID>6842968</PMCID>
+    <PMCID>6829579</PMCID>
+    <PMCID>6702661</PMCID>
+    <PMCID>6401443</PMCID>
+    <PMCID>6517469</PMCID>
+    <PMCID>6387395</PMCID>
+    <PMCID>6697862</PMCID>
+    <PMCID>6308375</PMCID>
+    <PMCID>6305603</PMCID>
+    <PMCID>6638021</PMCID>
+    <PMCID>6122796</PMCID>
+    <PMCID>6146709</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>5877856</PMCID>
+    <PMCID>5659608</PMCID>
+    <PMCID>5618022</PMCID>
+    <PMCID>5445968</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5102983</PMCID>
+    <PMCID>5048074</PMCID>
+    <PMCID>4778624</PMCID>
+    <PMCID>4585057</PMCID>
+    <PMCID>4401676</PMCID>
+    <PMCID>4395324</PMCID>
+    <PMCID>4370823</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>3917440</PMCID>
+    <PMCID>3784907</PMCID>
+    <PMCID>6638761</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3705308</PMCID>
+    <PMCID>3509663</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3407900</PMCID>
+    <PMCID>3144222</PMCID>
+    <PMCID>3550711</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>3550775</PMCID>
+    <PMCID>3550763</PMCID>
+    <PMCID>2937820</PMCID>
+    <PMCID>6640424</PMCID>
+    <PMCID>2761890</PMCID>
+    <PMCID>2522301</PMCID>
+    <PMCID>2577285</PMCID>
+    <PMCID>1143740</PMCID>
+    <GeneBankPMID>24442717</GeneBankPMID>
+    <GeneBankPMID>17949843</GeneBankPMID>
+    <GeneBankPMID>11562548</GeneBankPMID>
+    <GeneBankPMID>22173984</GeneBankPMID>
+    <GeneBankPMID>26433748</GeneBankPMID>
+    <GeneBankPMID>23575883</GeneBankPMID>
+    <GeneBankPMID>23242774</GeneBankPMID>
+    <GeneBankPMID>22171001</GeneBankPMID>
+    <id>223287</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Legume yellow mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mungbean yellow mosaic Indian virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mungbean yellow mosaic India virus</scientificName>
+</pathogen>

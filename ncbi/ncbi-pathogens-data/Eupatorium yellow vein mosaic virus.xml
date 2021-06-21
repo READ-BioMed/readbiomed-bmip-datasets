@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>12712190</GeneBankPMID>
+        <id>335404</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Eupatorium yellow vein mosaic virus - [SOJ3]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Eupatorium yellow vein virus-[SOJ3]</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <id>186637</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  EpYVV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Eupatorium-infecting geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Eupatorium yellow vein mosaic virus</scientificName>
+</pathogen>

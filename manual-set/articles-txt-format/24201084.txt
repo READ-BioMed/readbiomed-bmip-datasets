@@ -1,0 +1,11 @@
+
+Lactobacillus fermentum CJL-112 protects mice against influenza virus infection by activating T-helper 1 and eliciting a protective immune response.
+
+We have previously reported that nasally administered Lactobacillus fermentum CJL-112 (CJL-112) efficiently improves resistance against lethal influenza infection in both mice and chicken. 
+The aim of the present study was to understand the underlying mechanisms of the significant anti-influenza activity of this lactobacilli strain. 
+In vitro, co-culturing of the chicken macrophage cell line HD-11 with CJL-112 significantly increased nitric oxide (NO) production. 
+In vivo, CJL-112 was nasally administered to BALB/c mice for 21 days prior to influenza A/NWS/33 (H1N1) virus (IFV) infection. 
+Significant up-regulation of T-helper 1 (Th1) cytokines (IL-2, IFN-γ) was observed, while the levels of T-helper 2 (Th2) cytokines (IL-4, IL-5, IL-10) was either reduced or unchanged than that in control mice were. 
+Furthermore, IgA and specific anti-influenza IgA levels increased significantly in the treated mice than those in untreated mice. 
+Therefore, CJL-112 likely protects the mice against lethal IFV infection via stimulation of macrophages, activation of Th1 and augmentation of IgA production, when directly delivered into the respiratory tract.
+

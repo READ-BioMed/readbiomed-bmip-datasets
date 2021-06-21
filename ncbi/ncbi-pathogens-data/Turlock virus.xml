@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6843640</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6489427</PMCID>
+        <PMCID>6478630</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6701456</PMCID>
+        <PMCID>6070890</PMCID>
+        <PMCID>6225508</PMCID>
+        <PMCID>5858458</PMCID>
+        <PMCID>5644294</PMCID>
+        <PMCID>4828890</PMCID>
+        <PMCID>4664991</PMCID>
+        <PMCID>2870593</PMCID>
+        <id>2656737</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Lednice orthobunyavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Lednice virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7922539</PMCID>
+        <PMCID>7258463</PMCID>
+        <PMCID>6843640</PMCID>
+        <PMCID>6783978</PMCID>
+        <PMCID>6537736</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6702691</PMCID>
+        <PMCID>6676836</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6382863</PMCID>
+        <PMCID>6701456</PMCID>
+        <PMCID>5644294</PMCID>
+        <PMCID>4664991</PMCID>
+        <PMCID>3165765</PMCID>
+        <PMCID>2586634</PMCID>
+        <GeneBankPMID>26610546</GeneBankPMID>
+        <id>552554</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  UMBV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Umbre orthobunyavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Umbre virus</scientificName>
+    </subSpecies>
+    <PMCID>7922539</PMCID>
+    <PMCID>6843640</PMCID>
+    <PMCID>6783978</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>7011695</PMCID>
+    <PMCID>6225508</PMCID>
+    <PMCID>4944691</PMCID>
+    <PMCID>4257653</PMCID>
+    <PMCID>2586634</PMCID>
+    <id>35320</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Turlock bunyavirus goup
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Turlock bunyavirus group
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Turlock serogroup
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Turlock virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Turlock virus</scientificName>
+</pathogen>

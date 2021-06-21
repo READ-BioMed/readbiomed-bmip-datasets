@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>191031</id>
+        <scientificName>Barley yellow dwarf virus PAV-Ill</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31724</id>
+        <scientificName>Barley yellow dwarf virus (ISOLATE P-PAV)</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7028687</PMCID>
+    <PMCID>6713929</PMCID>
+    <PMCID>6125401</PMCID>
+    <PMCID>5978399</PMCID>
+    <PMCID>5592212</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>4521826</PMCID>
+    <PMCID>4422679</PMCID>
+    <PMCID>4874343</PMCID>
+    <PMCID>6638794</PMCID>
+    <PMCID>3719023</PMCID>
+    <PMCID>3708502</PMCID>
+    <PMCID>3488013</PMCID>
+    <PMCID>6638836</PMCID>
+    <PMCID>2973933</PMCID>
+    <PMCID>2905845</PMCID>
+    <PMCID>2583970</PMCID>
+    <PMCID>2246048</PMCID>
+    <PMCID>2999427</PMCID>
+    <PMCID>1413584</PMCID>
+    <GeneBankPMID>3399386</GeneBankPMID>
+    <GeneBankPMID>28994713</GeneBankPMID>
+    <id>2169986</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus (ISOLATE PAV)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus - PAV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus-PAV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Barley yellow dwarf virus-PAV</scientificName>
+</pathogen>

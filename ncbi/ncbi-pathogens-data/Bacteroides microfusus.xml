@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5905147</PMCID>
+        <id>880526</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Rikenella microfusus ATCC 29728
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rikenella microfusus JCM 2053
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Rikenella microfusus str. DSM 15922
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rikenella microfusus strain DSM 15922
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rikenella microfusus DSM 15922</scientificName>
+    </subSpecies>
+    <PMCID>8087775</PMCID>
+    <PMCID>7864912</PMCID>
+    <PMCID>7913110</PMCID>
+    <PMCID>7828790</PMCID>
+    <PMCID>7465372</PMCID>
+    <PMCID>7054774</PMCID>
+    <PMCID>6064930</PMCID>
+    <PMCID>5905147</PMCID>
+    <PMCID>5802913</PMCID>
+    <PMCID>5608340</PMCID>
+    <PMCID>5167729</PMCID>
+    <PMCID>5328713</PMCID>
+    <PMCID>5072832</PMCID>
+    <PMCID>4579435</PMCID>
+    <PMCID>4466528</PMCID>
+    <PMCID>4811647</PMCID>
+    <PMCID>4029005</PMCID>
+    <PMCID>3889845</PMCID>
+    <PMCID>3739176</PMCID>
+    <PMCID>3639104</PMCID>
+    <PMCID>3679229</PMCID>
+    <PMCID>3210952</PMCID>
+    <PMCID>3069634</PMCID>
+    <PMCID>3020562</PMCID>
+    <PMCID>1828818</PMCID>
+    <PMCID>1489327</PMCID>
+    <PMCID>129894</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>126585</PMCID>
+    <PMCID>91647</PMCID>
+    <PMCID>84805</PMCID>
+    <id>28139</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides microfusus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides microfusus Kaneuchi and Mitsuoka 1978 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rikenella microfusus (Kaneuchi and Mitsuoka 1978) Collins et al. 1985 emend. Hahnke et al. 2016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 54772
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:54772
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 15922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:15922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 2053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:2053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11190
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11190
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rikenella microfusa
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides microfusus</scientificName>
+</pathogen>

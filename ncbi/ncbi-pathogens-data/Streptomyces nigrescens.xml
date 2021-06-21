@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7327026</PMCID>
+    <PMCID>7143880</PMCID>
+    <PMCID>7037264</PMCID>
+    <PMCID>6746918</PMCID>
+    <PMCID>6204239</PMCID>
+    <PMCID>5979581</PMCID>
+    <PMCID>6296576</PMCID>
+    <PMCID>6105521</PMCID>
+    <PMCID>5555300</PMCID>
+    <PMCID>7080157</PMCID>
+    <PMCID>2952067</PMCID>
+    <PMCID>2687304</PMCID>
+    <PMCID>2577918</PMCID>
+    <PMCID>2197174</PMCID>
+    <PMCID>1133944</PMCID>
+    <PMCID>332545</PMCID>
+    <id>1920</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces nigrescens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces ruanii
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC008
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces nigrescens" Sveshnikova in Gauze et al. 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces ruanii Kumar and Goodfellow 2008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40276
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40276
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5276
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5276
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces nigrescens</scientificName>
+</pathogen>

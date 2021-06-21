@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2023345</id>
+        <scientificName>Cotton leaf curl Multan virus - Pakistan</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313351</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Multan virus [Pakistan:Faisalabad:2007]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf curl Multan virus-[Pakistan:Faisalabad:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1143709</id>
+        <scientificName>Cotton leaf curl Multan virus-[Hibiscus rosa-sinensis]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1143695</id>
+        <scientificName>Cotton leaf curl Multan virus-[Hibiscus]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>511443</id>
+        <scientificName>Cotton leaf curl Multan virus CR-recombinant</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>509531</id>
+        <scientificName>Gossypium darwinii symptomless virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>352887</id>
+        <scientificName>Cotton leaf curl Multan virus - [Bhatinda :05]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>352886</id>
+        <scientificName>Cotton leaf curl Multan virus - [Ludhiana:04]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>352885</id>
+        <scientificName>Cotton leaf curl Multan virus - [Delhi:04]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>352883</id>
+        <scientificName>Cotton leaf curl Multan virus - [Hissar:04]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>259535</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Multan virus - [Faisalabad1]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf curl Multan virus-[Faisalabad1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223258</id>
+        <scientificName>Cotton leaf curl Multan virus-[Okra]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223257</id>
+        <scientificName>Cotton leaf curl Multan virus-[Multan]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223256</id>
+        <scientificName>Cotton leaf curl Multan virus-[Faisalabad3]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223255</id>
+        <scientificName>Cotton leaf curl Multan virus-[Faisalabad2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223254</id>
+        <scientificName>Cotton leaf curl Multan virus-[62]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223253</id>
+        <scientificName>Cotton leaf curl Multan virus-[26]</scientificName>
+    </subSpecies>
+    <PMCID>7912986</PMCID>
+    <PMCID>7874048</PMCID>
+    <PMCID>7714154</PMCID>
+    <PMCID>7702697</PMCID>
+    <PMCID>7696030</PMCID>
+    <PMCID>7461331</PMCID>
+    <PMCID>7318802</PMCID>
+    <PMCID>7305810</PMCID>
+    <PMCID>7248346</PMCID>
+    <PMCID>7150927</PMCID>
+    <PMCID>7085495</PMCID>
+    <PMCID>7561520</PMCID>
+    <PMCID>7396689</PMCID>
+    <PMCID>7215500</PMCID>
+    <PMCID>7186577</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>7150760</PMCID>
+    <PMCID>7145496</PMCID>
+    <PMCID>7145463</PMCID>
+    <PMCID>7055206</PMCID>
+    <PMCID>6890265</PMCID>
+    <PMCID>6823909</PMCID>
+    <PMCID>6842623</PMCID>
+    <PMCID>6777476</PMCID>
+    <PMCID>7004920</PMCID>
+    <PMCID>6703867</PMCID>
+    <PMCID>6972624</PMCID>
+    <PMCID>6715616</PMCID>
+    <PMCID>6642529</PMCID>
+    <PMCID>6589721</PMCID>
+    <PMCID>6582559</PMCID>
+    <PMCID>6571856</PMCID>
+    <PMCID>6514154</PMCID>
+    <PMCID>6499421</PMCID>
+    <PMCID>6530645</PMCID>
+    <PMCID>6451280</PMCID>
+    <PMCID>6407081</PMCID>
+    <PMCID>6401443</PMCID>
+    <PMCID>6394340</PMCID>
+    <PMCID>6181178</PMCID>
+    <PMCID>5871769</PMCID>
+    <PMCID>5796946</PMCID>
+    <PMCID>6517462</PMCID>
+    <PMCID>5755781</PMCID>
+    <PMCID>5744040</PMCID>
+    <PMCID>5727119</PMCID>
+    <PMCID>5698292</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5618022</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5429635</PMCID>
+    <PMCID>5425365</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>5362266</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5604577</PMCID>
+    <PMCID>5102983</PMCID>
+    <PMCID>5586037</PMCID>
+    <PMCID>4972823</PMCID>
+    <PMCID>4912122</PMCID>
+    <PMCID>4877078</PMCID>
+    <PMCID>4828465</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4872795</PMCID>
+    <PMCID>4755674</PMCID>
+    <PMCID>4690014</PMCID>
+    <PMCID>4596356</PMCID>
+    <PMCID>4584297</PMCID>
+    <PMCID>4566980</PMCID>
+    <PMCID>4370823</PMCID>
+    <PMCID>4439401</PMCID>
+    <PMCID>4359554</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>4250495</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3917440</PMCID>
+    <PMCID>3798893</PMCID>
+    <PMCID>3784899</PMCID>
+    <PMCID>3648162</PMCID>
+    <PMCID>3824786</PMCID>
+    <PMCID>3545858</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3440231</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3267694</PMCID>
+    <PMCID>3213157</PMCID>
+    <PMCID>3125359</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>3072929</PMCID>
+    <PMCID>3315792</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>3769790</PMCID>
+    <PMCID>2922188</PMCID>
+    <PMCID>6640282</PMCID>
+    <PMCID>2725476</PMCID>
+    <PMCID>2268320</PMCID>
+    <PMCID>1182626</PMCID>
+    <PMCID>533896</PMCID>
+    <GeneBankPMID>9568988</GeneBankPMID>
+    <id>223252</id>
+    <scientificName>Cotton leaf curl Multan virus</scientificName>
+</pathogen>

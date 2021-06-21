@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7825769</PMCID>
+    <PMCID>7164596</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6901505</PMCID>
+    <PMCID>6857012</PMCID>
+    <PMCID>6380010</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>6189341</PMCID>
+    <PMCID>6399083</PMCID>
+    <PMCID>6071243</PMCID>
+    <PMCID>6042439</PMCID>
+    <PMCID>6060314</PMCID>
+    <PMCID>5658569</PMCID>
+    <PMCID>4858006</PMCID>
+    <PMCID>3511884</PMCID>
+    <PMCID>3122702</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>25767243</GeneBankPMID>
+    <id>10371</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  EHV-5
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  EHV5
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Equid herpesvirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equid herpesvirus type 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpesvirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus 5 EHV-5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus 5 EHV5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equid herpesvirus 5</scientificName>
+</pathogen>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>268781</id>
+        <scientificName>Sugarcane streak virus - [Natal]</scientificName>
+    </subSpecies>
+    <PMCID>7721539</PMCID>
+    <PMCID>5534050</PMCID>
+    <PMCID>4111361</PMCID>
+    <PMCID>4054350</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>2777162</PMCID>
+    <PMCID>6640477</PMCID>
+    <PMCID>2630985</PMCID>
+    <id>10836</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SSV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  sugarcane streak virus SSV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Sugarcane streak virus</scientificName>
+</pathogen>

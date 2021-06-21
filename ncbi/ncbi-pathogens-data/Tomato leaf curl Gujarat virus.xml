@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1397676</id>
+        <scientificName>Tomato leaf curl Gujarat virus-[India:Valsad:2012]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1397675</id>
+        <scientificName>Tomato leaf curl Gujarat virus-[India:Surat:2012]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>866534</id>
+        <scientificName>Tomato leaf curl Gujarat virus-[Pune:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>540029</id>
+        <scientificName>Tomato leaf curl Gujarat virus - [Dhanbad]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269306</id>
+        <scientificName>Tomato leaf curl Gujarat virus - [Varanasi]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269305</id>
+        <scientificName>Tomato leaf curl Gujarat virus - [Nepal]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>220931</id>
+        <scientificName>Tomato leaf curl Gujarat virus-[Kelloo]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>220930</id>
+        <scientificName>Tomato leaf curl Gujarat virus-[Vadodara]</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>6745573</PMCID>
+    <PMCID>6589721</PMCID>
+    <PMCID>6547011</PMCID>
+    <PMCID>6656839</PMCID>
+    <PMCID>5940619</PMCID>
+    <PMCID>6019014</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>5086600</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>6638473</PMCID>
+    <PMCID>3650187</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3550806</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>3120783</PMCID>
+    <PMCID>3061938</PMCID>
+    <PMCID>3550711</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>2170441</PMCID>
+    <GeneBankPMID>18943612</GeneBankPMID>
+    <GeneBankPMID>29432546</GeneBankPMID>
+    <GeneBankPMID>24728710</GeneBankPMID>
+    <id>219299</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Tomato leaf curl Gujrat virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl Gujarat virus</scientificName>
+</pathogen>

@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>653045</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces violaceusniger str. Tu 4113
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces violaceusniger strain Tu 4113
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces violaceusniger Tu 4133
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Streptomyces violaceusniger Tu 4113</scientificName>
+    </subSpecies>
+    <PMCID>8137480</PMCID>
+    <PMCID>7987185</PMCID>
+    <PMCID>7835276</PMCID>
+    <PMCID>7862724</PMCID>
+    <PMCID>7751431</PMCID>
+    <PMCID>7744762</PMCID>
+    <PMCID>7644825</PMCID>
+    <PMCID>7559819</PMCID>
+    <PMCID>7474392</PMCID>
+    <PMCID>7369989</PMCID>
+    <PMCID>7539972</PMCID>
+    <PMCID>7347517</PMCID>
+    <PMCID>7256010</PMCID>
+    <PMCID>7277169</PMCID>
+    <PMCID>7253389</PMCID>
+    <PMCID>6994688</PMCID>
+    <PMCID>6864768</PMCID>
+    <PMCID>6760012</PMCID>
+    <PMCID>6691879</PMCID>
+    <PMCID>6677756</PMCID>
+    <PMCID>6624652</PMCID>
+    <PMCID>6636559</PMCID>
+    <PMCID>6784220</PMCID>
+    <PMCID>6375851</PMCID>
+    <PMCID>6222997</PMCID>
+    <PMCID>6092505</PMCID>
+    <PMCID>6100237</PMCID>
+    <PMCID>6130790</PMCID>
+    <PMCID>5776099</PMCID>
+    <PMCID>5765640</PMCID>
+    <PMCID>6324189</PMCID>
+    <PMCID>5725476</PMCID>
+    <PMCID>5704753</PMCID>
+    <PMCID>5597762</PMCID>
+    <PMCID>6434083</PMCID>
+    <PMCID>5477393</PMCID>
+    <PMCID>5534343</PMCID>
+    <PMCID>5371071</PMCID>
+    <PMCID>6155704</PMCID>
+    <PMCID>5216682</PMCID>
+    <PMCID>5315673</PMCID>
+    <PMCID>5082578</PMCID>
+    <PMCID>5640789</PMCID>
+    <PMCID>4909769</PMCID>
+    <PMCID>6273383</PMCID>
+    <PMCID>4795671</PMCID>
+    <PMCID>4791117</PMCID>
+    <PMCID>5640691</PMCID>
+    <PMCID>4742410</PMCID>
+    <PMCID>4697097</PMCID>
+    <PMCID>4698589</PMCID>
+    <PMCID>4737276</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4771212</PMCID>
+    <PMCID>4624724</PMCID>
+    <PMCID>4580463</PMCID>
+    <PMCID>4572681</PMCID>
+    <PMCID>4409333</PMCID>
+    <PMCID>4424323</PMCID>
+    <PMCID>4288862</PMCID>
+    <PMCID>4280004</PMCID>
+    <PMCID>5762245</PMCID>
+    <PMCID>4241558</PMCID>
+    <PMCID>4263863</PMCID>
+    <PMCID>4187667</PMCID>
+    <PMCID>4239600</PMCID>
+    <PMCID>5645021</PMCID>
+    <PMCID>4100511</PMCID>
+    <PMCID>4229319</PMCID>
+    <PMCID>4135771</PMCID>
+    <PMCID>4102860</PMCID>
+    <PMCID>4097579</PMCID>
+    <PMCID>4044012</PMCID>
+    <PMCID>4018856</PMCID>
+    <PMCID>4058006</PMCID>
+    <PMCID>4082789</PMCID>
+    <PMCID>4016899</PMCID>
+    <PMCID>3927463</PMCID>
+    <PMCID>3881020</PMCID>
+    <PMCID>3870968</PMCID>
+    <PMCID>3764139</PMCID>
+    <PMCID>3825294</PMCID>
+    <PMCID>3726674</PMCID>
+    <PMCID>3715669</PMCID>
+    <PMCID>3670865</PMCID>
+    <PMCID>3599690</PMCID>
+    <PMCID>3568707</PMCID>
+    <PMCID>3612335</PMCID>
+    <PMCID>3603443</PMCID>
+    <PMCID>3510588</PMCID>
+    <PMCID>3532527</PMCID>
+    <PMCID>3532121</PMCID>
+    <PMCID>3460631</PMCID>
+    <PMCID>3460372</PMCID>
+    <PMCID>3462128</PMCID>
+    <PMCID>3326630</PMCID>
+    <PMCID>3298124</PMCID>
+    <PMCID>3272990</PMCID>
+    <PMCID>3298741</PMCID>
+    <PMCID>3154406</PMCID>
+    <PMCID>5938088</PMCID>
+    <PMCID>3126441</PMCID>
+    <PMCID>3154076</PMCID>
+    <PMCID>3089512</PMCID>
+    <PMCID>2950280</PMCID>
+    <PMCID>2849207</PMCID>
+    <PMCID>2797434</PMCID>
+    <PMCID>2699437</PMCID>
+    <PMCID>2666887</PMCID>
+    <PMCID>2556053</PMCID>
+    <PMCID>2504894</PMCID>
+    <PMCID>93082</PMCID>
+    <PMCID>99005</PMCID>
+    <PMCID>106395</PMCID>
+    <PMCID>338710</PMCID>
+    <id>68280</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  "Streptomyces violaceo-niger" (Waksman and Curtis 1916) Waksman and Henrici 1948
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Actinomyces violaceus-niger
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces violaceoniger
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces violaceus-niger
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. DSM 4137
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces violaceiniger
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces violaceus-niger" (sic) Waksman and Curtis 1916
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces violaceoniger (sic) (Waksman and Curtis 1916) Pridham et al. 1958
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces violaceusniger (Waksman and Curtis 1916) Pridham et al. 1958 (Approved Lists 1980) emend. Labeda and Lyons 1991
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   AS 4.1423
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27477
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27477
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:19336
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 760.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:760.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:4.1423
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 13459
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:13459
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4850
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4850
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 19336
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:19336
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 13459
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:13459
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-1476
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-1476
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B:1476
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1420
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1420
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-583
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac-583
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:583
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:AS:4.1423
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces violaceusniger</scientificName>
+</pathogen>

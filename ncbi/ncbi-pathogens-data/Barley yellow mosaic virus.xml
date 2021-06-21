@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>652104</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow mosaic virus (isolate Yancheng)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Barley yellow mosaic virus isolate Yancheng</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31729</id>
+        <scientificName>Barley yellow mosaic virus (Japanese strain II-1)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31728</id>
+        <scientificName>Barley yellow mosaic virus (German isolate)</scientificName>
+    </subSpecies>
+    <PMCID>7925471</PMCID>
+    <PMCID>7903322</PMCID>
+    <PMCID>7878938</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7747998</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7536791</PMCID>
+    <PMCID>7372029</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>7123681</PMCID>
+    <PMCID>7020447</PMCID>
+    <PMCID>6640214</PMCID>
+    <PMCID>6125401</PMCID>
+    <PMCID>5967125</PMCID>
+    <PMCID>5705140</PMCID>
+    <PMCID>5772912</PMCID>
+    <PMCID>5797945</PMCID>
+    <PMCID>5344889</PMCID>
+    <PMCID>5452134</PMCID>
+    <PMCID>5216350</PMCID>
+    <PMCID>5263206</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>5023674</PMCID>
+    <PMCID>4973933</PMCID>
+    <PMCID>4944287</PMCID>
+    <PMCID>5061699</PMCID>
+    <PMCID>4558997</PMCID>
+    <PMCID>6638913</PMCID>
+    <PMCID>3926060</PMCID>
+    <PMCID>6638641</PMCID>
+    <PMCID>3025909</PMCID>
+    <PMCID>6640240</PMCID>
+    <PMCID>6640373</PMCID>
+    <PMCID>6640375</PMCID>
+    <PMCID>2493313</PMCID>
+    <PMCID>1851841</PMCID>
+    <PMCID>150618</PMCID>
+    <PMCID>127521</PMCID>
+    <GeneBankPMID>25543966</GeneBankPMID>
+    <GeneBankPMID>22429621</GeneBankPMID>
+    <GeneBankPMID>10500279</GeneBankPMID>
+    <id>12465</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BaYMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  barley yellow mosaic virus, BaYMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Barley yellow mosaic virus</scientificName>
+</pathogen>

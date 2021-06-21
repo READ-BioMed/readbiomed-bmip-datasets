@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>670426</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Psittacid herpesvirus 1 (isolate Amazon parrot/1997)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Psittacid herpesvirus 1 Amazon parrot/1997</scientificName>
+    </subSpecies>
+    <PMCID>7427429</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6787236</PMCID>
+    <PMCID>6727120</PMCID>
+    <PMCID>5916966</PMCID>
+    <PMCID>5960778</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5640867</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4526542</PMCID>
+    <PMCID>4280340</PMCID>
+    <PMCID>3622571</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3577509</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>4310701</PMCID>
+    <PMCID>3079670</PMCID>
+    <PMCID>2921407</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2770495</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>2045495</PMCID>
+    <PMCID>2756229</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1563825</PMCID>
+    <PMCID>1395385</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>1176014</PMCID>
+    <GeneBankPMID>16873243</GeneBankPMID>
+    <id>50294</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  PsHV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Pacheco's disease virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Psittacid herpesvirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Psittacid herpesvirus 1</scientificName>
+</pathogen>

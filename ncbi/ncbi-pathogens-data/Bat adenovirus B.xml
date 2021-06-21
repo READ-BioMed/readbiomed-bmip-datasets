@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>8016945</PMCID>
+        <PMCID>7096189</PMCID>
+        <PMCID>5744146</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4371215</PMCID>
+        <PMCID>4147689</PMCID>
+        <GeneBankPMID>22130531</GeneBankPMID>
+        <id>696069</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BtAdV-2 strain PPV1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bat adenovirus PPV1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bat adenovirus 2</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6631154</PMCID>
+    <PMCID>6116233</PMCID>
+    <PMCID>5744146</PMCID>
+    <PMCID>5215340</PMCID>
+    <PMCID>3264355</PMCID>
+    <id>1146874</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bat adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bat adenovirus B</scientificName>
+</pathogen>

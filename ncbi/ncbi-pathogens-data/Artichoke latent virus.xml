@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7086986</PMCID>
+        <PMCID>7086627</PMCID>
+        <id>341113</id>
+        <scientificName>Ranunculus latent virus</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7086986</PMCID>
+    <PMCID>6173849</PMCID>
+    <PMCID>5797945</PMCID>
+    <PMCID>4050035</PMCID>
+    <GeneBankPMID>25760520</GeneBankPMID>
+    <id>46076</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Artichoke latent potyvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Artichoke latent virus</scientificName>
+</pathogen>

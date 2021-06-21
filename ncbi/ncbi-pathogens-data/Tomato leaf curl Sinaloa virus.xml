@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7215500</PMCID>
+    <PMCID>7084362</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>4174809</PMCID>
+    <PMCID>2074955</PMCID>
+    <PMCID>110531</PMCID>
+    <GeneBankPMID>15789265</GeneBankPMID>
+    <id>71186</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  STLCV
+ &lt;/GenbankAcronym&gt; 
+ &lt;Includes&gt;
+  Tomato leaf curl Sinaloa virus - [Nicaragua :Santa Lucia]
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Sinaloa tomato leaf curl geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Sinaloa tomato leaf curl virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl Sinaloa virus</scientificName>
+</pathogen>

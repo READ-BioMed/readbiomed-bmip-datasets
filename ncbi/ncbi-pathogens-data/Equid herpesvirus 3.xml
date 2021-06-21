@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7856744</PMCID>
+    <PMCID>6901505</PMCID>
+    <PMCID>6857012</PMCID>
+    <PMCID>6412908</PMCID>
+    <PMCID>4183863</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>25278519</GeneBankPMID>
+    <id>80341</id>
+    <meSHTree>B04.280.382.100.900.435</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  EHV-3
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Equid herpesvirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine coital exanthema virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpesvirus 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equid herpesvirus 3</scientificName>
+</pathogen>

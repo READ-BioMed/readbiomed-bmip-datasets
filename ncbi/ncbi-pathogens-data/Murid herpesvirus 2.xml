@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6328144</PMCID>
+        <PMCID>4023972</PMCID>
+        <GeneBankPMID>8757999</GeneBankPMID>
+        <GeneBankPMID>10906222</GeneBankPMID>
+        <GeneBankPMID>11018281</GeneBankPMID>
+        <GeneBankPMID>10623772</GeneBankPMID>
+        <GeneBankPMID>9367384</GeneBankPMID>
+        <GeneBankPMID>8764031</GeneBankPMID>
+        <GeneBankPMID>9657952</GeneBankPMID>
+        <GeneBankPMID>23825126</GeneBankPMID>
+        <GeneBankPMID>10573166</GeneBankPMID>
+        <GeneBankPMID>10438809</GeneBankPMID>
+        <GeneBankPMID>9499096</GeneBankPMID>
+        <id>79700</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Rat cytomegalovirus (strain Maastricht)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rat cytomegalovirus Maastricht</scientificName>
+    </subSpecies>
+    <PMCID>7214618</PMCID>
+    <PMCID>7153344</PMCID>
+    <PMCID>7150769</PMCID>
+    <PMCID>7149456</PMCID>
+    <PMCID>7022795</PMCID>
+    <PMCID>6328144</PMCID>
+    <PMCID>6305766</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>4966896</PMCID>
+    <PMCID>4023972</PMCID>
+    <PMCID>3754017</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3577509</PMCID>
+    <PMCID>3503139</PMCID>
+    <PMCID>3486311</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>4515451</PMCID>
+    <PMCID>3333181</PMCID>
+    <PMCID>3079670</PMCID>
+    <PMCID>2998288</PMCID>
+    <PMCID>3028876</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2923853</PMCID>
+    <PMCID>2854865</PMCID>
+    <PMCID>2804612</PMCID>
+    <PMCID>2779260</PMCID>
+    <PMCID>2749604</PMCID>
+    <PMCID>2636769</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2583440</PMCID>
+    <PMCID>2650475</PMCID>
+    <PMCID>2699259</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>1988864</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1951306</PMCID>
+    <PMCID>1866122</PMCID>
+    <PMCID>2676329</PMCID>
+    <PMCID>1500997</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>224975</PMCID>
+    <PMCID>140920</PMCID>
+    <PMCID>114912</PMCID>
+    <PMCID>110914</PMCID>
+    <PMCID>112289</PMCID>
+    <PMCID>112936</PMCID>
+    <PMCID>112549</PMCID>
+    <PMCID>110259</PMCID>
+    <PMCID>1904813</PMCID>
+    <PMCID>187642</PMCID>
+    <GeneBankPMID>22915808</GeneBankPMID>
+    <GeneBankPMID>20980502</GeneBankPMID>
+    <GeneBankPMID>30032349</GeneBankPMID>
+    <GeneBankPMID>21471232</GeneBankPMID>
+    <GeneBankPMID>19923265</GeneBankPMID>
+    <id>28304</id>
+    <meSHTree>B04.280.382.150.500</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  Rat cytomegalovirus
+ &lt;/GenbankCommonName&gt; 
+ &lt;EquivalentName&gt;
+  Murid herpesvirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Murid herpesvirus 2</scientificName>
+</pathogen>

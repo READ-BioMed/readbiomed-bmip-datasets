@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1503286</id>
+        <scientificName>BtMf-AlphaCoV/HuB2013</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1503283</id>
+        <scientificName>BtMf-AlphaCoV/HeN2013</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1503280</id>
+        <scientificName>BtMf-AlphaCoV/GD2012</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1503279</id>
+        <scientificName>BtMf-AlphaCoV/FJ2012</scientificName>
+    </subSpecies>
+    <PMCID>7808868</PMCID>
+    <PMCID>7789067</PMCID>
+    <PMCID>7290700</PMCID>
+    <PMCID>7149967</PMCID>
+    <PMCID>7126491</PMCID>
+    <PMCID>7120312</PMCID>
+    <PMCID>7124098</PMCID>
+    <PMCID>7107822</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7086772</PMCID>
+    <PMCID>7418743</PMCID>
+    <PMCID>7157439</PMCID>
+    <PMCID>7149743</PMCID>
+    <PMCID>7114869</PMCID>
+    <PMCID>7113851</PMCID>
+    <PMCID>7087777</PMCID>
+    <PMCID>6992374</PMCID>
+    <PMCID>6390631</PMCID>
+    <PMCID>6296008</PMCID>
+    <PMCID>3509437</PMCID>
+    <PMCID>3397359</PMCID>
+    <PMCID>3407358</PMCID>
+    <PMCID>3265309</PMCID>
+    <PMCID>3185738</PMCID>
+    <GeneBankPMID>18420807</GeneBankPMID>
+    <id>694001</id>
+    <meSHTree>B04.820.578.500.540.150.075</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bat coronavirus HKU8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Miniopterus bat coronavirus HKU8</scientificName>
+</pathogen>

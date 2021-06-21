@@ -1,0 +1,3 @@
+
+Correlation between national influenza surveillance data and google trends in South Korea.
+

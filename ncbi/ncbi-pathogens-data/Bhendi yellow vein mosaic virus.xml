@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1848025</id>
+        <scientificName>Bhendi yellow vein mosaic virus (India)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1088665</id>
+        <scientificName>Bhendi yellow vein mosiac virus (Tumkur:2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1088664</id>
+        <scientificName>Bhendi yellow vein mosaic virus (Pandarahalli:2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1088663</id>
+        <scientificName>Bhendi yellow vein mosaic virus (Karnal:2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908115</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Varanasi:OY36:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908114</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Tirupathi:OY99:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908113</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Sonipat:OY93:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908112</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Sonipat:OY83:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908111</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Sonipat OY92B:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908110</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Sonipat EL13:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908109</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Raichur:OY59:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908108</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Raichur:OY56:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908107</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Raichur:OY54B:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908106</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Raichur:OY54A:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908105</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Raichur:OY49:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908104</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Phalaghat:OY138A:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908103</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Phalaghat:OY07:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908102</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Phalaghat:OY014:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908101</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Pandarahalli:OY173:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908100</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Pandarahalli:OY167:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908099</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:New Delhi:OY134:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908098</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Kerala:OYG6AG:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908097</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Karnal:OY80B:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908096</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Karnal:OY79A:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908095</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Kaivara:OYKaivara:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908094</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Kaivara:OYKaivara1:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908093</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Guntur OY112:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908092</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Delhi:OY133:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908091</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Coimbator:OYCO4:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908090</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Chintamani:OYCHINT:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908089</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Chelur:OYCN6:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908088</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Bhemarayanagudi:OY45:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908087</id>
+        <scientificName>Bhendi yellow vein mosaic virus [India:Bangalore:OY34:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>611725</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bhendi yellow vein mosaic virus[2005:Pandaralli:India]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bhendi yellow vein mosaic virus [2005:Pandaralli:India]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>611724</id>
+        <scientificName>Bhendi yellow vein mosaic virus [2005:Thadagan:India]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>478090</id>
+        <scientificName>Bhendi yellow vein mosaic virus - [Barrackpore]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>346668</id>
+        <scientificName>Bhendi yellow vein mosaic virus-[Joydebpur]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223300</id>
+        <scientificName>Okra yellow vein mosaic virus-[201]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221524</id>
+        <scientificName>Bhendi yellow vein mosaic virus-[301]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221523</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bhendi yellow vein mosaic virus-Madurai
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bhendi yellow vein mosaic virus-[Madurai]</scientificName>
+    </subSpecies>
+    <PMCID>7806619</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6917692</PMCID>
+    <PMCID>6823909</PMCID>
+    <PMCID>6589721</PMCID>
+    <PMCID>6571856</PMCID>
+    <PMCID>6369502</PMCID>
+    <PMCID>6089456</PMCID>
+    <PMCID>6517466</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>6517462</PMCID>
+    <PMCID>5744040</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5603454</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5355441</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>4877078</PMCID>
+    <PMCID>4872795</PMCID>
+    <PMCID>4566980</PMCID>
+    <PMCID>4250495</PMCID>
+    <PMCID>3784899</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3824786</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3550815</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3002923</PMCID>
+    <PMCID>2816314</PMCID>
+    <PMCID>2666655</PMCID>
+    <PMCID>1182626</PMCID>
+    <PMCID>533896</PMCID>
+    <GeneBankPMID>12573576</GeneBankPMID>
+    <GeneBankPMID>24122068</GeneBankPMID>
+    <GeneBankPMID>22357749</GeneBankPMID>
+    <GeneBankPMID>16934356</GeneBankPMID>
+    <id>120168</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BYVMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Bhindi Yellow Vein Mosaic Virus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bhendi yellow vein mosiac virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bhendi yellow vein mosaic virus</scientificName>
+</pathogen>

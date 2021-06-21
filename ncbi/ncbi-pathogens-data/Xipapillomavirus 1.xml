@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>2777992</id>
+            <scientificName>Bos taurus papillomavirus 29</scientificName>
+        </subSpecies>
+        <id>2777991</id>
+        <scientificName>unclassified Xipapillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2758958</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus 04AC14
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 23</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1969700</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 15
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus Aks-02
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 15</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>714200</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 11
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 11
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus-11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>508418</id>
+            <scientificName>Bovine papillomavirus BAA5-Japan</scientificName>
+        </subSpecies>
+        <PMCID>7810815</PMCID>
+        <GeneBankPMID>18089739</GeneBankPMID>
+        <id>453461</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 10
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 10
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus-10
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>18089739</GeneBankPMID>
+        <id>453460</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 9
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 9
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus-9
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10563</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 6
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  BPV-6
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4023065</PMCID>
+        <PMCID>4229019</PMCID>
+        <PMCID>3772959</PMCID>
+        <PMCID>3638201</PMCID>
+        <PMCID>3768373</PMCID>
+        <PMCID>115909</PMCID>
+        <GeneBankPMID>16168512</GeneBankPMID>
+        <id>10562</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 4
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  BPV-4
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 4</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>7058819</PMCID>
+    <PMCID>7059983</PMCID>
+    <PMCID>5093584</PMCID>
+    <PMCID>5015974</PMCID>
+    <PMCID>4641689</PMCID>
+    <PMCID>2832751</PMCID>
+    <GeneBankPMID>12208979</GeneBankPMID>
+    <id>10561</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BPV-3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Xipapillomavirus 1</scientificName>
+</pathogen>

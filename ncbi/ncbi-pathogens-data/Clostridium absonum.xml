@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8043184</PMCID>
+    <PMCID>7944038</PMCID>
+    <PMCID>7930127</PMCID>
+    <PMCID>7738495</PMCID>
+    <PMCID>7935738</PMCID>
+    <PMCID>7427953</PMCID>
+    <PMCID>7356158</PMCID>
+    <PMCID>7264690</PMCID>
+    <PMCID>7194312</PMCID>
+    <PMCID>7160772</PMCID>
+    <PMCID>7128066</PMCID>
+    <PMCID>7109342</PMCID>
+    <PMCID>6964806</PMCID>
+    <PMCID>7053883</PMCID>
+    <PMCID>6521386</PMCID>
+    <PMCID>6460000</PMCID>
+    <PMCID>6376027</PMCID>
+    <PMCID>6681466</PMCID>
+    <PMCID>5954621</PMCID>
+    <PMCID>5827811</PMCID>
+    <PMCID>5733095</PMCID>
+    <PMCID>5402301</PMCID>
+    <PMCID>5428802</PMCID>
+    <PMCID>5127136</PMCID>
+    <PMCID>5041547</PMCID>
+    <PMCID>5018162</PMCID>
+    <PMCID>5053940</PMCID>
+    <PMCID>4785404</PMCID>
+    <PMCID>4856454</PMCID>
+    <PMCID>4702626</PMCID>
+    <PMCID>4589460</PMCID>
+    <PMCID>4470395</PMCID>
+    <PMCID>4441150</PMCID>
+    <PMCID>4408007</PMCID>
+    <PMCID>4629220</PMCID>
+    <PMCID>3910813</PMCID>
+    <PMCID>3901851</PMCID>
+    <PMCID>3837799</PMCID>
+    <PMCID>3793610</PMCID>
+    <PMCID>3538718</PMCID>
+    <PMCID>3319588</PMCID>
+    <PMCID>3195671</PMCID>
+    <PMCID>3195036</PMCID>
+    <PMCID>3134244</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>2822771</PMCID>
+    <PMCID>3917546</PMCID>
+    <PMCID>2275164</PMCID>
+    <PMCID>1934363</PMCID>
+    <PMCID>1317188</PMCID>
+    <PMCID>1169009</PMCID>
+    <PMCID>101487</PMCID>
+    <PMCID>91470</PMCID>
+    <PMCID>203446</PMCID>
+    <PMCID>414757</PMCID>
+    <id>29369</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium absonum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium sardiniensis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium absonum Nakamura et al. 1973
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium sardiniense corrig. Prevot 1938
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27555
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33455
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27555
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33455
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104302
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104302
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 2632
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 599
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:2632
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:599
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1381
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1381
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10984
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10984
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 2971
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:2971
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium absonum</scientificName>
+</pathogen>

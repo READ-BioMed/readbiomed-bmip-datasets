@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1169120</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya leaf curl virus-[ J. integerrima]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya leaf curl virus-[Jatropha integerrima]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1143698</id>
+        <scientificName>Papaya leaf curl virus-[soybean: Lucknow]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036272</id>
+        <scientificName>Papaya leaf curl virus-Panipat 6 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>655359</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya leaf curl virus[India:Pratapgarh3:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya leaf curl virus [India:Pratapgarh3:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>655358</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya leaf curl virus[India:Pratapgarh2:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya leaf curl virus [India:Pratapgarh2:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>655357</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya leaf curl virus[India:Pratapgarh1:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya leaf curl virus [India:Pratapgarh1:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>407836</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Chili leaf curl virus - [India:PRM:2005]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Chilli leaf curl virus - [India:PRM:2005]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus - PRM
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya leaf curl virus [India:New Delhi:tomato:2005]</scientificName>
+    </subSpecies>
+    <PMCID>7248346</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6117872</PMCID>
+    <PMCID>6517466</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>5940619</PMCID>
+    <PMCID>5727119</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5429635</PMCID>
+    <PMCID>5425365</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4877078</PMCID>
+    <PMCID>4872795</PMCID>
+    <PMCID>6638530</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>4213569</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3550815</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3166278</PMCID>
+    <PMCID>3072929</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>3002923</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>3550763</PMCID>
+    <PMCID>6640282</PMCID>
+    <id>53260</id>
+    <scientificName>Papaya leaf curl virus</scientificName>
+</pathogen>

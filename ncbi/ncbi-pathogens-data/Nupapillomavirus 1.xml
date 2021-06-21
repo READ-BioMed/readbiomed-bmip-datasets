@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3427170</PMCID>
+        <GeneBankPMID>1645904</GeneBankPMID>
+        <id>10589</id>
+        <scientificName>Human papillomavirus type 41</scientificName>
+    </subSpecies>
+    <PMCID>7704424</PMCID>
+    <PMCID>7086667</PMCID>
+    <id>334205</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 41
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Nupapillomavirus 1</scientificName>
+</pathogen>

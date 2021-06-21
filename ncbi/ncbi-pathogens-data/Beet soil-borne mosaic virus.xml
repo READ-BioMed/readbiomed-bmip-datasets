@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <GeneBankPMID>11811691</GeneBankPMID>
+    <GeneBankPMID>19141358</GeneBankPMID>
+    <id>76343</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BSBMV
+ &lt;/Acronym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   beet soilborne mosaic virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Beet soil-borne mosaic virus</scientificName>
+</pathogen>

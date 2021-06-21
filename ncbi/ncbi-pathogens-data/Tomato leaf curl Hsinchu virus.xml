@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7561520</PMCID>
+        <PMCID>6965624</PMCID>
+        <id>486809</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ramie mosaic begomovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ramie mosaic virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>418143</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ToLCHsV-[TW:THsi:05]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl Hsinchu virus - [Taiwan:Hsinchu:2005]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>3735576</PMCID>
+    <id>399387</id>
+    <scientificName>Tomato leaf curl Hsinchu virus</scientificName>
+</pathogen>

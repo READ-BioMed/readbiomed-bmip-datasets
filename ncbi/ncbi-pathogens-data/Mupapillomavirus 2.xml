@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6423848</PMCID>
+        <PMCID>3427170</PMCID>
+        <GeneBankPMID>8389082</GeneBankPMID>
+        <id>28311</id>
+        <scientificName>Human papillomavirus type 63</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6993575</PMCID>
+    <id>334204</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 63
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 63
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mupapillomavirus 2</scientificName>
+</pathogen>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7841143</PMCID>
+    <PMCID>7459551</PMCID>
+    <PMCID>7150127</PMCID>
+    <PMCID>7459556</PMCID>
+    <PMCID>7427429</PMCID>
+    <PMCID>7150107</PMCID>
+    <PMCID>6837755</PMCID>
+    <PMCID>6787236</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>6351047</PMCID>
+    <PMCID>6103422</PMCID>
+    <PMCID>6103417</PMCID>
+    <PMCID>5640867</PMCID>
+    <PMCID>5538152</PMCID>
+    <PMCID>5878061</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4801651</PMCID>
+    <PMCID>4752038</PMCID>
+    <PMCID>4704193</PMCID>
+    <PMCID>4588720</PMCID>
+    <PMCID>4093879</PMCID>
+    <PMCID>3973481</PMCID>
+    <PMCID>3719823</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3157456</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>4416230</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2694719</PMCID>
+    <PMCID>2703160</PMCID>
+    <PMCID>1346941</PMCID>
+    <PMCID>506927</PMCID>
+    <PMCID>224954</PMCID>
+    <PMCID>377115</PMCID>
+    <GeneBankPMID>23077301</GeneBankPMID>
+    <GeneBankPMID>21130483</GeneBankPMID>
+    <id>10353</id>
+    <meSHTree>B04.280.382.100.750</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Marmoset herpesvirus
+ &lt;/GenbankSynonym&gt; 
+ &lt;Synonym&gt;
+  Saimiriine herpesvirus 1
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Herpesvirus saimiri (type 1 / strain mv-5-4-psl)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Herpesvirus saimiri 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Herpesvirus tamarinus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Squirrel monkey alphaherpesvirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Squirrel monkey herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  herpesvirus M
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   saimirine herpesvirus 1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Saimiriine herpesvirus 1</scientificName>
+</pathogen>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1430896</id>
+        <scientificName>Haemophilus parahaemolyticus G321</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1095744</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Haemophilus parahaemolyticus ATCC 10014
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Haemophilus parahaemolyticus CCUG 3716
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Haemophilus parahaemolyticus CIP 58.86
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Haemophilus parahaemolyticus NCTC 8479
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Haemophilus parahaemolyticus str. HK385
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Haemophilus parahaemolyticus strain HK385
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Haemophilus paraphrohaemolyticus HK385
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Haemophilus parahaemolyticus HK385</scientificName>
+    </subSpecies>
+    <PMCID>7997190</PMCID>
+    <PMCID>7889162</PMCID>
+    <PMCID>7912808</PMCID>
+    <PMCID>7748900</PMCID>
+    <PMCID>7698792</PMCID>
+    <PMCID>7566166</PMCID>
+    <PMCID>7528950</PMCID>
+    <PMCID>7892745</PMCID>
+    <PMCID>7563352</PMCID>
+    <PMCID>7406711</PMCID>
+    <PMCID>7331591</PMCID>
+    <PMCID>7341620</PMCID>
+    <PMCID>7713672</PMCID>
+    <PMCID>7141478</PMCID>
+    <PMCID>7146170</PMCID>
+    <PMCID>7014671</PMCID>
+    <PMCID>6937260</PMCID>
+    <PMCID>7067038</PMCID>
+    <PMCID>6889227</PMCID>
+    <PMCID>6878997</PMCID>
+    <PMCID>6854792</PMCID>
+    <PMCID>6803334</PMCID>
+    <PMCID>6797555</PMCID>
+    <PMCID>6913090</PMCID>
+    <PMCID>6855288</PMCID>
+    <PMCID>6651762</PMCID>
+    <PMCID>6872446</PMCID>
+    <PMCID>6391507</PMCID>
+    <PMCID>6388063</PMCID>
+    <PMCID>6214417</PMCID>
+    <PMCID>6167544</PMCID>
+    <PMCID>6196201</PMCID>
+    <PMCID>6117921</PMCID>
+    <PMCID>6094466</PMCID>
+    <PMCID>5960975</PMCID>
+    <PMCID>5836605</PMCID>
+    <PMCID>5736669</PMCID>
+    <PMCID>5698432</PMCID>
+    <PMCID>5694851</PMCID>
+    <PMCID>5827328</PMCID>
+    <PMCID>5603520</PMCID>
+    <PMCID>5121393</PMCID>
+    <PMCID>5013584</PMCID>
+    <PMCID>5005495</PMCID>
+    <PMCID>6706111</PMCID>
+    <PMCID>4963115</PMCID>
+    <PMCID>4831113</PMCID>
+    <PMCID>4824170</PMCID>
+    <PMCID>4697076</PMCID>
+    <PMCID>6807219</PMCID>
+    <PMCID>4735236</PMCID>
+    <PMCID>4551764</PMCID>
+    <PMCID>4540933</PMCID>
+    <PMCID>4517727</PMCID>
+    <PMCID>4509705</PMCID>
+    <PMCID>4425335</PMCID>
+    <PMCID>4363679</PMCID>
+    <PMCID>4402861</PMCID>
+    <PMCID>4313290</PMCID>
+    <PMCID>4333970</PMCID>
+    <PMCID>4184833</PMCID>
+    <PMCID>4029288</PMCID>
+    <PMCID>4015010</PMCID>
+    <PMCID>3993099</PMCID>
+    <PMCID>3810756</PMCID>
+    <PMCID>3775264</PMCID>
+    <PMCID>3639997</PMCID>
+    <PMCID>3777595</PMCID>
+    <PMCID>3536183</PMCID>
+    <PMCID>3539920</PMCID>
+    <PMCID>3318529</PMCID>
+    <PMCID>3318507</PMCID>
+    <PMCID>3314702</PMCID>
+    <PMCID>3165386</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3105771</PMCID>
+    <PMCID>2965745</PMCID>
+    <PMCID>2725679</PMCID>
+    <PMCID>2668981</PMCID>
+    <PMCID>2168359</PMCID>
+    <PMCID>1868913</PMCID>
+    <PMCID>1177948</PMCID>
+    <PMCID>497632</PMCID>
+    <PMCID>387840</PMCID>
+    <PMCID>137165</PMCID>
+    <PMCID>139662</PMCID>
+    <PMCID>7111224</PMCID>
+    <PMCID>98455</PMCID>
+    <PMCID>88182</PMCID>
+    <PMCID>87852</PMCID>
+    <PMCID>94898</PMCID>
+    <PMCID>87470</PMCID>
+    <PMCID>97389</PMCID>
+    <PMCID>94415</PMCID>
+    <PMCID>97047</PMCID>
+    <PMCID>97001</PMCID>
+    <PMCID>85677</PMCID>
+    <PMCID>105073</PMCID>
+    <PMCID>104596</PMCID>
+    <PMCID>104556</PMCID>
+    <PMCID>124845</PMCID>
+    <PMCID>147021</PMCID>
+    <PMCID>146015</PMCID>
+    <PMCID>268061</PMCID>
+    <PMCID>232845</PMCID>
+    <PMCID>335893</PMCID>
+    <PMCID>477833</PMCID>
+    <id>735</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Haemophilus parahaemolyticus Pittman 1953
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 10014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:10014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 3716
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:3716
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 56.86
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:56.86
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 21417
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:21417
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 8479
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:8479
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::HK385
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain HK385
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Haemophilus parahaemolyticus</scientificName>
+</pathogen>

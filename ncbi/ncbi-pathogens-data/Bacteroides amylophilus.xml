@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8019312</PMCID>
+    <PMCID>7922248</PMCID>
+    <PMCID>7879537</PMCID>
+    <PMCID>7796543</PMCID>
+    <PMCID>7785786</PMCID>
+    <PMCID>7766277</PMCID>
+    <PMCID>7701293</PMCID>
+    <PMCID>7688522</PMCID>
+    <PMCID>7695318</PMCID>
+    <PMCID>7649133</PMCID>
+    <PMCID>7500204</PMCID>
+    <PMCID>7552236</PMCID>
+    <PMCID>7303264</PMCID>
+    <PMCID>7035670</PMCID>
+    <PMCID>7020374</PMCID>
+    <PMCID>7082680</PMCID>
+    <PMCID>6908469</PMCID>
+    <PMCID>6897783</PMCID>
+    <PMCID>6915217</PMCID>
+    <PMCID>6912518</PMCID>
+    <PMCID>6826638</PMCID>
+    <PMCID>6861173</PMCID>
+    <PMCID>6606855</PMCID>
+    <PMCID>6488318</PMCID>
+    <PMCID>6151901</PMCID>
+    <PMCID>6498081</PMCID>
+    <PMCID>6030191</PMCID>
+    <PMCID>6006852</PMCID>
+    <PMCID>5911377</PMCID>
+    <PMCID>5802913</PMCID>
+    <PMCID>5793039</PMCID>
+    <PMCID>6140983</PMCID>
+    <PMCID>6140854</PMCID>
+    <PMCID>5755158</PMCID>
+    <PMCID>5573736</PMCID>
+    <PMCID>5666186</PMCID>
+    <PMCID>5538656</PMCID>
+    <PMCID>5590071</PMCID>
+    <PMCID>5401608</PMCID>
+    <PMCID>5582326</PMCID>
+    <PMCID>5339260</PMCID>
+    <PMCID>5159970</PMCID>
+    <PMCID>5004228</PMCID>
+    <PMCID>4892645</PMCID>
+    <PMCID>4863135</PMCID>
+    <PMCID>4851386</PMCID>
+    <PMCID>4777738</PMCID>
+    <PMCID>4777734</PMCID>
+    <PMCID>4771158</PMCID>
+    <PMCID>4542465</PMCID>
+    <PMCID>4553761</PMCID>
+    <PMCID>4520551</PMCID>
+    <PMCID>4311430</PMCID>
+    <PMCID>4062469</PMCID>
+    <PMCID>4025562</PMCID>
+    <PMCID>4287863</PMCID>
+    <PMCID>4093251</PMCID>
+    <PMCID>3639104</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3502909</PMCID>
+    <PMCID>3514218</PMCID>
+    <PMCID>3396604</PMCID>
+    <PMCID>3302620</PMCID>
+    <PMCID>3303817</PMCID>
+    <PMCID>3161887</PMCID>
+    <PMCID>3165274</PMCID>
+    <PMCID>3142684</PMCID>
+    <PMCID>3019729</PMCID>
+    <PMCID>2950479</PMCID>
+    <PMCID>2831885</PMCID>
+    <PMCID>2786511</PMCID>
+    <PMCID>427855</PMCID>
+    <PMCID>348825</PMCID>
+    <PMCID>169102</PMCID>
+    <PMCID>126777</PMCID>
+    <PMCID>134933</PMCID>
+    <PMCID>92937</PMCID>
+    <PMCID>95108</PMCID>
+    <PMCID>92622</PMCID>
+    <PMCID>91486</PMCID>
+    <PMCID>91459</PMCID>
+    <PMCID>91281</PMCID>
+    <PMCID>106780</PMCID>
+    <PMCID>104801</PMCID>
+    <PMCID>104597</PMCID>
+    <PMCID>167405</PMCID>
+    <PMCID>201486</PMCID>
+    <PMCID>184913</PMCID>
+    <PMCID>202779</PMCID>
+    <PMCID>338232</PMCID>
+    <PMCID>202539</PMCID>
+    <PMCID>203391</PMCID>
+    <PMCID>291569</PMCID>
+    <PMCID>242945</PMCID>
+    <PMCID>235133</PMCID>
+    <PMCID>186892</PMCID>
+    <PMCID>251839</PMCID>
+    <PMCID>285109</PMCID>
+    <PMCID>377146</PMCID>
+    <PMCID>284870</PMCID>
+    <id>867</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides amylophilus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Ruminobacter amylophilum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Ruminobacter amylophilum" (sic) (Hamlin and Hungate 1956) Prevot 1966
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides amylophilus Hamlin and Hungate 1956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Ruminobacter amylophilus (Hamlin and Hungate 1956) Stackebrandt and Hippe 1987
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29744
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29744
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1361
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1361
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides amylophilus</scientificName>
+</pathogen>

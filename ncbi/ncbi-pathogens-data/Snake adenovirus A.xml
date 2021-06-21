@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1147765</id>
+        <scientificName>Snake adenovirus GER09</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>576945</id>
+        <scientificName>Viperid adenovirus Parias/Hungary/2008</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <id>559883</id>
+        <scientificName>Snake adenovirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>4984651</PMCID>
+        <id>559881</id>
+        <scientificName>Snake adenovirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>554450</id>
+        <scientificName>Viperid adenovirus Leipzig/13/2006</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5656758</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>3855724</PMCID>
+        <GeneBankPMID>12237421</GeneBankPMID>
+        <GeneBankPMID>12208985</GeneBankPMID>
+        <id>189830</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SnAdV-1
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Snake adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7173601</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>4451742</PMCID>
+    <id>1146872</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Snake adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Snake adenovirus A</scientificName>
+</pathogen>

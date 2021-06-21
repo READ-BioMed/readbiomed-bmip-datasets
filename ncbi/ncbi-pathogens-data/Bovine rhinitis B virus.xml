@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2758981</id>
+        <scientificName>bovine rhinitis B virus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2758980</id>
+        <scientificName>bovine rhinitis B virus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2758979</id>
+        <scientificName>bovine rhinitis B virus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2758978</id>
+        <scientificName>bovine rhinitis B virus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7999760</PMCID>
+        <GeneBankPMID>18201745</GeneBankPMID>
+        <id>2758977</id>
+        <scientificName>bovine rhinitis B virus 1</scientificName>
+    </subSpecies>
+    <PMCID>7242685</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7019290</PMCID>
+    <PMCID>6957568</PMCID>
+    <PMCID>5383171</PMCID>
+    <PMCID>5772826</PMCID>
+    <PMCID>4854365</PMCID>
+    <PMCID>4442534</PMCID>
+    <PMCID>3931614</PMCID>
+    <PMCID>3302533</PMCID>
+    <id>693066</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine rhinovirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine rhinovirus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine rhinitis B virus</scientificName>
+</pathogen>

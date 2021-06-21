@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>10753723</GeneBankPMID>
+        <id>2772507</id>
+        <scientificName>Oryctolagus cuniculus papillomavirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>3547330</PMCID>
+    <PMCID>3101335</PMCID>
+    <PMCID>3090037</PMCID>
+    <PMCID>2832751</PMCID>
+    <PMCID>110108</PMCID>
+    <id>122291</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ROPV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Rabbit oral papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Kappapapillomavirus 1</scientificName>
+</pathogen>

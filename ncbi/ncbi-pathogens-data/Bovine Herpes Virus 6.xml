@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7842409</PMCID>
+    <PMCID>7738495</PMCID>
+    <PMCID>7694292</PMCID>
+    <PMCID>7357486</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7046558</PMCID>
+    <PMCID>7035244</PMCID>
+    <PMCID>7031906</PMCID>
+    <PMCID>6909001</PMCID>
+    <PMCID>6562385</PMCID>
+    <PMCID>6470328</PMCID>
+    <PMCID>6424909</PMCID>
+    <PMCID>6093571</PMCID>
+    <PMCID>6093563</PMCID>
+    <PMCID>5838334</PMCID>
+    <PMCID>5628298</PMCID>
+    <PMCID>5847071</PMCID>
+    <PMCID>5110516</PMCID>
+    <PMCID>5103373</PMCID>
+    <PMCID>4954948</PMCID>
+    <PMCID>4939924</PMCID>
+    <PMCID>4755961</PMCID>
+    <PMCID>4330959</PMCID>
+    <PMCID>4309707</PMCID>
+    <PMCID>4229327</PMCID>
+    <PMCID>4055558</PMCID>
+    <PMCID>3723558</PMCID>
+    <PMCID>3675914</PMCID>
+    <PMCID>3564627</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3576085</PMCID>
+    <PMCID>3502909</PMCID>
+    <PMCID>3485936</PMCID>
+    <PMCID>3462797</PMCID>
+    <PMCID>3458804</PMCID>
+    <PMCID>3679229</PMCID>
+    <PMCID>3168787</PMCID>
+    <PMCID>3080158</PMCID>
+    <PMCID>2667309</PMCID>
+    <PMCID>2565963</PMCID>
+    <PMCID>2446557</PMCID>
+    <PMCID>1265948</PMCID>
+    <PMCID>544233</PMCID>
+    <PMCID>120791</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>106560</PMCID>
+    <PMCID>106232</PMCID>
+    <PMCID>106345</PMCID>
+    <id>29322</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Cillobacterium cellulosolvens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Eubacterium cellulosolvens
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Cillobacterium cellulosolvens" Bryant et al. 1958
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Eubacterium cellulosolvens (Bryant et al. 1958) Holdeman and Moore 1972 (Approved Lists 1980) emend. van Gylswyk and van der Toorn 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 43171
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:43171
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 9499
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:9499
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::Bryant B348
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::van Gylswyk and Hoffman strain 6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain Bryant B348
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain van Gylswyk and Hoffman strain 6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine Herpes Virus 6</scientificName>
+</pathogen>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>409945</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Passionfruit woodiness potyvirus Pangda15
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Telosma mosaic virus, isolate Pangda15
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Telosma mosaic virus Pangda15</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>409912</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Passionfruit woodiness potyvirus Pangda12
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Telosma mosaic virus Pangda12</scientificName>
+    </subSpecies>
+    <PMCID>7086975</PMCID>
+    <PMCID>7039140</PMCID>
+    <PMCID>6211467</PMCID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <GeneBankPMID>17906831</GeneBankPMID>
+    <id>400394</id>
+    <scientificName>Telosma mosaic virus</scientificName>
+</pathogen>

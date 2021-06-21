@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1415631</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus pasteurii NCIM 2477
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sporosarcina pasteurii NCIM 2477</scientificName>
+    </subSpecies>
+    <PMCID>8069578</PMCID>
+    <PMCID>8060479</PMCID>
+    <PMCID>8012418</PMCID>
+    <PMCID>7969948</PMCID>
+    <PMCID>7881204</PMCID>
+    <PMCID>7916923</PMCID>
+    <PMCID>7872276</PMCID>
+    <PMCID>7872227</PMCID>
+    <PMCID>7916055</PMCID>
+    <PMCID>7868992</PMCID>
+    <PMCID>7968533</PMCID>
+    <PMCID>7801526</PMCID>
+    <PMCID>7825789</PMCID>
+    <PMCID>7788133</PMCID>
+    <PMCID>7795576</PMCID>
+    <PMCID>7775470</PMCID>
+    <PMCID>7823269</PMCID>
+    <PMCID>7759876</PMCID>
+    <PMCID>7729919</PMCID>
+    <PMCID>7727839</PMCID>
+    <PMCID>7664203</PMCID>
+    <PMCID>7575531</PMCID>
+    <PMCID>7594316</PMCID>
+    <PMCID>7527966</PMCID>
+    <PMCID>7560424</PMCID>
+    <PMCID>7569769</PMCID>
+    <PMCID>7564638</PMCID>
+    <PMCID>7433671</PMCID>
+    <PMCID>7423064</PMCID>
+    <PMCID>7435838</PMCID>
+    <PMCID>7442582</PMCID>
+    <PMCID>7408563</PMCID>
+    <PMCID>7327045</PMCID>
+    <PMCID>7355429</PMCID>
+    <PMCID>7311398</PMCID>
+    <PMCID>7309221</PMCID>
+    <PMCID>7315417</PMCID>
+    <PMCID>7264318</PMCID>
+    <PMCID>7244745</PMCID>
+    <PMCID>7174419</PMCID>
+    <PMCID>7082560</PMCID>
+    <PMCID>7318143</PMCID>
+    <PMCID>7184782</PMCID>
+    <PMCID>6979283</PMCID>
+    <PMCID>7203286</PMCID>
+    <PMCID>7023251</PMCID>
+    <PMCID>6947293</PMCID>
+    <PMCID>6892930</PMCID>
+    <PMCID>6942576</PMCID>
+    <PMCID>6895596</PMCID>
+    <PMCID>6894604</PMCID>
+    <PMCID>7015452</PMCID>
+    <PMCID>6789151</PMCID>
+    <PMCID>6792167</PMCID>
+    <PMCID>7026308</PMCID>
+    <PMCID>7055735</PMCID>
+    <PMCID>6687734</PMCID>
+    <PMCID>6678105</PMCID>
+    <PMCID>7219825</PMCID>
+    <PMCID>6614281</PMCID>
+    <PMCID>6581288</PMCID>
+    <PMCID>6532555</PMCID>
+    <PMCID>6598160</PMCID>
+    <PMCID>6517404</PMCID>
+    <PMCID>6539429</PMCID>
+    <PMCID>6467374</PMCID>
+    <PMCID>6467371</PMCID>
+    <PMCID>6414551</PMCID>
+    <PMCID>6421105</PMCID>
+    <PMCID>6473882</PMCID>
+    <PMCID>6400255</PMCID>
+    <PMCID>6353136</PMCID>
+    <PMCID>6419062</PMCID>
+    <PMCID>6345690</PMCID>
+    <PMCID>6466819</PMCID>
+    <PMCID>6304031</PMCID>
+    <PMCID>6267956</PMCID>
+    <PMCID>6176047</PMCID>
+    <PMCID>6136771</PMCID>
+    <PMCID>6146775</PMCID>
+    <PMCID>6119995</PMCID>
+    <PMCID>6077230</PMCID>
+    <PMCID>5970106</PMCID>
+    <PMCID>5978159</PMCID>
+    <PMCID>6077150</PMCID>
+    <PMCID>6077229</PMCID>
+    <PMCID>6309613</PMCID>
+    <PMCID>6077125</PMCID>
+    <PMCID>5884228</PMCID>
+    <PMCID>5668378</PMCID>
+    <PMCID>5663095</PMCID>
+    <PMCID>6077181</PMCID>
+    <PMCID>6265524</PMCID>
+    <PMCID>5627000</PMCID>
+    <PMCID>5561188</PMCID>
+    <PMCID>5609236</PMCID>
+    <PMCID>5550016</PMCID>
+    <PMCID>5519622</PMCID>
+    <PMCID>5504299</PMCID>
+    <PMCID>5512154</PMCID>
+    <PMCID>5338485</PMCID>
+    <PMCID>5182027</PMCID>
+    <PMCID>5444947</PMCID>
+    <PMCID>5013596</PMCID>
+    <PMCID>4984444</PMCID>
+    <PMCID>4960889</PMCID>
+    <PMCID>4964480</PMCID>
+    <PMCID>4923134</PMCID>
+    <PMCID>5456838</PMCID>
+    <PMCID>4888889</PMCID>
+    <PMCID>4854898</PMCID>
+    <PMCID>5086447</PMCID>
+    <PMCID>4870718</PMCID>
+    <PMCID>4941918</PMCID>
+    <PMCID>4796118</PMCID>
+    <PMCID>4776082</PMCID>
+    <PMCID>4771655</PMCID>
+    <PMCID>4746483</PMCID>
+    <PMCID>4718973</PMCID>
+    <PMCID>5272946</PMCID>
+    <PMCID>4667088</PMCID>
+    <PMCID>4648982</PMCID>
+    <PMCID>4799752</PMCID>
+    <PMCID>4611160</PMCID>
+    <PMCID>4572716</PMCID>
+    <PMCID>4598711</PMCID>
+    <PMCID>4531529</PMCID>
+    <PMCID>6332059</PMCID>
+    <PMCID>4453996</PMCID>
+    <PMCID>4507537</PMCID>
+    <PMCID>4363355</PMCID>
+    <PMCID>4332470</PMCID>
+    <PMCID>4329584</PMCID>
+    <PMCID>6270924</PMCID>
+    <PMCID>4293669</PMCID>
+    <PMCID>4282410</PMCID>
+    <PMCID>4331587</PMCID>
+    <PMCID>4223295</PMCID>
+    <PMCID>4176650</PMCID>
+    <PMCID>4148801</PMCID>
+    <PMCID>4070040</PMCID>
+    <PMCID>4022740</PMCID>
+    <PMCID>4004750</PMCID>
+    <PMCID>4020587</PMCID>
+    <PMCID>3971196</PMCID>
+    <PMCID>3907736</PMCID>
+    <PMCID>5675112</PMCID>
+    <PMCID>3943961</PMCID>
+    <PMCID>3838544</PMCID>
+    <PMCID>3968507</PMCID>
+    <PMCID>3810791</PMCID>
+    <PMCID>3792862</PMCID>
+    <PMCID>3690711</PMCID>
+    <PMCID>3935233</PMCID>
+    <PMCID>3533884</PMCID>
+    <PMCID>3591119</PMCID>
+    <PMCID>4070697</PMCID>
+    <PMCID>3816311</PMCID>
+    <PMCID>3510643</PMCID>
+    <PMCID>3502001</PMCID>
+    <PMCID>3461298</PMCID>
+    <PMCID>3442171</PMCID>
+    <PMCID>4017372</PMCID>
+    <PMCID>3346411</PMCID>
+    <PMCID>3574555</PMCID>
+    <PMCID>3309104</PMCID>
+    <PMCID>3501991</PMCID>
+    <PMCID>3317107</PMCID>
+    <PMCID>3314087</PMCID>
+    <PMCID>3258502</PMCID>
+    <PMCID>3202645</PMCID>
+    <PMCID>3187100</PMCID>
+    <PMCID>3724358</PMCID>
+    <PMCID>3187862</PMCID>
+    <PMCID>4130172</PMCID>
+    <PMCID>3156221</PMCID>
+    <PMCID>3138771</PMCID>
+    <PMCID>3325405</PMCID>
+    <PMCID>3310434</PMCID>
+    <PMCID>3077763</PMCID>
+    <PMCID>2994868</PMCID>
+    <PMCID>2978904</PMCID>
+    <PMCID>2939158</PMCID>
+    <PMCID>2945649</PMCID>
+    <PMCID>3024825</PMCID>
+    <PMCID>3823284</PMCID>
+    <PMCID>2921408</PMCID>
+    <PMCID>2912431</PMCID>
+    <PMCID>2898460</PMCID>
+    <PMCID>4007798</PMCID>
+    <PMCID>2863474</PMCID>
+    <PMCID>2852197</PMCID>
+    <PMCID>2805328</PMCID>
+    <PMCID>2770081</PMCID>
+    <PMCID>2773443</PMCID>
+    <PMCID>2786504</PMCID>
+    <PMCID>2795609</PMCID>
+    <PMCID>2726052</PMCID>
+    <PMCID>2727069</PMCID>
+    <PMCID>2760373</PMCID>
+    <PMCID>2745169</PMCID>
+    <PMCID>2664661</PMCID>
+    <PMCID>2663901</PMCID>
+    <PMCID>2614477</PMCID>
+    <PMCID>2562377</PMCID>
+    <PMCID>2492869</PMCID>
+    <PMCID>2443974</PMCID>
+    <PMCID>2493186</PMCID>
+    <PMCID>2735108</PMCID>
+    <PMCID>2605427</PMCID>
+    <PMCID>2654780</PMCID>
+    <PMCID>2562792</PMCID>
+    <PMCID>1983905</PMCID>
+    <PMCID>1904245</PMCID>
+    <PMCID>1932687</PMCID>
+    <PMCID>1993844</PMCID>
+    <PMCID>2665251</PMCID>
+    <PMCID>1698248</PMCID>
+    <PMCID>1594593</PMCID>
+    <PMCID>2505117</PMCID>
+    <PMCID>2577039</PMCID>
+    <PMCID>1383687</PMCID>
+    <PMCID>1317468</PMCID>
+    <PMCID>1251626</PMCID>
+    <PMCID>5936581</PMCID>
+    <PMCID>1224877</PMCID>
+    <PMCID>1196265</PMCID>
+    <PMCID>1112008</PMCID>
+    <PMCID>544300</PMCID>
+    <PMCID>523560</PMCID>
+    <PMCID>387799</PMCID>
+    <PMCID>383159</PMCID>
+    <PMCID>389924</PMCID>
+    <PMCID>1271659</PMCID>
+    <PMCID>169139</PMCID>
+    <PMCID>166491</PMCID>
+    <PMCID>164862</PMCID>
+    <PMCID>154787</PMCID>
+    <PMCID>123918</PMCID>
+    <PMCID>126723</PMCID>
+    <PMCID>100032</PMCID>
+    <PMCID>98327</PMCID>
+    <PMCID>88629</PMCID>
+    <PMCID>96348</PMCID>
+    <PMCID>107817</PMCID>
+    <PMCID>177671</PMCID>
+    <PMCID>1005559</PMCID>
+    <PMCID>265281</PMCID>
+    <PMCID>1198884</PMCID>
+    <PMCID>278599</PMCID>
+    <PMCID>277950</PMCID>
+    <id>1474</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus pasteurii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Urobacillus pasteurii
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Bacillus sp. NCIM 2477
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Urobacillus pasteurii" Miquel 1889
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacillus pasteurii (Miquel 1889) Chester 1898 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Sporosarcina pasteurii (Chester 1898) Yoon et al. 2001
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Sporosarcina pasteurii (Miquel 1889) Yoon et al. 2001
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 11859
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:11859
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:7130
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 7425
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:7425
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 66.21
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:66.21
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 33
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:33
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 7130
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:7130
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB 48021
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB:48021
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 8841
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 8841
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:8841
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 4822
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:4822
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL NRS-673
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:NRS-673
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM B-513
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:B-513
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:NRS:673
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:VKM:B:513
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   not NCIM 2477
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacillus pasteurii</scientificName>
+</pathogen>

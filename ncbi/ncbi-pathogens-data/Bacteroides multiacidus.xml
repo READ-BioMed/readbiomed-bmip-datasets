@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4945068</PMCID>
+        <PMCID>3618517</PMCID>
+        <id>500635</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mitsuokella multacida NCTC 10934
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Mitsuokella multacida str. DSM 20544
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mitsuokella multacida strain DSM 20544
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mitsuokella multacida DSM 20544</scientificName>
+    </subSpecies>
+    <PMCID>8002107</PMCID>
+    <PMCID>7998770</PMCID>
+    <PMCID>7942081</PMCID>
+    <PMCID>7868023</PMCID>
+    <PMCID>7779204</PMCID>
+    <PMCID>7807794</PMCID>
+    <PMCID>7555882</PMCID>
+    <PMCID>7509054</PMCID>
+    <PMCID>7464106</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>6883805</PMCID>
+    <PMCID>6891535</PMCID>
+    <PMCID>6668452</PMCID>
+    <PMCID>6695605</PMCID>
+    <PMCID>6720875</PMCID>
+    <PMCID>6591403</PMCID>
+    <PMCID>6626643</PMCID>
+    <PMCID>6445088</PMCID>
+    <PMCID>6431681</PMCID>
+    <PMCID>6819677</PMCID>
+    <PMCID>6368325</PMCID>
+    <PMCID>6370672</PMCID>
+    <PMCID>6375304</PMCID>
+    <PMCID>6097561</PMCID>
+    <PMCID>6014669</PMCID>
+    <PMCID>6150324</PMCID>
+    <PMCID>5655508</PMCID>
+    <PMCID>5666186</PMCID>
+    <PMCID>5491611</PMCID>
+    <PMCID>5317110</PMCID>
+    <PMCID>5223220</PMCID>
+    <PMCID>5209518</PMCID>
+    <PMCID>4995337</PMCID>
+    <PMCID>4945068</PMCID>
+    <PMCID>4746308</PMCID>
+    <PMCID>4561695</PMCID>
+    <PMCID>4316778</PMCID>
+    <PMCID>4276117</PMCID>
+    <PMCID>4267672</PMCID>
+    <PMCID>4256350</PMCID>
+    <PMCID>3981807</PMCID>
+    <PMCID>4062629</PMCID>
+    <PMCID>4417553</PMCID>
+    <PMCID>3687592</PMCID>
+    <PMCID>3666428</PMCID>
+    <PMCID>3618517</PMCID>
+    <PMCID>3602190</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3370552</PMCID>
+    <PMCID>3263338</PMCID>
+    <PMCID>3142684</PMCID>
+    <PMCID>3980945</PMCID>
+    <PMCID>2976460</PMCID>
+    <PMCID>3063597</PMCID>
+    <PMCID>2916472</PMCID>
+    <PMCID>2168041</PMCID>
+    <PMCID>1951052</PMCID>
+    <PMCID>1635169</PMCID>
+    <PMCID>7157935</PMCID>
+    <PMCID>427801</PMCID>
+    <PMCID>415762</PMCID>
+    <PMCID>165211</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>88332</PMCID>
+    <PMCID>92507</PMCID>
+    <PMCID>89765</PMCID>
+    <PMCID>91486</PMCID>
+    <PMCID>204049</PMCID>
+    <PMCID>216742</PMCID>
+    <PMCID>243225</PMCID>
+    <id>52226</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides multiacidus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mitsuokella multiacidus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides multiacidus Mitsuoka et al. 1974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides multiacidus Mitsuoka et al. 1974 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mitsuokella multacida corrig. (Mitsuoka et al. 1974) Shah and Collins 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27723
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27723
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 21055
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:21055
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 107116
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:107116
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20544
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20544
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 2054
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:2054
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides multiacidus</scientificName>
+</pathogen>

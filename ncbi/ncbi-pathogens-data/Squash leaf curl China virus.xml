@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>754182</id>
+        <scientificName>Squash leaf curl China virus-[Varanasi:Pumpkin:08]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>679172</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Squash leaf curl China virus [India:Varanasi:Pumpkin]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Squash leaf curl China virus - [India:Varanasi:Pumpkin]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>540030</id>
+        <scientificName>Squash leaf curl China virus - [Pumpkin:Varanasi]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>512414</id>
+        <scientificName>Squash leaf curl China virus-[Wax Gourd:Nakhon Pathom]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>452660</id>
+        <scientificName>Squash leaf curl China virus - [Thailand]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>393625</id>
+        <scientificName>Squash leaf curl China virus - [Cucurbita pepo: Lahore]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>346670</id>
+        <scientificName>Pumpkin yellow vein mosaic virus-[Jessore]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>335396</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pumpkin yellow mosaic Lucknow virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Squash leaf curl China virus - [Pumpkin: Lucknow]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>320438</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Squash leaf curl China virus - [Pumpkin :Coimbatore]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Squash leaf curl China virus - [Pumpkin: Coimbatore]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269276</id>
+        <scientificName>Squash leaf curl China virus - [K]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>12898329</GeneBankPMID>
+        <id>269275</id>
+        <scientificName>Squash leaf curl China virus - [B]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4188205</PMCID>
+        <id>219586</id>
+        <scientificName>Pumpkin yellow vein mosaic virus</scientificName>
+    </subSpecies>
+    <PMCID>7353409</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6505011</PMCID>
+    <PMCID>6498046</PMCID>
+    <PMCID>6697862</PMCID>
+    <PMCID>5473258</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>4074936</PMCID>
+    <PMCID>3723865</PMCID>
+    <PMCID>3650187</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3407900</PMCID>
+    <PMCID>3550806</PMCID>
+    <PMCID>3125359</PMCID>
+    <PMCID>3102712</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>3120783</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3550763</PMCID>
+    <PMCID>2258725</PMCID>
+    <GeneBankPMID>12898329</GeneBankPMID>
+    <id>223323</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SqLCV-C
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Chinese squash leaf curl virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Chinese squash leaf curl virus SqLCV-C
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Squash leaf curl virus-China
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Squash leaf curl China virus</scientificName>
+</pathogen>

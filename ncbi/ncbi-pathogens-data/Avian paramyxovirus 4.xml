@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7304117</PMCID>
+    <PMCID>7111929</PMCID>
+    <PMCID>6460460</PMCID>
+    <PMCID>6076851</PMCID>
+    <PMCID>6309968</PMCID>
+    <PMCID>5831667</PMCID>
+    <PMCID>5837305</PMCID>
+    <PMCID>4947412</PMCID>
+    <PMCID>3807344</PMCID>
+    <PMCID>3319594</PMCID>
+    <PMCID>2712088</PMCID>
+    <PMCID>2577636</PMCID>
+    <GeneBankPMID>23405329</GeneBankPMID>
+    <id>28274</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  APMV-4
+ &lt;/GenbankAcronym&gt; 
+ &lt;Synonym&gt;
+  Avian avulavirus 4
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Avian parainfluenza virus type 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian parainfluenza virus type4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian paramyxovirus 4</scientificName>
+</pathogen>

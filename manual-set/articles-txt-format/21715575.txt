@@ -1,0 +1,13 @@
+
+Immunogenicity and safety of the influenza A/H1N1 2009 inactivated split-virus vaccine in young and older adults: MF59-adjuvanted vaccine versus nonadjuvanted vaccine.
+
+Since initial reports in April 2009, the pandemic influenza A (H1N1) virus has spread globally. 
+Influenza vaccines are the primary method for the control of influenza and its complications. 
+We conducted a multicenter clinical trial to evaluate the immunogenicity and safety of H1N1 vaccine (Green Cross Co.) in young adults (18 to 64 years) and the elderly (≥ 65 years) using a two-dose regimen, with the doses administered 21 days apart. 
+Three different regimens of hemagglutinin antigen were comparatively analyzed: 3.75 μg (MF59 adjuvanted) versus 7.5 μg (MF59 adjuvanted) versus 15 μg (nonadjuvanted) in young adults and 3.75 μg (MF59 adjuvanted) versus 7.5 μg (MF59 adjuvanted) in the elderly. 
+In young adults, all three vaccine regimens met the European Agency for the Evaluation of Medicinal Products (EMA) criteria after the first dose. 
+In the elderly, on day 21 after the first dose, the rates of seroprotection and seroconversion were significantly higher for the 7.5-μg dose of MF59 adjuvanted vaccine than for the 3.75-μg dose (58.0% versus 44.3% [P = 0.03] and 53.7% versus 37.2% [P &lt; 0.01], respectively). 
+After the second dose, the geometric mean titer (GMT) increment was blunted with a 15-μg dose of nonadjuvanted vaccine, whereas the GMT increased about 2-fold with MF59 adjuvanted vaccines. 
+In conclusion, a single 7.5-μg dose of MF59 adjuvanted vaccine would have a practical advantage over a two-dose, 3.75-μg, MF59 adjuvanted vaccine priming schedule. 
+Following a two-dose priming schedule, the increase in hemagglutinin inhibition titers was higher with MF59 adjuvanted vaccine than with nonadjuvanted vaccine.
+

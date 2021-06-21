@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1244087</id>
+        <scientificName>Paenibacillus lentimorbus NRRL B-30488</scientificName>
+    </subSpecies>
+    <PMCID>8069211</PMCID>
+    <PMCID>7953223</PMCID>
+    <PMCID>7911366</PMCID>
+    <PMCID>7822405</PMCID>
+    <PMCID>7569769</PMCID>
+    <PMCID>7281679</PMCID>
+    <PMCID>7067210</PMCID>
+    <PMCID>6963434</PMCID>
+    <PMCID>6852281</PMCID>
+    <PMCID>6843861</PMCID>
+    <PMCID>6357042</PMCID>
+    <PMCID>5893765</PMCID>
+    <PMCID>5748584</PMCID>
+    <PMCID>5610594</PMCID>
+    <PMCID>5519495</PMCID>
+    <PMCID>5450714</PMCID>
+    <PMCID>5233791</PMCID>
+    <PMCID>5134293</PMCID>
+    <PMCID>6273255</PMCID>
+    <PMCID>4774868</PMCID>
+    <PMCID>4883846</PMCID>
+    <PMCID>4836486</PMCID>
+    <PMCID>4743491</PMCID>
+    <PMCID>4525379</PMCID>
+    <PMCID>6299803</PMCID>
+    <PMCID>4280536</PMCID>
+    <PMCID>3368403</PMCID>
+    <PMCID>3191781</PMCID>
+    <PMCID>3121976</PMCID>
+    <PMCID>2876436</PMCID>
+    <PMCID>1393214</PMCID>
+    <PMCID>1168687</PMCID>
+    <PMCID>1364539</PMCID>
+    <PMCID>126810</PMCID>
+    <PMCID>92482</PMCID>
+    <PMCID>526947</PMCID>
+    <PMCID>249915</PMCID>
+    <PMCID>546644</PMCID>
+    <PMCID>1058385</PMCID>
+    <PMCID>277007</PMCID>
+    <id>78058</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus lentimorbus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacillus lentimorbus Dutky 1940 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Paenibacillus lentimorbus (Dutky 1940) Pettersson et al. 1999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14707
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14707
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:20224
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 28883
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:28883
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 106068
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:106068
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 20224
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:20224
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB 75014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB:75014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-2522
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-2522
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:2522
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacillus lentimorbus</scientificName>
+</pathogen>

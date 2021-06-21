@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7459705</PMCID>
+        <PMCID>7357282</PMCID>
+        <PMCID>4361794</PMCID>
+        <id>1561702</id>
+        <scientificName>Bovine polyomavirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7100512</PMCID>
+    <PMCID>7086986</PMCID>
+    <PMCID>6854729</PMCID>
+    <PMCID>6833039</PMCID>
+    <PMCID>6328144</PMCID>
+    <PMCID>4732346</PMCID>
+    <PMCID>4361794</PMCID>
+    <PMCID>4147376</PMCID>
+    <PMCID>3794449</PMCID>
+    <PMCID>3671278</PMCID>
+    <PMCID>3815707</PMCID>
+    <PMCID>2973933</PMCID>
+    <PMCID>1694229</PMCID>
+    <PMCID>1472594</PMCID>
+    <PMCID>368749</PMCID>
+    <PMCID>111972</PMCID>
+    <GeneBankPMID>17658947</GeneBankPMID>
+    <GeneBankPMID>1279101</GeneBankPMID>
+    <GeneBankPMID>2167926</GeneBankPMID>
+    <id>1891754</id>
+    <meSHTree>B04.280.210.700.615, B04.613.204.670.615</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  WRSV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine polyomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Polyomavirus bovis
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine polyomavirus BPyV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine polyomavirus</scientificName>
+</pathogen>

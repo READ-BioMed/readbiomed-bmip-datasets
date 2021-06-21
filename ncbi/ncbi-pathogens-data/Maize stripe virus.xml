@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7356856</PMCID>
+    <PMCID>7459587</PMCID>
+    <PMCID>6612211</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6032925</PMCID>
+    <PMCID>6055815</PMCID>
+    <PMCID>4974502</PMCID>
+    <PMCID>5779079</PMCID>
+    <PMCID>4377212</PMCID>
+    <PMCID>3737204</PMCID>
+    <PMCID>2880117</PMCID>
+    <PMCID>535339</PMCID>
+    <PMCID>98959</PMCID>
+    <PMCID>20971</PMCID>
+    <GeneBankPMID>1629690</GeneBankPMID>
+    <GeneBankPMID>8468548</GeneBankPMID>
+    <GeneBankPMID>8883361</GeneBankPMID>
+    <GeneBankPMID>2024478</GeneBankPMID>
+    <id>12330</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MSTV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Maize stripe virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  maize stripe virus MStV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Maize stripe virus</scientificName>
+</pathogen>

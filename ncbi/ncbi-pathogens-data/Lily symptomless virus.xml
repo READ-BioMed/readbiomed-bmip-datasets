@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>92693</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  LiLV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Lily latent virus</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7766433</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7143516</PMCID>
+    <PMCID>6859495</PMCID>
+    <PMCID>6640214</PMCID>
+    <PMCID>6597684</PMCID>
+    <PMCID>6186116</PMCID>
+    <PMCID>6638135</PMCID>
+    <PMCID>3689765</PMCID>
+    <PMCID>6640471</PMCID>
+    <PMCID>2828416</PMCID>
+    <PMCID>2703641</PMCID>
+    <PMCID>2553587</PMCID>
+    <GeneBankPMID>14551817</GeneBankPMID>
+    <GeneBankPMID>21409447</GeneBankPMID>
+    <id>12173</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  LSV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Lily symptomless virus</scientificName>
+</pathogen>

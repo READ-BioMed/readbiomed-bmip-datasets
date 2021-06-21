@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>201497</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine encephalosis virus serotype 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine encephalosis virus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>201496</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine encephalosis virus serotype 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine encephalosis virus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>201495</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine encephalosis virus serotype 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine encephalosis virus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6238798</PMCID>
+        <id>201494</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine encephalosis virus serotype 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine encephalosis virus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>201493</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine encephalosis virus serotype 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine encephalosis virus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>201492</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine encephalosis virus serotype 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine encephalosis virus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>201491</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine encephalosis virus serotype 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine encephalosis virus 1</scientificName>
+    </subSpecies>
+    <PMCID>8001977</PMCID>
+    <PMCID>7912165</PMCID>
+    <PMCID>7128792</PMCID>
+    <PMCID>7009857</PMCID>
+    <PMCID>7077223</PMCID>
+    <PMCID>7019608</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6676836</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>6863193</PMCID>
+    <PMCID>6276223</PMCID>
+    <PMCID>5938759</PMCID>
+    <PMCID>5488374</PMCID>
+    <PMCID>5482515</PMCID>
+    <PMCID>5488184</PMCID>
+    <PMCID>5035095</PMCID>
+    <PMCID>5600106</PMCID>
+    <PMCID>4810255</PMCID>
+    <PMCID>5516135</PMCID>
+    <PMCID>4806581</PMCID>
+    <PMCID>6238715</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>4411093</PMCID>
+    <PMCID>4191977</PMCID>
+    <PMCID>3983086</PMCID>
+    <PMCID>3973751</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3901712</PMCID>
+    <PMCID>3869324</PMCID>
+    <PMCID>3754974</PMCID>
+    <PMCID>3741287</PMCID>
+    <PMCID>3615239</PMCID>
+    <PMCID>3390273</PMCID>
+    <PMCID>3289656</PMCID>
+    <PMCID>3246798</PMCID>
+    <PMCID>3198726</PMCID>
+    <PMCID>3310674</PMCID>
+    <PMCID>3163642</PMCID>
+    <PMCID>2941451</PMCID>
+    <PMCID>2826768</PMCID>
+    <GeneBankPMID>19264638</GeneBankPMID>
+    <id>201490</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equine encephalosis virus (EEV)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine encephalosis virus group
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equine encephalosis virus</scientificName>
+</pathogen>

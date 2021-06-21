@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>6855363</PMCID>
+        <PMCID>5656758</PMCID>
+        <PMCID>4984651</PMCID>
+        <id>10546</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus bos1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>5744146</PMCID>
+    <PMCID>3671162</PMCID>
+    <PMCID>3147386</PMCID>
+    <GeneBankPMID>15448340</GeneBankPMID>
+    <id>129953</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine adenovirus A</scientificName>
+</pathogen>

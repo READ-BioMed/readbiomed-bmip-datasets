@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1127769</id>
+        <scientificName>Tomato severe leaf curl virus - SLP 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1086071</id>
+        <scientificName>Tomato severe leaf curl virus - Huasteca</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223361</id>
+        <scientificName>Tomato severe leaf curl virus-[Guatemala 96-1]</scientificName>
+    </subSpecies>
+    <PMCID>6669537</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6521247</PMCID>
+    <PMCID>4632403</PMCID>
+    <PMCID>3081322</PMCID>
+    <PMCID>2974675</PMCID>
+    <id>92963</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  ToSLCV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Tomato severe leaf curl geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato severe leaf curl virus</scientificName>
+</pathogen>

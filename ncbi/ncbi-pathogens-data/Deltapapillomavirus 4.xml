@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2758382</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 2
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  BPV-2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2758381</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 14
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus 14
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 14</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2758380</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bos grunniens papillomavirus type 1
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos grunniens papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1969698</id>
+        <scientificName>Bovine papillomavirus SY-12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7810815</PMCID>
+        <id>1887213</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus type 13
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 13</scientificName>
+    </subSpecies>
+    <PMCID>7912165</PMCID>
+    <PMCID>7350338</PMCID>
+    <PMCID>7767662</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7058819</PMCID>
+    <PMCID>6723834</PMCID>
+    <PMCID>6005490</PMCID>
+    <PMCID>5760104</PMCID>
+    <PMCID>5632515</PMCID>
+    <PMCID>6238771</PMCID>
+    <PMCID>5445378</PMCID>
+    <PMCID>5215344</PMCID>
+    <PMCID>5361623</PMCID>
+    <PMCID>5015974</PMCID>
+    <PMCID>4862206</PMCID>
+    <PMCID>4830119</PMCID>
+    <PMCID>5638654</PMCID>
+    <PMCID>4999249</PMCID>
+    <PMCID>4383917</PMCID>
+    <PMCID>4136348</PMCID>
+    <PMCID>3881962</PMCID>
+    <PMCID>3726019</PMCID>
+    <PMCID>3557224</PMCID>
+    <PMCID>3347338</PMCID>
+    <PMCID>3133372</PMCID>
+    <PMCID>3407688</PMCID>
+    <PMCID>3046309</PMCID>
+    <PMCID>3065778</PMCID>
+    <PMCID>2942047</PMCID>
+    <PMCID>2941001</PMCID>
+    <PMCID>2795018</PMCID>
+    <PMCID>2772844</PMCID>
+    <PMCID>2832751</PMCID>
+    <PMCID>2839008</PMCID>
+    <PMCID>2718874</PMCID>
+    <PMCID>2755880</PMCID>
+    <PMCID>2689872</PMCID>
+    <PMCID>2660980</PMCID>
+    <PMCID>2648287</PMCID>
+    <PMCID>2654602</PMCID>
+    <PMCID>2546945</PMCID>
+    <PMCID>2493320</PMCID>
+    <PMCID>2447052</PMCID>
+    <PMCID>2447075</PMCID>
+    <PMCID>2149907</PMCID>
+    <PMCID>1951456</PMCID>
+    <PMCID>1852791</PMCID>
+    <PMCID>1866123</PMCID>
+    <PMCID>1865984</PMCID>
+    <PMCID>1865958</PMCID>
+    <PMCID>1797594</PMCID>
+    <PMCID>1560413</PMCID>
+    <PMCID>1472295</PMCID>
+    <PMCID>1642174</PMCID>
+    <PMCID>1563822</PMCID>
+    <PMCID>1316011</PMCID>
+    <PMCID>1182638</PMCID>
+    <PMCID>2080670</PMCID>
+    <PMCID>374281</PMCID>
+    <PMCID>296047</PMCID>
+    <PMCID>152897</PMCID>
+    <PMCID>140879</PMCID>
+    <PMCID>111063</PMCID>
+    <PMCID>136042</PMCID>
+    <PMCID>116090</PMCID>
+    <PMCID>114596</PMCID>
+    <PMCID>114178</PMCID>
+    <PMCID>114159</PMCID>
+    <PMCID>100279</PMCID>
+    <PMCID>114118</PMCID>
+    <PMCID>114081</PMCID>
+    <PMCID>113923</PMCID>
+    <PMCID>110935</PMCID>
+    <PMCID>25863</PMCID>
+    <PMCID>111990</PMCID>
+    <PMCID>111885</PMCID>
+    <PMCID>111884</PMCID>
+    <PMCID>111757</PMCID>
+    <PMCID>111452</PMCID>
+    <PMCID>111601</PMCID>
+    <PMCID>111534</PMCID>
+    <PMCID>112583</PMCID>
+    <PMCID>112533</PMCID>
+    <PMCID>112508</PMCID>
+    <PMCID>104221</PMCID>
+    <PMCID>104219</PMCID>
+    <PMCID>104120</PMCID>
+    <PMCID>104067</PMCID>
+    <PMCID>103920</PMCID>
+    <PMCID>110309</PMCID>
+    <PMCID>110160</PMCID>
+    <PMCID>110149</PMCID>
+    <PMCID>109968</PMCID>
+    <PMCID>109948</PMCID>
+    <PMCID>109901</PMCID>
+    <PMCID>109891</PMCID>
+    <PMCID>109618</PMCID>
+    <PMCID>109845</PMCID>
+    <PMCID>109687</PMCID>
+    <PMCID>109502</PMCID>
+    <PMCID>109485</PMCID>
+    <PMCID>124572</PMCID>
+    <PMCID>109438</PMCID>
+    <PMCID>192108</PMCID>
+    <PMCID>191961</PMCID>
+    <PMCID>190786</PMCID>
+    <PMCID>189531</PMCID>
+    <PMCID>236548</PMCID>
+    <PMCID>237905</PMCID>
+    <PMCID>241476</PMCID>
+    <PMCID>289030</PMCID>
+    <PMCID>241334</PMCID>
+    <PMCID>250933</PMCID>
+    <PMCID>248437</PMCID>
+    <PMCID>253829</PMCID>
+    <PMCID>306394</PMCID>
+    <PMCID>288935</PMCID>
+    <PMCID>397187</PMCID>
+    <PMCID>392256</PMCID>
+    <PMCID>254537</PMCID>
+    <GeneBankPMID>15890910</GeneBankPMID>
+    <GeneBankPMID>21489590</GeneBankPMID>
+    <GeneBankPMID>6289124</GeneBankPMID>
+    <GeneBankPMID>23490049</GeneBankPMID>
+    <GeneBankPMID>15956609</GeneBankPMID>
+    <GeneBankPMID>21177927</GeneBankPMID>
+    <GeneBankPMID>31176410</GeneBankPMID>
+    <GeneBankPMID>18267969</GeneBankPMID>
+    <GeneBankPMID>18619639</GeneBankPMID>
+    <GeneBankPMID>18672907</GeneBankPMID>
+    <GeneBankPMID>18201744</GeneBankPMID>
+    <GeneBankPMID>15782122</GeneBankPMID>
+    <GeneBankPMID>16893956</GeneBankPMID>
+    <GeneBankPMID>17596310</GeneBankPMID>
+    <GeneBankPMID>18495759</GeneBankPMID>
+    <GeneBankPMID>21073859</GeneBankPMID>
+    <GeneBankPMID>26783529</GeneBankPMID>
+    <GeneBankPMID>31299114</GeneBankPMID>
+    <GeneBankPMID>19553317</GeneBankPMID>
+    <GeneBankPMID>19716579</GeneBankPMID>
+    <GeneBankPMID>23926343</GeneBankPMID>
+    <GeneBankPMID>17881379</GeneBankPMID>
+    <GeneBankPMID>22551766</GeneBankPMID>
+    <GeneBankPMID>15564455</GeneBankPMID>
+    <GeneBankPMID>19675187</GeneBankPMID>
+    <GeneBankPMID>21318310</GeneBankPMID>
+    <GeneBankPMID>15650176</GeneBankPMID>
+    <GeneBankPMID>24942580</GeneBankPMID>
+    <GeneBankPMID>23152516</GeneBankPMID>
+    <GeneBankPMID>16899269</GeneBankPMID>
+    <GeneBankPMID>19232665</GeneBankPMID>
+    <GeneBankPMID>15795266</GeneBankPMID>
+    <GeneBankPMID>16611895</GeneBankPMID>
+    <GeneBankPMID>19605488</GeneBankPMID>
+    <GeneBankPMID>20109504</GeneBankPMID>
+    <GeneBankPMID>21775582</GeneBankPMID>
+    <id>337052</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BPV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bos taurus Papillomavirus type-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bos taurus papillomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papilloma virus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Deltapapillomavirus 4</scientificName>
+</pathogen>

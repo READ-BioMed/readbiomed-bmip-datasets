@@ -1,0 +1,13 @@
+
+The poly-γ-d-glutamic acid capsule surrogate of the Bacillus anthracis capsule induces nitric oxide production via the platelet activating factor receptor signaling pathway.
+
+The poly-γ-d-glutamic acid (PGA) capsule, a major virulence factor of Bacillus anthracis, confers protection of the bacillus from phagocytosis and allows its unimpeded growth in the host. 
+PGA capsules released from B. anthracis are associated with lethal toxin in the blood of experimentally infected animals and enhance the cytotoxic effect of lethal toxin on macrophages. 
+In addition, PGA capsule itself activates macrophages and dendritic cells to produce proinflammatory cytokine such as IL-1β, indicating multiple roles of PGA capsule in anthrax pathogenesis. 
+Here we report that PGA capsule of Bacillus licheniformis, a surrogate of B. anthracis capsule, induces production of nitric oxide (NO) in RAW264.7 cells and bone marrow-derived macrophages. 
+NO production was induced by PGA in a dose-dependent manner and was markedly reduced by inhibitors of inducible NO synthase (iNOS), suggesting iNOS-dependent production of NO. 
+Induction of NO production by PGA was not observed in macrophages from TLR2-deficient mice and was also substantially inhibited in RAW264.7 cells by pretreatment of TLR2 blocking antibody. 
+Subsequently, the downstream signaling events such as ERK, JNK and p38 of MAPK pathways as well as NF-κB activation were required for PGA-induced NO production. 
+In addition, the induced NO production was significantly suppressed by treatment with antagonists of platelet activating factor receptor (PAFR) or PAFR siRNA, and mediated through PAFR/Jak2/STAT-1 signaling pathway. 
+These findings suggest that PGA capsule induces NO production in macrophages by triggering both TLR2 and PAFR signaling pathways which lead to activation of NF-kB and STAT-1, respectively. 
+

@@ -1,0 +1,10 @@
+
+Interim estimates of the effectiveness of the influenza vaccine against A(H3N2) influenza in adults in South Korea, 2016-2017 season.
+
+In the 2016-2017 season, the A(H3N2) influenza epidemic presented an unusual early peak pattern compared with past seasons in South Korea. 
+The interim vaccine effectiveness (VE) of influenza vaccination in preventing laboratory-confirmed influenza was estimated using test-negative design through the tertiary hospital-based influenza surveillance system in South Korea. 
+From 1 September, 2016 to 7 January, 2017, adjusted VE of influenza vaccination in preventing laboratory-confirmed A(H3N2) was -52.1% (95% confidence interval [CI], -147.2 to 6.4); -70.0% (95% CI, -212.0 to 7.4) in 19-64 years and 4.3% (95% CI, -137.8 to 61.5) in the elderly. 
+Circulating A(H3N2) viruses belonged to the three phylogenetic subclades of 3C.2a, differently to A/Hong Kong/4801/2014, the current vaccine strain. 
+Amino acid substitutions in hemagglutinin of circulating viruses seem to contribute to low VE. 
+In conclusion, interim VE analysis presented that the protection of laboratory-confirmed influenza by seasonal influenza vaccination did not show the statistical significance in South Korea in the 2016-2017 influenza season.
+

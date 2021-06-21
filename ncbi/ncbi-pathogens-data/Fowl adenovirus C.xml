@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7311883</PMCID>
+        <PMCID>6295067</PMCID>
+        <PMCID>6279807</PMCID>
+        <PMCID>5850404</PMCID>
+        <PMCID>4984651</PMCID>
+        <id>130663</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 4 (KR-5, J-2)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  fowl adenovirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl aviadenovirus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7449135</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>3113570</PMCID>
+        <id>10547</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Fowl adenovirus 10
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  aviadenovirus gal10
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Avian adenovirus gal10 (STRAIN SA2)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 10 (C-2B, M11, CFA20)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  fowl adenovirus 10 FAV-10
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Fowl adenovirus fowl10
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mastadenovirus fowl10
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl aviadenovirus 10</scientificName>
+    </subSpecies>
+    <PMCID>7311883</PMCID>
+    <PMCID>7211397</PMCID>
+    <PMCID>6279807</PMCID>
+    <PMCID>6109506</PMCID>
+    <PMCID>6021868</PMCID>
+    <PMCID>5850404</PMCID>
+    <PMCID>4984651</PMCID>
+    <PMCID>4658644</PMCID>
+    <PMCID>4369288</PMCID>
+    <GeneBankPMID>24145437</GeneBankPMID>
+    <GeneBankPMID>21430092</GeneBankPMID>
+    <id>190063</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus C
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl aviadenovirus type C
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Fowl adenovirus C</scientificName>
+</pathogen>

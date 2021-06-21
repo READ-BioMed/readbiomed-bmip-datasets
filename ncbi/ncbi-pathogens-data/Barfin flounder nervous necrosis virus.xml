@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3026760</PMCID>
+        <id>546552</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BFNNV-BF93Hok
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Barfin flounder virus BF93Hok</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7168202</PMCID>
+        <PMCID>6629939</PMCID>
+        <PMCID>5155513</PMCID>
+        <PMCID>2746286</PMCID>
+        <id>179708</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  ACNNV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Gadus morhua nervous necrosis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Atlantic cod nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7159363</PMCID>
+        <PMCID>6046410</PMCID>
+        <PMCID>5155513</PMCID>
+        <PMCID>4959478</PMCID>
+        <PMCID>4433699</PMCID>
+        <PMCID>4093860</PMCID>
+        <PMCID>4050099</PMCID>
+        <PMCID>3141682</PMCID>
+        <PMCID>2746286</PMCID>
+        <PMCID>2689223</PMCID>
+        <PMCID>1617310</PMCID>
+        <PMCID>136213</PMCID>
+        <id>99486</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  AHNV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Atlantic halibut betanodavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Atlantic halibut virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Halibut nervous necrosis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Atlantic halibut nodavirus</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7371229</PMCID>
+    <PMCID>6312370</PMCID>
+    <PMCID>6046410</PMCID>
+    <PMCID>5007544</PMCID>
+    <PMCID>4954670</PMCID>
+    <PMCID>4932916</PMCID>
+    <PMCID>4705746</PMCID>
+    <PMCID>4619592</PMCID>
+    <PMCID>4488739</PMCID>
+    <PMCID>4118809</PMCID>
+    <PMCID>4050099</PMCID>
+    <PMCID>3069955</PMCID>
+    <PMCID>3026760</PMCID>
+    <PMCID>3037892</PMCID>
+    <id>43761</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BFNNV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Betanodavirus BFNNV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Barfin flounder nervous necrosis virus</scientificName>
+</pathogen>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>654901</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Alcelaphine herpesvirus 1 (strain C500)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Alcelaphine herpesvirus 1 strain C500</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>33705</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpes virus type 3 (strain WC11)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus 3 (strain WC11)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus type 3 (strain WC11)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Alcelaphine herpesvirus 1 strain WC11</scientificName>
+    </subSpecies>
+    <PMCID>7912165</PMCID>
+    <PMCID>7106491</PMCID>
+    <PMCID>7086968</PMCID>
+    <PMCID>7687889</PMCID>
+    <PMCID>7114836</PMCID>
+    <PMCID>7068852</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6671425</PMCID>
+    <PMCID>6525121</PMCID>
+    <PMCID>6396541</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>6308120</PMCID>
+    <PMCID>6175985</PMCID>
+    <PMCID>6167348</PMCID>
+    <PMCID>6207520</PMCID>
+    <PMCID>6071243</PMCID>
+    <PMCID>6068291</PMCID>
+    <PMCID>5989027</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5796589</PMCID>
+    <PMCID>5691659</PMCID>
+    <PMCID>5658569</PMCID>
+    <PMCID>5141506</PMCID>
+    <PMCID>5081063</PMCID>
+    <PMCID>4931111</PMCID>
+    <PMCID>4776205</PMCID>
+    <PMCID>4742522</PMCID>
+    <PMCID>4571589</PMCID>
+    <PMCID>4403426</PMCID>
+    <PMCID>4338891</PMCID>
+    <PMCID>4441327</PMCID>
+    <PMCID>4039351</PMCID>
+    <PMCID>3832689</PMCID>
+    <PMCID>3666752</PMCID>
+    <PMCID>3666693</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3577509</PMCID>
+    <PMCID>3657188</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3437474</PMCID>
+    <PMCID>3264369</PMCID>
+    <PMCID>3259070</PMCID>
+    <PMCID>3211016</PMCID>
+    <PMCID>3166908</PMCID>
+    <PMCID>3690623</PMCID>
+    <PMCID>3126570</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2854865</PMCID>
+    <PMCID>2770056</PMCID>
+    <PMCID>2687043</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>4310687</PMCID>
+    <PMCID>2229840</PMCID>
+    <PMCID>2216446</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1951306</PMCID>
+    <PMCID>1900094</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>4032367</PMCID>
+    <PMCID>1079958</PMCID>
+    <PMCID>1081266</PMCID>
+    <PMCID>140372</PMCID>
+    <PMCID>1783148</PMCID>
+    <PMCID>311046</PMCID>
+    <PMCID>96020</PMCID>
+    <PMCID>86438</PMCID>
+    <PMCID>111628</PMCID>
+    <PMCID>112937</PMCID>
+    <PMCID>85139</PMCID>
+    <PMCID>103728</PMCID>
+    <PMCID>110077</PMCID>
+    <PMCID>105096</PMCID>
+    <PMCID>124839</PMCID>
+    <PMCID>191927</PMCID>
+    <PMCID>228333</PMCID>
+    <PMCID>263759</PMCID>
+    <PMCID>249586</PMCID>
+    <PMCID>1535883</PMCID>
+    <PMCID>1320225</PMCID>
+    <PMCID>1320123</PMCID>
+    <PMCID>1789709</PMCID>
+    <GeneBankPMID>24732177</GeneBankPMID>
+    <GeneBankPMID>32176737</GeneBankPMID>
+    <GeneBankPMID>9261371</GeneBankPMID>
+    <GeneBankPMID>16685452</GeneBankPMID>
+    <id>35252</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  wildebeest herpesvirus
+ &lt;/GenbankCommonName&gt; 
+ &lt;GenbankAcronym&gt;
+  AIHV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  AHV-1
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  AlHV1
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  BHV3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Alcelaphine herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovid herpesvirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  malignant catarrhal fever virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Alcelaphine herpesvirus 1</scientificName>
+</pathogen>

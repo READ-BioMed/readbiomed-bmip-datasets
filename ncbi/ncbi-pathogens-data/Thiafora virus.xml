@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7922539</PMCID>
+        <PMCID>7690952</PMCID>
+        <PMCID>7169261</PMCID>
+        <PMCID>7094624</PMCID>
+        <PMCID>7087186</PMCID>
+        <PMCID>7472042</PMCID>
+        <PMCID>7411964</PMCID>
+        <PMCID>7285326</PMCID>
+        <PMCID>7158200</PMCID>
+        <PMCID>7097586</PMCID>
+        <PMCID>7019218</PMCID>
+        <PMCID>6927636</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6746611</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6386216</PMCID>
+        <PMCID>6343935</PMCID>
+        <PMCID>6314124</PMCID>
+        <PMCID>6138529</PMCID>
+        <PMCID>5616139</PMCID>
+        <PMCID>5044845</PMCID>
+        <PMCID>5008091</PMCID>
+        <PMCID>4926184</PMCID>
+        <PMCID>4856612</PMCID>
+        <PMCID>4809068</PMCID>
+        <PMCID>4703270</PMCID>
+        <PMCID>4829514</PMCID>
+        <PMCID>4645338</PMCID>
+        <PMCID>4384744</PMCID>
+        <PMCID>4268697</PMCID>
+        <PMCID>4178814</PMCID>
+        <PMCID>4231167</PMCID>
+        <PMCID>4136290</PMCID>
+        <PMCID>3992837</PMCID>
+        <PMCID>3624237</PMCID>
+        <PMCID>3519980</PMCID>
+        <PMCID>3558726</PMCID>
+        <PMCID>2186316</PMCID>
+        <GeneBankPMID>22864548</GeneBankPMID>
+        <id>248062</id>
+        <scientificName>Erve virus</scientificName>
+    </subSpecies>
+    <PMCID>7922539</PMCID>
+    <PMCID>7108853</PMCID>
+    <PMCID>7019218</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>4926184</PMCID>
+    <PMCID>4645338</PMCID>
+    <PMCID>3204620</PMCID>
+    <GeneBankPMID>26324724</GeneBankPMID>
+    <id>1980529</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Thiafora nairovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Thiafora virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Thiafora virus</scientificName>
+</pathogen>

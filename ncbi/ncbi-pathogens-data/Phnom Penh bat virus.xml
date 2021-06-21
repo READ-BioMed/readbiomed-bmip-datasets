@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>6563318</PMCID>
+        <PMCID>6466055</PMCID>
+        <PMCID>6466414</PMCID>
+        <PMCID>5490829</PMCID>
+        <PMCID>4645344</PMCID>
+        <PMCID>4276368</PMCID>
+        <PMCID>3918146</PMCID>
+        <PMCID>109351</PMCID>
+        <id>64306</id>
+        <scientificName>Batu Cave virus</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7310938</PMCID>
+    <PMCID>7159162</PMCID>
+    <PMCID>7158200</PMCID>
+    <PMCID>6620835</PMCID>
+    <PMCID>6502878</PMCID>
+    <PMCID>6466055</PMCID>
+    <PMCID>6466414</PMCID>
+    <PMCID>5490829</PMCID>
+    <PMCID>5094249</PMCID>
+    <PMCID>4645344</PMCID>
+    <PMCID>4342338</PMCID>
+    <PMCID>4142259</PMCID>
+    <PMCID>3848773</PMCID>
+    <PMCID>3310660</PMCID>
+    <PMCID>4276368</PMCID>
+    <PMCID>3918146</PMCID>
+    <PMCID>1539106</PMCID>
+    <PMCID>109351</PMCID>
+    <GeneBankPMID>25719412</GeneBankPMID>
+    <id>64894</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PPBV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Phnom-Penh bat virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Phnom Penh bat virus</scientificName>
+</pathogen>

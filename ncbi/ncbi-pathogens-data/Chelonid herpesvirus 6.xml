@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>18367581</GeneBankPMID>
+        <id>203820</id>
+        <scientificName>lung-eye-trachea disease-associated herpesvirus</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <id>702738</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Chelonid herpesvirus 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Chelonid herpesvirus 6</scientificName>
+</pathogen>

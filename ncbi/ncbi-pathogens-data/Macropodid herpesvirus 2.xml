@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7117322</PMCID>
+    <PMCID>7106810</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4724163</PMCID>
+    <PMCID>4519311</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>10073704</GeneBankPMID>
+    <id>83440</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Dorcopsis wallaby herpesvirus
+ &lt;/GenbankSynonym&gt; 
+ &lt;EquivalentName&gt;
+  Macropodid herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Macropodid herpesvirus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Macropodid herpesvirus 2</scientificName>
+</pathogen>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1036275</id>
+        <scientificName>Croton yellow vein mosaic virus-Panipat 8 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036274</id>
+        <scientificName>Croton yellow vein mosaic virus-Panipat 3 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500470</id>
+        <scientificName>Croton yellow vein mosaic virus-Lucknow</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>346669</id>
+        <scientificName>Croton yellow vein mosaic virus-[Jessore]</scientificName>
+    </subSpecies>
+    <PMCID>7823891</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>6261889</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5465472</PMCID>
+    <PMCID>5355441</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>5394710</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>4213569</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3163225</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>3002923</PMCID>
+    <GeneBankPMID>21479677</GeneBankPMID>
+    <GeneBankPMID>22209785</GeneBankPMID>
+    <id>207697</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CYVMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Croton yellow vein mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Croton yellow vein mosaic virus</scientificName>
+</pathogen>

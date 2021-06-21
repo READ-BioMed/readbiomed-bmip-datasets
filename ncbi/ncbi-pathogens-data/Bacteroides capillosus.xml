@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1357380</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides capillosus UC1_FAA_NB_F
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pseudoflavonifractor capillosus UC1_FAA_NB_F</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5030136</PMCID>
+        <PMCID>3171299</PMCID>
+        <PMCID>2816739</PMCID>
+        <id>411467</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides capillosus ATCC 29799
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Pseudoflavonifractor capillosus str. ATCC 29799
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Pseudoflavonifractor capillosus strain ATCC 29799
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pseudoflavonifractor capillosus ATCC 29799</scientificName>
+    </subSpecies>
+    <PMCID>8016915</PMCID>
+    <PMCID>7890861</PMCID>
+    <PMCID>7839352</PMCID>
+    <PMCID>7934884</PMCID>
+    <PMCID>7547479</PMCID>
+    <PMCID>7531972</PMCID>
+    <PMCID>7538596</PMCID>
+    <PMCID>7536576</PMCID>
+    <PMCID>7564046</PMCID>
+    <PMCID>7554953</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7416117</PMCID>
+    <PMCID>7285315</PMCID>
+    <PMCID>7070434</PMCID>
+    <PMCID>7066092</PMCID>
+    <PMCID>7074861</PMCID>
+    <PMCID>6980619</PMCID>
+    <PMCID>6842950</PMCID>
+    <PMCID>6738582</PMCID>
+    <PMCID>6687944</PMCID>
+    <PMCID>6615432</PMCID>
+    <PMCID>6627129</PMCID>
+    <PMCID>6504675</PMCID>
+    <PMCID>6448819</PMCID>
+    <PMCID>6390100</PMCID>
+    <PMCID>6226200</PMCID>
+    <PMCID>6069880</PMCID>
+    <PMCID>5940204</PMCID>
+    <PMCID>5959721</PMCID>
+    <PMCID>6341035</PMCID>
+    <PMCID>5859299</PMCID>
+    <PMCID>5828344</PMCID>
+    <PMCID>5812947</PMCID>
+    <PMCID>5802913</PMCID>
+    <PMCID>6448993</PMCID>
+    <PMCID>5798415</PMCID>
+    <PMCID>5767839</PMCID>
+    <PMCID>6150324</PMCID>
+    <PMCID>5596254</PMCID>
+    <PMCID>5794661</PMCID>
+    <PMCID>5493053</PMCID>
+    <PMCID>5704912</PMCID>
+    <PMCID>5467207</PMCID>
+    <PMCID>5417446</PMCID>
+    <PMCID>5405467</PMCID>
+    <PMCID>5448086</PMCID>
+    <PMCID>5310180</PMCID>
+    <PMCID>5174012</PMCID>
+    <PMCID>5167691</PMCID>
+    <PMCID>5328723</PMCID>
+    <PMCID>5328710</PMCID>
+    <PMCID>5217777</PMCID>
+    <PMCID>5217792</PMCID>
+    <PMCID>5078575</PMCID>
+    <PMCID>4957419</PMCID>
+    <PMCID>5030136</PMCID>
+    <PMCID>5050083</PMCID>
+    <PMCID>7477276</PMCID>
+    <PMCID>4892961</PMCID>
+    <PMCID>4687314</PMCID>
+    <PMCID>4654470</PMCID>
+    <PMCID>4405844</PMCID>
+    <PMCID>4272968</PMCID>
+    <PMCID>4255828</PMCID>
+    <PMCID>4354891</PMCID>
+    <PMCID>4055632</PMCID>
+    <PMCID>4059291</PMCID>
+    <PMCID>3993470</PMCID>
+    <PMCID>3941959</PMCID>
+    <PMCID>3846685</PMCID>
+    <PMCID>3735522</PMCID>
+    <PMCID>3840677</PMCID>
+    <PMCID>4056318</PMCID>
+    <PMCID>3568576</PMCID>
+    <PMCID>3917459</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3395570</PMCID>
+    <PMCID>3382598</PMCID>
+    <PMCID>3329531</PMCID>
+    <PMCID>3305651</PMCID>
+    <PMCID>3256011</PMCID>
+    <PMCID>3234850</PMCID>
+    <PMCID>3171299</PMCID>
+    <PMCID>3147755</PMCID>
+    <PMCID>3815262</PMCID>
+    <PMCID>7108470</PMCID>
+    <PMCID>3257638</PMCID>
+    <PMCID>3133131</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3067270</PMCID>
+    <PMCID>3105732</PMCID>
+    <PMCID>3009849</PMCID>
+    <PMCID>2998088</PMCID>
+    <PMCID>3004003</PMCID>
+    <PMCID>3063586</PMCID>
+    <PMCID>2875401</PMCID>
+    <PMCID>2875224</PMCID>
+    <PMCID>2919709</PMCID>
+    <PMCID>2816739</PMCID>
+    <PMCID>2849247</PMCID>
+    <PMCID>3074787</PMCID>
+    <PMCID>2812457</PMCID>
+    <PMCID>2786583</PMCID>
+    <PMCID>2720974</PMCID>
+    <PMCID>2698331</PMCID>
+    <PMCID>2681899</PMCID>
+    <PMCID>2972309</PMCID>
+    <PMCID>2652615</PMCID>
+    <PMCID>2632651</PMCID>
+    <PMCID>2612163</PMCID>
+    <PMCID>2432076</PMCID>
+    <PMCID>1860316</PMCID>
+    <PMCID>1351953</PMCID>
+    <PMCID>434212</PMCID>
+    <PMCID>182602</PMCID>
+    <PMCID>128757</PMCID>
+    <PMCID>137446</PMCID>
+    <PMCID>127089</PMCID>
+    <PMCID>90655</PMCID>
+    <PMCID>88973</PMCID>
+    <PMCID>90074</PMCID>
+    <PMCID>90047</PMCID>
+    <PMCID>3250707</PMCID>
+    <PMCID>105425</PMCID>
+    <PMCID>3516878</PMCID>
+    <PMCID>284615</PMCID>
+    <id>106588</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus capillosus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacteroides capillosus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudobacterium capillosum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Ristella capillosa
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus capillosus" Tissier 1908
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pseudobacterium capillosum" (Tissier 1908) Krasil'nikov 1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Ristella capillosa" (Tissier 1908) Prevot 1938
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides capillosus (Tissier 1908) Kelly 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudoflavonifractor capillosus (Tissier 1908) Carlier et al. 2010
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29799
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29799
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 15402 A
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:15402 A
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 23940
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:23940
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI R2-29-1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides capillosus</scientificName>
+</pathogen>

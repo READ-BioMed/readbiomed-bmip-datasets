@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>7128824</PMCID>
+        <PMCID>3789765</PMCID>
+        <PMCID>2567038</PMCID>
+        <GeneBankPMID>10993931</GeneBankPMID>
+        <id>114102</id>
+        <scientificName>Frog adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7354429</PMCID>
+    <PMCID>4587935</PMCID>
+    <PMCID>3792674</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2396429</PMCID>
+    <id>298331</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Frog adenovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Frog adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Frog adenovirus A</scientificName>
+</pathogen>

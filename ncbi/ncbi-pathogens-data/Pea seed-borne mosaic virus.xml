@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>31736</id>
+        <scientificName>Pea seed-borne mosaic virus (strain DPD1)</scientificName>
+    </subSpecies>
+    <GeneBankPMID>16908044</GeneBankPMID>
+    <GeneBankPMID>1940858</GeneBankPMID>
+    <GeneBankPMID>11257200</GeneBankPMID>
+    <id>12208</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PSbMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  pea seed-borne mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pea seed-borne mosaic virus</scientificName>
+</pathogen>

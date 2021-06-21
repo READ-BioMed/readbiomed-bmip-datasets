@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5031134</PMCID>
+        <GeneBankPMID>21886861</GeneBankPMID>
+        <id>521096</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Tsukamurella paurometabola ATCC 8368
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Tsukamurella paurometabola str. DSM 20162
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tsukamurella paurometabola strain DSM 20162
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tsukamurella paurometabola DSM 20162</scientificName>
+    </subSpecies>
+    <PMCID>7928522</PMCID>
+    <PMCID>7917263</PMCID>
+    <PMCID>7825236</PMCID>
+    <PMCID>7775120</PMCID>
+    <PMCID>7824335</PMCID>
+    <PMCID>7767326</PMCID>
+    <PMCID>7493342</PMCID>
+    <PMCID>7569769</PMCID>
+    <PMCID>7303726</PMCID>
+    <PMCID>7192451</PMCID>
+    <PMCID>7150772</PMCID>
+    <PMCID>6997370</PMCID>
+    <PMCID>7070511</PMCID>
+    <PMCID>6959594</PMCID>
+    <PMCID>6934676</PMCID>
+    <PMCID>6759235</PMCID>
+    <PMCID>6683498</PMCID>
+    <PMCID>6723437</PMCID>
+    <PMCID>6597068</PMCID>
+    <PMCID>6459961</PMCID>
+    <PMCID>6520134</PMCID>
+    <PMCID>6376662</PMCID>
+    <PMCID>6465232</PMCID>
+    <PMCID>6258851</PMCID>
+    <PMCID>6237770</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6070502</PMCID>
+    <PMCID>5936774</PMCID>
+    <PMCID>5952258</PMCID>
+    <PMCID>5826065</PMCID>
+    <PMCID>5818290</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>6748338</PMCID>
+    <PMCID>5790920</PMCID>
+    <PMCID>5971062</PMCID>
+    <PMCID>5884252</PMCID>
+    <PMCID>5857166</PMCID>
+    <PMCID>5513430</PMCID>
+    <PMCID>5491436</PMCID>
+    <PMCID>5031134</PMCID>
+    <PMCID>5396282</PMCID>
+    <PMCID>5333191</PMCID>
+    <PMCID>5428342</PMCID>
+    <PMCID>5154685</PMCID>
+    <PMCID>5052707</PMCID>
+    <PMCID>5174979</PMCID>
+    <PMCID>4972346</PMCID>
+    <PMCID>4955295</PMCID>
+    <PMCID>4791881</PMCID>
+    <PMCID>4810484</PMCID>
+    <PMCID>4756111</PMCID>
+    <PMCID>4686642</PMCID>
+    <PMCID>4689555</PMCID>
+    <PMCID>4652049</PMCID>
+    <PMCID>4561708</PMCID>
+    <PMCID>4508453</PMCID>
+    <PMCID>5154385</PMCID>
+    <PMCID>4365757</PMCID>
+    <PMCID>4298536</PMCID>
+    <PMCID>4281200</PMCID>
+    <PMCID>4267739</PMCID>
+    <PMCID>4249180</PMCID>
+    <PMCID>4097692</PMCID>
+    <PMCID>4077174</PMCID>
+    <PMCID>4042780</PMCID>
+    <PMCID>3957767</PMCID>
+    <PMCID>3911260</PMCID>
+    <PMCID>4222082</PMCID>
+    <PMCID>4255298</PMCID>
+    <PMCID>3784601</PMCID>
+    <PMCID>3664793</PMCID>
+    <PMCID>3568593</PMCID>
+    <PMCID>3969335</PMCID>
+    <PMCID>3510600</PMCID>
+    <PMCID>3497385</PMCID>
+    <PMCID>3486202</PMCID>
+    <PMCID>3496871</PMCID>
+    <PMCID>3457207</PMCID>
+    <PMCID>5121209</PMCID>
+    <PMCID>3294427</PMCID>
+    <PMCID>3288397</PMCID>
+    <PMCID>3207917</PMCID>
+    <PMCID>3261415</PMCID>
+    <PMCID>3147496</PMCID>
+    <PMCID>3156402</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3130167</PMCID>
+    <PMCID>3006067</PMCID>
+    <PMCID>3892576</PMCID>
+    <PMCID>2780973</PMCID>
+    <PMCID>2698375</PMCID>
+    <PMCID>2681870</PMCID>
+    <PMCID>7168468</PMCID>
+    <PMCID>2574773</PMCID>
+    <PMCID>2442117</PMCID>
+    <PMCID>2556040</PMCID>
+    <PMCID>1594812</PMCID>
+    <PMCID>1698348</PMCID>
+    <PMCID>1351931</PMCID>
+    <PMCID>1169151</PMCID>
+    <PMCID>1081289</PMCID>
+    <PMCID>545729</PMCID>
+    <PMCID>497575</PMCID>
+    <PMCID>427891</PMCID>
+    <PMCID>356837</PMCID>
+    <PMCID>1783069</PMCID>
+    <PMCID>309048</PMCID>
+    <PMCID>152489</PMCID>
+    <PMCID>93243</PMCID>
+    <PMCID>87956</PMCID>
+    <PMCID>110513</PMCID>
+    <PMCID>91957</PMCID>
+    <PMCID>2326717</PMCID>
+    <PMCID>106808</PMCID>
+    <PMCID>1456344</PMCID>
+    <PMCID>280933</PMCID>
+    <PMCID>1384646</PMCID>
+    <PMCID>266252</PMCID>
+    <PMCID>268441</PMCID>
+    <PMCID>272430</PMCID>
+    <GeneBankPMID>26088175</GeneBankPMID>
+    <id>2061</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Corynebacterium paurometabolum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordona aurantiaca
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rhodococcus aurantiacus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Corynebacterium paurometabolum Steinhaus 1941 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus aurantiacus (ex Tsukamura and Mizuno 1971) Tsukamura and Yano 1985
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Tsukamurella paurometabola (Steinhaus 1941) Collins et al. 1988 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Tsukamurella paurometabola corrig. (Steinhaus 1941) Collins et al. 1988
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 8368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:8368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 35730
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:35730
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT 3055
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT:3055
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 100753
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:100753
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20162
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20162
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 16120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:16120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMET 11082
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMET:11082
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 10117
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:10117
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 16083
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 16120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 16120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:12160
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:16083
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:16120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:16120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 13040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 13232
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:13040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:13232
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Corynebacterium paurometabolum</scientificName>
+</pathogen>

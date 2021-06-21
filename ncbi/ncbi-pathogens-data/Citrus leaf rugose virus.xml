@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7307136</PMCID>
+    <PMCID>7157939</PMCID>
+    <PMCID>6630321</PMCID>
+    <PMCID>6558290</PMCID>
+    <PMCID>6449694</PMCID>
+    <PMCID>5751334</PMCID>
+    <PMCID>5491605</PMCID>
+    <PMCID>4188200</PMCID>
+    <GeneBankPMID>7931176</GeneBankPMID>
+    <GeneBankPMID>9049342</GeneBankPMID>
+    <GeneBankPMID>8847536</GeneBankPMID>
+    <id>37126</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CiLRV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Citrus leaf rugose ilarvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Citrus leaf rugose virus</scientificName>
+</pathogen>

@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>87852</PMCID>
+        <PMCID>205807</PMCID>
+        <id>202948</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bisgaard taxon 11
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Actinobacillus sp. CCUG 19799
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Actinobacillus sp. F 154
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Actinobacillus cf. equuli
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Actinobacillus equuli-like
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Actinobacillus equuli subsp. haemolyticus Christensen et al. 2002
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 19799
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:19799
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 22436
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:22436
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 13195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:13195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::F 154
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain F 154
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Actinobacillus sp. F154
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Actinobacillus equuli subsp. haemolyticus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>202947</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Actinobacillus equuli subsp. equuli (van Straaten 1918) Haupt 1934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Actinobacillus equuli subsp. equuli</scientificName>
+    </subSpecies>
+    <PMCID>8033006</PMCID>
+    <PMCID>7978947</PMCID>
+    <PMCID>7296872</PMCID>
+    <PMCID>7355418</PMCID>
+    <PMCID>7222828</PMCID>
+    <PMCID>7108845</PMCID>
+    <PMCID>7049842</PMCID>
+    <PMCID>7096658</PMCID>
+    <PMCID>6994210</PMCID>
+    <PMCID>6971166</PMCID>
+    <PMCID>6950323</PMCID>
+    <PMCID>6855238</PMCID>
+    <PMCID>6785623</PMCID>
+    <PMCID>6534924</PMCID>
+    <PMCID>7110482</PMCID>
+    <PMCID>6485108</PMCID>
+    <PMCID>6524383</PMCID>
+    <PMCID>6395219</PMCID>
+    <PMCID>6288956</PMCID>
+    <PMCID>6333316</PMCID>
+    <PMCID>6056133</PMCID>
+    <PMCID>6040016</PMCID>
+    <PMCID>5960975</PMCID>
+    <PMCID>5941160</PMCID>
+    <PMCID>5731389</PMCID>
+    <PMCID>7158344</PMCID>
+    <PMCID>5571180</PMCID>
+    <PMCID>5371864</PMCID>
+    <PMCID>7271189</PMCID>
+    <PMCID>7186848</PMCID>
+    <PMCID>7158295</PMCID>
+    <PMCID>7322266</PMCID>
+    <PMCID>7167529</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>5294841</PMCID>
+    <PMCID>5013584</PMCID>
+    <PMCID>7895636</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>4767947</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>7149729</PMCID>
+    <PMCID>4873865</PMCID>
+    <PMCID>4858045</PMCID>
+    <PMCID>4858032</PMCID>
+    <PMCID>4511653</PMCID>
+    <PMCID>7127504</PMCID>
+    <PMCID>4895403</PMCID>
+    <PMCID>4432038</PMCID>
+    <PMCID>4197157</PMCID>
+    <PMCID>4184662</PMCID>
+    <PMCID>3839602</PMCID>
+    <PMCID>7152285</PMCID>
+    <PMCID>3782719</PMCID>
+    <PMCID>7150181</PMCID>
+    <PMCID>3717280</PMCID>
+    <PMCID>3700447</PMCID>
+    <PMCID>3668668</PMCID>
+    <PMCID>3570152</PMCID>
+    <PMCID>4013977</PMCID>
+    <PMCID>7150056</PMCID>
+    <PMCID>3104176</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>3034196</PMCID>
+    <PMCID>2957028</PMCID>
+    <PMCID>7086820</PMCID>
+    <PMCID>7103133</PMCID>
+    <PMCID>2075531</PMCID>
+    <PMCID>2238117</PMCID>
+    <PMCID>7097216</PMCID>
+    <PMCID>1804279</PMCID>
+    <PMCID>7152486</PMCID>
+    <PMCID>1562530</PMCID>
+    <PMCID>7156017</PMCID>
+    <PMCID>1230937</PMCID>
+    <PMCID>535277</PMCID>
+    <PMCID>356827</PMCID>
+    <PMCID>7173479</PMCID>
+    <PMCID>7171908</PMCID>
+    <PMCID>7158198</PMCID>
+    <PMCID>262496</PMCID>
+    <PMCID>193807</PMCID>
+    <PMCID>1189673</PMCID>
+    <PMCID>2202316</PMCID>
+    <PMCID>87852</PMCID>
+    <PMCID>87711</PMCID>
+    <PMCID>92192</PMCID>
+    <PMCID>84834</PMCID>
+    <PMCID>105212</PMCID>
+    <PMCID>104556</PMCID>
+    <PMCID>260524</PMCID>
+    <PMCID>265903</PMCID>
+    <PMCID>7135462</PMCID>
+    <PMCID>7172716</PMCID>
+    <PMCID>273589</PMCID>
+    <PMCID>533373</PMCID>
+    <MeSHPMID>32059237</MeSHPMID>
+    <MeSHPMID>25878346</MeSHPMID>
+    <MeSHPMID>25459476</MeSHPMID>
+    <MeSHPMID>24068980</MeSHPMID>
+    <MeSHPMID>21645978</MeSHPMID>
+    <MeSHPMID>21596597</MeSHPMID>
+    <MeSHPMID>21286321</MeSHPMID>
+    <MeSHPMID>18587096</MeSHPMID>
+    <MeSHPMID>18344501</MeSHPMID>
+    <MeSHPMID>18184417</MeSHPMID>
+    <MeSHPMID>18182526</MeSHPMID>
+    <MeSHPMID>17604847</MeSHPMID>
+    <MeSHPMID>17482388</MeSHPMID>
+    <MeSHPMID>15384504</MeSHPMID>
+    <MeSHPMID>13327482</MeSHPMID>
+    <MeSHPMID>14391986</MeSHPMID>
+    <MeSHPMID>14812836</MeSHPMID>
+    <MeSHPMID>15434463</MeSHPMID>
+    <MeSHPMID>21005490</MeSHPMID>
+    <id>718</id>
+    <meSHTree>B03.440.450.009.200, B03.660.250.550.050.200</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus equirulis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus equuli
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus nephritidis equi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus pyosepticus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus pyosepticus equi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium equi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium pyosepticum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium pyosepticum viscosum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium pyosepticum viscosum equi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium viscosum equi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Eberthella viscosa
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shigella equi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shigella equirulis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shigella equuli
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shigella viscosa
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus equirulis" de Blieck and van Heelsbergen 1919
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus equuli" van Straaten 1918
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus nephritidis equi" Meyer 1910
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus pyosepticus equi" de Blieck and van Heelsbergen 1919
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus pyosepticus" Clarenburg 1925
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium equi" Weldin and Levine 1923
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium pyosepticum viscosum equi" L tje 1921
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium pyosepticum viscosum" Miessner 1921
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium pyosepticum" Miessner and Berge 1922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium viscosum equi" Magnusson 1917
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Eberthella viscosa" Snyder 1925
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Shigella equi" (Weldin and Levine 1923) Weldin 1927
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Shigella equirulis" (de Blieck and van Heelsbergen 1919) Edwards 1931
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Shigella equuli" (van Straaten 1918) Dimock et al. 1947
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Shigella viscosa" (Snyder 1925) Bergey 1930
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Actinobacillus equuli (van Straaten 1918) Haupt 1934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:3736
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 2041
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:2041
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103284
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103284
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 19655
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:19655
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 2432
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:2432
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 3736
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:3736
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 8529
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:8529
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Actinobacillus equuli</scientificName>
+</pathogen>

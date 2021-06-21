@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7086627</PMCID>
+    <PMCID>6901505</PMCID>
+    <PMCID>5444539</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>18280676</GeneBankPMID>
+    <id>291612</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  EHV-7
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Asinine herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equid herpesvirus 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equid herpesvirus 7</scientificName>
+</pathogen>

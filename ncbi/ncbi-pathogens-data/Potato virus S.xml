@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>12170</id>
+        <scientificName>Potato virus S (strain Peruvian)</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7877712</PMCID>
+    <PMCID>7330602</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7230960</PMCID>
+    <PMCID>7108733</PMCID>
+    <PMCID>7112823</PMCID>
+    <PMCID>6917686</PMCID>
+    <PMCID>6963434</PMCID>
+    <PMCID>6835240</PMCID>
+    <PMCID>6788419</PMCID>
+    <PMCID>6755682</PMCID>
+    <PMCID>6435773</PMCID>
+    <PMCID>6686122</PMCID>
+    <PMCID>6364481</PMCID>
+    <PMCID>6492229</PMCID>
+    <PMCID>6284719</PMCID>
+    <PMCID>6254090</PMCID>
+    <PMCID>6173849</PMCID>
+    <PMCID>6034203</PMCID>
+    <PMCID>6638099</PMCID>
+    <PMCID>5725879</PMCID>
+    <PMCID>5717143</PMCID>
+    <PMCID>5742290</PMCID>
+    <PMCID>5799334</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5592742</PMCID>
+    <PMCID>5538442</PMCID>
+    <PMCID>5432854</PMCID>
+    <PMCID>5047884</PMCID>
+    <PMCID>4623741</PMCID>
+    <PMCID>4564147</PMCID>
+    <PMCID>4571596</PMCID>
+    <PMCID>4374565</PMCID>
+    <PMCID>4262293</PMCID>
+    <PMCID>3951315</PMCID>
+    <PMCID>4092237</PMCID>
+    <PMCID>3889240</PMCID>
+    <PMCID>3689765</PMCID>
+    <PMCID>3999073</PMCID>
+    <PMCID>6638826</PMCID>
+    <PMCID>6638836</PMCID>
+    <PMCID>2825510</PMCID>
+    <GeneBankPMID>16178517</GeneBankPMID>
+    <id>12169</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepino latent virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  potato virus S PVS
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Potato virus S</scientificName>
+</pathogen>

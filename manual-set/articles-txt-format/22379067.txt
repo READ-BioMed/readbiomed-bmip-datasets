@@ -1,0 +1,14 @@
+
+Comparison of the long-term immunogenicity of two pandemic influenza A/H1N1 2009 vaccines, the MF59-adjuvanted and unadjuvanted vaccines, in adults.
+
+Since the first reports of the A/H1N1 virus in April 2009, the pandemic influenza virus spread globally and circulated for a long time. 
+The primary method for the control of influenza is vaccination, but levels of influenza vaccine-induced antibody are known to decline rapidly during a 6-month period. 
+In adults aged 18 to 64 years, we compared the long-term immunogenicity of two of the influenza A/H1N1 2009 monovalent vaccines, 3.75-μg MF59-adjuvanted vaccine and 15-μg unadjuvanted vaccine. 
+The serum hemagglutinin inhibition (HI) titers were determined prevaccination and at 1, 6, and 10 months after vaccination. 
+One hundred six (88.3%) of the 120 subjects were monitored for the entire 10-month period after receiving the influenza A/H1N1 2009 monovalent vaccine. 
+There were 60 patients who received the unadjuvanted vaccine and 46 patients who received the MF59-adjuvanted vaccine. 
+The seroprotection rates, seroconversion rates, and the geometric mean titer (GMT) folds fulfilled the criteria of the European Medicines Agency (EMA) for influenza A/California/7/2009 (H1N1) at 1 month after vaccination irrespective of the vaccine composition. 
+Although the GMTs at 1 month postvaccination were somewhat higher in the unadjuvanted vaccine recipients than in the MF59-adjuvanted vaccine recipients, the difference was not significant (P = 0.29). 
+The seroprotection rates at 6 and 10 months postvaccination were preserved above 70% but only in the MF59-adjuvanted vaccine recipients. 
+In conclusion, low-dose MF59-adjuvanted influenza vaccine, even with 3.75 μg hemagglutinin antigen, might induce excellent long-term immunity that is comparable to the conventional dose of unadjuvanted vaccine among healthy adults aged 18 to 64 years.
+

@@ -1,0 +1,15 @@
+
+Epidemiologic differences of four major respiratory viruses between children, adolescents, and adults in Korea.
+
+The purpose of this study was to investigate the epidemiology of four major respiratory viruses among the Korean population. 
+This retrospective study was conducted over four years, from January 2005 to December 2008. 
+Among a total of 23,806 specimens, 5512 virus isolates underwent culture for influenza A and B viruses (IFA/B), parainfluenza virus (PIV), respiratory syncytial virus (RSV), and adenovirus (ADV). 
+Patients were divided into two groups: children/adolescents and adults. 
+The viruses detected in specimens from children/adolescents included PIV (7.8%), RSV (7.3%), ADV (4.0%), IFA (2.9%), and IFB (2.2%). 
+In adults, IFB (5.6%), IFA (4.4%), RSV (1.1%), PIV (0.5%), and ADV (0.2%) were detected, thus demonstrating two distinct patterns of virus infection. 
+Influenza viruses had similar seasonal patterns and periods of infection among children/adolescents and adults; however, the isolation rate in adults was slightly higher than that in children and adolescents. 
+Correlation coefficient analysis based on weekly seasonal patterns indicated that influenza viruses were detected a week earlier in children than in adults. 
+RSV, PIV, and ADV did not show similar trends between the two age groups due to low detection rates and sporadic isolations among adult patients. 
+Of note, different respiratory viruses should be considered depending on patient age when a clinical respiratory viral infection is suspected. 
+Furthermore, in the case of influenza, a preceding epidemic among a pediatric population could be useful to predict a subsequent epidemic among adults. 
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2759889</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Colobus guereza papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Colobus guereza papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>338326</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 106
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>human papillomavirus 106</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>15885736</GeneBankPMID>
+        <GeneBankPMID>12085327</GeneBankPMID>
+        <id>333769</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - cand90
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus type 90</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2756586</PMCID>
+        <PMCID>290248</PMCID>
+        <GeneBankPMID>11312670</GeneBankPMID>
+        <id>120686</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 71
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>human papillomavirus 71</scientificName>
+    </subSpecies>
+    <PMCID>7291100</PMCID>
+    <PMCID>7704424</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>5117989</PMCID>
+    <id>931244</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 90
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Alphapapillomavirus 14</scientificName>
+</pathogen>

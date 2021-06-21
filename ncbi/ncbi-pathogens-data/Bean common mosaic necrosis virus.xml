@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>500578</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bean common mosaic necrosis virus (strain NL-3)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bean common mosaic necrosis virus NL-3</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7779967</PMCID>
+    <PMCID>7691756</PMCID>
+    <PMCID>7698195</PMCID>
+    <PMCID>7695315</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7126379</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6522790</PMCID>
+    <PMCID>6422016</PMCID>
+    <PMCID>6377593</PMCID>
+    <PMCID>6293961</PMCID>
+    <PMCID>6261895</PMCID>
+    <PMCID>5500643</PMCID>
+    <PMCID>5444779</PMCID>
+    <PMCID>5043561</PMCID>
+    <PMCID>4552492</PMCID>
+    <PMCID>4267316</PMCID>
+    <PMCID>4262307</PMCID>
+    <PMCID>4210609</PMCID>
+    <PMCID>3209288</PMCID>
+    <PMCID>3550725</PMCID>
+    <PMCID>2973933</PMCID>
+    <PMCID>6640476</PMCID>
+    <PMCID>2168797</PMCID>
+    <PMCID>1567666</PMCID>
+    <PMCID>1456221</PMCID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <GeneBankPMID>8607279</GeneBankPMID>
+    <id>43240</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BCMNV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  serotype A of BCMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bean common mosaic necrosis virus</scientificName>
+</pathogen>

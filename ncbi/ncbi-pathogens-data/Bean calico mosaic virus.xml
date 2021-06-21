@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7084362</PMCID>
+    <PMCID>6669703</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>5898237</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>6640244</PMCID>
+    <PMCID>2258725</PMCID>
+    <GeneBankPMID>18944770</GeneBankPMID>
+    <id>31602</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BCaMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bean calico mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Phaseolus vulgaris calico mosaic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bean calico mosaic virus</scientificName>
+</pathogen>

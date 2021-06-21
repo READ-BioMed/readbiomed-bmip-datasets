@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7534350</PMCID>
+    <PMCID>7272585</PMCID>
+    <PMCID>7263005</PMCID>
+    <PMCID>7218506</PMCID>
+    <PMCID>7225605</PMCID>
+    <PMCID>7153340</PMCID>
+    <PMCID>6776760</PMCID>
+    <PMCID>6797016</PMCID>
+    <PMCID>6221350</PMCID>
+    <PMCID>7149566</PMCID>
+    <PMCID>4285169</PMCID>
+    <PMCID>3904054</PMCID>
+    <PMCID>7169811</PMCID>
+    <PMCID>3713885</PMCID>
+    <id>1077358</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Dactuliochaeta glycines
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Phoma glycinicola
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Coniothyrium sp. JW-2011c
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Phoma glycinicola Gruyter &amp;amp; Boerema 2002
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Phoma glycinicola</scientificName>
+</pathogen>

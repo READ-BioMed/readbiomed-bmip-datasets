@@ -1,0 +1,13 @@
+
+Structural insights into the dimer-tetramer transition of FabI from Bacillus anthracis.
+
+Enoyl-ACP reductase (ENR, also known as FabI) has received considerable interest as an anti-bacterial target due to its essentiality in fatty acid synthesis. 
+All the FabI structures reported to date, regardless of the organism, are composed of homo-tetramers, except for two structures: Bacillus cereus and Staphylococcus aureus FabI (bcFabI and saFabI, respectively), which have been reported as dimers. 
+However, the reason for the existence of the dimeric form in these organisms and the biological meaning of dimeric and tetrameric forms of FabI are ambiguous. 
+Herein, we report the high-resolution crystal structure of a dimeric form of Bacillus anthracis FabI (baFabI) and the crystal structures of tetrameric forms of baFabI in the apo state and in complex with NAD<sup>+</sup> and with NAD<sup>+</sup>-triclosan, at 1.7 Å, 1.85 Å, 1.96 Å, and 1.95 Å, respectively. 
+Interestingly, we found that baFabI with a His<sub>6</sub>-tag at its C-terminus exists as a dimer, whereas untagged-baFabI exists as a tetramer. 
+The His<sub>6</sub>-tag may block the dimer-tetramer transition, since baFabI has relatively short-length amino acids (<sup>255</sup>LG<sup>256</sup>) after the 3<sub>10</sub>-helix η7 compared to those of FabI of other organisms. 
+The dimeric form of baFabI is catalytically inactive, because the α-helix α5 occupies the NADH-binding site. 
+During the process of dimer-tetramer transition, this α5 helix rotates about 55° toward the tetramer interface and the active site is established. 
+Therefore, tetramerization of baFabI is required for cofactor binding and catalytic activity.
+

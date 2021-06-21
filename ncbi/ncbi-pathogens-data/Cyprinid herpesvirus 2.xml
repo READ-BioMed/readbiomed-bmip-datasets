@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4923094</PMCID>
+        <id>1917197</id>
+        <scientificName>Crucian carp herpesvirus</scientificName>
+    </subSpecies>
+    <PMCID>7827161</PMCID>
+    <PMCID>7512137</PMCID>
+    <PMCID>7289782</PMCID>
+    <PMCID>7110871</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7712643</PMCID>
+    <PMCID>7143840</PMCID>
+    <PMCID>7118463</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>7070163</PMCID>
+    <PMCID>6930231</PMCID>
+    <PMCID>6983669</PMCID>
+    <PMCID>6813457</PMCID>
+    <PMCID>6723609</PMCID>
+    <PMCID>5671517</PMCID>
+    <PMCID>5958048</PMCID>
+    <PMCID>4692202</PMCID>
+    <PMCID>3916102</PMCID>
+    <PMCID>3850573</PMCID>
+    <PMCID>3961040</PMCID>
+    <PMCID>3571366</PMCID>
+    <PMCID>3125225</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>1459111</PMCID>
+    <PMCID>1393248</PMCID>
+    <GeneBankPMID>23269803</GeneBankPMID>
+    <id>317878</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CyHV-2
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Haematopoietic necrosis herpesvirus of goldfish
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cyprinid herpesvirus 2</scientificName>
+</pathogen>

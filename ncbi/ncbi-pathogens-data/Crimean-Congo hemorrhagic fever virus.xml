@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>652961</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Crimean-Congo hemorrhagic fever virus (strain IbAr10200)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Crimean-Congo hemorrhagic fever virus strain IbAr10200</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>402373</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus CTF-Hu7/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>402372</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus CTF-Hu30/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>402371</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus CTF-Hu27/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>402370</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus CTF-Hu15/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>402369</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus CTF-Hu10/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>402052</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus (ZAM57/06)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>170517</id>
+        <scientificName>Crimean-Congo Hemorrhagic Fever virus strain China</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>154120</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus strain BA88166</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11594</id>
+        <scientificName>Crimean-Congo hemorrhagic fever virus (isolate C68031)</scientificName>
+    </subSpecies>
+    <GeneBankPMID>22875964</GeneBankPMID>
+    <GeneBankPMID>29985929</GeneBankPMID>
+    <GeneBankPMID>25810550</GeneBankPMID>
+    <GeneBankPMID>22421137</GeneBankPMID>
+    <GeneBankPMID>23990053</GeneBankPMID>
+    <GeneBankPMID>28515298</GeneBankPMID>
+    <GeneBankPMID>30723154</GeneBankPMID>
+    <GeneBankPMID>22691790</GeneBankPMID>
+    <GeneBankPMID>29936152</GeneBankPMID>
+    <GeneBankPMID>25933376</GeneBankPMID>
+    <GeneBankPMID>12072526</GeneBankPMID>
+    <GeneBankPMID>15033561</GeneBankPMID>
+    <GeneBankPMID>28922369</GeneBankPMID>
+    <GeneBankPMID>22951837</GeneBankPMID>
+    <id>1980519</id>
+    <meSHTree>B04.820.480.750.565.400</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Crimean-Congo hemorrhagic fever virus
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  CCHFV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Crimean-Congo haemorrhagic fever virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Crimean-Congo hemorrhagic fever nairovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Crimean-Congo hemorrhagic virus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Crimean Congo Hemorrhagic Fever virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Crimean-Congo hemorrhagic fever virus</scientificName>
+</pathogen>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>35282</id>
+        <scientificName>South African passionfruit woodiness virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31735</id>
+        <scientificName>Passionfruit woodiness virus (strain tip bright)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31734</id>
+        <scientificName>Passionfruit woodiness virus (strain severe)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31733</id>
+        <scientificName>Passionfruit woodiness virus (strain mild)</scientificName>
+    </subSpecies>
+    <PMCID>7904197</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6805833</PMCID>
+    <PMCID>6211467</PMCID>
+    <PMCID>5923463</PMCID>
+    <PMCID>4073217</PMCID>
+    <PMCID>3951315</PMCID>
+    <PMCID>3917434</PMCID>
+    <PMCID>3875471</PMCID>
+    <PMCID>3784914</PMCID>
+    <PMCID>2429970</PMCID>
+    <PMCID>1456221</PMCID>
+    <GeneBankPMID>21076846</GeneBankPMID>
+    <id>31732</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PWV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Passion fruit woodiness potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Passionfruit woodiness virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Passion fruit woodiness virus</scientificName>
+</pathogen>

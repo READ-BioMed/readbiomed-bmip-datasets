@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1212764</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Paenibacillus popilliae NRRL B-2309
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Paenibacillus popilliae str. ATCC 14706
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Paenibacillus popilliae strain ATCC 14706
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Paenibacillus popilliae ATCC 14706</scientificName>
+    </subSpecies>
+    <PMCID>7953223</PMCID>
+    <PMCID>7783346</PMCID>
+    <PMCID>7822405</PMCID>
+    <PMCID>7764402</PMCID>
+    <PMCID>7647373</PMCID>
+    <PMCID>7448637</PMCID>
+    <PMCID>7325946</PMCID>
+    <PMCID>7253657</PMCID>
+    <PMCID>7448047</PMCID>
+    <PMCID>7067210</PMCID>
+    <PMCID>6978878</PMCID>
+    <PMCID>6841951</PMCID>
+    <PMCID>7015472</PMCID>
+    <PMCID>6530592</PMCID>
+    <PMCID>6392489</PMCID>
+    <PMCID>6314945</PMCID>
+    <PMCID>6232662</PMCID>
+    <PMCID>5996133</PMCID>
+    <PMCID>6052223</PMCID>
+    <PMCID>5864230</PMCID>
+    <PMCID>5812249</PMCID>
+    <PMCID>5612878</PMCID>
+    <PMCID>5519636</PMCID>
+    <PMCID>5451362</PMCID>
+    <PMCID>5441083</PMCID>
+    <PMCID>5428101</PMCID>
+    <PMCID>5371835</PMCID>
+    <PMCID>5244474</PMCID>
+    <PMCID>5308271</PMCID>
+    <PMCID>5233791</PMCID>
+    <PMCID>5134293</PMCID>
+    <PMCID>5198218</PMCID>
+    <PMCID>4807784</PMCID>
+    <PMCID>6371405</PMCID>
+    <PMCID>4743491</PMCID>
+    <PMCID>4510184</PMCID>
+    <PMCID>4372654</PMCID>
+    <PMCID>4280536</PMCID>
+    <PMCID>3930689</PMCID>
+    <PMCID>3903433</PMCID>
+    <PMCID>3774041</PMCID>
+    <PMCID>3571325</PMCID>
+    <PMCID>3464494</PMCID>
+    <PMCID>3578468</PMCID>
+    <PMCID>3426332</PMCID>
+    <PMCID>3368403</PMCID>
+    <PMCID>2976141</PMCID>
+    <PMCID>2832396</PMCID>
+    <PMCID>2632128</PMCID>
+    <PMCID>2955490</PMCID>
+    <PMCID>2258589</PMCID>
+    <PMCID>2227701</PMCID>
+    <PMCID>2151448</PMCID>
+    <PMCID>1538676</PMCID>
+    <PMCID>1428398</PMCID>
+    <PMCID>1251550</PMCID>
+    <PMCID>1168687</PMCID>
+    <PMCID>2620948</PMCID>
+    <PMCID>1065131</PMCID>
+    <PMCID>1364539</PMCID>
+    <PMCID>535252</PMCID>
+    <PMCID>529237</PMCID>
+    <PMCID>344443</PMCID>
+    <PMCID>321681</PMCID>
+    <PMCID>2732560</PMCID>
+    <PMCID>126810</PMCID>
+    <PMCID>95387</PMCID>
+    <PMCID>90411</PMCID>
+    <PMCID>89750</PMCID>
+    <PMCID>98935</PMCID>
+    <PMCID>98934</PMCID>
+    <PMCID>147395</PMCID>
+    <PMCID>106123</PMCID>
+    <PMCID>179258</PMCID>
+    <PMCID>1388478</PMCID>
+    <PMCID>201653</PMCID>
+    <PMCID>195317</PMCID>
+    <PMCID>526947</PMCID>
+    <PMCID>373552</PMCID>
+    <PMCID>242885</PMCID>
+    <PMCID>242597</PMCID>
+    <PMCID>187106</PMCID>
+    <PMCID>186964</PMCID>
+    <PMCID>245631</PMCID>
+    <PMCID>379835</PMCID>
+    <PMCID>379720</PMCID>
+    <PMCID>251662</PMCID>
+    <PMCID>251328</PMCID>
+    <PMCID>376488</PMCID>
+    <PMCID>376487</PMCID>
+    <PMCID>376760</PMCID>
+    <PMCID>378011</PMCID>
+    <PMCID>377787</PMCID>
+    <PMCID>249915</PMCID>
+    <PMCID>251948</PMCID>
+    <PMCID>546900</PMCID>
+    <PMCID>546863</PMCID>
+    <PMCID>276367</PMCID>
+    <PMCID>316205</PMCID>
+    <PMCID>546648</PMCID>
+    <PMCID>546644</PMCID>
+    <PMCID>1058385</PMCID>
+    <PMCID>305503</PMCID>
+    <PMCID>277007</PMCID>
+    <PMCID>276969</PMCID>
+    <PMCID>277857</PMCID>
+    <PMCID>290029</PMCID>
+    <PMCID>289972</PMCID>
+    <PMCID>289971</PMCID>
+    <id>78057</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus popilliae
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacillus popilliae Dutky 1940 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Paenibacillus popilliae (Dutky 1940) Pettersson et al. 1999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14706
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14706
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 28881
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:28881
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 106066
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:106066
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB 75017
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB:75017
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-2309
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-2309
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:2309
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacillus popilliae</scientificName>
+</pathogen>

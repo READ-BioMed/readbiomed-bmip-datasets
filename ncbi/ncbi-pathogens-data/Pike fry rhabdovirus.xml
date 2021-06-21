@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7149611</PMCID>
+        <PMCID>6466307</PMCID>
+        <id>1288359</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Grass carp rhabdovirus V76
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Grass carp virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5837305</PMCID>
+        <PMCID>4947412</PMCID>
+        <PMCID>4635997</PMCID>
+        <PMCID>4036773</PMCID>
+        <id>1288358</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tench rhabdovirus S64
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tench rhabdovirus</scientificName>
+    </subSpecies>
+    <PMCID>6641539</PMCID>
+    <PMCID>6460460</PMCID>
+    <PMCID>6076851</PMCID>
+    <PMCID>5831667</PMCID>
+    <PMCID>5228260</PMCID>
+    <PMCID>5837305</PMCID>
+    <PMCID>4947412</PMCID>
+    <PMCID>4347348</PMCID>
+    <PMCID>3911598</PMCID>
+    <PMCID>3755043</PMCID>
+    <PMCID>3280522</PMCID>
+    <PMCID>3174045</PMCID>
+    <PMCID>2987831</PMCID>
+    <PMCID>3010432</PMCID>
+    <PMCID>2937603</PMCID>
+    <GeneBankPMID>19603256</GeneBankPMID>
+    <id>219584</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  PFRV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Pike fry rhabdovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pike fry rhabdovirus</scientificName>
+</pathogen>

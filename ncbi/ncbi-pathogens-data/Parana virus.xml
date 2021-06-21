@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>5932378</PMCID>
+    <PMCID>5105672</PMCID>
+    <PMCID>4217180</PMCID>
+    <PMCID>3605688</PMCID>
+    <PMCID>3497045</PMCID>
+    <PMCID>3310648</PMCID>
+    <PMCID>3067847</PMCID>
+    <PMCID>2940758</PMCID>
+    <PMCID>1900301</PMCID>
+    <PMCID>422557</PMCID>
+    <GeneBankPMID>12504568</GeneBankPMID>
+    <GeneBankPMID>18602020</GeneBankPMID>
+    <id>2169994</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Paran mammarenavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parana arenavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parana mammarenavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parana virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Parana virus</scientificName>
+</pathogen>

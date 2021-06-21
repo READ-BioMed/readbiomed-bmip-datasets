@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1082745</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper leaf curl virus [India:Mirzapur:Pepper:2010]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper leaf curl virus isolate Mirzapur</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1082744</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper leaf curl virus [India:Maharajganj:Pepper:2010]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper leaf curl virus isolate Maharajganj</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1082743</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper leaf curl virus [India:Gorakhpur:Pepper:2010]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper leaf curl virus isolate Gorakhpur</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>436241</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper leaf curl virus [India:Varanasi:Pepper:2010]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper leaf curl virus isolate Varanasi</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223306</id>
+        <scientificName>Pepper leaf curl virus-[Malaysia]</scientificName>
+    </subSpecies>
+    <PMCID>7177692</PMCID>
+    <PMCID>6842478</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5465472</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5044472</PMCID>
+    <PMCID>4987506</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3002923</PMCID>
+    <PMCID>1242213</PMCID>
+    <id>83839</id>
+    <scientificName>Pepper leaf curl virus</scientificName>
+</pathogen>

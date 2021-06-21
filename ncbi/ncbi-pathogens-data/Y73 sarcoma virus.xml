@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>385048</id>
+            <scientificName>Avian sarcoma virus PR2257/16</scientificName>
+        </subSpecies>
+        <id>11879</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian sarcoma virus (STRAIN PR2257)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian sarcoma virus PR2257</scientificName>
+    </subSpecies>
+    <PMCID>6335849</PMCID>
+    <PMCID>6106745</PMCID>
+    <PMCID>5813887</PMCID>
+    <PMCID>4985355</PMCID>
+    <PMCID>3833384</PMCID>
+    <PMCID>3333181</PMCID>
+    <PMCID>290248</PMCID>
+    <PMCID>102264</PMCID>
+    <PMCID>115148</PMCID>
+    <GeneBankPMID>7931166</GeneBankPMID>
+    <id>11884</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  Y73SV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Avian sarcoma virus (STRAIN Y73)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian sarcoma virus Y73
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Y73 sarcoma virus</scientificName>
+</pathogen>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>557605</id>
+        <scientificName>Simian virus 12 strain wt100</scientificName>
+    </subSpecies>
+    <PMCID>7086986</PMCID>
+    <PMCID>6391308</PMCID>
+    <PMCID>5916966</PMCID>
+    <PMCID>5522929</PMCID>
+    <PMCID>4865250</PMCID>
+    <PMCID>4073331</PMCID>
+    <PMCID>3815707</PMCID>
+    <PMCID>2906133</PMCID>
+    <PMCID>2703155</PMCID>
+    <PMCID>1472594</PMCID>
+    <PMCID>1235855</PMCID>
+    <PMCID>254820</PMCID>
+    <GeneBankPMID>17658947</GeneBankPMID>
+    <GeneBankPMID>16189011</GeneBankPMID>
+    <GeneBankPMID>16731904</GeneBankPMID>
+    <id>46771</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SA12
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  SV12
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Baboon polyomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Baboon polyomavirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian agent 12
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian agent virus 12
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Simian virus 12</scientificName>
+</pathogen>

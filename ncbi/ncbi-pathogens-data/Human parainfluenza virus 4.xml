@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>11227</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 4b virus (STRAIN 68-333)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human parainfluenza virus 4b (strain 68-333)</scientificName>
+        </subSpecies>
+        <PMCID>7111929</PMCID>
+        <PMCID>7091405</PMCID>
+        <PMCID>7087998</PMCID>
+        <PMCID>3410871</PMCID>
+        <PMCID>3371782</PMCID>
+        <id>11226</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HPIV4b
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  PIV-4B
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 4b virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus type 4B
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parainfluenza virus type 4B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parainfluenza virus 4b</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>11225</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 4a virus (STRAIN TOSHIBA)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human parainfluenza virus 4a (strain Toshiba)</scientificName>
+        </subSpecies>
+        <PMCID>8000859</PMCID>
+        <PMCID>7771448</PMCID>
+        <PMCID>7091405</PMCID>
+        <PMCID>3410871</PMCID>
+        <PMCID>3371782</PMCID>
+        <GeneBankPMID>20963613</GeneBankPMID>
+        <id>11224</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HPIV4a
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  PIV-4A
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 4a virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus type 4A
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parainfluenza virus type 4A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parainfluenza virus 4a</scientificName>
+    </subSpecies>
+    <PMCID>7377618</PMCID>
+    <PMCID>6691886</PMCID>
+    <id>2560526</id>
+    <meSHTree>B04.820.480.937.600.650.750.717</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Human rubulavirus 4
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  HPIV4
+ &lt;/Acronym&gt; 
+ &lt;Inpart&gt;
+  human parainfluenza virus
+ &lt;/Inpart&gt; 
+ &lt;EquivalentName&gt;
+  HPIV type 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus type 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parainfluenza virus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human parainfluenza virus 4</scientificName>
+</pathogen>

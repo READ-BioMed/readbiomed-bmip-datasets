@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7086667</PMCID>
+    <PMCID>6683460</PMCID>
+    <PMCID>6641539</PMCID>
+    <PMCID>6460460</PMCID>
+    <PMCID>6076851</PMCID>
+    <PMCID>5892904</PMCID>
+    <PMCID>5656794</PMCID>
+    <PMCID>5831667</PMCID>
+    <PMCID>5837305</PMCID>
+    <PMCID>4947412</PMCID>
+    <PMCID>4635997</PMCID>
+    <PMCID>3288052</PMCID>
+    <PMCID>2937603</PMCID>
+    <GeneBankPMID>29147791</GeneBankPMID>
+    <id>348823</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  MIMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Iranian maize mosaic nucleorhabdovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Maize Iranian mosaic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Maize Iranian mosaic virus</scientificName>
+</pathogen>

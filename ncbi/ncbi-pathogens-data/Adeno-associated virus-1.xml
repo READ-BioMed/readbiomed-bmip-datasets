@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>68558</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  adeno-associated virus type 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Adeno-associated virus - 6</scientificName>
+    </subSpecies>
+    <GeneBankPMID>10196295</GeneBankPMID>
+    <GeneBankPMID>17142915</GeneBankPMID>
+    <GeneBankPMID>23427155</GeneBankPMID>
+    <GeneBankPMID>20974479</GeneBankPMID>
+    <id>85106</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  adeno-associated virus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Adeno-associated virus-1</scientificName>
+</pathogen>

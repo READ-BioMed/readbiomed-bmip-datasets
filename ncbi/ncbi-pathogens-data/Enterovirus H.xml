@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>442853</id>
+        <scientificName>Simian enterovirus SV28</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>442852</id>
+        <scientificName>Simian enterovirus SA4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <GeneBankPMID>18024906</GeneBankPMID>
+        <id>442851</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian picornavirus 7'
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian virus 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian enterovirus SV4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>172028</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian virus 28
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian picornavirus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>120087</id>
+        <scientificName>A-2 plaque virus</scientificName>
+    </subSpecies>
+    <PMCID>7728385</PMCID>
+    <PMCID>7151875</PMCID>
+    <PMCID>6834195</PMCID>
+    <PMCID>6607526</PMCID>
+    <PMCID>6443042</PMCID>
+    <PMCID>5633025</PMCID>
+    <PMCID>5471348</PMCID>
+    <PMCID>4682392</PMCID>
+    <PMCID>3988102</PMCID>
+    <PMCID>3381551</PMCID>
+    <PMCID>2975644</PMCID>
+    <PMCID>4310689</PMCID>
+    <PMCID>2290972</PMCID>
+    <GeneBankPMID>10873759</GeneBankPMID>
+    <id>310907</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human enterovirus E
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian enterovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Enterovirus H</scientificName>
+</pathogen>

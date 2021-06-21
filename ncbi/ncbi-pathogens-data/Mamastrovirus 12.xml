@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>19264622</GeneBankPMID>
+        <id>627584</id>
+        <scientificName>Bat astrovirus Tm/Guangxi/LD71/2007</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>5454415</PMCID>
+    <PMCID>4188187</PMCID>
+    <id>1239576</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mamastrovirus-12
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mamastrovirus 12</scientificName>
+</pathogen>

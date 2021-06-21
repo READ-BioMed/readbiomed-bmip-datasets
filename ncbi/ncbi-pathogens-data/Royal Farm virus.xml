@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7933788</PMCID>
+        <PMCID>7921595</PMCID>
+        <PMCID>7696730</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7158200</PMCID>
+        <PMCID>7106027</PMCID>
+        <PMCID>6620835</PMCID>
+        <PMCID>6551375</PMCID>
+        <PMCID>6502878</PMCID>
+        <PMCID>6466055</PMCID>
+        <PMCID>6302355</PMCID>
+        <PMCID>6171711</PMCID>
+        <PMCID>5866268</PMCID>
+        <PMCID>5062810</PMCID>
+        <PMCID>4779231</PMCID>
+        <PMCID>4645344</PMCID>
+        <PMCID>4540281</PMCID>
+        <PMCID>4582674</PMCID>
+        <PMCID>3863887</PMCID>
+        <PMCID>3622304</PMCID>
+        <PMCID>3899155</PMCID>
+        <PMCID>3421761</PMCID>
+        <PMCID>3285191</PMCID>
+        <PMCID>3186760</PMCID>
+        <PMCID>4276368</PMCID>
+        <PMCID>2952261</PMCID>
+        <PMCID>3918146</PMCID>
+        <PMCID>2707012</PMCID>
+        <PMCID>2263041</PMCID>
+        <PMCID>2851496</PMCID>
+        <PMCID>2206675</PMCID>
+        <id>64287</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  KSIV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Karshi virus</scientificName>
+    </subSpecies>
+    <PMCID>7921595</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7310938</PMCID>
+    <PMCID>7150051</PMCID>
+    <PMCID>7158200</PMCID>
+    <PMCID>6819943</PMCID>
+    <PMCID>6466055</PMCID>
+    <PMCID>6302355</PMCID>
+    <PMCID>5866268</PMCID>
+    <PMCID>5526847</PMCID>
+    <PMCID>4645344</PMCID>
+    <PMCID>4540281</PMCID>
+    <PMCID>4582674</PMCID>
+    <PMCID>3899155</PMCID>
+    <PMCID>3421761</PMCID>
+    <PMCID>3285191</PMCID>
+    <PMCID>3310660</PMCID>
+    <PMCID>4276368</PMCID>
+    <PMCID>2952261</PMCID>
+    <PMCID>2787094</PMCID>
+    <PMCID>2275255</PMCID>
+    <PMCID>2851496</PMCID>
+    <PMCID>2206675</PMCID>
+    <GeneBankPMID>17169393</GeneBankPMID>
+    <id>64288</id>
+    <scientificName>Royal Farm virus</scientificName>
+</pathogen>

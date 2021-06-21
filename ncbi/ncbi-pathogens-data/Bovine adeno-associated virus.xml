@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>296148</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  AAV-Go.1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Caprine adeno-associated virus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Adeno-associated virus-Go.1</scientificName>
+        </subSpecies>
+        <id>1511893</id>
+        <scientificName>Caprine adeno-associated virus</scientificName>
+    </subSpecies>
+    <GeneBankPMID>15163744</GeneBankPMID>
+    <id>256548</id>
+    <scientificName>Bovine adeno-associated virus</scientificName>
+</pathogen>

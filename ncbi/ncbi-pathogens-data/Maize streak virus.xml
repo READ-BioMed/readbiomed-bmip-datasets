@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7086975</PMCID>
+        <id>697193</id>
+        <scientificName>Setaria streak virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>559498</id>
+        <scientificName>Maize streak virus - A[Bambui]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268941</id>
+        <scientificName>Maize streak virus - Reunion [SP1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268940</id>
+        <scientificName>Maize streak virus - A[Vaalhart maize]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268411</id>
+        <scientificName>Maize streak virus - B[Vaalhart wheat]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268409</id>
+        <scientificName>Maize streak virus - B[Tas]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268344</id>
+        <scientificName>Maize streak virus - [Set]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268343</id>
+        <scientificName>Maize streak virus - [Raw]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268342</id>
+        <scientificName>Maize streak virus - Reunion [SP2R7]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268341</id>
+        <scientificName>Maize streak virus - Reunion [SP2R13]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268340</id>
+        <scientificName>Maize streak virus - Reunion [SP2R12]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268339</id>
+        <scientificName>Maize streak virus - Reunion [SP2R11]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268338</id>
+        <scientificName>Maize streak virus - Reunion [SP1R10]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268337</id>
+        <scientificName>Maize streak virus - Reunion [N2AR8]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268336</id>
+        <scientificName>Maize streak virus - Reunion [N2AR6]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268335</id>
+        <scientificName>Maize streak virus - Reunion [N2AR5]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268334</id>
+        <scientificName>Maize streak virus - Reunion [N2AR4]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268333</id>
+        <scientificName>Maize streak virus - Reunion [N2AR3]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268332</id>
+        <scientificName>Maize streak virus - Reunion [N2AR2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268331</id>
+        <scientificName>Maize streak virus - E[Pat]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268330</id>
+        <scientificName>Maize streak virus - B[Mom]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268329</id>
+        <scientificName>Maize streak virus - B[Jam]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268328</id>
+        <scientificName>Maize streak virus - A[South Africa]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268327</id>
+        <scientificName>Maize streak virus - A[Sag]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268326</id>
+        <scientificName>Maize streak virus - A[Nigeria1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268325</id>
+        <scientificName>Maize streak virus - A[MatC]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268324</id>
+        <scientificName>Maize streak virus - A[MatB]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268323</id>
+        <scientificName>Maize streak virus - A[MatA]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268322</id>
+        <scientificName>Maize streak virus - A[MakD]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268321</id>
+        <scientificName>Maize streak virus - A[Kom]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268320</id>
+        <scientificName>Maize streak virus - A[Km]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268319</id>
+        <scientificName>Maize streak virus - A[Kenya]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268318</id>
+        <scientificName>Maize streak virus - A[KA]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268317</id>
+        <scientificName>Maize streak virus - A[Gat]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>11601896</GeneBankPMID>
+        <id>268316</id>
+        <scientificName>Maize streak virus - A[Ama]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268315</id>
+        <scientificName>Maize streak virus - [Reunion2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10824</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Maize streak virus (SOUTH-AFRICAN ISOLATE)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Maize streak virus - [South Africa]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10823</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Maize streak virus (NIGERIAN ISOLATE)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Maize streak virus - [Nigeria]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10822</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Maize streak virus (KENYAN ISOLATE)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Maize streak virus - [Kenya]</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7788099</PMCID>
+    <PMCID>7695315</PMCID>
+    <PMCID>7680940</PMCID>
+    <PMCID>7680935</PMCID>
+    <PMCID>7738672</PMCID>
+    <PMCID>7319413</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7128496</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7661706</PMCID>
+    <PMCID>7459587</PMCID>
+    <PMCID>7297916</PMCID>
+    <PMCID>7214393</PMCID>
+    <PMCID>7150099</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>7121818</PMCID>
+    <PMCID>7102708</PMCID>
+    <PMCID>6981310</PMCID>
+    <PMCID>6917689</PMCID>
+    <PMCID>6917682</PMCID>
+    <PMCID>6953188</PMCID>
+    <PMCID>6480954</PMCID>
+    <PMCID>6445404</PMCID>
+    <PMCID>6523588</PMCID>
+    <PMCID>6109318</PMCID>
+    <PMCID>6032925</PMCID>
+    <PMCID>5966901</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>5898736</PMCID>
+    <PMCID>5800681</PMCID>
+    <PMCID>5766254</PMCID>
+    <PMCID>5659608</PMCID>
+    <PMCID>5707518</PMCID>
+    <PMCID>5622471</PMCID>
+    <PMCID>6961509</PMCID>
+    <PMCID>5534050</PMCID>
+    <PMCID>5407763</PMCID>
+    <PMCID>5391787</PMCID>
+    <PMCID>5802298</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>5253543</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>4667217</PMCID>
+    <PMCID>4685698</PMCID>
+    <PMCID>4606516</PMCID>
+    <PMCID>4598821</PMCID>
+    <PMCID>4594918</PMCID>
+    <PMCID>4584297</PMCID>
+    <PMCID>4585057</PMCID>
+    <PMCID>4419787</PMCID>
+    <PMCID>4370823</PMCID>
+    <PMCID>4311259</PMCID>
+    <PMCID>4383986</PMCID>
+    <PMCID>4253603</PMCID>
+    <PMCID>4148390</PMCID>
+    <PMCID>4141833</PMCID>
+    <PMCID>4494219</PMCID>
+    <PMCID>4111361</PMCID>
+    <PMCID>4074936</PMCID>
+    <PMCID>4054350</PMCID>
+    <PMCID>4055178</PMCID>
+    <PMCID>3987804</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3917440</PMCID>
+    <PMCID>3793123</PMCID>
+    <PMCID>3754110</PMCID>
+    <PMCID>3673993</PMCID>
+    <PMCID>3662875</PMCID>
+    <PMCID>3648162</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3640525</PMCID>
+    <PMCID>3556111</PMCID>
+    <PMCID>3528285</PMCID>
+    <PMCID>3286440</PMCID>
+    <PMCID>3280948</PMCID>
+    <PMCID>3217939</PMCID>
+    <PMCID>3214926</PMCID>
+    <PMCID>3174254</PMCID>
+    <PMCID>3187698</PMCID>
+    <PMCID>3165777</PMCID>
+    <PMCID>3095596</PMCID>
+    <PMCID>3088723</PMCID>
+    <PMCID>3020519</PMCID>
+    <PMCID>2937624</PMCID>
+    <PMCID>6640434</PMCID>
+    <PMCID>2793511</PMCID>
+    <PMCID>2885043</PMCID>
+    <PMCID>2777162</PMCID>
+    <PMCID>6640477</PMCID>
+    <PMCID>2719613</PMCID>
+    <PMCID>2702318</PMCID>
+    <PMCID>2681986</PMCID>
+    <PMCID>2666655</PMCID>
+    <PMCID>2885065</PMCID>
+    <PMCID>2613721</PMCID>
+    <PMCID>2630985</PMCID>
+    <PMCID>2772182</PMCID>
+    <PMCID>2572610</PMCID>
+    <PMCID>2886952</PMCID>
+    <PMCID>2430021</PMCID>
+    <PMCID>2628544</PMCID>
+    <PMCID>6640236</PMCID>
+    <PMCID>2092379</PMCID>
+    <PMCID>2224568</PMCID>
+    <PMCID>2999427</PMCID>
+    <PMCID>1900275</PMCID>
+    <PMCID>1262190</PMCID>
+    <PMCID>1180858</PMCID>
+    <PMCID>1081307</PMCID>
+    <PMCID>554758</PMCID>
+    <PMCID>546594</PMCID>
+    <PMCID>535215</PMCID>
+    <PMCID>421685</PMCID>
+    <PMCID>151198</PMCID>
+    <PMCID>103986</PMCID>
+    <PMCID>110531</PMCID>
+    <PMCID>400910</PMCID>
+    <PMCID>457141</PMCID>
+    <GeneBankPMID>2829117</GeneBankPMID>
+    <GeneBankPMID>23679984</GeneBankPMID>
+    <MeSHPMID>33502595</MeSHPMID>
+    <MeSHPMID>33184360</MeSHPMID>
+    <MeSHPMID>32506147</MeSHPMID>
+    <MeSHPMID>31939738</MeSHPMID>
+    <MeSHPMID>28192163</MeSHPMID>
+    <MeSHPMID>27815694</MeSHPMID>
+    <MeSHPMID>26081946</MeSHPMID>
+    <MeSHPMID>25344899</MeSHPMID>
+    <MeSHPMID>25166274</MeSHPMID>
+    <MeSHPMID>24796552</MeSHPMID>
+    <MeSHPMID>24789787</MeSHPMID>
+    <MeSHPMID>24524215</MeSHPMID>
+    <MeSHPMID>23679984</MeSHPMID>
+    <MeSHPMID>23268599</MeSHPMID>
+    <MeSHPMID>22136133</MeSHPMID>
+    <MeSHPMID>21715477</MeSHPMID>
+    <MeSHPMID>21653753</MeSHPMID>
+    <MeSHPMID>21191806</MeSHPMID>
+    <MeSHPMID>20447288</MeSHPMID>
+    <MeSHPMID>20078771</MeSHPMID>
+    <MeSHPMID>20032206</MeSHPMID>
+    <MeSHPMID>19756359</MeSHPMID>
+    <MeSHPMID>19692547</MeSHPMID>
+    <MeSHPMID>19218220</MeSHPMID>
+    <MeSHPMID>19151912</MeSHPMID>
+    <MeSHPMID>18816368</MeSHPMID>
+    <MeSHPMID>18753214</MeSHPMID>
+    <MeSHPMID>18489800</MeSHPMID>
+    <MeSHPMID>18370271</MeSHPMID>
+    <MeSHPMID>17947543</MeSHPMID>
+    <MeSHPMID>17924935</MeSHPMID>
+    <MeSHPMID>17485545</MeSHPMID>
+    <MeSHPMID>17218505</MeSHPMID>
+    <MeSHPMID>17174409</MeSHPMID>
+    <MeSHPMID>17170465</MeSHPMID>
+    <MeSHPMID>16244707</MeSHPMID>
+    <MeSHPMID>15827145</MeSHPMID>
+    <MeSHPMID>15722543</MeSHPMID>
+    <MeSHPMID>15722542</MeSHPMID>
+    <MeSHPMID>15165828</MeSHPMID>
+    <MeSHPMID>12668274</MeSHPMID>
+    <MeSHPMID>12642104</MeSHPMID>
+    <MeSHPMID>12350349</MeSHPMID>
+    <MeSHPMID>11714986</MeSHPMID>
+    <MeSHPMID>15938050</MeSHPMID>
+    <id>10821</id>
+    <meSHTree>B04.280.350.500, B04.715.270.500</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MSV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Maize streak virus</scientificName>
+</pathogen>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1110514</id>
+        <scientificName>Dicentrarchus labrax betanodavirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>273299</id>
+        <scientificName>Solea senegalensis nervous necrosis virus</scientificName>
+    </subSpecies>
+    <PMCID>7695296</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7149379</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7371229</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>7149611</PMCID>
+    <PMCID>7121818</PMCID>
+    <PMCID>6755403</PMCID>
+    <PMCID>6312370</PMCID>
+    <PMCID>6188560</PMCID>
+    <PMCID>6046410</PMCID>
+    <PMCID>4932916</PMCID>
+    <PMCID>4705746</PMCID>
+    <PMCID>4227794</PMCID>
+    <PMCID>4118809</PMCID>
+    <PMCID>4050099</PMCID>
+    <PMCID>3952952</PMCID>
+    <PMCID>3268030</PMCID>
+    <PMCID>3037892</PMCID>
+    <PMCID>2878170</PMCID>
+    <PMCID>3017585</PMCID>
+    <PMCID>2714649</PMCID>
+    <PMCID>2140117</PMCID>
+    <PMCID>2693410</PMCID>
+    <PMCID>254280</PMCID>
+    <PMCID>110865</PMCID>
+    <GeneBankPMID>11602777</GeneBankPMID>
+    <id>35297</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SJNNV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Striped jack nervous necrosis virus</scientificName>
+</pathogen>

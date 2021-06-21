@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1127768</id>
+        <scientificName>Tomato Chino La Paz virus -SLP 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269300</id>
+        <scientificName>Tomato chino La Paz virus - [Baja California Sur]</scientificName>
+    </subSpecies>
+    <PMCID>6344024</PMCID>
+    <PMCID>3967154</PMCID>
+    <PMCID>3648196</PMCID>
+    <id>240492</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato chino La Paz geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato chino La Paz virus</scientificName>
+</pathogen>

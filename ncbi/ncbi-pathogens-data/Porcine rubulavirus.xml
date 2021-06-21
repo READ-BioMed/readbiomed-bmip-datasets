@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8057016</PMCID>
+    <PMCID>7518572</PMCID>
+    <PMCID>7149509</PMCID>
+    <PMCID>7114181</PMCID>
+    <PMCID>7113651</PMCID>
+    <PMCID>6548425</PMCID>
+    <PMCID>4653323</PMCID>
+    <PMCID>4281239</PMCID>
+    <PMCID>3661469</PMCID>
+    <PMCID>99025</PMCID>
+    <GeneBankPMID>17385069</GeneBankPMID>
+    <GeneBankPMID>26546155</GeneBankPMID>
+    <id>2560645</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  PorPV
+ &lt;/GenbankAcronym&gt; 
+ &lt;Synonym&gt;
+  Porcine rubulavirus
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  LPMV
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  PorPV-LPMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  La Piedad, Michoacan virus LPMV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  La Piedad-Michoacan-Mexico virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  La-Piedad-Michoacan-Mexico virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  porcine paramyxovirus La Piedad Michoacan
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   La Piedad
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Porcine rubulavirus</scientificName>
+</pathogen>

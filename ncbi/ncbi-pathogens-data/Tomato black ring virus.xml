@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>283677</id>
+        <scientificName>Tomato black ring virus (strain MJ)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12278</id>
+        <scientificName>Tomato black ring virus (STRAIN L)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12277</id>
+        <scientificName>Tomato black ring virus (STRAIN E)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12276</id>
+        <scientificName>Tomato black ring virus (STRAIN C)</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7009144</PMCID>
+    <PMCID>7008910</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7172257</PMCID>
+    <PMCID>7097797</PMCID>
+    <PMCID>7009162</PMCID>
+    <PMCID>7008834</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7077289</PMCID>
+    <PMCID>6283545</PMCID>
+    <PMCID>6186116</PMCID>
+    <PMCID>6095521</PMCID>
+    <PMCID>5923498</PMCID>
+    <PMCID>5664137</PMCID>
+    <PMCID>5608397</PMCID>
+    <PMCID>5538446</PMCID>
+    <PMCID>5538442</PMCID>
+    <PMCID>5329089</PMCID>
+    <PMCID>5446823</PMCID>
+    <PMCID>6638295</PMCID>
+    <PMCID>4726821</PMCID>
+    <PMCID>4705557</PMCID>
+    <PMCID>4729743</PMCID>
+    <PMCID>4356611</PMCID>
+    <PMCID>4262298</PMCID>
+    <PMCID>4226957</PMCID>
+    <PMCID>4050035</PMCID>
+    <PMCID>4188193</PMCID>
+    <PMCID>4028359</PMCID>
+    <PMCID>3185516</PMCID>
+    <PMCID>369224</PMCID>
+    <PMCID>181331</PMCID>
+    <PMCID>140641</PMCID>
+    <GeneBankPMID>15045566</GeneBankPMID>
+    <id>12275</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TBRV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  nepovirus tomato blackring virus TBRV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato black ring virus</scientificName>
+</pathogen>

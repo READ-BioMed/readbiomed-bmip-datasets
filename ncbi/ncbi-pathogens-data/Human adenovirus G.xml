@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>25410856</GeneBankPMID>
+        <id>1574629</id>
+        <scientificName>Rhesus adenovirus 53</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>25410856</GeneBankPMID>
+        <id>1574628</id>
+        <scientificName>Rhesus adenovirus 52</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>25410856</GeneBankPMID>
+        <id>1574627</id>
+        <scientificName>Rhesus adenovirus 51</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6267279</PMCID>
+        <PMCID>5939068</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>3602176</PMCID>
+        <id>332179</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus 52
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus serotype 52
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus 52</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7914820</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4124145</PMCID>
+        <PMCID>3490196</PMCID>
+        <PMCID>3020443</PMCID>
+        <PMCID>1900323</PMCID>
+        <GeneBankPMID>28009298</GeneBankPMID>
+        <GeneBankPMID>15914845</GeneBankPMID>
+        <id>310540</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SAdV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus SV-1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7404033</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>3594325</PMCID>
+        <GeneBankPMID>26370792</GeneBankPMID>
+        <id>38430</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 11</scientificName>
+    </subSpecies>
+    <PMCID>7086975</PMCID>
+    <PMCID>7354429</PMCID>
+    <PMCID>5939068</PMCID>
+    <PMCID>4984651</PMCID>
+    <PMCID>4754553</PMCID>
+    <PMCID>4587935</PMCID>
+    <PMCID>3634605</PMCID>
+    <PMCID>3187507</PMCID>
+    <id>536079</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus G
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human adenovirus G</scientificName>
+</pathogen>

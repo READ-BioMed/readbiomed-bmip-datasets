@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6920425</PMCID>
+        <PMCID>5488374</PMCID>
+        <id>1435294</id>
+        <scientificName>Koyama Hill virus</scientificName>
+    </subSpecies>
+    <PMCID>7077223</PMCID>
+    <PMCID>6920425</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>6587591</PMCID>
+    <PMCID>6863193</PMCID>
+    <PMCID>6188560</PMCID>
+    <PMCID>5488374</PMCID>
+    <PMCID>4806581</PMCID>
+    <PMCID>4546636</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>4191977</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3901712</PMCID>
+    <PMCID>3754974</PMCID>
+    <PMCID>3998237</PMCID>
+    <PMCID>3163642</PMCID>
+    <PMCID>3122741</PMCID>
+    <GeneBankPMID>21897849</GeneBankPMID>
+    <id>40060</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Umatilla virus group
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Umatilla virus</scientificName>
+</pathogen>

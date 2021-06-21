@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6466370</PMCID>
+        <PMCID>5977215</PMCID>
+        <PMCID>5665172</PMCID>
+        <PMCID>5488374</PMCID>
+        <PMCID>4191977</PMCID>
+        <PMCID>5972349</PMCID>
+        <PMCID>3870893</PMCID>
+        <PMCID>3305294</PMCID>
+        <PMCID>3289656</PMCID>
+        <PMCID>3321788</PMCID>
+        <id>1170505</id>
+        <scientificName>Tilligerry virus</scientificName>
+    </subSpecies>
+    <PMCID>7464351</PMCID>
+    <PMCID>7356041</PMCID>
+    <PMCID>7077223</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>5488374</PMCID>
+    <PMCID>4546636</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>4191977</PMCID>
+    <PMCID>5972349</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3901712</PMCID>
+    <PMCID>3870893</PMCID>
+    <PMCID>3754974</PMCID>
+    <PMCID>3305294</PMCID>
+    <PMCID>2941451</PMCID>
+    <PMCID>2887561</PMCID>
+    <GeneBankPMID>22438872</GeneBankPMID>
+    <id>40056</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  EUBV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Eubenangee virus group
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Eubenangee virus</scientificName>
+</pathogen>

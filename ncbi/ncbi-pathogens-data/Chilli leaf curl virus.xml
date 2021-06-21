@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1507457</id>
+        <scientificName>Chilli leaf curl Virus - [Pakistan:2011]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1481460</id>
+        <scientificName>Chili leaf curl virus-Oman</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1472014</id>
+        <scientificName>Chilli leaf curl Oman virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1397673</id>
+            <scientificName>Chilli leaf curl virus-India [Anand:Tomato:2012]</scientificName>
+        </subSpecies>
+        <id>1219876</id>
+        <scientificName>Chilli leaf curl virus-India</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1137751</id>
+        <scientificName>Chilli leaf curl virus [India:UP:Lucknow:Capsicum sp.11b:2011]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036263</id>
+        <scientificName>Chilli leaf curl virus-Naj 3 [India:New Delhi:Papaya:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036262</id>
+        <scientificName>Chilli leaf curl virus-Panipat 4 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036261</id>
+        <scientificName>Chilli leaf curl virus-Panipat 2 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036260</id>
+        <scientificName>Chilli leaf curl virus-Panipat 1 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>913599</id>
+        <scientificName>Chilli leaf curl virus-Noida [India:Uttar Pradesh:Papaya:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>913598</id>
+        <scientificName>Chilli leaf curl virus-Najafgarh2 [India:New Delhi:Papaya:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>913597</id>
+        <scientificName>Chilli leaf curl virus-Panipat1 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>913596</id>
+        <scientificName>Chilli leaf curl virus-HD [India:New Delhi:Papaya:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>913595</id>
+        <scientificName>Chilli leaf curl virus-DU [India:New Delhi:Papaya:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>910428</id>
+        <scientificName>Chilli leaf curl virus-India [India:Papaya:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>749223</id>
+        <scientificName>Chilli leaf curl virus-[Soyla:India:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1912322</id>
+            <scientificName>Chilli leaf curl Multan virus - Sri Lanka isolate</scientificName>
+        </subSpecies>
+        <PMCID>7008886</PMCID>
+        <id>546025</id>
+        <scientificName>Chilli leaf curl Multan virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>346672</id>
+        <scientificName>Chilli leaf curl virus-[Jessore]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7086667</PMCID>
+        <PMCID>7086627</PMCID>
+        <id>341713</id>
+        <scientificName>Pepper leaf curl Pakistan virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>340896</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Chilli leaf curl Virus - Pakistan
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Chilli leaf curl virus-[Pakistan]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222451</id>
+        <scientificName>Chilli leaf curl virus-[Multan]</scientificName>
+    </subSpecies>
+    <PMCID>7702697</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7177692</PMCID>
+    <PMCID>7103024</PMCID>
+    <PMCID>7008883</PMCID>
+    <PMCID>7076104</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6842478</PMCID>
+    <PMCID>6808502</PMCID>
+    <PMCID>6792133</PMCID>
+    <PMCID>6745583</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6122796</PMCID>
+    <PMCID>5681951</PMCID>
+    <PMCID>5597257</PMCID>
+    <PMCID>5465472</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4758306</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>3550559</PMCID>
+    <PMCID>3550815</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>2887567</PMCID>
+    <id>172278</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Chili leaf curl virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Chilli leaf curl geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Chilli leaf curl virus</scientificName>
+</pathogen>

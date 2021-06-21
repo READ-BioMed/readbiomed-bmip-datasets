@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>5808220</PMCID>
+    <PMCID>6637978</PMCID>
+    <PMCID>5329089</PMCID>
+    <PMCID>4152289</PMCID>
+    <PMCID>3126195</PMCID>
+    <PMCID>181331</PMCID>
+    <PMCID>140641</PMCID>
+    <GeneBankPMID>2798129</GeneBankPMID>
+    <GeneBankPMID>2798128</GeneBankPMID>
+    <id>12273</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  GCMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Hungarian grapevine chrome mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  nepovirus grapevine chrome mosaic virus GCMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Grapevine chrome mosaic virus</scientificName>
+</pathogen>

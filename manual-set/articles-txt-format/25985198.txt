@@ -1,0 +1,11 @@
+
+Fast and sensitive detection of an anthrax biomarker using SERS-based solenoid microfluidic sensor.
+
+We report the application of a fully automated surface-enhanced Raman scattering (SERS)-based solenoid-embedded microfluidic device to the quantitative and sensitive detection of anthrax biomarker poly-γ-D-glutamic acid (PGA) in solution. 
+Analysis is based on the competitive reaction between PGA and PGA-conjugated gold nanoparticles with anti-PGA-immobilized magnetic beads within a microfluidic environment. 
+Magnetic immunocomplexes are trapped by yoke-type solenoids embedded within the device, and their SERS signals were directly measured and analyzed. 
+To improve the accuracy of measurement process, external standard values for PGA-free serum were also measured through use of a control channel. 
+This additional measurement greatly improves the reliability of the assay by minimizing the influence of extraneous experimental variables. 
+The limit of detection (LOD) of PGA in serum, determined by our SERS-based microfluidic sensor, is estimated to be 100 pg/mL. 
+We believe that the defined method represents a valuable analytical tool for the detection of anthrax-related aqueous samples.
+

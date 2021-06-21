@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>631718</id>
+        <scientificName>Papaya leaf curl China virus GX4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>623710</id>
+        <scientificName>Papaya leaf curl China virus HeNZM1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329287</id>
+        <scientificName>Papaya leaf curl China virus - [G99]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329286</id>
+        <scientificName>Papaya leaf curl China virus - [G98]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>298602</id>
+        <scientificName>Papaya leaf curl China virus -[G51]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>298601</id>
+        <scientificName>Papaya leaf curl China virus -[G50]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>298600</id>
+        <scientificName>Papaya leaf curl China virus -[G48]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>298599</id>
+        <scientificName>Papaya leaf curl China virus -[G47]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>292505</id>
+        <scientificName>Papaya leaf curl China virus -[G4]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269112</id>
+        <scientificName>Papaya leaf curl China virus - [G30]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269111</id>
+        <scientificName>Papaya leaf curl China virus - [G12]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269110</id>
+        <scientificName>Papaya leaf curl China virus - [G10]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269109</id>
+        <scientificName>Papaya leaf curl China virus - [G8]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269108</id>
+        <scientificName>Papaya leaf curl China virus - [G2]</scientificName>
+    </subSpecies>
+    <PMCID>7953161</PMCID>
+    <PMCID>6413443</PMCID>
+    <PMCID>6367155</PMCID>
+    <PMCID>5800681</PMCID>
+    <PMCID>5691625</PMCID>
+    <PMCID>5495249</PMCID>
+    <PMCID>5082773</PMCID>
+    <PMCID>4704257</PMCID>
+    <PMCID>4614018</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>2816314</PMCID>
+    <GeneBankPMID>15550769</GeneBankPMID>
+    <id>229634</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya leaf curl virus-[China]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Papaya leaf curl China virus</scientificName>
+</pathogen>

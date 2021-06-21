@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7834624</PMCID>
+        <PMCID>7330577</PMCID>
+        <PMCID>7738467</PMCID>
+        <PMCID>5996824</PMCID>
+        <PMCID>3942028</PMCID>
+        <PMCID>4181478</PMCID>
+        <id>714978</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Human adenovirus type 55
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus B55
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus 55</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585096</id>
+        <scientificName>Simian adenovirus 41.2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585095</id>
+        <scientificName>Simian adenovirus 41.1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585090</id>
+        <scientificName>Simian adenovirus 35.2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585089</id>
+        <scientificName>Simian adenovirus 35.1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585086</id>
+        <scientificName>Simian adenovirus 28.2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585085</id>
+        <scientificName>Simian adenovirus 28.1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585084</id>
+        <scientificName>Simian adenovirus 27.2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>585083</id>
+        <scientificName>Simian adenovirus 27.1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7096189</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>2989969</PMCID>
+        <id>585081</id>
+        <scientificName>Simian adenovirus 47</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <PMCID>2989969</PMCID>
+        <id>585080</id>
+        <scientificName>Simian adenovirus 46</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <PMCID>2989969</PMCID>
+        <id>585067</id>
+        <scientificName>Simian adenovirus 33</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7404033</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>2989969</PMCID>
+        <id>585066</id>
+        <scientificName>Simian adenovirus 32</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <PMCID>2989969</PMCID>
+        <id>585063</id>
+        <scientificName>Simian adenovirus 29</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1461395</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus 11+34 recombinant
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 11+34</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>7404033</PMCID>
+            <PMCID>4984651</PMCID>
+            <PMCID>4124145</PMCID>
+            <PMCID>2989969</PMCID>
+            <PMCID>1868475</PMCID>
+            <id>198503</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SAdV-21
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 21
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Simian adenovirus 21</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <id>35261</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 34a
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus Ad34a
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 34a</scientificName>
+            </subSpecies>
+            <PMCID>4984651</PMCID>
+            <PMCID>2992506</PMCID>
+            <id>10548</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 34
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h34
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 34</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <id>343463</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 11 (Ad11A) (strain BC34)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 11a
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 11a</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>343462</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 11 (Ad11P) (strain Slobiski)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 11p
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 11p</scientificName>
+            </subSpecies>
+            <PMCID>7874146</PMCID>
+            <PMCID>7110468</PMCID>
+            <PMCID>6938405</PMCID>
+            <PMCID>6549382</PMCID>
+            <PMCID>6443017</PMCID>
+            <PMCID>5866319</PMCID>
+            <PMCID>4984651</PMCID>
+            <PMCID>4628028</PMCID>
+            <PMCID>4556874</PMCID>
+            <PMCID>4500664</PMCID>
+            <PMCID>5781949</PMCID>
+            <PMCID>4048159</PMCID>
+            <PMCID>4036538</PMCID>
+            <PMCID>4296995</PMCID>
+            <PMCID>3594325</PMCID>
+            <PMCID>3499797</PMCID>
+            <PMCID>3187507</PMCID>
+            <PMCID>3144912</PMCID>
+            <PMCID>2992506</PMCID>
+            <PMCID>2989969</PMCID>
+            <PMCID>2849611</PMCID>
+            <PMCID>5141583</PMCID>
+            <PMCID>2725834</PMCID>
+            <PMCID>1169131</PMCID>
+            <PMCID>154694</PMCID>
+            <PMCID>88514</PMCID>
+            <PMCID>84580</PMCID>
+            <PMCID>84519</PMCID>
+            <PMCID>105322</PMCID>
+            <id>10541</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus B11
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 11
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human mastadenovirus 11
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus 11
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h11
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  adenovirus 11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 11</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <id>262789</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 35+11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 35+11</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>35262</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus Ad35p
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus type 35p</scientificName>
+            </subSpecies>
+            <PMCID>7874146</PMCID>
+            <PMCID>5660999</PMCID>
+            <PMCID>5129011</PMCID>
+            <PMCID>4984651</PMCID>
+            <PMCID>4494264</PMCID>
+            <PMCID>4896762</PMCID>
+            <PMCID>5406129</PMCID>
+            <PMCID>2992506</PMCID>
+            <PMCID>2951029</PMCID>
+            <PMCID>3445923</PMCID>
+            <PMCID>2822460</PMCID>
+            <PMCID>2880921</PMCID>
+            <PMCID>2835023</PMCID>
+            <PMCID>2642530</PMCID>
+            <id>10522</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus serotype 35
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 35
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h35
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 35</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <PMCID>7106556</PMCID>
+                <id>814922</id>
+                <scientificName>Human adenovirus 14p1</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <PMCID>3529791</PMCID>
+                <id>693059</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 14p
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 14p</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>693058</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 14a
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 14a</scientificName>
+            </subSpecies>
+            <PMCID>7106556</PMCID>
+            <PMCID>7097586</PMCID>
+            <PMCID>6390751</PMCID>
+            <PMCID>5717082</PMCID>
+            <PMCID>5512483</PMCID>
+            <PMCID>5045143</PMCID>
+            <PMCID>4984651</PMCID>
+            <PMCID>4933189</PMCID>
+            <PMCID>3393531</PMCID>
+            <PMCID>2992506</PMCID>
+            <PMCID>2748061</PMCID>
+            <PMCID>2496997</PMCID>
+            <id>10521</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus 14
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 14
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h14
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 14</scientificName>
+        </subSpecies>
+        <PMCID>3020443</PMCID>
+        <id>565303</id>
+        <scientificName>Human adenovirus B2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1096763</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus 3-16
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 68
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 68</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <id>1521028</id>
+                <scientificName>Human adenovirus 21a</scientificName>
+            </subSpecies>
+            <PMCID>4984651</PMCID>
+            <id>32608</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 21
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h21
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 21</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <id>754033</id>
+                <scientificName>Human adenovirus 16p</scientificName>
+            </subSpecies>
+            <PMCID>6110086</PMCID>
+            <PMCID>4984651</PMCID>
+            <PMCID>3993529</PMCID>
+            <PMCID>2992506</PMCID>
+            <id>31544</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus type 16
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 16
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h16
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 16</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <id>1030384</id>
+                <scientificName>Human adenovirus 7m</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>754031</id>
+                <scientificName>Human adenovirus 7h</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>326124</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 7d2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 7d2</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>316517</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 7p
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 7p</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>310800</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 7l
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 7l</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <PMCID>7181932</PMCID>
+                <PMCID>4806933</PMCID>
+                <id>101029</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 7d
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 7d</scientificName>
+            </subSpecies>
+            <subSpecies>
+                <id>85755</id>
+                <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 7a
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+                <scientificName>Human adenovirus 7a</scientificName>
+            </subSpecies>
+            <PMCID>8000859</PMCID>
+            <PMCID>7874146</PMCID>
+            <PMCID>7808576</PMCID>
+            <PMCID>7099210</PMCID>
+            <PMCID>7422451</PMCID>
+            <PMCID>7181932</PMCID>
+            <PMCID>7008568</PMCID>
+            <PMCID>6990646</PMCID>
+            <PMCID>6904267</PMCID>
+            <PMCID>6809960</PMCID>
+            <PMCID>6833387</PMCID>
+            <PMCID>6631750</PMCID>
+            <PMCID>6029390</PMCID>
+            <PMCID>6006174</PMCID>
+            <PMCID>6067898</PMCID>
+            <PMCID>5953862</PMCID>
+            <PMCID>5700941</PMCID>
+            <PMCID>5549297</PMCID>
+            <PMCID>5489426</PMCID>
+            <PMCID>5341368</PMCID>
+            <PMCID>5321423</PMCID>
+            <PMCID>5084869</PMCID>
+            <PMCID>4984651</PMCID>
+            <PMCID>5002279</PMCID>
+            <PMCID>4880082</PMCID>
+            <PMCID>5093187</PMCID>
+            <PMCID>4298532</PMCID>
+            <PMCID>4253628</PMCID>
+            <PMCID>4113798</PMCID>
+            <PMCID>3512288</PMCID>
+            <PMCID>3559173</PMCID>
+            <PMCID>3358081</PMCID>
+            <PMCID>3358062</PMCID>
+            <PMCID>3017867</PMCID>
+            <PMCID>2992506</PMCID>
+            <PMCID>2989969</PMCID>
+            <PMCID>3426500</PMCID>
+            <PMCID>2664881</PMCID>
+            <PMCID>2064001</PMCID>
+            <PMCID>2265771</PMCID>
+            <PMCID>1151940</PMCID>
+            <PMCID>3320375</PMCID>
+            <PMCID>2891530</PMCID>
+            <PMCID>3322744</PMCID>
+            <PMCID>126266</PMCID>
+            <PMCID>2732469</PMCID>
+            <PMCID>110901</PMCID>
+            <PMCID>268501</PMCID>
+            <PMCID>271674</PMCID>
+            <PMCID>353650</PMCID>
+            <PMCID>1277672</PMCID>
+            <PMCID>515657</PMCID>
+            <PMCID>354583</PMCID>
+            <PMCID>354576</PMCID>
+            <PMCID>355525</PMCID>
+            <PMCID>389108</PMCID>
+            <PMCID>376042</PMCID>
+            <PMCID>375983</PMCID>
+            <PMCID>375918</PMCID>
+            <PMCID>375597</PMCID>
+            <PMCID>375397</PMCID>
+            <id>10519</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus type 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus B7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus serotype 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenoviruses type 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human mastadenovirus 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus p7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human adenovirus type 7 Ad7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 7</scientificName>
+        </subSpecies>
+        <PMCID>7902651</PMCID>
+        <PMCID>7066979</PMCID>
+        <PMCID>6833387</PMCID>
+        <PMCID>3700531</PMCID>
+        <id>565302</id>
+        <scientificName>Human adenovirus B1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>459785</id>
+        <scientificName>Human adenovirus 3+11p</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <PMCID>2989969</PMCID>
+            <id>2577084</id>
+            <scientificName>Human adenovirus B16</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>2577083</id>
+            <scientificName>Human adenovirus B14/55</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>2577082</id>
+            <scientificName>Human adenovirus B11/35</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1930638</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus B79
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus B79</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1926591</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus 72
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus B72</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606850</id>
+            <scientificName>Gorilla gorilla adenovirus B22</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606849</id>
+            <scientificName>Gorilla gorilla adenovirus B21</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606848</id>
+            <scientificName>Gorilla gorilla adenovirus B20</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>5002280</PMCID>
+            <id>1606847</id>
+            <scientificName>Gorilla gorilla adenovirus B19</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606846</id>
+            <scientificName>Gorilla gorilla adenovirus B18</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606845</id>
+            <scientificName>Gorilla gorilla adenovirus B17</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606844</id>
+            <scientificName>Gorilla gorilla adenovirus B16</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606843</id>
+            <scientificName>Gorilla gorilla adenovirus B15</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606842</id>
+            <scientificName>Gorilla gorilla adenovirus B14</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606841</id>
+            <scientificName>Gorilla gorilla adenovirus B13</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606840</id>
+            <scientificName>Gorilla gorilla adenovirus B12</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1606839</id>
+            <scientificName>Gorilla gorilla adenovirus B11</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1337398</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human Adenovirus type 66
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 66</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>2989969</PMCID>
+            <id>927254</id>
+            <scientificName>Gorilla gorilla adenovirus B9</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>2989969</PMCID>
+            <id>927253</id>
+            <scientificName>Gorilla gorilla adenovirus B8</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>2989969</PMCID>
+            <id>927252</id>
+            <scientificName>Gorilla gorilla adenovirus B7</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>2989969</PMCID>
+            <id>927251</id>
+            <scientificName>Gorilla gorilla adenovirus B10</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>322681</id>
+            <scientificName>Human adenovirus RKI-2797/04</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>278109</id>
+            <scientificName>Human adenovirus ATCC VR-1502</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>107681</id>
+            <scientificName>Human adenovirus isolate SGH5253</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>107680</id>
+            <scientificName>Human adenovirus isolate SGH2289</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>107679</id>
+            <scientificName>Human adenovirus isolate MY8/1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>107678</id>
+            <scientificName>Human adenovirus isolate MY7/1</scientificName>
+        </subSpecies>
+        <id>377612</id>
+        <scientificName>unclassified Human adenovirus B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>260047</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 3+7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  recombinant of Human adenovirus type 3 and 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus 3+7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>321934</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 50 prototype strain Wan
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 50 prototype strain Wan</scientificName>
+        </subSpecies>
+        <PMCID>4984651</PMCID>
+        <PMCID>2992506</PMCID>
+        <id>107462</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 50
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus 50</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>754032</id>
+            <scientificName>Human adenovirus 3p</scientificName>
+        </subSpecies>
+        <PMCID>7107482</PMCID>
+        <PMCID>6683453</PMCID>
+        <PMCID>6635679</PMCID>
+        <PMCID>6549382</PMCID>
+        <PMCID>6631750</PMCID>
+        <PMCID>6414520</PMCID>
+        <PMCID>6406826</PMCID>
+        <PMCID>7001099</PMCID>
+        <PMCID>6352248</PMCID>
+        <PMCID>6454263</PMCID>
+        <PMCID>6313699</PMCID>
+        <PMCID>6116462</PMCID>
+        <PMCID>6161112</PMCID>
+        <PMCID>6029390</PMCID>
+        <PMCID>6018347</PMCID>
+        <PMCID>6662909</PMCID>
+        <PMCID>5822400</PMCID>
+        <PMCID>5904031</PMCID>
+        <PMCID>5748609</PMCID>
+        <PMCID>5940486</PMCID>
+        <PMCID>5563037</PMCID>
+        <PMCID>5524837</PMCID>
+        <PMCID>5468598</PMCID>
+        <PMCID>5432973</PMCID>
+        <PMCID>5411589</PMCID>
+        <PMCID>5186766</PMCID>
+        <PMCID>5068528</PMCID>
+        <PMCID>4979158</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4928861</PMCID>
+        <PMCID>5093187</PMCID>
+        <PMCID>4875972</PMCID>
+        <PMCID>4933189</PMCID>
+        <PMCID>4892130</PMCID>
+        <PMCID>4824498</PMCID>
+        <PMCID>4495935</PMCID>
+        <PMCID>4441047</PMCID>
+        <PMCID>4517185</PMCID>
+        <PMCID>4514237</PMCID>
+        <PMCID>4530678</PMCID>
+        <PMCID>4270925</PMCID>
+        <PMCID>4077002</PMCID>
+        <PMCID>5423468</PMCID>
+        <PMCID>3999320</PMCID>
+        <PMCID>3973479</PMCID>
+        <PMCID>3910799</PMCID>
+        <PMCID>3787530</PMCID>
+        <PMCID>3512288</PMCID>
+        <PMCID>3375293</PMCID>
+        <PMCID>3627207</PMCID>
+        <PMCID>3094973</PMCID>
+        <PMCID>3102659</PMCID>
+        <PMCID>2992506</PMCID>
+        <PMCID>2989969</PMCID>
+        <PMCID>3426500</PMCID>
+        <PMCID>2944813</PMCID>
+        <PMCID>2924358</PMCID>
+        <PMCID>2894058</PMCID>
+        <PMCID>2862273</PMCID>
+        <PMCID>2849541</PMCID>
+        <PMCID>2771014</PMCID>
+        <PMCID>2806089</PMCID>
+        <PMCID>2770648</PMCID>
+        <PMCID>2897138</PMCID>
+        <PMCID>2682094</PMCID>
+        <PMCID>2696891</PMCID>
+        <PMCID>2610282</PMCID>
+        <PMCID>2203211</PMCID>
+        <PMCID>1151940</PMCID>
+        <PMCID>1142584</PMCID>
+        <PMCID>165174</PMCID>
+        <PMCID>1774951</PMCID>
+        <PMCID>114963</PMCID>
+        <PMCID>114944</PMCID>
+        <PMCID>87550</PMCID>
+        <PMCID>103752</PMCID>
+        <PMCID>103985</PMCID>
+        <PMCID>2249697</PMCID>
+        <PMCID>110119</PMCID>
+        <PMCID>109670</PMCID>
+        <PMCID>109528</PMCID>
+        <PMCID>452509</PMCID>
+        <PMCID>228808</PMCID>
+        <PMCID>252839</PMCID>
+        <PMCID>254684</PMCID>
+        <PMCID>1628914</PMCID>
+        <PMCID>414663</PMCID>
+        <PMCID>1878936</PMCID>
+        <PMCID>547784</PMCID>
+        <PMCID>278060</PMCID>
+        <id>45659</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus B3</scientificName>
+    </subSpecies>
+    <PMCID>7158847</PMCID>
+    <PMCID>6950085</PMCID>
+    <PMCID>6943099</PMCID>
+    <PMCID>6770386</PMCID>
+    <PMCID>6833387</PMCID>
+    <PMCID>6586300</PMCID>
+    <PMCID>6537619</PMCID>
+    <PMCID>5719520</PMCID>
+    <PMCID>5002280</PMCID>
+    <PMCID>5026048</PMCID>
+    <PMCID>4863800</PMCID>
+    <PMCID>4391708</PMCID>
+    <PMCID>4446416</PMCID>
+    <PMCID>4351923</PMCID>
+    <PMCID>4304020</PMCID>
+    <PMCID>5406129</PMCID>
+    <PMCID>3358062</PMCID>
+    <PMCID>3187507</PMCID>
+    <PMCID>2989969</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>1081307</PMCID>
+    <PMCID>535215</PMCID>
+    <PMCID>525023</PMCID>
+    <GeneBankPMID>30862836</GeneBankPMID>
+    <GeneBankPMID>22357750</GeneBankPMID>
+    <GeneBankPMID>19949079</GeneBankPMID>
+    <GeneBankPMID>15795294</GeneBankPMID>
+    <GeneBankPMID>23946456</GeneBankPMID>
+    <GeneBankPMID>26159720</GeneBankPMID>
+    <GeneBankPMID>23536656</GeneBankPMID>
+    <GeneBankPMID>12867636</GeneBankPMID>
+    <GeneBankPMID>15897886</GeneBankPMID>
+    <GeneBankPMID>32452418</GeneBankPMID>
+    <GeneBankPMID>16169033</GeneBankPMID>
+    <GeneBankPMID>12726735</GeneBankPMID>
+    <GeneBankPMID>21317928</GeneBankPMID>
+    <id>108098</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HAdV-B
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human adenovirus B</scientificName>
+</pathogen>

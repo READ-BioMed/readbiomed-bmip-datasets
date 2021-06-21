@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>401685</id>
+        <scientificName>Chino del tomate virus-[RK]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222455</id>
+        <scientificName>Chino del tomate virus-[IC]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222454</id>
+        <scientificName>Chino del tomate virus-[H8]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222453</id>
+        <scientificName>Chino del tomate virus-[H6]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222452</id>
+        <scientificName>Chino del tomate virus-[B52]</scientificName>
+    </subSpecies>
+    <PMCID>6607972</PMCID>
+    <PMCID>4614018</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2858149</PMCID>
+    <PMCID>2894479</PMCID>
+    <PMCID>521842</PMCID>
+    <id>47838</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CdTV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Chino del tomate geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf crumple geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf crumple virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Chino del tomate virus</scientificName>
+</pathogen>

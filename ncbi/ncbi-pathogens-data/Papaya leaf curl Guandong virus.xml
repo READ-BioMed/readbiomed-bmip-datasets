@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>611315</id>
+        <scientificName>Papaya leaf curl Guangdong virus - [China:Fujian:Euphorbia:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>283663</id>
+        <scientificName>Papaya leaf curl China virus-Guangzhou isolate</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269113</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya leaf curl Guandong virus - [GD2]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya leaf curl Guangdong virus - [GD2]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>7215500</PMCID>
+    <PMCID>4704257</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>2816314</PMCID>
+    <GeneBankPMID>15550769</GeneBankPMID>
+    <id>271479</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya leaf curl Guangdong virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Papaya leaf curl Guandong virus</scientificName>
+</pathogen>

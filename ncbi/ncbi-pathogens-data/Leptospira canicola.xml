@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1433285</id>
+        <scientificName>Leptospira interrogans serovar Canicola str. Gui44</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1291307</id>
+        <scientificName>Leptospira interrogans serovar Canicola str. P2655</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1193014</id>
+        <scientificName>Leptospira interrogans serovar Canicola str. Fiocruz LV133</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1001597</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Leptospira interrogans serovar Canicola strain LT1962
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Leptospira interrogans serovar Canicola str. LT1962</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>996809</id>
+        <scientificName>Leptospira interrogans serovar Canicola str. HAI0024</scientificName>
+    </subSpecies>
+    <PMCID>7695076</PMCID>
+    <PMCID>7449099</PMCID>
+    <PMCID>7036198</PMCID>
+    <PMCID>6858334</PMCID>
+    <PMCID>7094727</PMCID>
+    <PMCID>7125876</PMCID>
+    <PMCID>6789449</PMCID>
+    <PMCID>7107260</PMCID>
+    <PMCID>6486673</PMCID>
+    <PMCID>6167333</PMCID>
+    <PMCID>6095343</PMCID>
+    <PMCID>5989030</PMCID>
+    <PMCID>7088013</PMCID>
+    <PMCID>5660762</PMCID>
+    <PMCID>5598899</PMCID>
+    <PMCID>7114777</PMCID>
+    <PMCID>5465768</PMCID>
+    <PMCID>6238786</PMCID>
+    <PMCID>7112906</PMCID>
+    <PMCID>7187951</PMCID>
+    <PMCID>7086620</PMCID>
+    <PMCID>7125832</PMCID>
+    <PMCID>5197041</PMCID>
+    <PMCID>4936698</PMCID>
+    <PMCID>7123657</PMCID>
+    <PMCID>7103115</PMCID>
+    <PMCID>7166679</PMCID>
+    <PMCID>7121373</PMCID>
+    <PMCID>4299536</PMCID>
+    <PMCID>7152483</PMCID>
+    <PMCID>7184236</PMCID>
+    <PMCID>3985048</PMCID>
+    <PMCID>4064134</PMCID>
+    <PMCID>3885961</PMCID>
+    <PMCID>3766024</PMCID>
+    <PMCID>7169337</PMCID>
+    <PMCID>3970589</PMCID>
+    <PMCID>3595941</PMCID>
+    <PMCID>3581506</PMCID>
+    <PMCID>7151773</PMCID>
+    <PMCID>7173484</PMCID>
+    <PMCID>7135174</PMCID>
+    <PMCID>7117425</PMCID>
+    <PMCID>7155555</PMCID>
+    <PMCID>7158162</PMCID>
+    <PMCID>3539558</PMCID>
+    <PMCID>3609195</PMCID>
+    <PMCID>7271204</PMCID>
+    <PMCID>3029442</PMCID>
+    <PMCID>7152094</PMCID>
+    <PMCID>7103122</PMCID>
+    <PMCID>2228361</PMCID>
+    <PMCID>1876197</PMCID>
+    <PMCID>7158574</PMCID>
+    <PMCID>7158182</PMCID>
+    <PMCID>7149821</PMCID>
+    <PMCID>2666280</PMCID>
+    <PMCID>88975</PMCID>
+    <PMCID>96396</PMCID>
+    <PMCID>1480703</PMCID>
+    <PMCID>2596458</PMCID>
+    <PMCID>1507945</PMCID>
+    <PMCID>2041662</PMCID>
+    <PMCID>1277654</PMCID>
+    <PMCID>415883</PMCID>
+    <PMCID>1409630</PMCID>
+    <PMCID>277255</PMCID>
+    <PMCID>1929694</PMCID>
+    <PMCID>2068199</PMCID>
+    <PMCID>374107</PMCID>
+    <GeneBankPMID>25144555</GeneBankPMID>
+    <id>211880</id>
+    <meSHTree>B03.440.400.425.475.475.400.150, B03.851.475.475.400.150</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Leptospira canicola
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Leptospira conicola
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Leptospira canicola</scientificName>
+</pathogen>

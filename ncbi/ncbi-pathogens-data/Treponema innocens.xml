@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1267004</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Brachyspira innocens B256
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Brachyspira innocens ATCC 29796</scientificName>
+    </subSpecies>
+    <PMCID>8076473</PMCID>
+    <PMCID>7329402</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7179689</PMCID>
+    <PMCID>6961714</PMCID>
+    <PMCID>6175710</PMCID>
+    <PMCID>5740978</PMCID>
+    <PMCID>4973917</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>4576374</PMCID>
+    <PMCID>4540906</PMCID>
+    <PMCID>5499009</PMCID>
+    <PMCID>4284300</PMCID>
+    <PMCID>3305480</PMCID>
+    <PMCID>3035287</PMCID>
+    <PMCID>2791440</PMCID>
+    <PMCID>2681872</PMCID>
+    <PMCID>127642</PMCID>
+    <PMCID>88495</PMCID>
+    <PMCID>99531</PMCID>
+    <PMCID>92833</PMCID>
+    <PMCID>88053</PMCID>
+    <PMCID>97942</PMCID>
+    <PMCID>87436</PMCID>
+    <PMCID>98373</PMCID>
+    <PMCID>103694</PMCID>
+    <PMCID>94169</PMCID>
+    <PMCID>85046</PMCID>
+    <PMCID>105029</PMCID>
+    <PMCID>104610</PMCID>
+    <PMCID>170640</PMCID>
+    <PMCID>175526</PMCID>
+    <PMCID>170540</PMCID>
+    <PMCID>228465</PMCID>
+    <PMCID>173514</PMCID>
+    <PMCID>228352</PMCID>
+    <PMCID>173013</PMCID>
+    <PMCID>303077</PMCID>
+    <PMCID>201824</PMCID>
+    <PMCID>264026</PMCID>
+    <PMCID>186524</PMCID>
+    <PMCID>263714</PMCID>
+    <PMCID>206980</PMCID>
+    <PMCID>265625</PMCID>
+    <PMCID>270557</PMCID>
+    <PMCID>208357</PMCID>
+    <PMCID>270192</PMCID>
+    <PMCID>268261</PMCID>
+    <PMCID>267506</PMCID>
+    <PMCID>313168</PMCID>
+    <PMCID>313055</PMCID>
+    <PMCID>259716</PMCID>
+    <PMCID>1680844</PMCID>
+    <PMCID>259764</PMCID>
+    <PMCID>260255</PMCID>
+    <PMCID>268998</PMCID>
+    <PMCID>1255165</PMCID>
+    <PMCID>270937</PMCID>
+    <PMCID>1235946</PMCID>
+    <PMCID>272241</PMCID>
+    <PMCID>294466</PMCID>
+    <id>13264</id>
+    <meSHTree>B03.440.097, B03.440.425.410.220</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Serpulina innocens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Treponema innocens
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN2540/1/03
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN315/04
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN3165/2/03
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN4113/03
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN4323/4/03
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN4341/03
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN5156/03
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Brachyspira sp. AN64/1/04
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Brachyspira innocens (Kinyon and Harris 1979) Ochiai et al. 1998
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Serpulina innocens (Kinyon and Harris 1979) Stanton 1992
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Treponema innocens Kinyon and Harris 1979 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29796
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29796
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 17081
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:17081
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::B256
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain B256
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Treponema innocens</scientificName>
+</pathogen>

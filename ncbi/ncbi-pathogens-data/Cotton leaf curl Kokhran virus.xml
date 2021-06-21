@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1762015</id>
+        <scientificName>Cotton leaf curl Kokhran virus - Burewala</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>418448</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl virus-[Burewala]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf curl Burewala virus - [India:Vehari:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>285664</id>
+        <scientificName>Cotton leaf curl Kokhran virus-Ganganagar</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>273794</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CLCuKV-Dab
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf curl Kokhran virus-Dabawali</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222713</id>
+        <scientificName>Cotton leaf curl Kokhran virus-[72b]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222466</id>
+        <scientificName>Cotton leaf curl Kokhran virus-[Faisalabad1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222465</id>
+        <scientificName>Cotton leaf curl Kokhran virus-[806b]</scientificName>
+    </subSpecies>
+    <PMCID>7702697</PMCID>
+    <PMCID>7339215</PMCID>
+    <PMCID>7305810</PMCID>
+    <PMCID>7248346</PMCID>
+    <PMCID>7536795</PMCID>
+    <PMCID>7421533</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>7055206</PMCID>
+    <PMCID>6890265</PMCID>
+    <PMCID>6953188</PMCID>
+    <PMCID>6912757</PMCID>
+    <PMCID>6823909</PMCID>
+    <PMCID>7004920</PMCID>
+    <PMCID>6514154</PMCID>
+    <PMCID>6451280</PMCID>
+    <PMCID>6401443</PMCID>
+    <PMCID>6341021</PMCID>
+    <PMCID>6367152</PMCID>
+    <PMCID>6195259</PMCID>
+    <PMCID>6117872</PMCID>
+    <PMCID>6133388</PMCID>
+    <PMCID>6517448</PMCID>
+    <PMCID>5744040</PMCID>
+    <PMCID>5727119</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5618023</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5429635</PMCID>
+    <PMCID>5425365</PMCID>
+    <PMCID>5802298</PMCID>
+    <PMCID>5470520</PMCID>
+    <PMCID>5253358</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5099147</PMCID>
+    <PMCID>5102983</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>5586037</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4877078</PMCID>
+    <PMCID>4828465</PMCID>
+    <PMCID>4690014</PMCID>
+    <PMCID>6638530</PMCID>
+    <PMCID>4370823</PMCID>
+    <PMCID>4250495</PMCID>
+    <PMCID>4101524</PMCID>
+    <PMCID>4036549</PMCID>
+    <PMCID>4070032</PMCID>
+    <PMCID>3917440</PMCID>
+    <PMCID>3765727</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>5424790</PMCID>
+    <PMCID>3545858</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3217939</PMCID>
+    <PMCID>3102712</PMCID>
+    <PMCID>3166278</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>3002923</PMCID>
+    <PMCID>6640282</PMCID>
+    <GeneBankPMID>9568988</GeneBankPMID>
+    <id>222464</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CLCuKV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cotton leaf curl Kokhran virus</scientificName>
+</pathogen>

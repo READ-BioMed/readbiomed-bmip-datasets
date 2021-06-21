@@ -1,0 +1,8 @@
+Sc (cattle).xml
+Sc (cat).xml
+Sc (deer).xml
+Sc (goat).xml
+Sc (human).xml
+Sc (mink).xml
+Sc (sheep).xml
+

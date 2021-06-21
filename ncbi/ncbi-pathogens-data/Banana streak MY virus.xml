@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7814968</PMCID>
+    <PMCID>7198128</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6991131</PMCID>
+    <PMCID>5833271</PMCID>
+    <PMCID>5746481</PMCID>
+    <PMCID>5649073</PMCID>
+    <PMCID>5537673</PMCID>
+    <PMCID>4974523</PMCID>
+    <PMCID>4926197</PMCID>
+    <PMCID>4188196</PMCID>
+    <PMCID>6640322</PMCID>
+    <PMCID>2447048</PMCID>
+    <GeneBankPMID>15785970</GeneBankPMID>
+    <id>1476909</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BSMyV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Banana streak Mys virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Banana streak Mysore virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Banana streak MY virus</scientificName>
+</pathogen>

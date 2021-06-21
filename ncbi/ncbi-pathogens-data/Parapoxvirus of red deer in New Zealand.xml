@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1579460</id>
+        <scientificName>Parapoxvirus red deer/HL953</scientificName>
+    </subSpecies>
+    <PMCID>7810815</PMCID>
+    <PMCID>6603201</PMCID>
+    <PMCID>5822636</PMCID>
+    <PMCID>5707538</PMCID>
+    <PMCID>5562994</PMCID>
+    <PMCID>5473882</PMCID>
+    <PMCID>4578853</PMCID>
+    <PMCID>4585050</PMCID>
+    <PMCID>2293046</PMCID>
+    <PMCID>509180</PMCID>
+    <id>129728</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  PVNZ
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Red deer parapoxvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Parapoxvirus of red deer in New Zealand</scientificName>
+</pathogen>

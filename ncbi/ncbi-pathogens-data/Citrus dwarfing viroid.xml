@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4890495</PMCID>
+        <id>110139</id>
+        <scientificName>Citrus viroid IIIc</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>41862</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CVd-IIIb
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Group III citrus viroid CVd-IIIb
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Citrus viroid IIIb</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>41861</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CVd-IIIa
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Group III citrus viroid CVd-IIIa
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  citrus viroid group III CVdIIIA
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Citrus viroid IIIa</scientificName>
+    </subSpecies>
+    <PMCID>8001946</PMCID>
+    <PMCID>7986492</PMCID>
+    <PMCID>7887442</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>7012572</PMCID>
+    <PMCID>6912109</PMCID>
+    <PMCID>6797102</PMCID>
+    <PMCID>6633198</PMCID>
+    <PMCID>6651264</PMCID>
+    <PMCID>6563258</PMCID>
+    <PMCID>6466422</PMCID>
+    <PMCID>6116224</PMCID>
+    <PMCID>6111963</PMCID>
+    <PMCID>5995356</PMCID>
+    <PMCID>5651572</PMCID>
+    <PMCID>5645528</PMCID>
+    <PMCID>5544226</PMCID>
+    <PMCID>4890495</PMCID>
+    <PMCID>4574207</PMCID>
+    <PMCID>4353907</PMCID>
+    <PMCID>4340875</PMCID>
+    <PMCID>4262315</PMCID>
+    <PMCID>3667192</PMCID>
+    <PMCID>6638686</PMCID>
+    <PMCID>6638829</PMCID>
+    <PMCID>3169951</PMCID>
+    <PMCID>6640353</PMCID>
+    <PMCID>3185495</PMCID>
+    <PMCID>6640387</PMCID>
+    <PMCID>1869044</PMCID>
+    <id>551523</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CDVd
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  CVd-III
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Citrus dwarf viroid
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Citrus viroid III
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Citrus dwarfing viroid</scientificName>
+</pathogen>

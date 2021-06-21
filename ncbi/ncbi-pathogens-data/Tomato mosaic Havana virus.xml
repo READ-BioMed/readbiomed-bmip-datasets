@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>223357</id>
+        <scientificName>Tomato mosaic Havana virus-[Quivican]</scientificName>
+    </subSpecies>
+    <PMCID>7357562</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7008883</PMCID>
+    <PMCID>5127021</PMCID>
+    <PMCID>3648196</PMCID>
+    <GeneBankPMID>9787659</GeneBankPMID>
+    <id>223356</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Havana tomato virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato mosaic Havana virus</scientificName>
+</pathogen>

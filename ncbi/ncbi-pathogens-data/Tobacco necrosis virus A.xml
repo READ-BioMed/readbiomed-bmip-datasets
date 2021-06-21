@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>5072566</PMCID>
+    <PMCID>4488728</PMCID>
+    <PMCID>4419787</PMCID>
+    <PMCID>4211703</PMCID>
+    <PMCID>3583896</PMCID>
+    <PMCID>3460881</PMCID>
+    <PMCID>3229121</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>1880899</PMCID>
+    <GeneBankPMID>2371773</GeneBankPMID>
+    <id>12055</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  TNV-A
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco necrosis virus (STRAIN A)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco necrosis virus (type A)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco necrosis virus type A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tobacco necrosis virus A</scientificName>
+</pathogen>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7810815</PMCID>
+    <PMCID>7324821</PMCID>
+    <PMCID>7106339</PMCID>
+    <PMCID>6736053</PMCID>
+    <PMCID>6702937</PMCID>
+    <PMCID>6531577</PMCID>
+    <PMCID>5705601</PMCID>
+    <PMCID>5390406</PMCID>
+    <PMCID>4761846</PMCID>
+    <PMCID>4495948</PMCID>
+    <PMCID>4189658</PMCID>
+    <PMCID>4229897</PMCID>
+    <PMCID>3624294</PMCID>
+    <PMCID>3042955</PMCID>
+    <PMCID>2688499</PMCID>
+    <PMCID>1142158</PMCID>
+    <GeneBankPMID>24919868</GeneBankPMID>
+    <id>10264</id>
+    <meSHTree>B04.280.650.160.100</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pigeon pox virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Pigeon poxvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  pigeonpox virus PPV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pigeonpox virus</scientificName>
+</pathogen>

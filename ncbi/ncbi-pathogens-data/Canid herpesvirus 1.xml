@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7883760</PMCID>
+    <PMCID>7764265</PMCID>
+    <PMCID>7117202</PMCID>
+    <PMCID>7097216</PMCID>
+    <PMCID>7087014</PMCID>
+    <PMCID>7117300</PMCID>
+    <PMCID>7112867</PMCID>
+    <PMCID>7096732</PMCID>
+    <PMCID>7094439</PMCID>
+    <PMCID>6517553</PMCID>
+    <PMCID>5707556</PMCID>
+    <PMCID>5605184</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>5052379</PMCID>
+    <PMCID>4905834</PMCID>
+    <PMCID>4635455</PMCID>
+    <PMCID>6067784</PMCID>
+    <PMCID>4296690</PMCID>
+    <PMCID>4179963</PMCID>
+    <PMCID>4021736</PMCID>
+    <PMCID>3427562</PMCID>
+    <PMCID>3327599</PMCID>
+    <PMCID>3202525</PMCID>
+    <PMCID>3361955</PMCID>
+    <PMCID>3122702</PMCID>
+    <PMCID>2997505</PMCID>
+    <PMCID>2976090</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2849577</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2386557</PMCID>
+    <PMCID>1395385</PMCID>
+    <PMCID>1392640</PMCID>
+    <PMCID>522361</PMCID>
+    <PMCID>254261</PMCID>
+    <PMCID>113993</PMCID>
+    <PMCID>112816</PMCID>
+    <PMCID>110492</PMCID>
+    <PMCID>2809543</PMCID>
+    <GeneBankPMID>27213534</GeneBankPMID>
+    <id>170325</id>
+    <meSHTree>B04.280.382.100.900.420</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CaHV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Canid alphaherpesvirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Canid herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Canine herpesvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Canine herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  canine herpesvirus CHV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Canid herpesvirus 1</scientificName>
+</pathogen>

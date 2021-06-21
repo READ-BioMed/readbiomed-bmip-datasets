@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1487796</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Phodopus sungorus papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Phodopus sungorus papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1471030</id>
+        <scientificName>Phodopus campbelli papillomavirus type 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5760104</PMCID>
+        <PMCID>5021401</PMCID>
+        <id>1408129</id>
+        <scientificName>Mesocricetus auratus papillomavirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>5093584</PMCID>
+    <PMCID>2832751</PMCID>
+    <id>334212</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hamster oral papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pipapillomavirus 1</scientificName>
+</pathogen>

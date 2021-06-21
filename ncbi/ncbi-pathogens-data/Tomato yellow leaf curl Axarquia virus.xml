@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>19463717</GeneBankPMID>
+        <id>604276</id>
+        <scientificName>TYLCAxV-Sic1-[IT:Sic2/2:04]</scientificName>
+    </subSpecies>
+    <PMCID>7339215</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6362282</PMCID>
+    <PMCID>2965765</PMCID>
+    <PMCID>6640490</PMCID>
+    <id>232380</id>
+    <scientificName>Tomato yellow leaf curl Axarquia virus</scientificName>
+</pathogen>

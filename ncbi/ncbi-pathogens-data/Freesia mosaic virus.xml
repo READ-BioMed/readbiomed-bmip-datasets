@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7020010</PMCID>
+    <GeneBankPMID>20401501</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>421012</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  FreMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  SpiMV-2
+ &lt;/Acronym&gt; 
+ &lt;Includes&gt;
+  Spiranthes mosaic virus 2
+ &lt;/Includes&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Freesia mosaic virus</scientificName>
+</pathogen>

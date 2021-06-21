@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>223327</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Squash yellow mild mottle virus-[CR]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Melon chlorotic leaf curl virus - [Costa Rica]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>18057231</GeneBankPMID>
+        <id>223286</id>
+        <scientificName>Melon chlorotic leaf curl virus-[Guatemala]</scientificName>
+    </subSpecies>
+    <PMCID>7084362</PMCID>
+    <PMCID>4074936</PMCID>
+    <PMCID>4174809</PMCID>
+    <PMCID>3550763</PMCID>
+    <PMCID>2894479</PMCID>
+    <PMCID>2258725</PMCID>
+    <id>165826</id>
+    <scientificName>Melon chlorotic leaf curl virus</scientificName>
+</pathogen>

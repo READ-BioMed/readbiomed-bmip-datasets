@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>31716</id>
+        <scientificName>Cowpea severe mosaic virus (strain DG)</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7114179</PMCID>
+    <PMCID>6660014</PMCID>
+    <PMCID>5430698</PMCID>
+    <PMCID>5072566</PMCID>
+    <PMCID>4891349</PMCID>
+    <PMCID>4364965</PMCID>
+    <PMCID>4152289</PMCID>
+    <PMCID>3559775</PMCID>
+    <PMCID>3440231</PMCID>
+    <PMCID>2850318</PMCID>
+    <PMCID>2267166</PMCID>
+    <PMCID>111561</PMCID>
+    <GeneBankPMID>1546463</GeneBankPMID>
+    <GeneBankPMID>1448917</GeneBankPMID>
+    <id>12261</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  cowpea severe mosaic virus CPSMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cowpea severe mosaic virus</scientificName>
+</pathogen>

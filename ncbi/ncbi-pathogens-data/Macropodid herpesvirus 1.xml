@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7459551</PMCID>
+    <PMCID>7117322</PMCID>
+    <PMCID>7459556</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4724163</PMCID>
+    <PMCID>4519311</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>26800886</GeneBankPMID>
+    <id>137443</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Parma wallaby herpesvirus
+ &lt;/GenbankSynonym&gt; 
+ &lt;Acronym&gt;
+  MHV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Macropodid herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Macropodid herpesvirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  wallaby herpesvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Macropodid herpesvirus 1</scientificName>
+</pathogen>

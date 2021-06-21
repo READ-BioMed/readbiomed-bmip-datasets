@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1123404</id>
+        <scientificName>Tissierella praeacuta DSM 18095</scientificName>
+    </subSpecies>
+    <PMCID>7738495</PMCID>
+    <PMCID>7571677</PMCID>
+    <PMCID>7391379</PMCID>
+    <PMCID>7011327</PMCID>
+    <PMCID>6987300</PMCID>
+    <PMCID>6906742</PMCID>
+    <PMCID>6208322</PMCID>
+    <PMCID>5848054</PMCID>
+    <PMCID>6132499</PMCID>
+    <PMCID>6760093</PMCID>
+    <PMCID>5646626</PMCID>
+    <PMCID>5737214</PMCID>
+    <PMCID>5543615</PMCID>
+    <PMCID>5414098</PMCID>
+    <PMCID>5256515</PMCID>
+    <PMCID>5024563</PMCID>
+    <PMCID>4776055</PMCID>
+    <PMCID>4683858</PMCID>
+    <PMCID>4716868</PMCID>
+    <PMCID>4589460</PMCID>
+    <PMCID>4540947</PMCID>
+    <PMCID>5381534</PMCID>
+    <PMCID>3950365</PMCID>
+    <PMCID>3921470</PMCID>
+    <PMCID>3910996</PMCID>
+    <PMCID>3837799</PMCID>
+    <PMCID>3858730</PMCID>
+    <PMCID>3592085</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3495864</PMCID>
+    <PMCID>3078631</PMCID>
+    <PMCID>2770306</PMCID>
+    <PMCID>2681565</PMCID>
+    <PMCID>2612144</PMCID>
+    <PMCID>2395081</PMCID>
+    <PMCID>1797099</PMCID>
+    <PMCID>1472202</PMCID>
+    <PMCID>1426457</PMCID>
+    <PMCID>1860316</PMCID>
+    <PMCID>1317203</PMCID>
+    <PMCID>525447</PMCID>
+    <PMCID>154750</PMCID>
+    <PMCID>154775</PMCID>
+    <PMCID>127532</PMCID>
+    <PMCID>126985</PMCID>
+    <PMCID>90331</PMCID>
+    <PMCID>92244</PMCID>
+    <PMCID>177978</PMCID>
+    <PMCID>380647</PMCID>
+    <id>43131</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides praeacutus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium hastiforme
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Coccobacillus praeacutus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Fusobacterium praeacutum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Zuberella praeacuta
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Coccobacillus praeacutus" Tissier 1908
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Fusobacterium praeacutum" (Tissier 1908) Hoffman 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Zuberella praeacuta" (Tissier 1908) Prevot 1938
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides praeacutus (Tissier 1908) Holdeman and Moore 1970 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium hastiforme MacLennan 1939 (Approved Lists)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Tissierella praeacuta (Tissier 1908) Collins and Shah 1986 emend. Alauzet et al. 2014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25539
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33268
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25539
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33268
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:8203
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 27825
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:27825
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 18095
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 5675
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:18095
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:5675
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 8203
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:8203
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 703038
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:703038
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11158
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11158
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 12193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:12193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides praeacutus</scientificName>
+</pathogen>

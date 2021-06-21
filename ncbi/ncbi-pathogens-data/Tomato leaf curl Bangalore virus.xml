@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>407832</id>
+        <scientificName>Tomato leaf curl Bangalore virus - [India:Kerala II:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>404979</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ToLCBV-[IN:KerIV:05]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl Bangalore virus - [India:Kerala IV:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>273795</id>
+        <scientificName>Tomato leaf curl Bangalore virus-Cotton [Fatehabad]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>220935</id>
+        <scientificName>Tomato leaf curl Bangalore virus-[Ban4]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>220934</id>
+        <scientificName>Tomato leaf curl Bangalore virus-[Kolar]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>220933</id>
+        <scientificName>Tomato leaf curl Bangalore virus-[Ban5]</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7318802</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6745573</PMCID>
+    <PMCID>5727119</PMCID>
+    <PMCID>5681951</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4872795</PMCID>
+    <PMCID>3650187</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3550806</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>3550763</PMCID>
+    <PMCID>2170441</PMCID>
+    <GeneBankPMID>7636485</GeneBankPMID>
+    <id>220608</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus - Bangalore I
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus-Bangalore I
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl Bangalore virus</scientificName>
+</pathogen>

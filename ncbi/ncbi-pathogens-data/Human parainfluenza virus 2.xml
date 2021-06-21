@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>11214</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 2 virus (STRAIN TOSHIBA)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parainfluenza virus 2 (strain Toshiba)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11213</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 2 virus (STRAIN GREER)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parainfluenza virus 2 (strain Greer)</scientificName>
+    </subSpecies>
+    <PMCID>7377618</PMCID>
+    <PMCID>6638977</PMCID>
+    <PMCID>6548425</PMCID>
+    <PMCID>5865735</PMCID>
+    <GeneBankPMID>29485395</GeneBankPMID>
+    <GeneBankPMID>21068245</GeneBankPMID>
+    <GeneBankPMID>30165310</GeneBankPMID>
+    <GeneBankPMID>19969320</GeneBankPMID>
+    <GeneBankPMID>29374787</GeneBankPMID>
+    <GeneBankPMID>23678181</GeneBankPMID>
+    <GeneBankPMID>20667570</GeneBankPMID>
+    <GeneBankPMID>21345944</GeneBankPMID>
+    <GeneBankPMID>21289116</GeneBankPMID>
+    <GeneBankPMID>2152995</GeneBankPMID>
+    <GeneBankPMID>16078080</GeneBankPMID>
+    <GeneBankPMID>26675672</GeneBankPMID>
+    <GeneBankPMID>23749102</GeneBankPMID>
+    <GeneBankPMID>17250865</GeneBankPMID>
+    <GeneBankPMID>28455649</GeneBankPMID>
+    <GeneBankPMID>2162103</GeneBankPMID>
+    <id>2560525</id>
+    <meSHTree>B04.820.480.937.600.650.750.715</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Human rubulavirus 2
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  HPIV-2
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  HPIV2
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  PIV-2
+ &lt;/Acronym&gt; 
+ &lt;Inpart&gt;
+  human parainfluenza virus
+ &lt;/Inpart&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 2 virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parainfluenza virus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human parainfluenza virus 2</scientificName>
+</pathogen>

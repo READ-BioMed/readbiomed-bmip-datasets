@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>980540</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:0057-50:2004]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:0057-50:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980539</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:EBW60:2004]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:EBW60:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980538</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:TO4-42:2004]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:TO4-42:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980537</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:Njule 16:2004]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:Njule 16:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980536</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:Wakiso 40:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:Wakiso 40:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980535</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:Rakai 31:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:Rakai 31:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980534</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:Busia 14:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:Busia 14:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980533</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:Busia 6:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:Busia 6:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980532</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Uganda:Busia 2:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:Busia 2:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980531</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[MW:Mangochi 66:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[MW:Mangochi 66:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980530</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Salima 60:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Salima 60:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980529</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Nkhotakota 42:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Nkhotakota 42:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980528</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Nkhata 33:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Nkhata 33:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980527</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Nkhata 29:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Nkhata 29:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980526</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Machinga 6:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Machinga 6:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980525</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Machinga 5:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Machinga 5:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980524</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Zomba 1:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Zomba 1:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980523</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Rumphi 27:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Rumphi 27:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980522</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Karonga 18:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Karonga 18:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>980521</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-[Malawi:Karonga 10D:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Malawi:Karonga 10D:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>931971</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus-UG[Uganda:Namulonge:2004]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak virus-UG[Uganda:Namulonge:2004]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ugandan Cassava brown streak virus-UG[Uganda:Namulonge:2004]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ugandan cassava brown streak virus-[Uganda:Namulonge:2004]</scientificName>
+    </subSpecies>
+    <PMCID>8005120</PMCID>
+    <PMCID>7909215</PMCID>
+    <PMCID>7873300</PMCID>
+    <PMCID>7859516</PMCID>
+    <PMCID>7779971</PMCID>
+    <PMCID>7865087</PMCID>
+    <PMCID>7705177</PMCID>
+    <PMCID>7691756</PMCID>
+    <PMCID>7695315</PMCID>
+    <PMCID>7685591</PMCID>
+    <PMCID>7465500</PMCID>
+    <PMCID>7356032</PMCID>
+    <PMCID>7775399</PMCID>
+    <PMCID>7744558</PMCID>
+    <PMCID>7672366</PMCID>
+    <PMCID>7232525</PMCID>
+    <PMCID>7067900</PMCID>
+    <PMCID>7536795</PMCID>
+    <PMCID>7450270</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7058106</PMCID>
+    <PMCID>7019339</PMCID>
+    <PMCID>6920376</PMCID>
+    <PMCID>6872967</PMCID>
+    <PMCID>6834265</PMCID>
+    <PMCID>6831539</PMCID>
+    <PMCID>6669615</PMCID>
+    <PMCID>6640186</PMCID>
+    <PMCID>6523400</PMCID>
+    <PMCID>6563196</PMCID>
+    <PMCID>6523588</PMCID>
+    <PMCID>6377593</PMCID>
+    <PMCID>6357015</PMCID>
+    <PMCID>6472608</PMCID>
+    <PMCID>6472602</PMCID>
+    <PMCID>6472600</PMCID>
+    <PMCID>6358137</PMCID>
+    <PMCID>6513833</PMCID>
+    <PMCID>6288821</PMCID>
+    <PMCID>6335076</PMCID>
+    <PMCID>6092782</PMCID>
+    <PMCID>6054865</PMCID>
+    <PMCID>5890358</PMCID>
+    <PMCID>5872585</PMCID>
+    <PMCID>6638051</PMCID>
+    <PMCID>5855737</PMCID>
+    <PMCID>5784162</PMCID>
+    <PMCID>5947582</PMCID>
+    <PMCID>5695790</PMCID>
+    <PMCID>5832305</PMCID>
+    <PMCID>5714214</PMCID>
+    <PMCID>5663696</PMCID>
+    <PMCID>5669357</PMCID>
+    <PMCID>5611411</PMCID>
+    <PMCID>5669585</PMCID>
+    <PMCID>5575035</PMCID>
+    <PMCID>5703439</PMCID>
+    <PMCID>5604781</PMCID>
+    <PMCID>5557543</PMCID>
+    <PMCID>6638049</PMCID>
+    <PMCID>5542559</PMCID>
+    <PMCID>5528833</PMCID>
+    <PMCID>5606945</PMCID>
+    <PMCID>5429390</PMCID>
+    <PMCID>5480109</PMCID>
+    <PMCID>5388764</PMCID>
+    <PMCID>5371953</PMCID>
+    <PMCID>6075200</PMCID>
+    <PMCID>5241307</PMCID>
+    <PMCID>5226948</PMCID>
+    <PMCID>5179071</PMCID>
+    <PMCID>5093738</PMCID>
+    <PMCID>5071364</PMCID>
+    <PMCID>5010303</PMCID>
+    <PMCID>4819903</PMCID>
+    <PMCID>5021159</PMCID>
+    <PMCID>4796025</PMCID>
+    <PMCID>4595453</PMCID>
+    <PMCID>4950135</PMCID>
+    <PMCID>4304613</PMCID>
+    <PMCID>6638542</PMCID>
+    <PMCID>4028184</PMCID>
+    <PMCID>3896733</PMCID>
+    <PMCID>3632782</PMCID>
+    <PMCID>3458115</PMCID>
+    <PMCID>3355758</PMCID>
+    <PMCID>3290829</PMCID>
+    <PMCID>3163225</PMCID>
+    <PMCID>6640337</PMCID>
+    <PMCID>6640250</PMCID>
+    <GeneBankPMID>21169213</GeneBankPMID>
+    <GeneBankPMID>21118347</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>946046</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  UCBSV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Cassava brown streak Uganda virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Uganda cassava brown streak virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ugandan cassava brown streak virus</scientificName>
+</pathogen>

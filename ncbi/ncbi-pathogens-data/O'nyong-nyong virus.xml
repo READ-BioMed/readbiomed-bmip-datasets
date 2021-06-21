@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>374989</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  O'nyong-nyong virus (strain SG650)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>O'nyong-nyong virus strain SG650</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7149648</PMCID>
+        <PMCID>7126892</PMCID>
+        <PMCID>6787323</PMCID>
+        <PMCID>6560413</PMCID>
+        <PMCID>5759361</PMCID>
+        <PMCID>5694854</PMCID>
+        <PMCID>5508918</PMCID>
+        <PMCID>4685977</PMCID>
+        <PMCID>3744434</PMCID>
+        <PMCID>3321764</PMCID>
+        <PMCID>2772772</PMCID>
+        <PMCID>1642169</PMCID>
+        <PMCID>1636213</PMCID>
+        <PMCID>1190250</PMCID>
+        <PMCID>222961</PMCID>
+        <PMCID>114155</PMCID>
+        <id>79899</id>
+        <meSHTree>B04.820.578.875.054.586</meSHTree>
+        <scientificName>Igbo Ora virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11028</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  O'nyong-nyong virus (strain Gulu)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>O'nyong-nyong virus strain Gulu</scientificName>
+    </subSpecies>
+    <GeneBankPMID>2155505</GeneBankPMID>
+    <GeneBankPMID>2834873</GeneBankPMID>
+    <GeneBankPMID>18822126</GeneBankPMID>
+    <MeSHPMID>32477364</MeSHPMID>
+    <MeSHPMID>31812638</MeSHPMID>
+    <MeSHPMID>31596239</MeSHPMID>
+    <MeSHPMID>31554973</MeSHPMID>
+    <MeSHPMID>31545982</MeSHPMID>
+    <MeSHPMID>31545981</MeSHPMID>
+    <MeSHPMID>30924861</MeSHPMID>
+    <MeSHPMID>30905821</MeSHPMID>
+    <MeSHPMID>29769725</MeSHPMID>
+    <MeSHPMID>29634777</MeSHPMID>
+    <MeSHPMID>29173127</MeSHPMID>
+    <MeSHPMID>28829253</MeSHPMID>
+    <MeSHPMID>28719301</MeSHPMID>
+    <MeSHPMID>28215916</MeSHPMID>
+    <MeSHPMID>27296554</MeSHPMID>
+    <MeSHPMID>25658762</MeSHPMID>
+    <MeSHPMID>25548172</MeSHPMID>
+    <MeSHPMID>25271361</MeSHPMID>
+    <MeSHPMID>13998488</MeSHPMID>
+    <id>2169701</id>
+    <meSHTree>B04.820.578.875.054.586</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  O'nyong-nyong virus
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  ONN
+ &lt;/Acronym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   o'nyong nyong virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>O'nyong-nyong virus</scientificName>
+</pathogen>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2773313</id>
+        <scientificName>Rangifer tarandus papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>237305</PMCID>
+        <PMCID>255934</PMCID>
+        <id>10569</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RPV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  reindeer papillomavirus RPV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Reindeer papillomavirus</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>5021401</PMCID>
+    <PMCID>2612381</PMCID>
+    <PMCID>112445</PMCID>
+    <PMCID>25863</PMCID>
+    <PMCID>4142696</PMCID>
+    <PMCID>237305</PMCID>
+    <PMCID>255934</PMCID>
+    <PMCID>252855</PMCID>
+    <PMCID>255361</PMCID>
+    <GeneBankPMID>3034730</GeneBankPMID>
+    <id>10565</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  EEPV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Alces alces papillomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  European elk papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Deltapapillomavirus 1</scientificName>
+</pathogen>

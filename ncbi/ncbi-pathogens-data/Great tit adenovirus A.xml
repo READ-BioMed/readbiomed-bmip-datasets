@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>19854219</GeneBankPMID>
+        <id>676130</id>
+        <scientificName>Great tit adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7211397</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>4587935</PMCID>
+    <id>1146876</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Great tit adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Great tit adenovirus A</scientificName>
+</pathogen>

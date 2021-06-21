@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7912165</PMCID>
+    <PMCID>6950997</PMCID>
+    <PMCID>6901505</PMCID>
+    <PMCID>6412908</PMCID>
+    <PMCID>6505909</PMCID>
+    <PMCID>5802896</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>5035975</PMCID>
+    <PMCID>4365709</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3417579</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2634639</PMCID>
+    <PMCID>2609862</PMCID>
+    <GeneBankPMID>19046530</GeneBankPMID>
+    <id>55744</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Gazelle herpesvirus 1
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Equid herpesvirus 9
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpesvirus 9
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus-9
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Gazelle herpesvirus-1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equid herpesvirus 9</scientificName>
+</pathogen>

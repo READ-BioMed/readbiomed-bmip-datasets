@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>5592212</PMCID>
+    <PMCID>4422679</PMCID>
+    <PMCID>6638794</PMCID>
+    <PMCID>3719023</PMCID>
+    <PMCID>3708502</PMCID>
+    <PMCID>2905845</PMCID>
+    <PMCID>2583970</PMCID>
+    <PMCID>2495034</PMCID>
+    <GeneBankPMID>29370757</GeneBankPMID>
+    <GeneBankPMID>16963766</GeneBankPMID>
+    <id>2169985</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus - PAS
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus PAV-129
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus-PAS
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus-PAV-129
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  barley yellow dwarf virus serotype PAV-129
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Barley yellow dwarf virus-PAS</scientificName>
+</pathogen>

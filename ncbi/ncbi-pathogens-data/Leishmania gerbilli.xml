@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7884790</PMCID>
+    <PMCID>7563732</PMCID>
+    <PMCID>6928384</PMCID>
+    <PMCID>6609195</PMCID>
+    <PMCID>6463643</PMCID>
+    <PMCID>5491325</PMCID>
+    <PMCID>5135439</PMCID>
+    <PMCID>4765030</PMCID>
+    <PMCID>4805777</PMCID>
+    <PMCID>4654808</PMCID>
+    <PMCID>4513315</PMCID>
+    <PMCID>4377202</PMCID>
+    <PMCID>4313593</PMCID>
+    <PMCID>3875877</PMCID>
+    <PMCID>3970624</PMCID>
+    <PMCID>3573894</PMCID>
+    <PMCID>3528173</PMCID>
+    <PMCID>2939322</PMCID>
+    <PMCID>1890502</PMCID>
+    <id>40285</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Leishmania (Leishmania) gerbilli
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Leishmania gerbilii
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Leishmania gerbilli Wang, Qu &amp;amp; Guan 1965
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Leishmania gerbilli</scientificName>
+</pathogen>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>33730</id>
+        <scientificName>Simian virus 5 (strain 21004-WR)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31610</id>
+        <scientificName>Simian virus 5 (isolate human/LN)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31609</id>
+        <scientificName>Simian virus 5 (isolate canine/CPI-)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31608</id>
+        <scientificName>Simian virus 5 (isolate canine/CPI+)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11208</id>
+        <scientificName>Simian virus 5 (strain W3)</scientificName>
+    </subSpecies>
+    <GeneBankPMID>21795356</GeneBankPMID>
+    <GeneBankPMID>23183373</GeneBankPMID>
+    <GeneBankPMID>21147917</GeneBankPMID>
+    <GeneBankPMID>22258249</GeneBankPMID>
+    <GeneBankPMID>23328395</GeneBankPMID>
+    <GeneBankPMID>22171273</GeneBankPMID>
+    <GeneBankPMID>24089572</GeneBankPMID>
+    <GeneBankPMID>21994464</GeneBankPMID>
+    <GeneBankPMID>23950713</GeneBankPMID>
+    <GeneBankPMID>17692882</GeneBankPMID>
+    <GeneBankPMID>21680523</GeneBankPMID>
+    <GeneBankPMID>24453369</GeneBankPMID>
+    <GeneBankPMID>17977969</GeneBankPMID>
+    <GeneBankPMID>27489276</GeneBankPMID>
+    <GeneBankPMID>27335462</GeneBankPMID>
+    <GeneBankPMID>17959676</GeneBankPMID>
+    <GeneBankPMID>22301134</GeneBankPMID>
+    <GeneBankPMID>24927585</GeneBankPMID>
+    <GeneBankPMID>23012473</GeneBankPMID>
+    <GeneBankPMID>18667520</GeneBankPMID>
+    <GeneBankPMID>25589638</GeneBankPMID>
+    <GeneBankPMID>17640695</GeneBankPMID>
+    <GeneBankPMID>15893670</GeneBankPMID>
+    <GeneBankPMID>9356337</GeneBankPMID>
+    <GeneBankPMID>23785199</GeneBankPMID>
+    <GeneBankPMID>20684967</GeneBankPMID>
+    <MeSHPMID>33352107</MeSHPMID>
+    <MeSHPMID>32423918</MeSHPMID>
+    <MeSHPMID>32295916</MeSHPMID>
+    <MeSHPMID>32265331</MeSHPMID>
+    <MeSHPMID>32100701</MeSHPMID>
+    <MeSHPMID>32100137</MeSHPMID>
+    <MeSHPMID>32075920</MeSHPMID>
+    <MeSHPMID>31941046</MeSHPMID>
+    <MeSHPMID>31470267</MeSHPMID>
+    <MeSHPMID>31450796</MeSHPMID>
+    <MeSHPMID>31217248</MeSHPMID>
+    <MeSHPMID>31100083</MeSHPMID>
+    <MeSHPMID>31083335</MeSHPMID>
+    <MeSHPMID>31010715</MeSHPMID>
+    <MeSHPMID>30896364</MeSHPMID>
+    <MeSHPMID>30742688</MeSHPMID>
+    <MeSHPMID>30708959</MeSHPMID>
+    <MeSHPMID>29693588</MeSHPMID>
+    <MeSHPMID>29459504</MeSHPMID>
+    <MeSHPMID>29330069</MeSHPMID>
+    <MeSHPMID>29316047</MeSHPMID>
+    <MeSHPMID>29237836</MeSHPMID>
+    <MeSHPMID>28931689</MeSHPMID>
+    <MeSHPMID>28747497</MeSHPMID>
+    <MeSHPMID>28747496</MeSHPMID>
+    <MeSHPMID>28455668</MeSHPMID>
+    <MeSHPMID>28298602</MeSHPMID>
+    <MeSHPMID>28283804</MeSHPMID>
+    <MeSHPMID>28138777</MeSHPMID>
+    <MeSHPMID>27512068</MeSHPMID>
+    <MeSHPMID>27505156</MeSHPMID>
+    <MeSHPMID>27489276</MeSHPMID>
+    <MeSHPMID>27335462</MeSHPMID>
+    <MeSHPMID>27072881</MeSHPMID>
+    <MeSHPMID>26792745</MeSHPMID>
+    <MeSHPMID>26583313</MeSHPMID>
+    <MeSHPMID>26552000</MeSHPMID>
+    <MeSHPMID>26378167</MeSHPMID>
+    <MeSHPMID>25926640</MeSHPMID>
+    <MeSHPMID>25831513</MeSHPMID>
+    <MeSHPMID>25815701</MeSHPMID>
+    <MeSHPMID>25803697</MeSHPMID>
+    <MeSHPMID>25673911</MeSHPMID>
+    <MeSHPMID>25589638</MeSHPMID>
+    <MeSHPMID>25552723</MeSHPMID>
+    <MeSHPMID>25428869</MeSHPMID>
+    <MeSHPMID>25010267</MeSHPMID>
+    <MeSHPMID>24927585</MeSHPMID>
+    <MeSHPMID>24829334</MeSHPMID>
+    <MeSHPMID>24717150</MeSHPMID>
+    <MeSHPMID>24453369</MeSHPMID>
+    <MeSHPMID>24453358</MeSHPMID>
+    <MeSHPMID>24089572</MeSHPMID>
+    <MeSHPMID>24050998</MeSHPMID>
+    <MeSHPMID>23971914</MeSHPMID>
+    <MeSHPMID>23950713</MeSHPMID>
+    <MeSHPMID>23804633</MeSHPMID>
+    <MeSHPMID>23328395</MeSHPMID>
+    <MeSHPMID>23185558</MeSHPMID>
+    <MeSHPMID>22258249</MeSHPMID>
+    <MeSHPMID>22179184</MeSHPMID>
+    <MeSHPMID>21147917</MeSHPMID>
+    <MeSHPMID>20943976</MeSHPMID>
+    <MeSHPMID>20684967</MeSHPMID>
+    <MeSHPMID>20631121</MeSHPMID>
+    <MeSHPMID>20627346</MeSHPMID>
+    <MeSHPMID>20605567</MeSHPMID>
+    <MeSHPMID>19948350</MeSHPMID>
+    <MeSHPMID>19629176</MeSHPMID>
+    <MeSHPMID>19587032</MeSHPMID>
+    <MeSHPMID>19458173</MeSHPMID>
+    <MeSHPMID>19457998</MeSHPMID>
+    <MeSHPMID>18787007</MeSHPMID>
+    <MeSHPMID>18667520</MeSHPMID>
+    <MeSHPMID>18456301</MeSHPMID>
+    <MeSHPMID>18440578</MeSHPMID>
+    <MeSHPMID>17977969</MeSHPMID>
+    <MeSHPMID>17959676</MeSHPMID>
+    <MeSHPMID>17692882</MeSHPMID>
+    <MeSHPMID>17686837</MeSHPMID>
+    <MeSHPMID>17660437</MeSHPMID>
+    <MeSHPMID>17640695</MeSHPMID>
+    <MeSHPMID>17494063</MeSHPMID>
+    <MeSHPMID>17459446</MeSHPMID>
+    <MeSHPMID>17425423</MeSHPMID>
+    <MeSHPMID>17254623</MeSHPMID>
+    <MeSHPMID>17098980</MeSHPMID>
+    <MeSHPMID>17049367</MeSHPMID>
+    <MeSHPMID>16916528</MeSHPMID>
+    <MeSHPMID>16904649</MeSHPMID>
+    <MeSHPMID>16705129</MeSHPMID>
+    <MeSHPMID>16537609</MeSHPMID>
+    <MeSHPMID>16480754</MeSHPMID>
+    <MeSHPMID>16439527</MeSHPMID>
+    <MeSHPMID>16375939</MeSHPMID>
+    <MeSHPMID>16227264</MeSHPMID>
+    <MeSHPMID>15950997</MeSHPMID>
+    <MeSHPMID>15919909</MeSHPMID>
+    <MeSHPMID>15919365</MeSHPMID>
+    <MeSHPMID>15823612</MeSHPMID>
+    <MeSHPMID>15731228</MeSHPMID>
+    <MeSHPMID>15650180</MeSHPMID>
+    <MeSHPMID>15448364</MeSHPMID>
+    <MeSHPMID>15280460</MeSHPMID>
+    <MeSHPMID>15113888</MeSHPMID>
+    <MeSHPMID>14599789</MeSHPMID>
+    <MeSHPMID>14187907</MeSHPMID>
+    <id>2560580</id>
+    <meSHTree>B04.820.480.937.600.650.750.800</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mammalian rubulavirus 5
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  SV-5
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  SV5
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Parainfluenza virus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parainfluenza virus type 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian parainfluenza virus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian paramyxovirus (SV5)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian virus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  simian paramyxovirus SV5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  simian virus 5 SV5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Parainfluenza virus 5</scientificName>
+</pathogen>

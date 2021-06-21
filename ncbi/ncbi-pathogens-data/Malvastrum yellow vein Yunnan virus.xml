@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1288829</id>
+        <scientificName>Pepper yellow leaf curl China virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>355236</id>
+        <scientificName>Malvastrum yellow vein Yunnan virus-[Thailand]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329839</id>
+        <scientificName>Malvastrum yellow vein Yunnan virus -[Y280]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329838</id>
+        <scientificName>Malvastrum yellow vein Yunnan virus -[Y279]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329837</id>
+        <scientificName>Malvastrum yellow vein Yunnan virus -[Y278]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329836</id>
+        <scientificName>Malvastrum yellow vein Yunnan virus -[Y277]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329835</id>
+        <scientificName>Malvastrum yellow vein Yunnan virus -[Y160]</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>4704257</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>2922188</PMCID>
+    <PMCID>2268320</PMCID>
+    <GeneBankPMID>15965607</GeneBankPMID>
+    <id>290030</id>
+    <scientificName>Malvastrum yellow vein Yunnan virus</scientificName>
+</pathogen>

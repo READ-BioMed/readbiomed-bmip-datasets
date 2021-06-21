@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1263294</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Grapevine leafroll-associated virus 12
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Grapevine leafroll-associated virus 3m</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>651354</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Grapevine leafroll-associated virus 3 (isolate NY1)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Grapevine leafroll-associated virus 3 isolate NY1</scientificName>
+    </subSpecies>
+    <PMCID>7112925</PMCID>
+    <PMCID>6956034</PMCID>
+    <PMCID>6759674</PMCID>
+    <PMCID>6697837</PMCID>
+    <PMCID>6291115</PMCID>
+    <PMCID>6315891</PMCID>
+    <PMCID>6215002</PMCID>
+    <PMCID>6051638</PMCID>
+    <PMCID>5876796</PMCID>
+    <PMCID>5720603</PMCID>
+    <PMCID>5706158</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5645528</PMCID>
+    <PMCID>5594091</PMCID>
+    <PMCID>5225587</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>4890547</PMCID>
+    <PMCID>4890495</PMCID>
+    <PMCID>3873501</PMCID>
+    <PMCID>3712771</PMCID>
+    <PMCID>3633934</PMCID>
+    <PMCID>3568029</PMCID>
+    <PMCID>3519601</PMCID>
+    <PMCID>6638782</PMCID>
+    <PMCID>3273002</PMCID>
+    <PMCID>3198396</PMCID>
+    <PMCID>3231437</PMCID>
+    <PMCID>2956537</PMCID>
+    <PMCID>2698906</PMCID>
+    <GeneBankPMID>9603346</GeneBankPMID>
+    <GeneBankPMID>9229001</GeneBankPMID>
+    <id>55951</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  GLRaV-3
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Grape leafroll-associated virus-3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Grapevine leafroll associated virus 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Grapevine leafroll-associated virus 3</scientificName>
+</pathogen>

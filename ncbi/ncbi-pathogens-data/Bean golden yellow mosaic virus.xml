@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>337896</id>
+        <scientificName>Bean golden yellow mosaic virus [HomesteadFL]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222449</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bean golden yellow mosaic virus (isolate Puerto Rico-Japan)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bean golden yellow mosaic virus-[Puerto Rico-Japan]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222448</id>
+        <scientificName>Bean golden yellow mosaic virus-[Puerto Rico]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222447</id>
+        <scientificName>Bean golden yellow mosaic virus-[Mexico]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222446</id>
+        <scientificName>Bean golden yellow mosaic virus-[Guatemala]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222445</id>
+        <scientificName>Bean golden yellow mosaic virus-[Dominican Republic]</scientificName>
+    </subSpecies>
+    <PMCID>8027503</PMCID>
+    <PMCID>7691756</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7026202</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>6291142</PMCID>
+    <PMCID>5444779</PMCID>
+    <PMCID>5802298</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>4802622</PMCID>
+    <PMCID>3827049</PMCID>
+    <PMCID>4174809</PMCID>
+    <PMCID>3783229</PMCID>
+    <PMCID>3485178</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>3407900</PMCID>
+    <PMCID>3353201</PMCID>
+    <PMCID>3163225</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2973933</PMCID>
+    <PMCID>2945956</PMCID>
+    <PMCID>6640244</PMCID>
+    <PMCID>2894479</PMCID>
+    <PMCID>2258725</PMCID>
+    <PMCID>521842</PMCID>
+    <PMCID>434121</PMCID>
+    <GeneBankPMID>3037283</GeneBankPMID>
+    <id>220340</id>
+    <scientificName>Bean golden yellow mosaic virus</scientificName>
+</pathogen>

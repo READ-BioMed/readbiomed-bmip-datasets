@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>33723</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine rotavirus (group C / strain Shintoku)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine rotavirus Shintoku strain</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7166490</PMCID>
+        <PMCID>4795697</PMCID>
+        <PMCID>4810255</PMCID>
+        <id>31588</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine group C rotavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine rotavirus (GROUP C)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine rotavirus C</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31567</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rotavirus (group C / strain Bristol)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rotavirus C/Bristol</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>10916</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine rotavirus (GROUP C / STRAIN COWDEN)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine rotavirus C strain Cowden</scientificName>
+        </subSpecies>
+        <PMCID>7169751</PMCID>
+        <PMCID>5947060</PMCID>
+        <PMCID>5472503</PMCID>
+        <PMCID>4866665</PMCID>
+        <PMCID>3923044</PMCID>
+        <PMCID>262124</PMCID>
+        <PMCID>112963</PMCID>
+        <PMCID>84810</PMCID>
+        <PMCID>1255675</PMCID>
+        <id>10968</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine group C rotavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine rotavirus group C
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine rotavirus C</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>429343</id>
+            <scientificName>Rotavirus C Hu/Beijing/BJ37/2002/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>31568</id>
+            <scientificName>Human rotavirus (group C / strain Preston)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>31566</id>
+            <scientificName>Human rotavirus (group C / strain Belem)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>31565</id>
+            <scientificName>Human rotavirus (group C / strain 88-220)</scientificName>
+        </subSpecies>
+        <PMCID>7996518</PMCID>
+        <PMCID>5450416</PMCID>
+        <PMCID>4795697</PMCID>
+        <PMCID>4582575</PMCID>
+        <PMCID>4566180</PMCID>
+        <PMCID>3658953</PMCID>
+        <PMCID>3421670</PMCID>
+        <PMCID>1951218</PMCID>
+        <PMCID>1865895</PMCID>
+        <PMCID>1234047</PMCID>
+        <PMCID>404610</PMCID>
+        <PMCID>88473</PMCID>
+        <PMCID>96026</PMCID>
+        <PMCID>87456</PMCID>
+        <PMCID>86016</PMCID>
+        <PMCID>85903</PMCID>
+        <PMCID>105297</PMCID>
+        <PMCID>124797</PMCID>
+        <PMCID>229480</PMCID>
+        <PMCID>262924</PMCID>
+        <PMCID>270572</PMCID>
+        <id>10943</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rotavirus group C
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human group C rotavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rotavirus C</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>397542</id>
+            <scientificName>Porcine rotavirus strain 344/04-1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>290255</id>
+            <scientificName>Porcine rotavirus HP140</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>237917</id>
+            <scientificName>Rotavirus MRC3105/2000</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>107263</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine rotavirus strain A34
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine rotavirus A34</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>101351</id>
+            <scientificName>Porcine rotavirus strain A131</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>101350</id>
+            <scientificName>Porcine rotavirus strain A253</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>57726</id>
+            <scientificName>Rotavirus CC86</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>44572</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Rotavirus CN86
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine rotavirus CN86</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>36433</id>
+            <scientificName>Porcine rotavirus G11</scientificName>
+        </subSpecies>
+        <PMCID>7991361</PMCID>
+        <PMCID>7941959</PMCID>
+        <PMCID>7890030</PMCID>
+        <PMCID>7771860</PMCID>
+        <PMCID>7738533</PMCID>
+        <PMCID>7438620</PMCID>
+        <PMCID>7149938</PMCID>
+        <PMCID>7149553</PMCID>
+        <PMCID>7113769</PMCID>
+        <PMCID>7089464</PMCID>
+        <PMCID>7656657</PMCID>
+        <PMCID>7197332</PMCID>
+        <PMCID>7169751</PMCID>
+        <PMCID>7148735</PMCID>
+        <PMCID>7127831</PMCID>
+        <PMCID>7113898</PMCID>
+        <PMCID>7089436</PMCID>
+        <PMCID>7086643</PMCID>
+        <PMCID>6935106</PMCID>
+        <PMCID>6924034</PMCID>
+        <PMCID>6833084</PMCID>
+        <PMCID>6963626</PMCID>
+        <PMCID>6429820</PMCID>
+        <PMCID>6368768</PMCID>
+        <PMCID>6863295</PMCID>
+        <PMCID>6185943</PMCID>
+        <PMCID>6026206</PMCID>
+        <PMCID>5970503</PMCID>
+        <PMCID>5947060</PMCID>
+        <PMCID>5870915</PMCID>
+        <PMCID>5809846</PMCID>
+        <PMCID>5748614</PMCID>
+        <PMCID>5738603</PMCID>
+        <PMCID>5678564</PMCID>
+        <PMCID>5371803</PMCID>
+        <PMCID>5356244</PMCID>
+        <PMCID>5472503</PMCID>
+        <PMCID>5068170</PMCID>
+        <PMCID>4974758</PMCID>
+        <PMCID>4866665</PMCID>
+        <PMCID>4773010</PMCID>
+        <PMCID>4699646</PMCID>
+        <PMCID>4627360</PMCID>
+        <PMCID>4559446</PMCID>
+        <PMCID>3923044</PMCID>
+        <PMCID>3671536</PMCID>
+        <PMCID>3393542</PMCID>
+        <PMCID>3365852</PMCID>
+        <PMCID>3381553</PMCID>
+        <PMCID>3057834</PMCID>
+        <PMCID>3020472</PMCID>
+        <PMCID>2797526</PMCID>
+        <PMCID>2760642</PMCID>
+        <PMCID>2779260</PMCID>
+        <PMCID>2590959</PMCID>
+        <PMCID>2574723</PMCID>
+        <PMCID>2330132</PMCID>
+        <PMCID>3367365</PMCID>
+        <PMCID>1952324</PMCID>
+        <PMCID>523290</PMCID>
+        <PMCID>96021</PMCID>
+        <PMCID>112438</PMCID>
+        <PMCID>86791</PMCID>
+        <PMCID>88680</PMCID>
+        <PMCID>110325</PMCID>
+        <PMCID>271660</PMCID>
+        <id>10913</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   orcine rotavirus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   porcine rotovirus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine rotavirus</scientificName>
+    </subSpecies>
+    <PMCID>7978947</PMCID>
+    <PMCID>7759923</PMCID>
+    <PMCID>7486290</PMCID>
+    <PMCID>7277696</PMCID>
+    <PMCID>7167075</PMCID>
+    <PMCID>7149329</PMCID>
+    <PMCID>7131559</PMCID>
+    <PMCID>7111968</PMCID>
+    <PMCID>7108207</PMCID>
+    <PMCID>7106153</PMCID>
+    <PMCID>7094266</PMCID>
+    <PMCID>7197332</PMCID>
+    <PMCID>7149648</PMCID>
+    <PMCID>7126339</PMCID>
+    <PMCID>7117353</PMCID>
+    <PMCID>7113677</PMCID>
+    <PMCID>7109874</PMCID>
+    <PMCID>7088580</PMCID>
+    <PMCID>7086690</PMCID>
+    <PMCID>6896758</PMCID>
+    <PMCID>6805359</PMCID>
+    <PMCID>6758846</PMCID>
+    <PMCID>6616580</PMCID>
+    <PMCID>6629501</PMCID>
+    <PMCID>6120089</PMCID>
+    <PMCID>6178101</PMCID>
+    <PMCID>6020771</PMCID>
+    <PMCID>5964442</PMCID>
+    <PMCID>5947060</PMCID>
+    <PMCID>5871705</PMCID>
+    <PMCID>5874749</PMCID>
+    <PMCID>5764308</PMCID>
+    <PMCID>5621836</PMCID>
+    <PMCID>5617994</PMCID>
+    <PMCID>5450416</PMCID>
+    <PMCID>5360259</PMCID>
+    <PMCID>5210568</PMCID>
+    <PMCID>4992557</PMCID>
+    <PMCID>4866665</PMCID>
+    <PMCID>4794121</PMCID>
+    <PMCID>4810255</PMCID>
+    <PMCID>4721995</PMCID>
+    <PMCID>4814309</PMCID>
+    <PMCID>4679652</PMCID>
+    <PMCID>4582575</PMCID>
+    <PMCID>4566180</PMCID>
+    <PMCID>4400786</PMCID>
+    <PMCID>4667737</PMCID>
+    <PMCID>4325520</PMCID>
+    <PMCID>4248930</PMCID>
+    <PMCID>4214302</PMCID>
+    <PMCID>4038876</PMCID>
+    <PMCID>4028677</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>4188178</PMCID>
+    <PMCID>3766137</PMCID>
+    <PMCID>3801157</PMCID>
+    <PMCID>3655852</PMCID>
+    <PMCID>3658953</PMCID>
+    <PMCID>3581513</PMCID>
+    <PMCID>3827890</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3525171</PMCID>
+    <PMCID>4070694</PMCID>
+    <PMCID>3326065</PMCID>
+    <PMCID>3381553</PMCID>
+    <PMCID>3166495</PMCID>
+    <PMCID>3067889</PMCID>
+    <PMCID>3294550</PMCID>
+    <PMCID>2939698</PMCID>
+    <PMCID>2744225</PMCID>
+    <PMCID>2730110</PMCID>
+    <PMCID>2660707</PMCID>
+    <PMCID>2546720</PMCID>
+    <PMCID>4035350</PMCID>
+    <PMCID>2390760</PMCID>
+    <PMCID>2885027</PMCID>
+    <PMCID>2258962</PMCID>
+    <PMCID>2675548</PMCID>
+    <PMCID>2828068</PMCID>
+    <PMCID>1951218</PMCID>
+    <PMCID>1949019</PMCID>
+    <PMCID>1852398</PMCID>
+    <PMCID>1978183</PMCID>
+    <PMCID>1594742</PMCID>
+    <PMCID>1641785</PMCID>
+    <PMCID>1560371</PMCID>
+    <PMCID>3367654</PMCID>
+    <PMCID>1317165</PMCID>
+    <PMCID>1234047</PMCID>
+    <PMCID>516342</PMCID>
+    <PMCID>404610</PMCID>
+    <PMCID>303427</PMCID>
+    <PMCID>262124</PMCID>
+    <PMCID>154663</PMCID>
+    <PMCID>139722</PMCID>
+    <PMCID>120661</PMCID>
+    <PMCID>136252</PMCID>
+    <PMCID>136158</PMCID>
+    <PMCID>88473</PMCID>
+    <PMCID>1906176</PMCID>
+    <PMCID>114914</PMCID>
+    <PMCID>114043</PMCID>
+    <PMCID>113981</PMCID>
+    <PMCID>96026</PMCID>
+    <PMCID>87456</PMCID>
+    <PMCID>112224</PMCID>
+    <PMCID>86016</PMCID>
+    <PMCID>85903</PMCID>
+    <PMCID>112963</PMCID>
+    <PMCID>112597</PMCID>
+    <PMCID>84810</PMCID>
+    <PMCID>27838</PMCID>
+    <PMCID>105297</PMCID>
+    <PMCID>110019</PMCID>
+    <PMCID>105148</PMCID>
+    <PMCID>124823</PMCID>
+    <PMCID>124797</PMCID>
+    <PMCID>229607</PMCID>
+    <PMCID>229480</PMCID>
+    <PMCID>2271684</PMCID>
+    <PMCID>236887</PMCID>
+    <PMCID>309788</PMCID>
+    <PMCID>309493</PMCID>
+    <PMCID>262924</PMCID>
+    <PMCID>270572</PMCID>
+    <PMCID>289118</PMCID>
+    <PMCID>265456</PMCID>
+    <PMCID>265361</PMCID>
+    <PMCID>240952</PMCID>
+    <PMCID>270383</PMCID>
+    <PMCID>270259</PMCID>
+    <PMCID>1255675</PMCID>
+    <PMCID>266592</PMCID>
+    <PMCID>253325</PMCID>
+    <PMCID>269204</PMCID>
+    <PMCID>265881</PMCID>
+    <PMCID>362832</PMCID>
+    <GeneBankPMID>20391334</GeneBankPMID>
+    <GeneBankPMID>8560785</GeneBankPMID>
+    <GeneBankPMID>26431689</GeneBankPMID>
+    <GeneBankPMID>1371174</GeneBankPMID>
+    <GeneBankPMID>24643253</GeneBankPMID>
+    <GeneBankPMID>16191270</GeneBankPMID>
+    <GeneBankPMID>28839154</GeneBankPMID>
+    <GeneBankPMID>22431033</GeneBankPMID>
+    <GeneBankPMID>1653500</GeneBankPMID>
+    <GeneBankPMID>28407442</GeneBankPMID>
+    <GeneBankPMID>24220211</GeneBankPMID>
+    <GeneBankPMID>8972570</GeneBankPMID>
+    <GeneBankPMID>30460894</GeneBankPMID>
+    <GeneBankPMID>10567650</GeneBankPMID>
+    <GeneBankPMID>28643555</GeneBankPMID>
+    <GeneBankPMID>7852957</GeneBankPMID>
+    <GeneBankPMID>24899176</GeneBankPMID>
+    <GeneBankPMID>11864750</GeneBankPMID>
+    <GeneBankPMID>32750093</GeneBankPMID>
+    <GeneBankPMID>26727111</GeneBankPMID>
+    <GeneBankPMID>8091676</GeneBankPMID>
+    <GeneBankPMID>16873255</GeneBankPMID>
+    <GeneBankPMID>26401041</GeneBankPMID>
+    <GeneBankPMID>23671563</GeneBankPMID>
+    <id>36427</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Group C rotaviruses
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rotavirus group C
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  group C rotavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rotavirus C</scientificName>
+</pathogen>

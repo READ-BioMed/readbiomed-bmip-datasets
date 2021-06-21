@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7911403</PMCID>
+    <PMCID>7497999</PMCID>
+    <PMCID>7269391</PMCID>
+    <PMCID>7157729</PMCID>
+    <PMCID>6796345</PMCID>
+    <PMCID>6737592</PMCID>
+    <PMCID>6555951</PMCID>
+    <PMCID>6360175</PMCID>
+    <PMCID>6236141</PMCID>
+    <PMCID>6037663</PMCID>
+    <PMCID>6459681</PMCID>
+    <PMCID>5962484</PMCID>
+    <PMCID>5893795</PMCID>
+    <PMCID>5928811</PMCID>
+    <PMCID>5542699</PMCID>
+    <PMCID>5817193</PMCID>
+    <PMCID>5302141</PMCID>
+    <PMCID>4908759</PMCID>
+    <PMCID>5441348</PMCID>
+    <PMCID>5991821</PMCID>
+    <PMCID>4714895</PMCID>
+    <PMCID>4662080</PMCID>
+    <PMCID>4774835</PMCID>
+    <PMCID>4041617</PMCID>
+    <PMCID>3772144</PMCID>
+    <PMCID>3318832</PMCID>
+    <PMCID>3025832</PMCID>
+    <PMCID>546445</PMCID>
+    <PMCID>404625</PMCID>
+    <PMCID>356874</PMCID>
+    <PMCID>308998</PMCID>
+    <PMCID>142843</PMCID>
+    <PMCID>130762</PMCID>
+    <PMCID>87764</PMCID>
+    <PMCID>116016</PMCID>
+    <PMCID>7129187</PMCID>
+    <id>43082</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Spirochaeta theileri
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Spirochaeta theileri" Laveran 1903
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Borrelia theileri (Laveran 1903) Bergey et al. 1925
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Borrelia theileri</scientificName>
+</pathogen>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>654918</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equus caballus papillomavirus 1 (strain Olson)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Equus caballus papillomavirus - 1 (strain Olson)</scientificName>
+        </subSpecies>
+        <PMCID>7810815</PMCID>
+        <PMCID>6423848</PMCID>
+        <PMCID>5021401</PMCID>
+        <PMCID>1635997</PMCID>
+        <GeneBankPMID>15485669</GeneBankPMID>
+        <GeneBankPMID>16177984</GeneBankPMID>
+        <id>333920</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equus caballus papillomavirus - 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equus caballus papillomavirus EqAA 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equus caballus papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equus caballus papillomavirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <GeneBankPMID>12208979</GeneBankPMID>
+    <id>333919</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equine papillomavirus - 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine papillomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equinus papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Zetapapillomavirus 1</scientificName>
+</pathogen>

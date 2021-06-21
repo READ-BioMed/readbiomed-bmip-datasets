@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7702098</PMCID>
+    <PMCID>7524325</PMCID>
+    <PMCID>7356986</PMCID>
+    <PMCID>6802927</PMCID>
+    <PMCID>6346535</PMCID>
+    <PMCID>5749712</PMCID>
+    <PMCID>5746545</PMCID>
+    <PMCID>5561295</PMCID>
+    <PMCID>5488402</PMCID>
+    <PMCID>5484106</PMCID>
+    <PMCID>4791908</PMCID>
+    <PMCID>4720413</PMCID>
+    <PMCID>4636327</PMCID>
+    <PMCID>4553811</PMCID>
+    <PMCID>4942503</PMCID>
+    <PMCID>3936119</PMCID>
+    <PMCID>3642240</PMCID>
+    <PMCID>3511419</PMCID>
+    <PMCID>3370288</PMCID>
+    <PMCID>3346354</PMCID>
+    <PMCID>3265868</PMCID>
+    <PMCID>3187396</PMCID>
+    <PMCID>3171299</PMCID>
+    <PMCID>3067645</PMCID>
+    <PMCID>3024285</PMCID>
+    <PMCID>3008244</PMCID>
+    <PMCID>2918958</PMCID>
+    <PMCID>2864690</PMCID>
+    <PMCID>2708692</PMCID>
+    <PMCID>2650882</PMCID>
+    <PMCID>2667541</PMCID>
+    <PMCID>3120101</PMCID>
+    <PMCID>2566179</PMCID>
+    <PMCID>2516282</PMCID>
+    <PMCID>2432076</PMCID>
+    <PMCID>2276186</PMCID>
+    <PMCID>2223706</PMCID>
+    <PMCID>2206708</PMCID>
+    <PMCID>1904277</PMCID>
+    <PMCID>1794560</PMCID>
+    <PMCID>1698225</PMCID>
+    <PMCID>1563657</PMCID>
+    <PMCID>1562527</PMCID>
+    <PMCID>374397</PMCID>
+    <PMCID>165216</PMCID>
+    <PMCID>134928</PMCID>
+    <PMCID>92504</PMCID>
+    <PMCID>110974</PMCID>
+    <PMCID>92259</PMCID>
+    <PMCID>16524</PMCID>
+    <PMCID>91833</PMCID>
+    <PMCID>107409</PMCID>
+    <PMCID>124678</PMCID>
+    <PMCID>42921</PMCID>
+    <PMCID>247476</PMCID>
+    <id>1528</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium barkeri
+ &lt;/Synonym&gt; 
+ &lt;Inpart&gt;
+  "Inflabilis barati" (sic) Prevot 1938
+ &lt;/Inpart&gt; 
+ &lt;Inpart&gt;
+  Inflabilis barati
+ &lt;/Inpart&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium barkeri Stadtman et al. 1972 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Eubacterium barkeri (Stadtman et al. 1972) Collins et al. 1994
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25849
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25849
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104307
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104307
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1223
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1223
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1389
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1389
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM B-1775
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:B-1775
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 5359
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:5359
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:VKM:B:1775
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium barkeri</scientificName>
+</pathogen>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>39058</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Grlic mite-borne mosaic virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Garlic mite-borne mosaic virus</scientificName>
+    </subSpecies>
+    <PMCID>7680954</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>6339470</PMCID>
+    <PMCID>5602028</PMCID>
+    <PMCID>4356611</PMCID>
+    <PMCID>4307630</PMCID>
+    <PMCID>3818234</PMCID>
+    <PMCID>3765376</PMCID>
+    <PMCID>3486449</PMCID>
+    <PMCID>3550777</PMCID>
+    <GeneBankPMID>8376963</GeneBankPMID>
+    <GeneBankPMID>10542028</GeneBankPMID>
+    <id>12431</id>
+    <scientificName>Garlic virus C</scientificName>
+</pathogen>

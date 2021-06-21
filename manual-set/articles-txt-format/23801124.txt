@@ -1,0 +1,9 @@
+
+A comparative study of the adjuvanticity of Hansenula polymorpha, Saccharomyces cerevsiae and Yarrowia lipolytica in oral and nasal immunization with virus capsid antigens.
+
+The adjuvanticity of Hansenula polymorpha, Saccharomyces cerevsiae and Yarrowia lipolytica were compared for oral and nasal immunization with virus capsid antigens. 
+Mice were immunized orally with human papillomavirus type 16 L1 virus-like particles (HPV16 L1 VLPs), or intra-nasally with formalin-inactivated influenza A virus (FIV), in combination with one or other yeast. 
+Mice receiving HPV16 L1 VLPs combined with H. polymorpha had a significantly higher titer for serum anti-HPV16 L1 IgG and neutralizing activity than those receiving HPV16 L1 VLPs combined with either of the other two yeasts. 
+Also, mice receiving FIV combined with H. polymorpha had not only a markedly higher anti-influenza A virus IgG titer but also a higher survival rate after a potentially lethal influenza A virus challenge. 
+We suggest that H. polymorpha thus will be useful for enhancing immune responses in mucosal immunizations.
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>84412</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Japanese citrus viroid 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Citrus viroid-I-LSS</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3169951</PMCID>
+        <id>72705</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  CVd-Ia
+ &lt;/GenbankCommonName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Citrus viroid Ia</scientificName>
+    </subSpecies>
+    <PMCID>8001946</PMCID>
+    <PMCID>7887442</PMCID>
+    <PMCID>7246631</PMCID>
+    <PMCID>7012572</PMCID>
+    <PMCID>6797102</PMCID>
+    <PMCID>6633198</PMCID>
+    <PMCID>6563258</PMCID>
+    <PMCID>6466422</PMCID>
+    <PMCID>6111963</PMCID>
+    <PMCID>5995356</PMCID>
+    <PMCID>5544226</PMCID>
+    <PMCID>6638527</PMCID>
+    <PMCID>4340875</PMCID>
+    <PMCID>4262315</PMCID>
+    <PMCID>4045682</PMCID>
+    <PMCID>6638829</PMCID>
+    <PMCID>3169951</PMCID>
+    <PMCID>2793511</PMCID>
+    <PMCID>3185485</PMCID>
+    <PMCID>328721</PMCID>
+    <id>12906</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CBLVd
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Citrus viroid I
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  citrus bent leaf viroid CBLVd
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Citrus bent leaf viroid</scientificName>
+</pathogen>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7656011</PMCID>
+    <PMCID>7003222</PMCID>
+    <PMCID>6505778</PMCID>
+    <PMCID>5174797</PMCID>
+    <PMCID>4672570</PMCID>
+    <PMCID>4487326</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>28063080</GeneBankPMID>
+    <id>202910</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BuHV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Bubaline herpesvirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bubaline herpesvirus 1</scientificName>
+</pathogen>

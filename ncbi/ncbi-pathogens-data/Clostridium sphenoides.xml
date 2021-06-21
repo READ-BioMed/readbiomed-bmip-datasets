@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1298920</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Desulfotomaculum guttoideum DSM 4024
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>[Desulfotomaculum] guttoideum DSM 4024</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1297793</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sphenoides ATCC 19403
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium sphenoides DSM 632
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium sphenoides JCM 1415
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>[Clostridium] sphenoides JCM 1415</scientificName>
+    </subSpecies>
+    <PMCID>7996501</PMCID>
+    <PMCID>7725328</PMCID>
+    <PMCID>7394352</PMCID>
+    <PMCID>7344326</PMCID>
+    <PMCID>7265280</PMCID>
+    <PMCID>7248180</PMCID>
+    <PMCID>7242405</PMCID>
+    <PMCID>6941270</PMCID>
+    <PMCID>6843426</PMCID>
+    <PMCID>6835402</PMCID>
+    <PMCID>6838804</PMCID>
+    <PMCID>6713781</PMCID>
+    <PMCID>6683087</PMCID>
+    <PMCID>6855959</PMCID>
+    <PMCID>6566499</PMCID>
+    <PMCID>6145125</PMCID>
+    <PMCID>6030191</PMCID>
+    <PMCID>6424909</PMCID>
+    <PMCID>5934597</PMCID>
+    <PMCID>5913969</PMCID>
+    <PMCID>5812947</PMCID>
+    <PMCID>5741734</PMCID>
+    <PMCID>5748744</PMCID>
+    <PMCID>5655349</PMCID>
+    <PMCID>5417446</PMCID>
+    <PMCID>5520032</PMCID>
+    <PMCID>5099896</PMCID>
+    <PMCID>5018162</PMCID>
+    <PMCID>4988211</PMCID>
+    <PMCID>4687314</PMCID>
+    <PMCID>4893116</PMCID>
+    <PMCID>4536240</PMCID>
+    <PMCID>4441462</PMCID>
+    <PMCID>4269916</PMCID>
+    <PMCID>4216139</PMCID>
+    <PMCID>4062469</PMCID>
+    <PMCID>3986271</PMCID>
+    <PMCID>4149025</PMCID>
+    <PMCID>3946202</PMCID>
+    <PMCID>3921470</PMCID>
+    <PMCID>3837799</PMCID>
+    <PMCID>3716955</PMCID>
+    <PMCID>4056668</PMCID>
+    <PMCID>3917470</PMCID>
+    <PMCID>3917468</PMCID>
+    <PMCID>3628737</PMCID>
+    <PMCID>3294948</PMCID>
+    <PMCID>3284505</PMCID>
+    <PMCID>4036019</PMCID>
+    <PMCID>3352174</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3204644</PMCID>
+    <PMCID>2871786</PMCID>
+    <PMCID>2832351</PMCID>
+    <PMCID>3035247</PMCID>
+    <PMCID>2687317</PMCID>
+    <PMCID>2565942</PMCID>
+    <PMCID>2493151</PMCID>
+    <PMCID>2211471</PMCID>
+    <PMCID>1635191</PMCID>
+    <PMCID>1489301</PMCID>
+    <PMCID>1317387</PMCID>
+    <PMCID>1151925</PMCID>
+    <PMCID>535136</PMCID>
+    <PMCID>404640</PMCID>
+    <PMCID>154526</PMCID>
+    <PMCID>149705</PMCID>
+    <PMCID>129894</PMCID>
+    <PMCID>99682</PMCID>
+    <PMCID>93123</PMCID>
+    <PMCID>92994</PMCID>
+    <PMCID>92829</PMCID>
+    <PMCID>92730</PMCID>
+    <PMCID>92530</PMCID>
+    <PMCID>101469</PMCID>
+    <PMCID>91483</PMCID>
+    <PMCID>91161</PMCID>
+    <PMCID>106934</PMCID>
+    <PMCID>271342</PMCID>
+    <PMCID>216065</PMCID>
+    <PMCID>1704784</PMCID>
+    <PMCID>242623</PMCID>
+    <PMCID>170876</PMCID>
+    <PMCID>170796</PMCID>
+    <PMCID>1501556</PMCID>
+    <id>29370</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus sphenoides
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium sphenoides
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Desulfotomaculum guttoideum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Douglasillus sphenoides
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Plectridium sphenoides
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus sphenoides" Douglas et al. 1919
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Douglasillus sphenoides" Heller 1922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Plectridium sphenoides" Prevot 1938
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium sphenoides (Douglas et al. 1919) Bergey et al. 1923
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Desulfotomaculum guttoideum Gogotova and Vainstein 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Lacrimispora sphenoides (Douglas et al. 1919) Haas and Blanchard 2020
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19403
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19403
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:10390
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 4024
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 632
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:4024
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:632
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1415
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1415
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 10390
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:10390
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB 77027
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB:77027
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 507
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:507
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM B-1591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:B-1591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:VKM:B:1591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium sphenoides</scientificName>
+</pathogen>

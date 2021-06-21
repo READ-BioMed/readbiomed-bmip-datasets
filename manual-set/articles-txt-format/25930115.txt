@@ -1,0 +1,17 @@
+
+Smallpox vaccine, ACAM2000: Sites and duration of viral shedding and effect of povidone iodine on scarification site shedding and immune response.
+
+The U.S. 
+Department of Defense vaccinates personnel deployed to high-risk areas with the vaccinia virus (VACV)-based smallpox vaccine. 
+Autoinoculations and secondary and tertiary transmissions due to VACV shedding from the vaccination site continue to occur despite education of vaccinees on the risks of such infections. 
+The objectives of this study were to investigate, in naïve smallpox vaccinees, (a) whether the vaccination site can remain contagious after the scab separates and (b) whether the application of povidone iodine ointment (PIO) to the vaccination site inactivates VACV without affecting the immune response. 
+These objectives were tested in 60 individuals scheduled to receive smallpox vaccine. 
+Thirty individuals (control) did not receive PIO; 30 subjects (treatment) received PIO starting on post-vaccination day 7. 
+Counter to current dogma, this study showed that VACV continues to shed from the vaccination site after the scab separates. 
+Overall viral shedding levels in the PIO group were significantly lower than those in the control group (p=0.0045), and PIO significantly reduced the duration of viral shedding (median duration 14.5 days and 21 days in the PIO and control groups, respectively; p=0.0444). 
+At least 10% of control subjects continued to shed VACV at day 28, and 3.4% continued to shed the virus at day 42. 
+PIO reduced the proportion of subjects shedding virus from the vaccination site from day 8 until days 21-23 compared with control subjects. 
+Groups did not differ significantly in the proportion of subjects mounting an immune response, as measured by neutralizing antibodies, IgM, IgG, and interferon-gamma enzyme-linked immunospot assay. 
+When applied to the vaccination site starting on day 7, PIO reduced viral shedding without altering the immune response. 
+The use of PIO in addition to a semipermeable dressing may reduce the rates of autoinoculation and contact transmission originating from the vaccination site in smallpox-vaccinated individuals. 
+

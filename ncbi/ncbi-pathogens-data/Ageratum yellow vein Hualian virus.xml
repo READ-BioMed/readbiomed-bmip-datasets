@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>437062</id>
+        <scientificName>Ageratum yellow vein Hualian virus-[Taiwan:Hualian2:2000]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>437061</id>
+        <scientificName>Ageratum yellow vein Hualian virus-[Taiwan:Hualian4:2000]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>437060</id>
+        <scientificName>Ageratum yellow vein Hualian virus-[Taiwan:Hsinchu:tom:2003]</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>2974675</PMCID>
+    <id>437063</id>
+    <scientificName>Ageratum yellow vein Hualian virus</scientificName>
+</pathogen>

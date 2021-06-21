@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>69151</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine adenovirus type 1 (strain RI261)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine adenovirus 1 strain RI261</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>69150</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine adenovirus type 1 (strain CLL)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine adenovirus 1 strain CLL</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>36364</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine adenovirus type 1 (strain Utrecht)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine adenovirus 1 strain Utrecht</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10513</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine adenovirus type 1 (strain Glaxo)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canine adenovirus 1 strain Glaxo</scientificName>
+    </subSpecies>
+    <PMCID>7974315</PMCID>
+    <PMCID>7911502</PMCID>
+    <PMCID>7895636</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>7914820</PMCID>
+    <PMCID>7745964</PMCID>
+    <PMCID>7166416</PMCID>
+    <PMCID>7158574</PMCID>
+    <PMCID>7158325</PMCID>
+    <PMCID>7152112</PMCID>
+    <PMCID>7151783</PMCID>
+    <PMCID>7149729</PMCID>
+    <PMCID>7126569</PMCID>
+    <PMCID>7112573</PMCID>
+    <PMCID>7086736</PMCID>
+    <PMCID>7228315</PMCID>
+    <PMCID>7166340</PMCID>
+    <PMCID>7150146</PMCID>
+    <PMCID>7131703</PMCID>
+    <PMCID>7122972</PMCID>
+    <PMCID>7096189</PMCID>
+    <PMCID>7096732</PMCID>
+    <PMCID>6873714</PMCID>
+    <PMCID>6864002</PMCID>
+    <PMCID>5399267</PMCID>
+    <PMCID>5388480</PMCID>
+    <PMCID>5086850</PMCID>
+    <PMCID>5010667</PMCID>
+    <PMCID>4984651</PMCID>
+    <PMCID>3852515</PMCID>
+    <PMCID>3354822</PMCID>
+    <PMCID>3398296</PMCID>
+    <PMCID>3361955</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>124599</PMCID>
+    <id>10512</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine adenovirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Canine adenovirus type 1 Cav-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus c1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus can1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  canine adenovirus type 1 Can1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  dog adenovirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Canine adenovirus 1</scientificName>
+</pathogen>

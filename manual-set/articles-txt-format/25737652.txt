@@ -1,0 +1,10 @@
+
+Screening of ethnic medicinal plants of South India against influenza (H1N1) and their antioxidant activity.
+
+Antiviral activity against H1N1 influenza was studied using ethnic medicinal plants of South India. 
+Results revealed that Wrightia tinctoria (2.25 μg/ml) was one of the best antidotes against H1N1 virus in terms of inhibitory concentration of 50% (IC50) whereas the control drug Oseltamivir showed 6.44 μg/ml. 
+Strychnos minor, Diotacanthus albiflorus and Cayratia pedata showed low cytotoxicity (&gt;100) to the MDCK (Malin darby canine kidney) cells by cytotoxicity concentration of 50% (CC50) and possessed antiviral activity suggesting that these plants can be used as herbal capsules for H1N1 virus. 
+W. tinctoria and S. minor showed high therapeutic indexes (TI) such as 12.67 and 21.97 suggesting that those plants can be used for anti-viral drug development. 
+The CC50 values of Eugenia singampattiana (0.3 μg/ml), Vitex altissima (42 μg/ml), Salacia oblonga (7.32 μg/ml) and Salacia reticulata (7.36 μg/ml) resulted in cytotoxicity of the MDCK cells, due to their high phenolic content. 
+Findings from this study state that the plant W. tinctoria can be a potent source for third generation anti-viral drug development against H1N1. 
+

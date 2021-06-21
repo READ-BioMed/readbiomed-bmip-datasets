@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>11916</id>
+        <scientificName>Avian retrovirus mh2e21</scientificName>
+    </subSpecies>
+    <PMCID>390721</PMCID>
+    <PMCID>344887</PMCID>
+    <PMCID>390394</PMCID>
+    <id>11870</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian carcinoma virus MH2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian myelocytomatosis virus MH2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian retrovirus mh2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mill-Hill-2 virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian carcinoma Mill Hill virus 2</scientificName>
+</pathogen>

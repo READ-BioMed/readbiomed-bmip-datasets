@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>12190</id>
+        <scientificName>White clover mosaic virus (strain O)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12189</id>
+        <scientificName>White clover mosaic virus (strain M)</scientificName>
+    </subSpecies>
+    <PMCID>7997183</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7419011</PMCID>
+    <PMCID>7111917</PMCID>
+    <PMCID>7103407</PMCID>
+    <PMCID>6908805</PMCID>
+    <PMCID>6459814</PMCID>
+    <PMCID>6637905</PMCID>
+    <PMCID>6368714</PMCID>
+    <PMCID>5432563</PMCID>
+    <PMCID>5368238</PMCID>
+    <PMCID>5562474</PMCID>
+    <PMCID>4739775</PMCID>
+    <PMCID>6638469</PMCID>
+    <PMCID>6638471</PMCID>
+    <PMCID>3957223</PMCID>
+    <PMCID>4174816</PMCID>
+    <PMCID>4174812</PMCID>
+    <PMCID>3700270</PMCID>
+    <PMCID>6638744</PMCID>
+    <PMCID>3694688</PMCID>
+    <PMCID>3662875</PMCID>
+    <PMCID>3560364</PMCID>
+    <PMCID>3439618</PMCID>
+    <PMCID>3209275</PMCID>
+    <PMCID>3119628</PMCID>
+    <PMCID>3101153</PMCID>
+    <PMCID>3087015</PMCID>
+    <PMCID>3101144</PMCID>
+    <PMCID>6640471</PMCID>
+    <PMCID>2270343</PMCID>
+    <PMCID>6640351</PMCID>
+    <PMCID>1287560</PMCID>
+    <PMCID>1256007</PMCID>
+    <PMCID>1168787</PMCID>
+    <PMCID>1082745</PMCID>
+    <PMCID>544497</PMCID>
+    <PMCID>543393</PMCID>
+    <PMCID>150702</PMCID>
+    <PMCID>115116</PMCID>
+    <PMCID>149134</PMCID>
+    <PMCID>45009</PMCID>
+    <GeneBankPMID>3340527</GeneBankPMID>
+    <id>12188</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  WClMV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>White clover mosaic virus</scientificName>
+</pathogen>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>349684</id>
+        <scientificName>Indian chrysanthemum potyvirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>317653</id>
+        <scientificName>Buddleja crispa potyvirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>307437</id>
+        <scientificName>Ageratum houstonianum potyvirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>55517</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CVbMV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Chilli vein-banding mottle virus</scientificName>
+    </subSpecies>
+    <PMCID>7953161</PMCID>
+    <PMCID>7906326</PMCID>
+    <PMCID>7912582</PMCID>
+    <PMCID>7785935</PMCID>
+    <PMCID>7338571</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7177692</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7065361</PMCID>
+    <PMCID>6987279</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6479716</PMCID>
+    <PMCID>6081837</PMCID>
+    <PMCID>5899180</PMCID>
+    <PMCID>5877448</PMCID>
+    <PMCID>6097130</PMCID>
+    <PMCID>5811460</PMCID>
+    <PMCID>5634785</PMCID>
+    <PMCID>5432854</PMCID>
+    <PMCID>5344889</PMCID>
+    <PMCID>5282660</PMCID>
+    <PMCID>5044472</PMCID>
+    <PMCID>4978739</PMCID>
+    <PMCID>4859702</PMCID>
+    <PMCID>6638350</PMCID>
+    <PMCID>4647447</PMCID>
+    <PMCID>4517107</PMCID>
+    <PMCID>3999954</PMCID>
+    <PMCID>4023440</PMCID>
+    <PMCID>4188202</PMCID>
+    <PMCID>3889227</PMCID>
+    <PMCID>3784918</PMCID>
+    <PMCID>6638879</PMCID>
+    <PMCID>6638641</PMCID>
+    <PMCID>6638723</PMCID>
+    <PMCID>6638661</PMCID>
+    <PMCID>3025909</PMCID>
+    <PMCID>3091766</PMCID>
+    <GeneBankPMID>10542018</GeneBankPMID>
+    <GeneBankPMID>15163663</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>52280</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ChlVMV
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  PVBV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Pepper vein banding mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Pepper vein banding virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Chilli veinal mottle virus</scientificName>
+</pathogen>

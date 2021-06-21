@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1143714</id>
+        <scientificName>Pedilanthus leaf curl virus-[Cestrum nocturnum]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1143697</id>
+        <scientificName>Pedilanthus leaf curl virus-[Crape Jasmine]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1037425</id>
+        <scientificName>Pedilanthus leaf curl virus-Naj 1[India:New Delhi:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1037424</id>
+        <scientificName>Pedilanthus leaf curl virus-Nirula [India:New Delhi:Papaya:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1037423</id>
+        <scientificName>Pedilanthus leaf curl virus-D.School [India:New Delhi:Papaya:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1037422</id>
+        <scientificName>Pedilanthus leaf curl virus-HD [India:New Delhi:Papaya:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>587313</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pedilathus leaf curl virus-Pedilanthus [Pakistan:Multan:2004]
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pedilanthus leaf curl virus [Pakistan:Multan:2004]</scientificName>
+    </subSpecies>
+    <PMCID>6842478</PMCID>
+    <PMCID>6117872</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>5624494</PMCID>
+    <PMCID>5429635</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>4419787</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>3765727</PMCID>
+    <PMCID>3002923</PMCID>
+    <id>619631</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pedilenthus leaf curl Pakistan virus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pedilenthus leaf curl virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pedilenthus leaf curl virus</scientificName>
+</pathogen>

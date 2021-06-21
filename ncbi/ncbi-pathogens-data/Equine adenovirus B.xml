@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>26220513</GeneBankPMID>
+        <id>67603</id>
+        <scientificName>Equine adenovirus 2</scientificName>
+    </subSpecies>
+    <id>129955</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equine adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equine adenovirus B</scientificName>
+</pathogen>

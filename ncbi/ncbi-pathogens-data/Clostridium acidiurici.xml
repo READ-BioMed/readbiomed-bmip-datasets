@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6239281</PMCID>
+        <GeneBankPMID>23872566</GeneBankPMID>
+        <GeneBankPMID>23240052</GeneBankPMID>
+        <id>1128398</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium acidurici 9a
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Gottschalkia acidurici 9a</scientificName>
+    </subSpecies>
+    <PMCID>7924749</PMCID>
+    <PMCID>7911925</PMCID>
+    <PMCID>7775141</PMCID>
+    <PMCID>7547702</PMCID>
+    <PMCID>7305189</PMCID>
+    <PMCID>7311640</PMCID>
+    <PMCID>7318057</PMCID>
+    <PMCID>6642340</PMCID>
+    <PMCID>6480901</PMCID>
+    <PMCID>6452512</PMCID>
+    <PMCID>6239281</PMCID>
+    <PMCID>6889603</PMCID>
+    <PMCID>6085437</PMCID>
+    <PMCID>5861303</PMCID>
+    <PMCID>6050138</PMCID>
+    <PMCID>5947773</PMCID>
+    <PMCID>6093563</PMCID>
+    <PMCID>5939627</PMCID>
+    <PMCID>5736913</PMCID>
+    <PMCID>5717231</PMCID>
+    <PMCID>5845658</PMCID>
+    <PMCID>5737113</PMCID>
+    <PMCID>5626996</PMCID>
+    <PMCID>5584792</PMCID>
+    <PMCID>5737214</PMCID>
+    <PMCID>5494745</PMCID>
+    <PMCID>5437934</PMCID>
+    <PMCID>5256209</PMCID>
+    <PMCID>5167688</PMCID>
+    <PMCID>5175355</PMCID>
+    <PMCID>4919030</PMCID>
+    <PMCID>4860712</PMCID>
+    <PMCID>4753391</PMCID>
+    <PMCID>4685893</PMCID>
+    <PMCID>4593602</PMCID>
+    <PMCID>4582583</PMCID>
+    <PMCID>5945949</PMCID>
+    <PMCID>4815322</PMCID>
+    <PMCID>4536689</PMCID>
+    <PMCID>4571952</PMCID>
+    <PMCID>4462011</PMCID>
+    <PMCID>4615782</PMCID>
+    <PMCID>4157404</PMCID>
+    <PMCID>3931072</PMCID>
+    <PMCID>3811350</PMCID>
+    <PMCID>4056668</PMCID>
+    <PMCID>3723707</PMCID>
+    <PMCID>3624545</PMCID>
+    <PMCID>3644515</PMCID>
+    <PMCID>3584212</PMCID>
+    <PMCID>3519856</PMCID>
+    <PMCID>3438948</PMCID>
+    <PMCID>3302626</PMCID>
+    <PMCID>3129499</PMCID>
+    <PMCID>3126463</PMCID>
+    <PMCID>3067645</PMCID>
+    <PMCID>2984482</PMCID>
+    <PMCID>2927784</PMCID>
+    <PMCID>2708692</PMCID>
+    <PMCID>3666648</PMCID>
+    <PMCID>1913412</PMCID>
+    <PMCID>2350181</PMCID>
+    <PMCID>1637562</PMCID>
+    <PMCID>1562527</PMCID>
+    <PMCID>1169039</PMCID>
+    <PMCID>1142568</PMCID>
+    <PMCID>343963</PMCID>
+    <PMCID>122280</PMCID>
+    <PMCID>92742</PMCID>
+    <PMCID>92359</PMCID>
+    <PMCID>93586</PMCID>
+    <PMCID>106806</PMCID>
+    <PMCID>106335</PMCID>
+    <PMCID>1134501</PMCID>
+    <PMCID>46150</PMCID>
+    <PMCID>361334</PMCID>
+    <PMCID>208424</PMCID>
+    <PMCID>211278</PMCID>
+    <PMCID>212862</PMCID>
+    <PMCID>390073</PMCID>
+    <PMCID>217447</PMCID>
+    <PMCID>216671</PMCID>
+    <PMCID>235603</PMCID>
+    <PMCID>251433</PMCID>
+    <PMCID>285202</PMCID>
+    <PMCID>247262</PMCID>
+    <PMCID>316088</PMCID>
+    <PMCID>316087</PMCID>
+    <PMCID>278555</PMCID>
+    <PMCID>279147</PMCID>
+    <id>1556</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus acidi-urici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium acidiurici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium acidurici
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus acidi-urici" Liebert 1909
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Gottschalkia acidurici" Yutin and Galperin 2013
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium acidurici corrig. (Liebert 1909) Barker 1938 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Gottschalkia acidurici (Liebert 1909) Poehlein et al. 2017
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 7906
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:7906
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104303
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104303
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB 46094
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB:46094
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::9a
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 9a
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium acidiurici</scientificName>
+</pathogen>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>45368</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine adenovirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7110517</PMCID>
+        <PMCID>7088344</PMCID>
+        <PMCID>7096189</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4679550</PMCID>
+        <PMCID>4074940</PMCID>
+        <PMCID>2945211</PMCID>
+        <PMCID>2771947</PMCID>
+        <PMCID>2647528</PMCID>
+        <PMCID>2567038</PMCID>
+        <PMCID>1552094</PMCID>
+        <id>35265</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PAdV-3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus sus3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine adenovirus serotype 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine adenovirus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine adenovirus 3</scientificName>
+    </subSpecies>
+    <PMCID>7736431</PMCID>
+    <PMCID>6071052</PMCID>
+    <PMCID>5744146</PMCID>
+    <PMCID>4074940</PMCID>
+    <GeneBankPMID>14573794</GeneBankPMID>
+    <id>130369</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Porcine adenovirus A</scientificName>
+</pathogen>

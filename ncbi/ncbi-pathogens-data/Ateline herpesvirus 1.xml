@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7459551</PMCID>
+    <PMCID>7150127</PMCID>
+    <PMCID>7459556</PMCID>
+    <PMCID>7427429</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>1346941</PMCID>
+    <GeneBankPMID>28160144</GeneBankPMID>
+    <id>35243</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Spider monkey herpesvirus
+ &lt;/GenbankSynonym&gt; 
+ &lt;Includes&gt;
+  herpesvirus ateles (type 1 / strain lennette)
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Ateline herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Spider monkey alpha-herpesvirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  herpesvirus ateles 1 HVA 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ateline herpesvirus 1</scientificName>
+</pathogen>

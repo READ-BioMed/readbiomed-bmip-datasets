@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PrPSc>
+    <MeSHPMID>19622059</MeSHPMID>
+    <MeSHPMID>19335885</MeSHPMID>
+    <MeSHPMID>15763182</MeSHPMID>
+    <MeSHPMID>12296404</MeSHPMID>
+    <MeSHPMID>12014225</MeSHPMID>
+    <MeSHPMID>11338713</MeSHPMID>
+    <MeSHPMID>9658704</MeSHPMID>
+    <MeSHPMID>8878476</MeSHPMID>
+    <MeSHPMID>1363618</MeSHPMID>
+    <pubMedQuery>"PrPSc Proteins"[MH] AND "cats"[MH]</pubMedQuery>
+    <species>cat</species>
+</PrPSc>

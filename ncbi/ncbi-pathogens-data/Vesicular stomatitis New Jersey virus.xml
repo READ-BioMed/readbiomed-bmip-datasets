@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>11283</id>
+        <scientificName>Vesicular stomatitis virus (serotype New Jersey / strain Ogden)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11282</id>
+        <scientificName>Vesicular stomatitis virus (serotype New Jersey / strain Missouri)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11281</id>
+        <scientificName>Vesicular stomatitis virus (serotype New Jersey / strain Hazelhurst)</scientificName>
+    </subSpecies>
+    <PMCID>7811793</PMCID>
+    <PMCID>7125799</PMCID>
+    <PMCID>7114375</PMCID>
+    <PMCID>7368918</PMCID>
+    <PMCID>7169751</PMCID>
+    <PMCID>6594412</PMCID>
+    <PMCID>5853760</PMCID>
+    <PMCID>5698466</PMCID>
+    <PMCID>5375677</PMCID>
+    <PMCID>4683545</PMCID>
+    <PMCID>4234470</PMCID>
+    <PMCID>3911598</PMCID>
+    <PMCID>3890267</PMCID>
+    <PMCID>3868301</PMCID>
+    <PMCID>3755043</PMCID>
+    <PMCID>3708502</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3189079</PMCID>
+    <PMCID>3010432</PMCID>
+    <PMCID>2937603</PMCID>
+    <PMCID>2747378</PMCID>
+    <PMCID>4310687</PMCID>
+    <PMCID>1112159</PMCID>
+    <PMCID>1082748</PMCID>
+    <PMCID>24041</PMCID>
+    <GeneBankPMID>22825698</GeneBankPMID>
+    <GeneBankPMID>8388490</GeneBankPMID>
+    <MeSHPMID>32581148</MeSHPMID>
+    <MeSHPMID>32066949</MeSHPMID>
+    <MeSHPMID>30639413</MeSHPMID>
+    <MeSHPMID>30389000</MeSHPMID>
+    <MeSHPMID>29973649</MeSHPMID>
+    <MeSHPMID>28514874</MeSHPMID>
+    <MeSHPMID>27780575</MeSHPMID>
+    <MeSHPMID>27312365</MeSHPMID>
+    <MeSHPMID>27118518</MeSHPMID>
+    <MeSHPMID>24418533</MeSHPMID>
+    <MeSHPMID>23883666</MeSHPMID>
+    <MeSHPMID>23207069</MeSHPMID>
+    <MeSHPMID>23034141</MeSHPMID>
+    <MeSHPMID>22825698</MeSHPMID>
+    <MeSHPMID>22464169</MeSHPMID>
+    <MeSHPMID>22230813</MeSHPMID>
+    <MeSHPMID>21680501</MeSHPMID>
+    <MeSHPMID>21438000</MeSHPMID>
+    <MeSHPMID>21133963</MeSHPMID>
+    <MeSHPMID>21117996</MeSHPMID>
+    <MeSHPMID>20954866</MeSHPMID>
+    <MeSHPMID>20858740</MeSHPMID>
+    <MeSHPMID>20577213</MeSHPMID>
+    <MeSHPMID>20453220</MeSHPMID>
+    <MeSHPMID>20090034</MeSHPMID>
+    <MeSHPMID>20018211</MeSHPMID>
+    <MeSHPMID>19960709</MeSHPMID>
+    <MeSHPMID>19645291</MeSHPMID>
+    <MeSHPMID>19286495</MeSHPMID>
+    <MeSHPMID>19279165</MeSHPMID>
+    <MeSHPMID>19264597</MeSHPMID>
+    <MeSHPMID>19112510</MeSHPMID>
+    <MeSHPMID>18826036</MeSHPMID>
+    <MeSHPMID>16108504</MeSHPMID>
+    <id>11280</id>
+    <meSHTree>B04.820.480.937.750.900.910</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  VSNJV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Vesicular stomatitis New Jersey virus</scientificName>
+</pathogen>

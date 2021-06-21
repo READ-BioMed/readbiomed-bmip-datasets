@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>499613</id>
+        <scientificName>Tomato leaf curl Philippines virus - Los Banos:L3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>499612</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl Philippine virus - [Laguna]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl Philippine virus -[Laguna]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl Philippines virus - [Laguna]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl Philippines virus - Laguna</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>488506</id>
+        <scientificName>Tomato leaf curl Philippines virus - [Nueva Viscaya 13]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>488505</id>
+        <scientificName>Tomato leaf curl Philippines virus - [Misamis Oriental 31]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>488504</id>
+        <scientificName>Tomato leaf curl Philippines virus - [Laguna 21]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>488503</id>
+        <scientificName>Tomato leaf curl Philippines virus - [Ilocos 42]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>488502</id>
+        <scientificName>Tomato leaf curl Philippines virus - [Ilocos 41]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>488501</id>
+        <scientificName>Tomato leaf curl Philippines virus - [Bulacan 31]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>488500</id>
+        <scientificName>Tomato leaf curl Philippines virus - [Bukidnon 42]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>341038</id>
+        <scientificName>Tomato leaf curl Philippines virus - [San Leonardo]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>270142</id>
+        <scientificName>Tomato leaf curl Philippines virus - [LB]</scientificName>
+    </subSpecies>
+    <PMCID>7215500</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2170441</PMCID>
+    <id>96054</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus - Philippine
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  tomato leaf curl Philippine geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl Philippines virus</scientificName>
+</pathogen>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>545697</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Clostridium celatum str. DSM 1785
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Clostridium celatum strain DSM 1785
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Clostridium celatum DSM 1785</scientificName>
+    </subSpecies>
+    <PMCID>8110635</PMCID>
+    <PMCID>8066224</PMCID>
+    <PMCID>7947918</PMCID>
+    <PMCID>7814639</PMCID>
+    <PMCID>7729129</PMCID>
+    <PMCID>7761326</PMCID>
+    <PMCID>7723660</PMCID>
+    <PMCID>7596189</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7960973</PMCID>
+    <PMCID>7160772</PMCID>
+    <PMCID>7055051</PMCID>
+    <PMCID>7000398</PMCID>
+    <PMCID>6906406</PMCID>
+    <PMCID>6905524</PMCID>
+    <PMCID>7524339</PMCID>
+    <PMCID>6587218</PMCID>
+    <PMCID>6488615</PMCID>
+    <PMCID>6379501</PMCID>
+    <PMCID>6265309</PMCID>
+    <PMCID>6199319</PMCID>
+    <PMCID>6103423</PMCID>
+    <PMCID>6015491</PMCID>
+    <PMCID>5856834</PMCID>
+    <PMCID>5864088</PMCID>
+    <PMCID>6043449</PMCID>
+    <PMCID>5733095</PMCID>
+    <PMCID>5583593</PMCID>
+    <PMCID>5374643</PMCID>
+    <PMCID>5013396</PMCID>
+    <PMCID>4702734</PMCID>
+    <PMCID>4143258</PMCID>
+    <PMCID>3757183</PMCID>
+    <PMCID>3639104</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>535136</PMCID>
+    <PMCID>444815</PMCID>
+    <PMCID>129894</PMCID>
+    <PMCID>126712</PMCID>
+    <id>36834</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium celatum Hauschild and Holdeman 1974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27791
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27791
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104316
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104316
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1785
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1785
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1394
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1394
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 12746
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:12746
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium celatum</scientificName>
+</pathogen>

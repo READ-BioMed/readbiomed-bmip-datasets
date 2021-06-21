@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>31709</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Poplar mosaic virus (iATCC PV275)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Poplar mosaic virus (isolate ATCC PV275)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Poplar mosaic virus (ATCC PV257)</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7018812</PMCID>
+    <PMCID>6408794</PMCID>
+    <PMCID>6523588</PMCID>
+    <PMCID>4853101</PMCID>
+    <PMCID>4704818</PMCID>
+    <PMCID>6638469</PMCID>
+    <PMCID>4356611</PMCID>
+    <PMCID>4374565</PMCID>
+    <PMCID>4207746</PMCID>
+    <PMCID>3689765</PMCID>
+    <PMCID>2699436</PMCID>
+    <GeneBankPMID>15593423</GeneBankPMID>
+    <id>12166</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  poplar mosaic virus PMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Poplar mosaic virus</scientificName>
+</pathogen>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>648242</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 2 (isolate Srivastava/1982)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Adeno-associated virus 2 Srivastava/1982</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10805</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno associated virus 2H
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Adeno-associated virus 2H</scientificName>
+    </subSpecies>
+    <PMCID>7019592</PMCID>
+    <PMCID>6806533</PMCID>
+    <PMCID>6362106</PMCID>
+    <PMCID>6485689</PMCID>
+    <PMCID>6222543</PMCID>
+    <PMCID>6343700</PMCID>
+    <PMCID>6116962</PMCID>
+    <PMCID>5943452</PMCID>
+    <PMCID>5990033</PMCID>
+    <PMCID>5930495</PMCID>
+    <PMCID>5928435</PMCID>
+    <PMCID>6098039</PMCID>
+    <PMCID>5571279</PMCID>
+    <PMCID>5512256</PMCID>
+    <PMCID>5549463</PMCID>
+    <PMCID>5226184</PMCID>
+    <PMCID>5081384</PMCID>
+    <PMCID>4940491</PMCID>
+    <PMCID>4824415</PMCID>
+    <PMCID>5243141</PMCID>
+    <PMCID>4911254</PMCID>
+    <PMCID>4869047</PMCID>
+    <PMCID>4629045</PMCID>
+    <PMCID>4763949</PMCID>
+    <PMCID>4551525</PMCID>
+    <PMCID>4351523</PMCID>
+    <PMCID>4483038</PMCID>
+    <PMCID>4485839</PMCID>
+    <PMCID>4457774</PMCID>
+    <PMCID>4249135</PMCID>
+    <PMCID>4189750</PMCID>
+    <PMCID>4086030</PMCID>
+    <PMCID>4102082</PMCID>
+    <PMCID>4114625</PMCID>
+    <PMCID>3822785</PMCID>
+    <PMCID>3899493</PMCID>
+    <PMCID>3773816</PMCID>
+    <PMCID>3701766</PMCID>
+    <PMCID>4581596</PMCID>
+    <PMCID>3589918</PMCID>
+    <PMCID>4104698</PMCID>
+    <PMCID>3519243</PMCID>
+    <PMCID>3348856</PMCID>
+    <PMCID>3044652</PMCID>
+    <PMCID>2987831</PMCID>
+    <PMCID>3014208</PMCID>
+    <PMCID>3773229</PMCID>
+    <PMCID>2987376</PMCID>
+    <PMCID>2843401</PMCID>
+    <PMCID>2829459</PMCID>
+    <PMCID>2766574</PMCID>
+    <PMCID>2701189</PMCID>
+    <PMCID>2679857</PMCID>
+    <PMCID>2827330</PMCID>
+    <PMCID>2553401</PMCID>
+    <PMCID>2940717</PMCID>
+    <PMCID>2766853</PMCID>
+    <PMCID>2733371</PMCID>
+    <PMCID>2593107</PMCID>
+    <PMCID>2265771</PMCID>
+    <PMCID>1906764</PMCID>
+    <PMCID>1913720</PMCID>
+    <PMCID>2789460</PMCID>
+    <PMCID>1606634</PMCID>
+    <PMCID>1606620</PMCID>
+    <PMCID>2361348</PMCID>
+    <PMCID>2730223</PMCID>
+    <PMCID>1361306</PMCID>
+    <PMCID>2763308</PMCID>
+    <PMCID>303420</PMCID>
+    <PMCID>114156</PMCID>
+    <PMCID>111567</PMCID>
+    <PMCID>110575</PMCID>
+    <PMCID>3010411</PMCID>
+    <PMCID>109519</PMCID>
+    <PMCID>121459</PMCID>
+    <PMCID>2191525</PMCID>
+    <GeneBankPMID>7996133</GeneBankPMID>
+    <GeneBankPMID>17507473</GeneBankPMID>
+    <GeneBankPMID>22419217</GeneBankPMID>
+    <GeneBankPMID>25838114</GeneBankPMID>
+    <GeneBankPMID>22719256</GeneBankPMID>
+    <GeneBankPMID>26292324</GeneBankPMID>
+    <GeneBankPMID>23152528</GeneBankPMID>
+    <GeneBankPMID>23034483</GeneBankPMID>
+    <GeneBankPMID>22694902</GeneBankPMID>
+    <GeneBankPMID>20573815</GeneBankPMID>
+    <GeneBankPMID>26314310</GeneBankPMID>
+    <GeneBankPMID>22205745</GeneBankPMID>
+    <GeneBankPMID>16731956</GeneBankPMID>
+    <GeneBankPMID>33270897</GeneBankPMID>
+    <GeneBankPMID>17239418</GeneBankPMID>
+    <GeneBankPMID>18092809</GeneBankPMID>
+    <GeneBankPMID>15371437</GeneBankPMID>
+    <GeneBankPMID>25552709</GeneBankPMID>
+    <GeneBankPMID>22696661</GeneBankPMID>
+    <GeneBankPMID>6300419</GeneBankPMID>
+    <GeneBankPMID>26370092</GeneBankPMID>
+    <GeneBankPMID>16956943</GeneBankPMID>
+    <GeneBankPMID>20573820</GeneBankPMID>
+    <GeneBankPMID>17314170</GeneBankPMID>
+    <GeneBankPMID>17474716</GeneBankPMID>
+    <GeneBankPMID>6088052</GeneBankPMID>
+    <GeneBankPMID>25127256</GeneBankPMID>
+    <GeneBankPMID>17898048</GeneBankPMID>
+    <id>10804</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  AAV2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Adeno associated virus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-assoziiertes Virus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Adeno-associated virus-2</scientificName>
+</pathogen>

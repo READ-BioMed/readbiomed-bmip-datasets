@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7086627</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>6125466</PMCID>
+    <PMCID>6020354</PMCID>
+    <PMCID>5878061</PMCID>
+    <PMCID>4880931</PMCID>
+    <PMCID>4825966</PMCID>
+    <PMCID>4756819</PMCID>
+    <PMCID>4236787</PMCID>
+    <PMCID>4047195</PMCID>
+    <PMCID>3989440</PMCID>
+    <PMCID>3911612</PMCID>
+    <PMCID>4056453</PMCID>
+    <PMCID>3744571</PMCID>
+    <PMCID>3751371</PMCID>
+    <PMCID>3964136</PMCID>
+    <PMCID>3816976</PMCID>
+    <PMCID>3646995</PMCID>
+    <PMCID>3571263</PMCID>
+    <PMCID>4235684</PMCID>
+    <PMCID>3963400</PMCID>
+    <PMCID>3271019</PMCID>
+    <PMCID>3236698</PMCID>
+    <PMCID>3218649</PMCID>
+    <PMCID>3593117</PMCID>
+    <PMCID>3197618</PMCID>
+    <PMCID>3064667</PMCID>
+    <PMCID>3407688</PMCID>
+    <PMCID>2981879</PMCID>
+    <PMCID>2994048</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2809762</PMCID>
+    <PMCID>3127057</PMCID>
+    <PMCID>4416230</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>3482000</PMCID>
+    <PMCID>2654603</PMCID>
+    <PMCID>2703161</PMCID>
+    <PMCID>2703160</PMCID>
+    <PMCID>2014757</PMCID>
+    <PMCID>1854957</PMCID>
+    <PMCID>1854955</PMCID>
+    <PMCID>2376816</PMCID>
+    <PMCID>1440895</PMCID>
+    <PMCID>1346941</PMCID>
+    <PMCID>1346939</PMCID>
+    <PMCID>1287589</PMCID>
+    <PMCID>1160587</PMCID>
+    <PMCID>548687</PMCID>
+    <PMCID>224954</PMCID>
+    <PMCID>1851174</PMCID>
+    <PMCID>136802</PMCID>
+    <PMCID>136781</PMCID>
+    <PMCID>119990</PMCID>
+    <PMCID>135900</PMCID>
+    <PMCID>135856</PMCID>
+    <PMCID>114592</PMCID>
+    <PMCID>88291</PMCID>
+    <PMCID>1088443</PMCID>
+    <PMCID>1891923</PMCID>
+    <PMCID>115929</PMCID>
+    <PMCID>113901</PMCID>
+    <PMCID>1186975</PMCID>
+    <PMCID>112343</PMCID>
+    <PMCID>112260</PMCID>
+    <PMCID>111633</PMCID>
+    <PMCID>112954</PMCID>
+    <PMCID>104219</PMCID>
+    <PMCID>104144</PMCID>
+    <PMCID>104440</PMCID>
+    <PMCID>103898</PMCID>
+    <PMCID>110507</PMCID>
+    <PMCID>2212269</PMCID>
+    <PMCID>109784</PMCID>
+    <PMCID>237768</PMCID>
+    <PMCID>237635</PMCID>
+    <PMCID>358948</PMCID>
+    <PMCID>452667</PMCID>
+    <PMCID>249470</PMCID>
+    <PMCID>253713</PMCID>
+    <PMCID>253376</PMCID>
+    <PMCID>256829</PMCID>
+    <PMCID>171058</PMCID>
+    <PMCID>171057</PMCID>
+    <PMCID>383695</PMCID>
+    <PMCID>383530</PMCID>
+    <GeneBankPMID>8388484</GeneBankPMID>
+    <GeneBankPMID>10590127</GeneBankPMID>
+    <id>106332</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Cercopithecine herpesvirus 12
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Herpesvirus papio
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Papiine herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  herpesvirus papio HVP
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Cercopithicine herpesvirus 12
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Papiine herpesvirus 1</scientificName>
+</pathogen>

@@ -1,0 +1,8 @@
+
+Genetic characterization of H7N2 influenza virus isolated from pigs.
+
+Because pigs have respiratory epitheliums which express both α2-3 and α2-6 linked sialic acid as receptors to influenza A viruses, they are regarded as mixing vessel for the generation of pandemic influenza viruses through genetic reassortment. 
+A H7N2 influenza virus (A/swine/KU/16/2001) was isolated from pig lungs collected from the slaughterhouse. 
+All eight genes of the influenza virus were sequenced and phylogenetic analysis indicated that A/swine/KU/16/2001 originated in Hong Kong and genetic reassortment had occurred between the avian H7N2 and H5N3 influenza viruses. 
+The first isolation of H7 influenza virus in pigs provides the opportunity for genetic reassortment of influenza viruses with pandemic potential and emphasizes the importance of surveillance for atypical swine influenza viruses.
+

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4939628</PMCID>
+        <GeneBankPMID>24526628</GeneBankPMID>
+        <id>1435045</id>
+        <scientificName>Borrelia parkeri HR1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313294</id>
+        <scientificName>Borrelia parkeri SLO</scientificName>
+    </subSpecies>
+    <PMCID>7947212</PMCID>
+    <PMCID>7820315</PMCID>
+    <PMCID>7497999</PMCID>
+    <PMCID>7269391</PMCID>
+    <PMCID>7157729</PMCID>
+    <PMCID>6711897</PMCID>
+    <PMCID>6571920</PMCID>
+    <PMCID>6501397</PMCID>
+    <PMCID>6375133</PMCID>
+    <PMCID>6306154</PMCID>
+    <PMCID>6224114</PMCID>
+    <PMCID>6193384</PMCID>
+    <PMCID>6064930</PMCID>
+    <PMCID>7108105</PMCID>
+    <PMCID>6236141</PMCID>
+    <PMCID>5805228</PMCID>
+    <PMCID>5708834</PMCID>
+    <PMCID>5679642</PMCID>
+    <PMCID>5570325</PMCID>
+    <PMCID>5332432</PMCID>
+    <PMCID>5105259</PMCID>
+    <PMCID>5014256</PMCID>
+    <PMCID>4945796</PMCID>
+    <PMCID>4939628</PMCID>
+    <PMCID>4908759</PMCID>
+    <PMCID>4987187</PMCID>
+    <PMCID>4741519</PMCID>
+    <PMCID>4391787</PMCID>
+    <PMCID>3924360</PMCID>
+    <PMCID>3946889</PMCID>
+    <PMCID>3777926</PMCID>
+    <PMCID>3719886</PMCID>
+    <PMCID>3561136</PMCID>
+    <PMCID>3510061</PMCID>
+    <PMCID>2863501</PMCID>
+    <PMCID>2863514</PMCID>
+    <PMCID>2849321</PMCID>
+    <PMCID>2795039</PMCID>
+    <PMCID>2749103</PMCID>
+    <PMCID>2605162</PMCID>
+    <PMCID>3725823</PMCID>
+    <PMCID>2570806</PMCID>
+    <PMCID>2233652</PMCID>
+    <PMCID>1952022</PMCID>
+    <PMCID>1630700</PMCID>
+    <PMCID>1539583</PMCID>
+    <PMCID>1418896</PMCID>
+    <PMCID>1273895</PMCID>
+    <PMCID>1230938</PMCID>
+    <PMCID>1233929</PMCID>
+    <PMCID>1065187</PMCID>
+    <PMCID>446246</PMCID>
+    <PMCID>404625</PMCID>
+    <PMCID>387808</PMCID>
+    <PMCID>356836</PMCID>
+    <PMCID>3016790</PMCID>
+    <PMCID>179811</PMCID>
+    <PMCID>128138</PMCID>
+    <PMCID>140362</PMCID>
+    <PMCID>87437</PMCID>
+    <PMCID>101806</PMCID>
+    <PMCID>86996</PMCID>
+    <PMCID>103694</PMCID>
+    <PMCID>116016</PMCID>
+    <PMCID>105229</PMCID>
+    <PMCID>107528</PMCID>
+    <PMCID>107070</PMCID>
+    <PMCID>108019</PMCID>
+    <PMCID>174005</PMCID>
+    <PMCID>182554</PMCID>
+    <PMCID>262748</PMCID>
+    <GeneBankPMID>24686059</GeneBankPMID>
+    <GeneBankPMID>23658828</GeneBankPMID>
+    <id>141</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Spirochaeta parkeri
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Spirochaeta parkeri" Davis 1942
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Borrelia parkeri (Davis 1942) Steinhaus 1946
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Borrelia parkeri</scientificName>
+</pathogen>

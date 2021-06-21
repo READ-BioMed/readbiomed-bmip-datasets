@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>648243</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine parvovirus (isolate pAT153/1986)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine parvovirus pAT153/1986</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>17715221</GeneBankPMID>
+        <id>365609</id>
+        <scientificName>Bovine parvovirus-1</scientificName>
+    </subSpecies>
+    <PMCID>7811793</PMCID>
+    <PMCID>7924616</PMCID>
+    <PMCID>7588064</PMCID>
+    <PMCID>7754444</PMCID>
+    <PMCID>7222464</PMCID>
+    <PMCID>7172517</PMCID>
+    <PMCID>7168541</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7127321</PMCID>
+    <PMCID>7125944</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7120174</PMCID>
+    <PMCID>7123310</PMCID>
+    <PMCID>7111627</PMCID>
+    <PMCID>7087614</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7127250</PMCID>
+    <PMCID>7119103</PMCID>
+    <PMCID>7111883</PMCID>
+    <PMCID>7110559</PMCID>
+    <PMCID>7019290</PMCID>
+    <PMCID>6920155</PMCID>
+    <PMCID>6812269</PMCID>
+    <PMCID>6724020</PMCID>
+    <PMCID>6333648</PMCID>
+    <PMCID>6083571</PMCID>
+    <PMCID>5769433</PMCID>
+    <PMCID>5449436</PMCID>
+    <PMCID>5432872</PMCID>
+    <PMCID>5466706</PMCID>
+    <PMCID>5654489</PMCID>
+    <PMCID>5136388</PMCID>
+    <PMCID>5772826</PMCID>
+    <PMCID>4823300</PMCID>
+    <PMCID>4790921</PMCID>
+    <PMCID>4524367</PMCID>
+    <PMCID>4512980</PMCID>
+    <PMCID>4442534</PMCID>
+    <PMCID>4325758</PMCID>
+    <PMCID>4139337</PMCID>
+    <PMCID>4113798</PMCID>
+    <PMCID>4282370</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3818428</PMCID>
+    <PMCID>3848447</PMCID>
+    <PMCID>4017530</PMCID>
+    <PMCID>3457178</PMCID>
+    <PMCID>3291126</PMCID>
+    <PMCID>3056791</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2957997</PMCID>
+    <PMCID>2678954</PMCID>
+    <PMCID>2703156</PMCID>
+    <PMCID>1716753</PMCID>
+    <PMCID>1716748</PMCID>
+    <PMCID>1393160</PMCID>
+    <PMCID>136711</PMCID>
+    <PMCID>115897</PMCID>
+    <PMCID>111511</PMCID>
+    <PMCID>420750</PMCID>
+    <GeneBankPMID>3783814</GeneBankPMID>
+    <id>10784</id>
+    <meSHTree>B04.280.580.650.085</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BPV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine parvovirus</scientificName>
+</pathogen>

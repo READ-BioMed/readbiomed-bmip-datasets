@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>31595</id>
+        <scientificName>Wound tumor virus (strain NJ)</scientificName>
+    </subSpecies>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7097797</PMCID>
+    <PMCID>7094257</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>3797527</PMCID>
+    <PMCID>3719018</PMCID>
+    <PMCID>3483285</PMCID>
+    <PMCID>3365852</PMCID>
+    <PMCID>3197656</PMCID>
+    <PMCID>3067918</PMCID>
+    <PMCID>2753141</PMCID>
+    <PMCID>252621</PMCID>
+    <GeneBankPMID>2726467</GeneBankPMID>
+    <GeneBankPMID>3840622</GeneBankPMID>
+    <GeneBankPMID>3479793</GeneBankPMID>
+    <GeneBankPMID>2525838</GeneBankPMID>
+    <GeneBankPMID>2726499</GeneBankPMID>
+    <GeneBankPMID>2543127</GeneBankPMID>
+    <id>10987</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  WTV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  wound tumor virus, WTV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Wound tumor virus</scientificName>
+</pathogen>

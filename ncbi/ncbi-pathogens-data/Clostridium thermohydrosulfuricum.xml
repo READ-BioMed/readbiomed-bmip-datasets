@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1198630</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Thermoanaerobacter sp. WC1
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Thermoanaerobacter thermohydrosulfuricus WC1</scientificName>
+    </subSpecies>
+    <PMCID>8153356</PMCID>
+    <PMCID>7814735</PMCID>
+    <PMCID>7672192</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7356315</PMCID>
+    <PMCID>7355431</PMCID>
+    <PMCID>7285331</PMCID>
+    <PMCID>7147708</PMCID>
+    <PMCID>6942602</PMCID>
+    <PMCID>6449208</PMCID>
+    <PMCID>6110305</PMCID>
+    <PMCID>6036130</PMCID>
+    <PMCID>6023001</PMCID>
+    <PMCID>6309613</PMCID>
+    <PMCID>5708176</PMCID>
+    <PMCID>5637338</PMCID>
+    <PMCID>5514679</PMCID>
+    <PMCID>5496566</PMCID>
+    <PMCID>5386144</PMCID>
+    <PMCID>5002420</PMCID>
+    <PMCID>5266552</PMCID>
+    <PMCID>6272937</PMCID>
+    <PMCID>4764608</PMCID>
+    <PMCID>4652020</PMCID>
+    <PMCID>4595116</PMCID>
+    <PMCID>4558861</PMCID>
+    <PMCID>4414373</PMCID>
+    <PMCID>4464295</PMCID>
+    <PMCID>4240638</PMCID>
+    <PMCID>4164441</PMCID>
+    <PMCID>4054257</PMCID>
+    <PMCID>3957603</PMCID>
+    <PMCID>4232325</PMCID>
+    <PMCID>4069393</PMCID>
+    <PMCID>4306282</PMCID>
+    <PMCID>3709733</PMCID>
+    <PMCID>3937200</PMCID>
+    <PMCID>3608648</PMCID>
+    <PMCID>3598825</PMCID>
+    <PMCID>4396862</PMCID>
+    <PMCID>3480424</PMCID>
+    <PMCID>3346482</PMCID>
+    <PMCID>3339340</PMCID>
+    <PMCID>3271365</PMCID>
+    <PMCID>3158198</PMCID>
+    <PMCID>3131667</PMCID>
+    <PMCID>2956055</PMCID>
+    <PMCID>2943079</PMCID>
+    <PMCID>4397588</PMCID>
+    <PMCID>2767516</PMCID>
+    <PMCID>2726447</PMCID>
+    <PMCID>2757599</PMCID>
+    <PMCID>3258933</PMCID>
+    <PMCID>2408644</PMCID>
+    <PMCID>4381302</PMCID>
+    <PMCID>1855067</PMCID>
+    <PMCID>1851020</PMCID>
+    <PMCID>1828829</PMCID>
+    <PMCID>1538741</PMCID>
+    <PMCID>1287649</PMCID>
+    <PMCID>1082790</PMCID>
+    <PMCID>368406</PMCID>
+    <PMCID>120791</PMCID>
+    <PMCID>100079</PMCID>
+    <PMCID>95380</PMCID>
+    <PMCID>99017</PMCID>
+    <PMCID>94778</PMCID>
+    <PMCID>92385</PMCID>
+    <PMCID>92247</PMCID>
+    <PMCID>110559</PMCID>
+    <PMCID>101914</PMCID>
+    <PMCID>91934</PMCID>
+    <PMCID>91813</PMCID>
+    <PMCID>98975</PMCID>
+    <PMCID>91379</PMCID>
+    <PMCID>93785</PMCID>
+    <PMCID>91302</PMCID>
+    <PMCID>91232</PMCID>
+    <PMCID>98962</PMCID>
+    <PMCID>93388</PMCID>
+    <PMCID>98949</PMCID>
+    <PMCID>98929</PMCID>
+    <PMCID>107410</PMCID>
+    <PMCID>107324</PMCID>
+    <PMCID>107049</PMCID>
+    <PMCID>106996</PMCID>
+    <PMCID>98911</PMCID>
+    <PMCID>106068</PMCID>
+    <PMCID>1218958</PMCID>
+    <PMCID>176864</PMCID>
+    <PMCID>1137204</PMCID>
+    <PMCID>43253</PMCID>
+    <PMCID>182483</PMCID>
+    <PMCID>182396</PMCID>
+    <PMCID>193208</PMCID>
+    <PMCID>206378</PMCID>
+    <PMCID>1132673</PMCID>
+    <PMCID>205844</PMCID>
+    <PMCID>184873</PMCID>
+    <PMCID>184544</PMCID>
+    <PMCID>183247</PMCID>
+    <PMCID>1149150</PMCID>
+    <PMCID>211207</PMCID>
+    <PMCID>1148928</PMCID>
+    <PMCID>202510</PMCID>
+    <PMCID>1148257</PMCID>
+    <PMCID>214460</PMCID>
+    <PMCID>219310</PMCID>
+    <PMCID>219309</PMCID>
+    <PMCID>238525</PMCID>
+    <PMCID>238524</PMCID>
+    <PMCID>240356</PMCID>
+    <PMCID>217984</PMCID>
+    <PMCID>216365</PMCID>
+    <PMCID>243920</PMCID>
+    <PMCID>1162870</PMCID>
+    <PMCID>294264</PMCID>
+    <PMCID>218025</PMCID>
+    <PMCID>233224</PMCID>
+    <PMCID>233294</PMCID>
+    <id>1516</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium thermohydrosulfuricum
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Clostridium thermohydrosulfuricum E100-69
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC10
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC11
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC12
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC2
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC3
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC4
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC5
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC6
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC7
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC8
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacter sp. WC9
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium thermohydrosulfuricum Klaushofer and Parkkinen 1965 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Thermoanaerobacter thermohydrosulfuricus (Klaushofer and Parkkinen 1965) Lee et al. 1993
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 35045
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:35045
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:6659
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 567
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:567
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 6659
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:6659
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 10956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB:10956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 10956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:10956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::E100-69
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain E100-69
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium thermohydrosulfuricum</scientificName>
+</pathogen>

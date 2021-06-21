@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8021189</PMCID>
+    <PMCID>7464351</PMCID>
+    <PMCID>7077223</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6563285</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>5488374</PMCID>
+    <PMCID>4806581</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>4191977</PMCID>
+    <PMCID>4100157</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3870893</PMCID>
+    <PMCID>3754974</PMCID>
+    <PMCID>3305294</PMCID>
+    <PMCID>3163642</PMCID>
+    <PMCID>2887561</PMCID>
+    <GeneBankPMID>24314645</GeneBankPMID>
+    <id>40061</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  WALV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Wallal virus group
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Wallal virus</scientificName>
+</pathogen>

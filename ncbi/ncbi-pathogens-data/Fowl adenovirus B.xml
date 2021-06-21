@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2820084</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus B/5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl adenovirus B5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <GeneBankPMID>23830773</GeneBankPMID>
+        <id>172861</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 5 (340, TR22)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl aviadenovirus 5</scientificName>
+    </subSpecies>
+    <PMCID>7897897</PMCID>
+    <PMCID>6536733</PMCID>
+    <PMCID>6021868</PMCID>
+    <id>190062</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Fowl adenovirus B</scientificName>
+</pathogen>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1225860</id>
+        <scientificName>Porcine torque teno virus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>766190</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Torque teno sus virus 1 (isolate Sd-TTV31)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Torque teno sus virus 1a (isolate Sd-TTV31)</scientificName>
+    </subSpecies>
+    <PMCID>7779081</PMCID>
+    <PMCID>7127483</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7086873</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6368325</PMCID>
+    <PMCID>5963090</PMCID>
+    <PMCID>6178073</PMCID>
+    <PMCID>5508382</PMCID>
+    <PMCID>4795697</PMCID>
+    <PMCID>4609089</PMCID>
+    <PMCID>4531394</PMCID>
+    <PMCID>4361794</PMCID>
+    <PMCID>4239083</PMCID>
+    <PMCID>4194362</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3676418</PMCID>
+    <PMCID>3486482</PMCID>
+    <PMCID>3486326</PMCID>
+    <PMCID>3384279</PMCID>
+    <PMCID>3298808</PMCID>
+    <PMCID>3047579</PMCID>
+    <GeneBankPMID>23407420</GeneBankPMID>
+    <GeneBankPMID>12029143</GeneBankPMID>
+    <id>687386</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TTSV1a
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Torque teno sus virus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Torque teno sus virus 1a</scientificName>
+</pathogen>

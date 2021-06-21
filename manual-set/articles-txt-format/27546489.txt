@@ -1,0 +1,11 @@
+
+Duox2 is required for the transcription of pattern recognition receptors in acute viral lung infection: An interferon-independent regulatory mechanism.
+
+The innate immune response, which constitutes the first line of defense against influenza A virus (IAV) infection, is activated by pattern recognition receptors (PRRs) that recognize viral structures. 
+We found that the PRRs, retinoic acid-inducible gene 1 (RIG-I) and melanoma differentiation-associated protein 5 (MDA5), which have been implicated as interferon (IFN)-stimulated genes, were dominantly responsible for the recognition of IAV in lungs of mice at 3 and 7 days post infection (dpi). 
+Intranasal administration of IFNs enhanced RIG-I and MDA5 gene expression after IAV infection and mRNA levels of RIG-I and MDA5 were significantly reduced at 7 dpi in mice with neutralization of secreted IFNs. 
+However, blockade of IFNs did not alter the transcription of RIG-I and MDA5 at 3 dpi. 
+We studied the antiviral effect of Duox2 in vivo lung to elucidate the role of Duox2 in respiratory mucosa. 
+RIG-I and MDA5 mRNA levels were induced to a lower extent in lungs of mice that were inoculated with Duox2 small hairpin RNA regardless of secreted IFNs at 3 dpi. 
+We propose that Duox2 is responsible for IFN-independent signaling for induction of PRRs transcription and can control acute IAV lung infection at the beginning of infection.
+

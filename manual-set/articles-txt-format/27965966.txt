@@ -1,0 +1,8 @@
+
+Challenges of Generating and Maintaining Protective Vaccine-Induced Immune Responses for Foot-and-Mouth Disease Virus in Pigs.
+
+Vaccination can play a central role in the control of outbreaks of foot-and-mouth disease (FMD) by reducing both the impact of clinical disease and the extent of virus transmission between susceptible animals. 
+Recent incursions of exotic FMD virus lineages into several East Asian countries have highlighted the difficulties of generating and maintaining an adequate immune response in vaccinated pigs. 
+Factors that impact vaccine performance include (i) the potency, antigenic payload, and formulation of a vaccine; (ii) the antigenic match between the vaccine and the heterologous circulating field strain; and (iii) the regime (timing, frequency, and herd-level coverage) used to administer the vaccine. 
+This review collates data from studies that have evaluated the performance of foot-and-mouth disease virus vaccines at the individual and population level in pigs and identifies research priorities that could provide new insights to improve vaccination in the future.
+

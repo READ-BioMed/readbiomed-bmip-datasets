@@ -1,0 +1,12 @@
+
+Rapid acquisition of polymorphic virulence markers during adaptation of highly pathogenic avian influenza H5N8 virus in the mouse.
+
+Emergence of a highly pathogenic avian influenza (HPAI) H5N8 virus in Asia and its spread to Europe and North America has caused great concern for human health. 
+Although the H5N8 virus has been only moderately pathogenic to mammalian hosts, virulence can still increase. 
+We evaluated the pathogenic potential of several H5N8 strains via the mouse-adaptation method. 
+Two H5N8 viruses were sequentially passaged in BALB/c mice and plaque-purified from lung samples. 
+The viruses rapidly obtained high virulence (MLD<sub>50</sub>, up to 0.5 log10 PFU/mL) within 5 passages. 
+Sequence analysis revealed the acquisition of several virulence markers, including the novel marker P708S in PB1 gene. 
+Combinations of markers synergistically enhanced viral replication and polymerase activity in human cell lines and virulence and multiorgan dissemination in mice. 
+These results suggest that H5N8 viruses can rapidly acquire virulence markers in mammalian hosts; thus, rapid spread as well as repeated viral introduction into the hosts may significantly increase the risk of human infection and elevate pandemic potential.
+

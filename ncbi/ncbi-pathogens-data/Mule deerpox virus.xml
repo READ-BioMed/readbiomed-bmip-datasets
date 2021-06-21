@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>15613325</GeneBankPMID>
+        <id>305676</id>
+        <scientificName>Deerpox virus W-1170-84</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>21159883</GeneBankPMID>
+        <GeneBankPMID>15613325</GeneBankPMID>
+        <id>305674</id>
+        <scientificName>Deerpox virus W-848-83</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>7035724</PMCID>
+    <PMCID>6723315</PMCID>
+    <PMCID>6532080</PMCID>
+    <PMCID>5884845</PMCID>
+    <PMCID>5766406</PMCID>
+    <PMCID>5691641</PMCID>
+    <PMCID>5580472</PMCID>
+    <PMCID>4584292</PMCID>
+    <PMCID>4411693</PMCID>
+    <PMCID>4304020</PMCID>
+    <PMCID>3942028</PMCID>
+    <PMCID>3945082</PMCID>
+    <PMCID>3775265</PMCID>
+    <PMCID>3700194</PMCID>
+    <PMCID>3624294</PMCID>
+    <PMCID>4080715</PMCID>
+    <PMCID>3570343</PMCID>
+    <PMCID>3333181</PMCID>
+    <PMCID>3163472</PMCID>
+    <PMCID>3084725</PMCID>
+    <PMCID>3185573</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2806865</PMCID>
+    <PMCID>2812294</PMCID>
+    <PMCID>2764843</PMCID>
+    <PMCID>2818276</PMCID>
+    <PMCID>2268676</PMCID>
+    <PMCID>2645488</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>4257706</PMCID>
+    <PMCID>1933313</PMCID>
+    <PMCID>538591</PMCID>
+    <id>304399</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Deerpox virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mule deer poxvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Odocoileus hemionus poxvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mule deerpox virus</scientificName>
+</pathogen>

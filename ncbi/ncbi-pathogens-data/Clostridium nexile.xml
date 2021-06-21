@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4945068</PMCID>
+        <id>500632</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Clostridium nexile DSM 1787
+ &lt;/GenbankSynonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium nexile ATCC 27757
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tyzzerella nexilis DSM 1787</scientificName>
+    </subSpecies>
+    <PMCID>7905567</PMCID>
+    <PMCID>7919657</PMCID>
+    <PMCID>7782528</PMCID>
+    <PMCID>7700738</PMCID>
+    <PMCID>7697438</PMCID>
+    <PMCID>7553750</PMCID>
+    <PMCID>7531972</PMCID>
+    <PMCID>7507860</PMCID>
+    <PMCID>7492273</PMCID>
+    <PMCID>7555849</PMCID>
+    <PMCID>7465112</PMCID>
+    <PMCID>7431612</PMCID>
+    <PMCID>7386241</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7275316</PMCID>
+    <PMCID>7200728</PMCID>
+    <PMCID>7254124</PMCID>
+    <PMCID>7065848</PMCID>
+    <PMCID>7002114</PMCID>
+    <PMCID>7037558</PMCID>
+    <PMCID>6980619</PMCID>
+    <PMCID>6974783</PMCID>
+    <PMCID>6887622</PMCID>
+    <PMCID>6923562</PMCID>
+    <PMCID>6813281</PMCID>
+    <PMCID>6843426</PMCID>
+    <PMCID>6835402</PMCID>
+    <PMCID>6758550</PMCID>
+    <PMCID>6631256</PMCID>
+    <PMCID>6563280</PMCID>
+    <PMCID>6547426</PMCID>
+    <PMCID>6412133</PMCID>
+    <PMCID>6307143</PMCID>
+    <PMCID>6315513</PMCID>
+    <PMCID>6415775</PMCID>
+    <PMCID>6375304</PMCID>
+    <PMCID>6114236</PMCID>
+    <PMCID>6033970</PMCID>
+    <PMCID>6424909</PMCID>
+    <PMCID>5913969</PMCID>
+    <PMCID>5855885</PMCID>
+    <PMCID>5990924</PMCID>
+    <PMCID>5688134</PMCID>
+    <PMCID>5635030</PMCID>
+    <PMCID>5583593</PMCID>
+    <PMCID>5794661</PMCID>
+    <PMCID>5579588</PMCID>
+    <PMCID>5624284</PMCID>
+    <PMCID>5600105</PMCID>
+    <PMCID>5520032</PMCID>
+    <PMCID>5331780</PMCID>
+    <PMCID>5124533</PMCID>
+    <PMCID>4945068</PMCID>
+    <PMCID>4902178</PMCID>
+    <PMCID>4867070</PMCID>
+    <PMCID>4933688</PMCID>
+    <PMCID>4872373</PMCID>
+    <PMCID>4809554</PMCID>
+    <PMCID>4787260</PMCID>
+    <PMCID>4690045</PMCID>
+    <PMCID>4893116</PMCID>
+    <PMCID>4544440</PMCID>
+    <PMCID>4641445</PMCID>
+    <PMCID>4441462</PMCID>
+    <PMCID>4437187</PMCID>
+    <PMCID>4274837</PMCID>
+    <PMCID>4260654</PMCID>
+    <PMCID>4148793</PMCID>
+    <PMCID>4055632</PMCID>
+    <PMCID>4068057</PMCID>
+    <PMCID>4059512</PMCID>
+    <PMCID>3898533</PMCID>
+    <PMCID>3813750</PMCID>
+    <PMCID>3793965</PMCID>
+    <PMCID>3774763</PMCID>
+    <PMCID>3936119</PMCID>
+    <PMCID>3757183</PMCID>
+    <PMCID>4056668</PMCID>
+    <PMCID>4034321</PMCID>
+    <PMCID>3628737</PMCID>
+    <PMCID>3578786</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3603393</PMCID>
+    <PMCID>3457361</PMCID>
+    <PMCID>3427827</PMCID>
+    <PMCID>3482153</PMCID>
+    <PMCID>3679229</PMCID>
+    <PMCID>3768803</PMCID>
+    <PMCID>3401426</PMCID>
+    <PMCID>3235481</PMCID>
+    <PMCID>3815262</PMCID>
+    <PMCID>3774253</PMCID>
+    <PMCID>3134244</PMCID>
+    <PMCID>3257638</PMCID>
+    <PMCID>3067754</PMCID>
+    <PMCID>3009849</PMCID>
+    <PMCID>2998088</PMCID>
+    <PMCID>2950470</PMCID>
+    <PMCID>3004003</PMCID>
+    <PMCID>2871786</PMCID>
+    <PMCID>2816710</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>2812457</PMCID>
+    <PMCID>2786584</PMCID>
+    <PMCID>2972309</PMCID>
+    <PMCID>2612144</PMCID>
+    <PMCID>2566179</PMCID>
+    <PMCID>1959459</PMCID>
+    <PMCID>1563657</PMCID>
+    <PMCID>5863238</PMCID>
+    <PMCID>1448984</PMCID>
+    <PMCID>1287787</PMCID>
+    <PMCID>1214681</PMCID>
+    <PMCID>535136</PMCID>
+    <PMCID>1774050</PMCID>
+    <PMCID>374397</PMCID>
+    <PMCID>154775</PMCID>
+    <PMCID>143637</PMCID>
+    <PMCID>129894</PMCID>
+    <PMCID>124080</PMCID>
+    <PMCID>126812</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>93137</PMCID>
+    <PMCID>101487</PMCID>
+    <PMCID>91647</PMCID>
+    <PMCID>184574</PMCID>
+    <id>29361</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium nexile
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Tyzzerella nexilis" Yutin and Galperin 2013
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium nexile Holdeman and Moore 1974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27757
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27757
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1787
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1787
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium nexile</scientificName>
+</pathogen>

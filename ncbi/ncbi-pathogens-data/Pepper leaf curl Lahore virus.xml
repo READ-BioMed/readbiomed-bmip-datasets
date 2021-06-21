@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1143713</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper leaf curl Lahore virus [Solanum capsicastrum]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper leaf curl Lahore virus-[Solanum capsicastrum]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>884613</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper leaf curl Lahore virus -[Pakistan:Lahore2:2004]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper leaf curl Lahore Virus-[Pakistan:Lahore2:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>20079779</GeneBankPMID>
+        <id>884612</id>
+        <scientificName>Pepper leaf curl Lahore Virus-[Pakistan:Lahore1:2004]</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3017532</PMCID>
+    <id>884610</id>
+    <scientificName>Pepper leaf curl Lahore virus</scientificName>
+</pathogen>

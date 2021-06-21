@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>1560372</id>
+            <scientificName>Rat rotavirus B MU/10/1805</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1307508</id>
+            <scientificName>Rotavirus B RVB/Human/India/HLD 132/2011</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>7738533</PMCID>
+            <id>449582</id>
+            <scientificName>Porcine rotavirus B</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>4205793</PMCID>
+            <id>28877</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Infectious Disease of Infant Rats
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rotavirus (GROUP B / STRAIN IDIR)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  infectious diarrhea of infant rats agent IDIR
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>IDIR agent</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>7779714</PMCID>
+            <PMCID>4786673</PMCID>
+            <PMCID>3719617</PMCID>
+            <PMCID>3738915</PMCID>
+            <PMCID>92974</PMCID>
+            <PMCID>269814</PMCID>
+            <PMCID>266989</PMCID>
+            <PMCID>250636</PMCID>
+            <PMCID>267333</PMCID>
+            <id>12705</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ADRV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Rotavirus (GROUP B / STRAIN ADRV)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  adult diarrhea rotavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human group B adult diarrheal rotavirus ADRV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Adult diarrheal rotavirus</scientificName>
+        </subSpecies>
+        <id>335102</id>
+        <scientificName>unclassified Rotavirus B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>35334</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine rotavirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine group B rotavirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1169008</id>
+            <scientificName>Rotavirus B Ind/Hu/MP/K</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>121794</id>
+            <scientificName>Human rotavirus B strain CAL-1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>106330</id>
+            <scientificName>Human rotavirus B strain CAL</scientificName>
+        </subSpecies>
+        <PMCID>7167075</PMCID>
+        <PMCID>5210568</PMCID>
+        <PMCID>4810255</PMCID>
+        <PMCID>3658953</PMCID>
+        <PMCID>3421670</PMCID>
+        <PMCID>2808255</PMCID>
+        <PMCID>2870693</PMCID>
+        <PMCID>2464020</PMCID>
+        <PMCID>154663</PMCID>
+        <PMCID>237596</PMCID>
+        <PMCID>250636</PMCID>
+        <PMCID>267285</PMCID>
+        <GeneBankPMID>25878106</GeneBankPMID>
+        <GeneBankPMID>28000081</GeneBankPMID>
+        <GeneBankPMID>20200192</GeneBankPMID>
+        <GeneBankPMID>14635024</GeneBankPMID>
+        <GeneBankPMID>31597778</GeneBankPMID>
+        <id>10942</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  human group B rotavirus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Human group B rotavirus sp.
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rotavirus B</scientificName>
+    </subSpecies>
+    <PMCID>7978947</PMCID>
+    <PMCID>7818068</PMCID>
+    <PMCID>7738533</PMCID>
+    <PMCID>7486290</PMCID>
+    <PMCID>7167075</PMCID>
+    <PMCID>7167004</PMCID>
+    <PMCID>7149329</PMCID>
+    <PMCID>7131559</PMCID>
+    <PMCID>7111968</PMCID>
+    <PMCID>7108207</PMCID>
+    <PMCID>7106153</PMCID>
+    <PMCID>7087034</PMCID>
+    <PMCID>7158576</PMCID>
+    <PMCID>7149922</PMCID>
+    <PMCID>7149648</PMCID>
+    <PMCID>7122381</PMCID>
+    <PMCID>7117353</PMCID>
+    <PMCID>7113677</PMCID>
+    <PMCID>7086690</PMCID>
+    <PMCID>6896758</PMCID>
+    <PMCID>6963801</PMCID>
+    <PMCID>6562389</PMCID>
+    <PMCID>6027140</PMCID>
+    <PMCID>6027208</PMCID>
+    <PMCID>5982130</PMCID>
+    <PMCID>5750588</PMCID>
+    <PMCID>5845698</PMCID>
+    <PMCID>5572894</PMCID>
+    <PMCID>5360259</PMCID>
+    <PMCID>5045143</PMCID>
+    <PMCID>4992557</PMCID>
+    <PMCID>4992205</PMCID>
+    <PMCID>4924552</PMCID>
+    <PMCID>6007559</PMCID>
+    <PMCID>4805265</PMCID>
+    <PMCID>4904489</PMCID>
+    <PMCID>4468480</PMCID>
+    <PMCID>4667737</PMCID>
+    <PMCID>4811644</PMCID>
+    <PMCID>4227794</PMCID>
+    <PMCID>4205793</PMCID>
+    <PMCID>4165708</PMCID>
+    <PMCID>3766652</PMCID>
+    <PMCID>3726481</PMCID>
+    <PMCID>3801157</PMCID>
+    <PMCID>3658953</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3525171</PMCID>
+    <PMCID>3193725</PMCID>
+    <PMCID>3550739</PMCID>
+    <PMCID>3381553</PMCID>
+    <PMCID>3067889</PMCID>
+    <PMCID>3294550</PMCID>
+    <PMCID>2937790</PMCID>
+    <PMCID>2808255</PMCID>
+    <PMCID>2660707</PMCID>
+    <PMCID>1594742</PMCID>
+    <PMCID>3367654</PMCID>
+    <PMCID>2464020</PMCID>
+    <PMCID>2870156</PMCID>
+    <PMCID>427839</PMCID>
+    <PMCID>154663</PMCID>
+    <PMCID>135688</PMCID>
+    <PMCID>86791</PMCID>
+    <PMCID>86016</PMCID>
+    <PMCID>85903</PMCID>
+    <PMCID>110350</PMCID>
+    <PMCID>2271684</PMCID>
+    <PMCID>228888</PMCID>
+    <PMCID>264049</PMCID>
+    <PMCID>267198</PMCID>
+    <PMCID>237596</PMCID>
+    <PMCID>240834</PMCID>
+    <PMCID>335250</PMCID>
+    <PMCID>266989</PMCID>
+    <PMCID>250636</PMCID>
+    <PMCID>267333</PMCID>
+    <PMCID>267285</PMCID>
+    <PMCID>266729</PMCID>
+    <PMCID>266255</PMCID>
+    <PMCID>266094</PMCID>
+    <PMCID>265891</PMCID>
+    <PMCID>271796</PMCID>
+    <PMCID>271660</PMCID>
+    <id>28876</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Group B rotaviruses
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rotavirus group B
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  group B rotavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  group B rotavirus GBR
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rotavirus B</scientificName>
+</pathogen>

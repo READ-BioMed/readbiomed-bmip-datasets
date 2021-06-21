@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>909668</id>
+        <scientificName>Porcine astrovirus PAstV-2/2007/HUN</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>886262</id>
+        <scientificName>Porcine astrovirus 2 Shanghai/2008</scientificName>
+    </subSpecies>
+    <PMCID>7173465</PMCID>
+    <PMCID>7086753</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7014746</PMCID>
+    <PMCID>6606752</PMCID>
+    <PMCID>6351768</PMCID>
+    <PMCID>6167340</PMCID>
+    <PMCID>6159684</PMCID>
+    <PMCID>6024715</PMCID>
+    <PMCID>6505883</PMCID>
+    <PMCID>5708238</PMCID>
+    <PMCID>5537669</PMCID>
+    <PMCID>5454415</PMCID>
+    <PMCID>5105309</PMCID>
+    <PMCID>4188187</PMCID>
+    <PMCID>4188178</PMCID>
+    <id>1239567</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine astrovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mamastrovirus 3</scientificName>
+</pathogen>

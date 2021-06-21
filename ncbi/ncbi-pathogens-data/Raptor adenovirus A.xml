@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>4918002</PMCID>
+        <GeneBankPMID>27334597</GeneBankPMID>
+        <GeneBankPMID>19061925</GeneBankPMID>
+        <id>1520002</id>
+        <scientificName>Raptor adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086975</PMCID>
+    <PMCID>4587935</PMCID>
+    <PMCID>3792674</PMCID>
+    <id>691961</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Raptor adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Raptor adenovirus A</scientificName>
+</pathogen>

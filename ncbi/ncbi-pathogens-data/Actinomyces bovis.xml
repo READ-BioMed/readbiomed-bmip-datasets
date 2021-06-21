@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7842009</PMCID>
+    <PMCID>7826818</PMCID>
+    <PMCID>7738495</PMCID>
+    <PMCID>7563794</PMCID>
+    <PMCID>7467922</PMCID>
+    <PMCID>7552339</PMCID>
+    <PMCID>7459602</PMCID>
+    <PMCID>7358271</PMCID>
+    <PMCID>7238186</PMCID>
+    <PMCID>7059227</PMCID>
+    <PMCID>7153328</PMCID>
+    <PMCID>6963667</PMCID>
+    <PMCID>7036314</PMCID>
+    <PMCID>6886295</PMCID>
+    <PMCID>6713890</PMCID>
+    <PMCID>6558687</PMCID>
+    <PMCID>6324608</PMCID>
+    <PMCID>6261818</PMCID>
+    <PMCID>6159684</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6327789</PMCID>
+    <PMCID>6036942</PMCID>
+    <PMCID>6056146</PMCID>
+    <PMCID>7152286</PMCID>
+    <PMCID>7152230</PMCID>
+    <PMCID>5516222</PMCID>
+    <PMCID>7895312</PMCID>
+    <PMCID>7158298</PMCID>
+    <PMCID>7158295</PMCID>
+    <PMCID>7322266</PMCID>
+    <PMCID>7150237</PMCID>
+    <PMCID>5237170</PMCID>
+    <PMCID>5217420</PMCID>
+    <PMCID>7271154</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>4677190</PMCID>
+    <PMCID>7810815</PMCID>
+    <PMCID>7149867</PMCID>
+    <PMCID>4402957</PMCID>
+    <PMCID>4136790</PMCID>
+    <PMCID>3999682</PMCID>
+    <PMCID>4108783</PMCID>
+    <PMCID>3838066</PMCID>
+    <PMCID>3827621</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3974316</PMCID>
+    <PMCID>7171457</PMCID>
+    <PMCID>7125524</PMCID>
+    <PMCID>3443040</PMCID>
+    <PMCID>3405626</PMCID>
+    <PMCID>3143080</PMCID>
+    <PMCID>7150030</PMCID>
+    <PMCID>3129959</PMCID>
+    <PMCID>7121989</PMCID>
+    <PMCID>2890395</PMCID>
+    <PMCID>3035245</PMCID>
+    <PMCID>3035236</PMCID>
+    <PMCID>2748709</PMCID>
+    <PMCID>2801135</PMCID>
+    <PMCID>7176240</PMCID>
+    <PMCID>7158335</PMCID>
+    <PMCID>7152022</PMCID>
+    <PMCID>2958179</PMCID>
+    <PMCID>2662693</PMCID>
+    <PMCID>2020808</PMCID>
+    <PMCID>193817</PMCID>
+    <PMCID>152629</PMCID>
+    <PMCID>139656</PMCID>
+    <PMCID>339403</PMCID>
+    <PMCID>339310</PMCID>
+    <PMCID>7150219</PMCID>
+    <PMCID>88283</PMCID>
+    <PMCID>4531766</PMCID>
+    <PMCID>87393</PMCID>
+    <PMCID>91929</PMCID>
+    <PMCID>3327370</PMCID>
+    <PMCID>208639</PMCID>
+    <PMCID>7172659</PMCID>
+    <PMCID>276748</PMCID>
+    <PMCID>277550</PMCID>
+    <PMCID>278498</PMCID>
+    <PMCID>279114</PMCID>
+    <PMCID>2234984</PMCID>
+    <id>1658</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinocladothrix bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Cladothrix bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Discomyces bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Oospora bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Proactinomyces bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Sarcomyces bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Sphaerotilus bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptothrix bovis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinocladothrix bovis" (Harz 1877) Gasperini 1892
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Cladothrix bovis" (Harz 1877) Mace 1901
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Discomyces bovis" (Harz 1877) Rivolta 1878
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Nocardia bovis" (Harz 1877) Blanchard 1896
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Oospora bovis" (Harz 1877) Sauvageau and Radais 1892
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Proactinomyces bovis" (Harz 1877) Henrici 1939
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Sarcomyces bovis" (Harz 1877) Rivolta 1879
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Sphaerotilus bovis" (Harz 1877) Engler 1907
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Streptothrix bovis" (Harz 1877) Chester 1901
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Actinomyces bovis Harz 1877
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 13683
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:13683
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 31996
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:31996
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103258
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103258
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Actinomyces bovis</scientificName>
+</pathogen>

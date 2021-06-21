@@ -1,0 +1,13 @@
+
+The evolutionary dynamics of highly pathogenic avian influenza H5N1 in south-central Vietnam reveals multiple clades evolving from Chinese and Cambodian viruses.
+
+In Vietnam, highly pathogenic avian influenza (HPAI), such as that caused by H5N1 viruses, is the most highly contagious infectious disease that has been affecting domestic poultry in recent years. 
+Vietnam might be an evolutionary hotspot and a potential source of globally pandemic strains. 
+However, few studies have reported viruses circulating in the south-central region of Vietnam. 
+In the present study, 47 H5N1-positive samples were collected from both vaccinated and unvaccinated poultry farms in the South Central Coast region of Vietnam during 2013-2014, and their genetic diversity was analyzed. 
+A common sequence motif for HPAI virus was identified at HA-cleavage sites in all samples: either RERRRKR/G (clades 2.3.2.1c and 2.3.2.1a) or REGRRKKR/G (clade 1.1.2). 
+Phylogenetic analysis of HA genes identified three clades of HPAI H5N1: 1.1.2 (n=1), 2.3.2.1a (n=1), and 2.3.2.1c (n=45). 
+The phylogenetic analysis indicated that these Vietnamese clades may have evolved from Chinese and Cambodian virus clades isolated in 2012-2013 but are less closely related to the clades detected from the Tyva Republic, Bulgaria, Mongolia, Japan, and Korea in 2009-2011. 
+Detection of the coexistence of virus clades 2.3.2.1 and the very virulent 1.1.2 in the south-central regions suggests their local importance and highlights concerns regarding their spread, both northwards and southwards, as well as the potential for reassortment. 
+The obtained data highlight the importance of regular identification of viral evolution and the development and use of region-specific vaccines. 
+

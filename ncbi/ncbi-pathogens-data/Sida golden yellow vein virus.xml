@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1093962</id>
+        <scientificName>Sida golden yellow vein virus-Malvastrum</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1003172</id>
+        <scientificName>Sida golden yellow vein virus-Malvastrum [CU:Camaguey 177:09]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>21625977</GeneBankPMID>
+        <id>929766</id>
+        <scientificName>Sida golden yellow vein virus-[Jamaica:Liguanea2:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223318</id>
+        <scientificName>Sida golden yellow vein virus-[A11]</scientificName>
+    </subSpecies>
+    <PMCID>7390960</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3081322</PMCID>
+    <id>223317</id>
+    <scientificName>Sida golden yellow vein virus</scientificName>
+</pathogen>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7721535</PMCID>
+    <PMCID>7582327</PMCID>
+    <PMCID>7168211</PMCID>
+    <PMCID>7007913</PMCID>
+    <PMCID>6891761</PMCID>
+    <PMCID>6787268</PMCID>
+    <PMCID>6315899</PMCID>
+    <PMCID>6256639</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6014249</PMCID>
+    <PMCID>4282715</PMCID>
+    <PMCID>3595109</PMCID>
+    <PMCID>2517148</PMCID>
+    <id>83382</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Streptomyces xanthocidicus
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. TSR4
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Kitasatospora xanthocidica (Asahi et al. 1966) Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces xanthocidicus</scientificName>
+</pathogen>

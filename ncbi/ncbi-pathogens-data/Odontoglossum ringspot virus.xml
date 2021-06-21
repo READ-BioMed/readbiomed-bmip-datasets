@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>138662</id>
+        <scientificName>Odontoglossum ringspot virus (isolate Singapore 1)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>138661</id>
+        <scientificName>Odontoglossum ringspot virus (isolate Korean Cy)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>138307</id>
+        <scientificName>Odontoglossum ringspot virus (isolate Japan)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12250</id>
+        <scientificName>Tobacco mosaic virus (strain O)</scientificName>
+    </subSpecies>
+    <PMCID>8003093</PMCID>
+    <PMCID>7822169</PMCID>
+    <PMCID>7356032</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7155165</PMCID>
+    <PMCID>7127180</PMCID>
+    <PMCID>7072078</PMCID>
+    <PMCID>6988431</PMCID>
+    <PMCID>6788419</PMCID>
+    <PMCID>6788414</PMCID>
+    <PMCID>6629631</PMCID>
+    <PMCID>6563262</PMCID>
+    <PMCID>6387398</PMCID>
+    <PMCID>6155556</PMCID>
+    <PMCID>6028384</PMCID>
+    <PMCID>5654984</PMCID>
+    <PMCID>5446422</PMCID>
+    <PMCID>5394984</PMCID>
+    <PMCID>5282660</PMCID>
+    <PMCID>5234141</PMCID>
+    <PMCID>4858684</PMCID>
+    <PMCID>4758180</PMCID>
+    <PMCID>4725018</PMCID>
+    <PMCID>4600171</PMCID>
+    <PMCID>4468105</PMCID>
+    <PMCID>4430480</PMCID>
+    <PMCID>4411691</PMCID>
+    <PMCID>4312592</PMCID>
+    <PMCID>4067419</PMCID>
+    <PMCID>4072989</PMCID>
+    <PMCID>3951315</PMCID>
+    <PMCID>4288972</PMCID>
+    <PMCID>3827201</PMCID>
+    <PMCID>3920020</PMCID>
+    <PMCID>4174800</PMCID>
+    <PMCID>3648121</PMCID>
+    <PMCID>3550814</PMCID>
+    <PMCID>3113305</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>3291918</PMCID>
+    <PMCID>2613721</PMCID>
+    <PMCID>2427042</PMCID>
+    <PMCID>46019</PMCID>
+    <GeneBankPMID>15831968</GeneBankPMID>
+    <GeneBankPMID>7487489</GeneBankPMID>
+    <id>12238</id>
+    <meSHTree>B04.715.464.725, B04.820.578.844</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ORSV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Odontoglossum ringspot tobamovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Odontoglossum ringspot virus</scientificName>
+</pathogen>

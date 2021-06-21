@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>932068</id>
+        <scientificName>Sida micrantha mosaic virus - Rhombifolia [Bolivia:Cerro Fraile 2:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>932067</id>
+        <scientificName>Sida micrantha mosaic virus - Rhombifolia [Bolivia:Cerro Fraile 1:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>932065</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sida micrantha mosaic virus [Brazil:Mato grosso do sul:2:2007]- [Bolivia]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sida micrantha mosaic virus [Brazil:Mato grosso do sul:2:2007] - [Bolivia]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>932064</id>
+        <scientificName>Sida micrantha mosaic virus - Rhombifolia [Bolivia:Boyuibe-Villamontes:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>858514</id>
+        <scientificName>Sida micrantha mosaic virus-[snap bean:Brazil:2003]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>555980</id>
+        <scientificName>Sida micrantha mosaic virus - [Brazil:okra]</scientificName>
+    </subSpecies>
+    <PMCID>7424291</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6357046</PMCID>
+    <PMCID>5355441</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5014472</PMCID>
+    <PMCID>4189032</PMCID>
+    <PMCID>4113279</PMCID>
+    <PMCID>3784915</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3648162</PMCID>
+    <GeneBankPMID>15045569</GeneBankPMID>
+    <id>228897</id>
+    <scientificName>Sida micrantha mosaic virus</scientificName>
+</pathogen>

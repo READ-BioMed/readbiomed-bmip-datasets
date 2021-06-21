@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>996312</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ToLCMGVAnd[MG:Tol:01]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl Madagascar virus-Androy [Madagascar:Toliary:2001]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>15831967</GeneBankPMID>
+        <id>996311</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ToLCMGVMen[MG:Mor:01]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl Madagascar virus-Menabe [Madagascar:Morondova:2001]</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>2779260</PMCID>
+    <id>302099</id>
+    <scientificName>Tomato leaf curl Madagascar virus</scientificName>
+</pathogen>

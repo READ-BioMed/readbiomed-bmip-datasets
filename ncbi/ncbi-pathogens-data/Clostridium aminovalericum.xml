@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1121297</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium aminovalericum DSM 1283
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Anaerocolumna aminovalerica DSM 1283</scientificName>
+    </subSpecies>
+    <PMCID>7863935</PMCID>
+    <PMCID>7400182</PMCID>
+    <PMCID>7219639</PMCID>
+    <PMCID>6611424</PMCID>
+    <PMCID>6423286</PMCID>
+    <PMCID>6166237</PMCID>
+    <PMCID>6041559</PMCID>
+    <PMCID>6424909</PMCID>
+    <PMCID>5787091</PMCID>
+    <PMCID>5675407</PMCID>
+    <PMCID>5331431</PMCID>
+    <PMCID>5293585</PMCID>
+    <PMCID>4864899</PMCID>
+    <PMCID>4615878</PMCID>
+    <PMCID>4584968</PMCID>
+    <PMCID>7113898</PMCID>
+    <PMCID>3910813</PMCID>
+    <PMCID>3632912</PMCID>
+    <PMCID>3416433</PMCID>
+    <PMCID>3306737</PMCID>
+    <PMCID>3147393</PMCID>
+    <PMCID>2918946</PMCID>
+    <PMCID>2643570</PMCID>
+    <PMCID>2629652</PMCID>
+    <PMCID>2621215</PMCID>
+    <PMCID>2632149</PMCID>
+    <PMCID>2583082</PMCID>
+    <PMCID>3049258</PMCID>
+    <PMCID>2224786</PMCID>
+    <PMCID>2168685</PMCID>
+    <PMCID>1855830</PMCID>
+    <PMCID>1635191</PMCID>
+    <PMCID>1563657</PMCID>
+    <PMCID>1317462</PMCID>
+    <PMCID>525129</PMCID>
+    <PMCID>522077</PMCID>
+    <PMCID>143620</PMCID>
+    <PMCID>129894</PMCID>
+    <PMCID>123985</PMCID>
+    <PMCID>126585</PMCID>
+    <PMCID>95158</PMCID>
+    <PMCID>92730</PMCID>
+    <PMCID>91679</PMCID>
+    <PMCID>91647</PMCID>
+    <PMCID>278729</PMCID>
+    <id>1527</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium aminovalericum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Anaerocolumna aminovalerica (Hardman and Stadtman 1960) Ueki et al. 2016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium aminovalericum Hardman and Stadtman 1960 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 13725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:13725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104304
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104304
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 11016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:11016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium aminovalericum</scientificName>
+</pathogen>

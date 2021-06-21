@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7768185</PMCID>
+    <PMCID>7287390</PMCID>
+    <PMCID>7159363</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7271189</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3571366</PMCID>
+    <PMCID>3203048</PMCID>
+    <PMCID>3125225</PMCID>
+    <PMCID>3113570</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>1393248</PMCID>
+    <GeneBankPMID>17098965</GeneBankPMID>
+    <GeneBankPMID>10235479</GeneBankPMID>
+    <id>85655</id>
+    <meSHTree>B04.280.210.430, B04.280.382.500, B04.613.204.550</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  Lucke tumor herpesvirus
+ &lt;/GenbankCommonName&gt; 
+ &lt;EquivalentName&gt;
+  Lucke frog herpesvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ranid herpesvirus 1</scientificName>
+</pathogen>

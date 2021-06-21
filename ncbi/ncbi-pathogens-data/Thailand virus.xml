@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>24575755</GeneBankPMID>
+        <id>1424613</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Anjozorobe hantavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Anjozorobe virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>401488</id>
+        <scientificName>Thailand virus (Nakhon Pathom/Bi0067/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>401487</id>
+        <scientificName>Thailand virus (Nakhon Ratchasima/Bi0024/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>401486</id>
+        <scientificName>Thailand virus (Nakhon Pathom/Bi0016/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>401485</id>
+        <scientificName>Thailand virus (Nakhon Ratchasima/Bi0017/2004)</scientificName>
+    </subSpecies>
+    <PMCID>7819890</PMCID>
+    <PMCID>7818139</PMCID>
+    <PMCID>7110887</PMCID>
+    <PMCID>7238228</PMCID>
+    <PMCID>7045827</PMCID>
+    <PMCID>7060137</PMCID>
+    <PMCID>6812269</PMCID>
+    <PMCID>6784073</PMCID>
+    <PMCID>6722858</PMCID>
+    <PMCID>6723923</PMCID>
+    <PMCID>6722727</PMCID>
+    <PMCID>6669632</PMCID>
+    <PMCID>6640737</PMCID>
+    <PMCID>6607972</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6474636</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6383869</PMCID>
+    <PMCID>6476845</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>6697862</PMCID>
+    <PMCID>6213642</PMCID>
+    <PMCID>6517466</PMCID>
+    <PMCID>6004851</PMCID>
+    <PMCID>5944027</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>5653249</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4672424</PMCID>
+    <PMCID>4614018</PMCID>
+    <PMCID>4507303</PMCID>
+    <PMCID>4147688</PMCID>
+    <PMCID>3970142</PMCID>
+    <PMCID>3952587</PMCID>
+    <PMCID>5657883</PMCID>
+    <PMCID>3887490</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3457156</PMCID>
+    <PMCID>3335829</PMCID>
+    <PMCID>3302504</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2922188</PMCID>
+    <PMCID>2979336</PMCID>
+    <PMCID>2979329</PMCID>
+    <PMCID>2858149</PMCID>
+    <PMCID>2863364</PMCID>
+    <PMCID>6640490</PMCID>
+    <PMCID>2863915</PMCID>
+    <PMCID>2958020</PMCID>
+    <PMCID>2816314</PMCID>
+    <PMCID>2823670</PMCID>
+    <PMCID>2786626</PMCID>
+    <PMCID>6640326</PMCID>
+    <PMCID>2900840</PMCID>
+    <PMCID>2570905</PMCID>
+    <PMCID>2346764</PMCID>
+    <PMCID>2268320</PMCID>
+    <PMCID>2248171</PMCID>
+    <PMCID>2170441</PMCID>
+    <PMCID>2254531</PMCID>
+    <PMCID>1797798</PMCID>
+    <PMCID>1578555</PMCID>
+    <PMCID>1242213</PMCID>
+    <PMCID>1151903</PMCID>
+    <PMCID>416538</PMCID>
+    <PMCID>88127</PMCID>
+    <PMCID>109349</PMCID>
+    <id>1980492</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Thailand hantavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Thailand virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Thailand virus</scientificName>
+</pathogen>

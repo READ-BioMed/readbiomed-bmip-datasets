@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1851127</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 185
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus type 185</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>743811</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HPV-150
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus SIBX1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 150
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>human papillomavirus 150</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>17412976</GeneBankPMID>
+        <id>247269</id>
+        <scientificName>Human papillomavirus type 96</scientificName>
+    </subSpecies>
+    <id>334209</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 96
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - cand96
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 96
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Betapapillomavirus 5</scientificName>
+</pathogen>

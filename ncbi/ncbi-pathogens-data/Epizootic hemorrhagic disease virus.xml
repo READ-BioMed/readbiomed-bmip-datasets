@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>449140</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 8 / strain CPR 3961A)</scientificName>
+        </subSpecies>
+        <id>238103</id>
+        <scientificName>Epizootic hemorrhagic disease virus 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>449139</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 7 / strain CSIRO 775)</scientificName>
+        </subSpecies>
+        <PMCID>7154088</PMCID>
+        <id>238102</id>
+        <scientificName>Epizootic hemorrhagic disease virus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>449141</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 6 / strain 318)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>449138</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 6 / strain CSIRO 753)</scientificName>
+        </subSpecies>
+        <PMCID>7154088</PMCID>
+        <id>238101</id>
+        <scientificName>Epizootic hemorrhagic disease virus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>449137</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 5 / strain CSIRO 157)</scientificName>
+        </subSpecies>
+        <id>238100</id>
+        <scientificName>Epizootic hemorrhagic disease virus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>449136</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 4 / strain IbAr 33853)</scientificName>
+        </subSpecies>
+        <id>238099</id>
+        <scientificName>Epizootic hemorrhagic disease virus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7811793</PMCID>
+        <PMCID>7706924</PMCID>
+        <PMCID>7464351</PMCID>
+        <PMCID>7157196</PMCID>
+        <PMCID>7154088</PMCID>
+        <PMCID>7158333</PMCID>
+        <PMCID>7009857</PMCID>
+        <PMCID>7168380</PMCID>
+        <PMCID>7121922</PMCID>
+        <PMCID>7086690</PMCID>
+        <PMCID>6857627</PMCID>
+        <PMCID>6651986</PMCID>
+        <PMCID>6364023</PMCID>
+        <PMCID>6340808</PMCID>
+        <PMCID>6838815</PMCID>
+        <PMCID>6395211</PMCID>
+        <PMCID>6243180</PMCID>
+        <PMCID>5974516</PMCID>
+        <PMCID>5938786</PMCID>
+        <PMCID>5887027</PMCID>
+        <PMCID>5320782</PMCID>
+        <PMCID>4921034</PMCID>
+        <PMCID>5516135</PMCID>
+        <PMCID>4624662</PMCID>
+        <PMCID>4619357</PMCID>
+        <PMCID>4751137</PMCID>
+        <PMCID>4526531</PMCID>
+        <PMCID>4710717</PMCID>
+        <PMCID>4514961</PMCID>
+        <PMCID>4638292</PMCID>
+        <PMCID>4472822</PMCID>
+        <PMCID>4427747</PMCID>
+        <PMCID>4363032</PMCID>
+        <PMCID>3901712</PMCID>
+        <PMCID>3615238</PMCID>
+        <PMCID>3201886</PMCID>
+        <PMCID>2941451</PMCID>
+        <PMCID>3020880</PMCID>
+        <PMCID>3153907</PMCID>
+        <PMCID>2826768</PMCID>
+        <PMCID>2887561</PMCID>
+        <PMCID>2662652</PMCID>
+        <PMCID>548446</PMCID>
+        <PMCID>130910</PMCID>
+        <PMCID>85817</PMCID>
+        <id>225976</id>
+        <scientificName>Ibaraki virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>449142</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 2 / strain Ibaraki)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>449134</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 2 / strain 439)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>33719</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 2 / strain Australia)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>10910</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 2 / strain Alberta)</scientificName>
+        </subSpecies>
+        <PMCID>7154088</PMCID>
+        <PMCID>2725825</PMCID>
+        <id>33721</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic hemorrhagic disease virus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Epizootic hemorrhagic disease virus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>449135</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 1 / strain IbAr22619)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <GeneBankPMID>24167629</GeneBankPMID>
+            <GeneBankPMID>19665508</GeneBankPMID>
+            <GeneBankPMID>19632280</GeneBankPMID>
+            <GeneBankPMID>19632281</GeneBankPMID>
+            <id>449133</id>
+            <scientificName>Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)</scientificName>
+        </subSpecies>
+        <PMCID>7154088</PMCID>
+        <id>33720</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic hemorrhagic disease virus (SEROTYPE 1)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic hemorrhagic disease virus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Epizootic hemorrhagic disease virus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12647</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic haemorrhagic disease of deer virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic haemorrhagic disease of deer virus EHDV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Epizootic hemorrhagic disease of deer virus</scientificName>
+    </subSpecies>
+    <PMCID>7998304</PMCID>
+    <PMCID>7972478</PMCID>
+    <PMCID>7895636</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>7912165</PMCID>
+    <PMCID>7896545</PMCID>
+    <PMCID>7788963</PMCID>
+    <PMCID>7706946</PMCID>
+    <PMCID>7706924</PMCID>
+    <PMCID>7277957</PMCID>
+    <PMCID>7202234</PMCID>
+    <PMCID>7157196</PMCID>
+    <PMCID>7169350</PMCID>
+    <PMCID>7154088</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>7152230</PMCID>
+    <PMCID>7149778</PMCID>
+    <PMCID>7076934</PMCID>
+    <PMCID>7077223</PMCID>
+    <PMCID>7019857</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6857627</PMCID>
+    <PMCID>6704667</PMCID>
+    <PMCID>6885145</PMCID>
+    <PMCID>6586939</PMCID>
+    <PMCID>6533733</PMCID>
+    <PMCID>6527025</PMCID>
+    <PMCID>6521023</PMCID>
+    <PMCID>6521025</PMCID>
+    <PMCID>6433031</PMCID>
+    <PMCID>6445458</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>6377124</PMCID>
+    <PMCID>6340808</PMCID>
+    <PMCID>6356211</PMCID>
+    <PMCID>6863193</PMCID>
+    <PMCID>6276223</PMCID>
+    <PMCID>6069843</PMCID>
+    <PMCID>6015483</PMCID>
+    <PMCID>5956791</PMCID>
+    <PMCID>5938786</PMCID>
+    <PMCID>5887027</PMCID>
+    <PMCID>5923469</PMCID>
+    <PMCID>5802602</PMCID>
+    <PMCID>5703522</PMCID>
+    <PMCID>5658499</PMCID>
+    <PMCID>5552697</PMCID>
+    <PMCID>5488374</PMCID>
+    <PMCID>5381053</PMCID>
+    <PMCID>5057483</PMCID>
+    <PMCID>5341929</PMCID>
+    <PMCID>4810255</PMCID>
+    <PMCID>5516135</PMCID>
+    <PMCID>4806581</PMCID>
+    <PMCID>4546636</PMCID>
+    <PMCID>4526531</PMCID>
+    <PMCID>4514961</PMCID>
+    <PMCID>4472822</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>4205793</PMCID>
+    <PMCID>5972349</PMCID>
+    <PMCID>3953939</PMCID>
+    <PMCID>3973751</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3869324</PMCID>
+    <PMCID>3805514</PMCID>
+    <PMCID>3754974</PMCID>
+    <PMCID>3559040</PMCID>
+    <PMCID>3492172</PMCID>
+    <PMCID>3494582</PMCID>
+    <PMCID>3390273</PMCID>
+    <PMCID>3365852</PMCID>
+    <PMCID>3305294</PMCID>
+    <PMCID>3289656</PMCID>
+    <PMCID>3255824</PMCID>
+    <PMCID>3226645</PMCID>
+    <PMCID>3198726</PMCID>
+    <PMCID>3197586</PMCID>
+    <PMCID>3192121</PMCID>
+    <PMCID>3163642</PMCID>
+    <PMCID>3122808</PMCID>
+    <PMCID>3056715</PMCID>
+    <PMCID>3018483</PMCID>
+    <PMCID>3017867</PMCID>
+    <PMCID>2958914</PMCID>
+    <PMCID>2941451</PMCID>
+    <PMCID>2880113</PMCID>
+    <PMCID>2826768</PMCID>
+    <PMCID>2662652</PMCID>
+    <PMCID>2725825</PMCID>
+    <PMCID>1265912</PMCID>
+    <PMCID>1182188</PMCID>
+    <PMCID>130602</PMCID>
+    <PMCID>105170</PMCID>
+    <PMCID>2271820</PMCID>
+    <id>40054</id>
+    <meSHTree>B04.820.223.719.550.400</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Epizootic hemorrhagic disease virus group
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  epizootic haemorrhagic disease virus EHDV-1
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic haemorragic disease virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic haemorrhagic disease virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Epizootic hemorrhagic disease virus (EHDV1)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  epizootic hemorrhagic disease virus EHD
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  epizootic hemorrhagic disease virus serotype 1 EHDV-1
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Epizootic hemarrhogic disease virus group
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Epizootic hemorrhagic disease virus</scientificName>
+</pathogen>

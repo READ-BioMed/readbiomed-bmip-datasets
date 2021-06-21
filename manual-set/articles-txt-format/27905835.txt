@@ -1,0 +1,14 @@
+
+Hemagglutination inhibiting antibody persistence 1 year after influenza vaccination in Korean children and adolescents.
+
+This study aimed to assess the 1-y immunogenicity of influenza vaccines and the association between immunogenicity at 1 m and further influenza infections in children aged 6 m to 18 y. 
+Serum hemagglutination inhibition (HI) antibody titers and GMTs were determined for the recommended influenza strains 0, 1, 6, and 12 m post-vaccination. 
+The serological evidence of influenza infections were defined as the increase of HI titer (HI ≥1:40 and 4-fold rise). 
+The seroprotection rates for strains A(H1N1), A(H3N2), and B were 91.2%, 87.6%, and 87.6%, respectively, at 1 month (n = 174). 
+These rates were 76.5%, 64.7%, and 54.6%, respectively, at 12 m. 
+The seroprotection rates and GMTs for influenza A(H1N1) and A(H3N2) were higher at 12 m than at 0 m (p &lt; 0.05) but not for B. 
+There were 39 subjects (42 cases) of serological influenza infections. 
+Subjects with seroprotection at 1 m post-vaccination had showed fewer serologic A(H1N1) (10.1 vs 54.5%) and A(H3N2) (7.2 vs 38.1%) infections than the ones with HI titer &lt;1:40 during follow-up (P &lt; 0.01). 
+In conclusion, influenza vaccines used during the 2008-09 season induced adequate 1-y immunogenicity for A(H1N1) and A(H3N2). 
+The immunogenicity at one month after vaccination influenced further serological influenza infections.
+

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>644639</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Duck hepatitis B virus (isolate DHBVQCA34)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Duck hepatitis B virus isolate DHBVQCA34</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>489543</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Duck hepatitis B virus (strain DHBV-16)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Hepatitis B virus duck/DHBV-16</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>489542</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Duck hepatitis B virus (strain DHBV-3)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Hepatitis B virus duck/DHBV-3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3416299</PMCID>
+        <id>259931</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ross' goose hepatitis B virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ross's goose hepatitis B virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7086886</PMCID>
+        <PMCID>6942179</PMCID>
+        <GeneBankPMID>21508187</GeneBankPMID>
+        <GeneBankPMID>15708992</GeneBankPMID>
+        <id>259898</id>
+        <scientificName>Sheldgoose hepatitis B virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7134461</PMCID>
+        <id>191548</id>
+        <scientificName>Crane hepatitis B virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7892665</PMCID>
+        <PMCID>7134461</PMCID>
+        <PMCID>7086886</PMCID>
+        <PMCID>4988961</PMCID>
+        <PMCID>4178904</PMCID>
+        <GeneBankPMID>10489339</GeneBankPMID>
+        <GeneBankPMID>24991016</GeneBankPMID>
+        <id>89623</id>
+        <scientificName>Snow goose hepatitis B virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31510</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Duck hepatitis B virus (strain China)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Duck hepatitis B virus strain China</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10440</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Duck hepatitis B virus (white Shanghai duck isolate S31)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Duck hepatitis B virus white Shanghai duck/S31</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10439</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Duck hepatitis B virus (brown Shanghai duck isolate S5)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Duck hepatitis B virus brown Shanghai duck/S5</scientificName>
+    </subSpecies>
+    <PMCID>7980828</PMCID>
+    <PMCID>7892665</PMCID>
+    <PMCID>7883714</PMCID>
+    <PMCID>7704999</PMCID>
+    <PMCID>7356129</PMCID>
+    <PMCID>7317863</PMCID>
+    <PMCID>7153317</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7123905</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7106341</PMCID>
+    <PMCID>7088551</PMCID>
+    <PMCID>7455244</PMCID>
+    <PMCID>7396710</PMCID>
+    <PMCID>7414443</PMCID>
+    <PMCID>7388529</PMCID>
+    <PMCID>7202851</PMCID>
+    <PMCID>7185506</PMCID>
+    <PMCID>7169272</PMCID>
+    <PMCID>7150142</PMCID>
+    <PMCID>7149826</PMCID>
+    <PMCID>7149824</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>7134461</PMCID>
+    <PMCID>7119103</PMCID>
+    <PMCID>7112936</PMCID>
+    <PMCID>7088580</PMCID>
+    <PMCID>7086886</PMCID>
+    <PMCID>6942179</PMCID>
+    <PMCID>6642935</PMCID>
+    <PMCID>6463588</PMCID>
+    <PMCID>6437953</PMCID>
+    <PMCID>6337547</PMCID>
+    <PMCID>6515358</PMCID>
+    <PMCID>6311761</PMCID>
+    <PMCID>5869238</PMCID>
+    <PMCID>5056386</PMCID>
+    <PMCID>4988961</PMCID>
+    <PMCID>5508050</PMCID>
+    <PMCID>5075021</PMCID>
+    <PMCID>4631587</PMCID>
+    <PMCID>4665119</PMCID>
+    <PMCID>4645335</PMCID>
+    <PMCID>4550528</PMCID>
+    <PMCID>4411676</PMCID>
+    <PMCID>4424072</PMCID>
+    <PMCID>4304753</PMCID>
+    <PMCID>3923018</PMCID>
+    <PMCID>4090289</PMCID>
+    <PMCID>3811296</PMCID>
+    <PMCID>3514261</PMCID>
+    <PMCID>3585866</PMCID>
+    <PMCID>3346311</PMCID>
+    <PMCID>3306199</PMCID>
+    <PMCID>3132977</PMCID>
+    <PMCID>3079008</PMCID>
+    <PMCID>3010423</PMCID>
+    <PMCID>2937809</PMCID>
+    <PMCID>2904733</PMCID>
+    <PMCID>2834840</PMCID>
+    <PMCID>2737686</PMCID>
+    <PMCID>2620893</PMCID>
+    <PMCID>2562875</PMCID>
+    <PMCID>2519588</PMCID>
+    <PMCID>2716866</PMCID>
+    <PMCID>2144742</PMCID>
+    <PMCID>2169119</PMCID>
+    <PMCID>2169103</PMCID>
+    <PMCID>4065874</PMCID>
+    <PMCID>1797568</PMCID>
+    <PMCID>1592461</PMCID>
+    <PMCID>2000720</PMCID>
+    <PMCID>1472050</PMCID>
+    <PMCID>1193586</PMCID>
+    <PMCID>4321921</PMCID>
+    <PMCID>1181573</PMCID>
+    <PMCID>1112142</PMCID>
+    <PMCID>4205354</PMCID>
+    <PMCID>525075</PMCID>
+    <PMCID>4572190</PMCID>
+    <PMCID>1074507</PMCID>
+    <PMCID>321410</PMCID>
+    <PMCID>153980</PMCID>
+    <PMCID>120600</PMCID>
+    <PMCID>136192</PMCID>
+    <PMCID>126982</PMCID>
+    <PMCID>209423</PMCID>
+    <PMCID>114645</PMCID>
+    <PMCID>114533</PMCID>
+    <PMCID>115000</PMCID>
+    <PMCID>115152</PMCID>
+    <PMCID>112035</PMCID>
+    <PMCID>110864</PMCID>
+    <PMCID>111701</PMCID>
+    <PMCID>98986</PMCID>
+    <PMCID>111670</PMCID>
+    <PMCID>85200</PMCID>
+    <PMCID>113064</PMCID>
+    <PMCID>113017</PMCID>
+    <PMCID>112633</PMCID>
+    <PMCID>112602</PMCID>
+    <PMCID>104011</PMCID>
+    <PMCID>103974</PMCID>
+    <PMCID>103945</PMCID>
+    <PMCID>25152</PMCID>
+    <PMCID>110552</PMCID>
+    <PMCID>110285</PMCID>
+    <PMCID>110147</PMCID>
+    <PMCID>110146</PMCID>
+    <PMCID>109694</PMCID>
+    <PMCID>109461</PMCID>
+    <PMCID>109439</PMCID>
+    <PMCID>191772</PMCID>
+    <PMCID>190587</PMCID>
+    <PMCID>190457</PMCID>
+    <PMCID>163451</PMCID>
+    <PMCID>189762</PMCID>
+    <PMCID>2977523</PMCID>
+    <PMCID>237301</PMCID>
+    <PMCID>236726</PMCID>
+    <PMCID>1968768</PMCID>
+    <PMCID>241040</PMCID>
+    <PMCID>2271863</PMCID>
+    <PMCID>240562</PMCID>
+    <PMCID>249546</PMCID>
+    <PMCID>175975</PMCID>
+    <PMCID>251147</PMCID>
+    <PMCID>250697</PMCID>
+    <PMCID>253480</PMCID>
+    <PMCID>283692</PMCID>
+    <PMCID>252870</PMCID>
+    <PMCID>390523</PMCID>
+    <GeneBankPMID>21507974</GeneBankPMID>
+    <GeneBankPMID>22514346</GeneBankPMID>
+    <GeneBankPMID>17881438</GeneBankPMID>
+    <GeneBankPMID>19769164</GeneBankPMID>
+    <GeneBankPMID>19008388</GeneBankPMID>
+    <GeneBankPMID>20181690</GeneBankPMID>
+    <GeneBankPMID>22514339</GeneBankPMID>
+    <id>12639</id>
+    <meSHTree>B04.280.375.100.450, B04.450.390.100.450</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Duck hepatitis B virus DHBV
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  DHBV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  duck hepatitis virus, DHBV
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   duck hepatitis B virus pDKHBV
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Duck hepatitis B virus</scientificName>
+</pathogen>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>766192</id>
+        <scientificName>Canine oral papillomavirus (strain Y62)</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6260289</PMCID>
+    <PMCID>6213343</PMCID>
+    <PMCID>5886910</PMCID>
+    <PMCID>5361623</PMCID>
+    <PMCID>4956233</PMCID>
+    <PMCID>3547330</PMCID>
+    <PMCID>2832751</PMCID>
+    <PMCID>1896010</PMCID>
+    <PMCID>1061520</PMCID>
+    <PMCID>110108</PMCID>
+    <GeneBankPMID>8091677</GeneBankPMID>
+    <GeneBankPMID>21552821</GeneBankPMID>
+    <GeneBankPMID>8076829</GeneBankPMID>
+    <id>35258</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine oral papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Lambdapapillomavirus 2</scientificName>
+</pathogen>

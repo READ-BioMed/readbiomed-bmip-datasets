@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1003171</id>
+        <scientificName>Euphorbia mosaic virus [CU: Havana 27: 2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>573904</id>
+        <scientificName>Euphorbia mosaic virus - [Jamaica:Wissadula:Euphorbia:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>570289</id>
+        <scientificName>Euphorbia mosaic virus - [Cuba:tobacco:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>447196</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper mosaic Jalisco virus - Wissadula strain
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Pepper mosaic Jalisco virus- Wissadula strain
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Wissadula golden mosaic St Elizabeth Virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Euphorbia mosaic virus - [Jamaica:Wissadula]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>17682933</GeneBankPMID>
+        <id>429564</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Euphorbia golden mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Euphorbia mosaic virus-Yucatan Peninsula
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Euphorbia mosaic virus - A [Mexico:Yucatan:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>429563</id>
+        <scientificName>Euphorbia mosaic virus - A [Puerto Rico:Jurabo:1991]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>429329</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper mosaic Jalisco virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Euphorbia mosaic virus - B [Mexico:Jalasco:Pepper:2005]</scientificName>
+    </subSpecies>
+    <PMCID>7786542</PMCID>
+    <PMCID>7757786</PMCID>
+    <PMCID>7754942</PMCID>
+    <PMCID>7729658</PMCID>
+    <PMCID>7448086</PMCID>
+    <PMCID>7448044</PMCID>
+    <PMCID>7447992</PMCID>
+    <PMCID>7339632</PMCID>
+    <PMCID>7339215</PMCID>
+    <PMCID>7010210</PMCID>
+    <PMCID>7010191</PMCID>
+    <PMCID>7010167</PMCID>
+    <PMCID>7010136</PMCID>
+    <PMCID>7010118</PMCID>
+    <PMCID>7010112</PMCID>
+    <PMCID>7010111</PMCID>
+    <PMCID>7009941</PMCID>
+    <PMCID>7009923</PMCID>
+    <PMCID>7009903</PMCID>
+    <PMCID>7009900</PMCID>
+    <PMCID>7009891</PMCID>
+    <PMCID>7009885</PMCID>
+    <PMCID>7009860</PMCID>
+    <PMCID>7009832</PMCID>
+    <PMCID>7009827</PMCID>
+    <PMCID>7009808</PMCID>
+    <PMCID>7009806</PMCID>
+    <PMCID>7009757</PMCID>
+    <PMCID>7009752</PMCID>
+    <PMCID>7009751</PMCID>
+    <PMCID>7009747</PMCID>
+    <PMCID>7009736</PMCID>
+    <PMCID>7009706</PMCID>
+    <PMCID>7009705</PMCID>
+    <PMCID>7009690</PMCID>
+    <PMCID>7009674</PMCID>
+    <PMCID>7009653</PMCID>
+    <PMCID>7009642</PMCID>
+    <PMCID>7009624</PMCID>
+    <PMCID>7009610</PMCID>
+    <PMCID>7009585</PMCID>
+    <PMCID>7009569</PMCID>
+    <PMCID>7009559</PMCID>
+    <PMCID>7009549</PMCID>
+    <PMCID>7009507</PMCID>
+    <PMCID>7009462</PMCID>
+    <PMCID>7009452</PMCID>
+    <PMCID>7009433</PMCID>
+    <PMCID>7009431</PMCID>
+    <PMCID>7009430</PMCID>
+    <PMCID>7009427</PMCID>
+    <PMCID>7009401</PMCID>
+    <PMCID>7009392</PMCID>
+    <PMCID>7009379</PMCID>
+    <PMCID>7009245</PMCID>
+    <PMCID>7009215</PMCID>
+    <PMCID>7009210</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7009144</PMCID>
+    <PMCID>7009142</PMCID>
+    <PMCID>7009099</PMCID>
+    <PMCID>7009087</PMCID>
+    <PMCID>7009038</PMCID>
+    <PMCID>7008913</PMCID>
+    <PMCID>7008910</PMCID>
+    <PMCID>7008906</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7008841</PMCID>
+    <PMCID>7008835</PMCID>
+    <PMCID>7008829</PMCID>
+    <PMCID>7008826</PMCID>
+    <PMCID>7008801</PMCID>
+    <PMCID>7757785</PMCID>
+    <PMCID>7748030</PMCID>
+    <PMCID>7448062</PMCID>
+    <PMCID>7448051</PMCID>
+    <PMCID>7448047</PMCID>
+    <PMCID>7391001</PMCID>
+    <PMCID>7332975</PMCID>
+    <PMCID>7010206</PMCID>
+    <PMCID>7010183</PMCID>
+    <PMCID>7010175</PMCID>
+    <PMCID>7010174</PMCID>
+    <PMCID>7010166</PMCID>
+    <PMCID>7010073</PMCID>
+    <PMCID>7010058</PMCID>
+    <PMCID>7010051</PMCID>
+    <PMCID>7010050</PMCID>
+    <PMCID>7010017</PMCID>
+    <PMCID>7009989</PMCID>
+    <PMCID>7009986</PMCID>
+    <PMCID>7009980</PMCID>
+    <PMCID>7009978</PMCID>
+    <PMCID>7009949</PMCID>
+    <PMCID>7009948</PMCID>
+    <PMCID>7009904</PMCID>
+    <PMCID>7009894</PMCID>
+    <PMCID>7009821</PMCID>
+    <PMCID>7009758</PMCID>
+    <PMCID>7009735</PMCID>
+    <PMCID>7009734</PMCID>
+    <PMCID>7009695</PMCID>
+    <PMCID>7009694</PMCID>
+    <PMCID>7009692</PMCID>
+    <PMCID>7009623</PMCID>
+    <PMCID>7009615</PMCID>
+    <PMCID>7009611</PMCID>
+    <PMCID>7009599</PMCID>
+    <PMCID>7009573</PMCID>
+    <PMCID>7009572</PMCID>
+    <PMCID>7009568</PMCID>
+    <PMCID>7009558</PMCID>
+    <PMCID>7009554</PMCID>
+    <PMCID>7009539</PMCID>
+    <PMCID>7009533</PMCID>
+    <PMCID>7009524</PMCID>
+    <PMCID>7009501</PMCID>
+    <PMCID>7009476</PMCID>
+    <PMCID>7009473</PMCID>
+    <PMCID>7009435</PMCID>
+    <PMCID>7009403</PMCID>
+    <PMCID>7009355</PMCID>
+    <PMCID>7009243</PMCID>
+    <PMCID>7009242</PMCID>
+    <PMCID>7009226</PMCID>
+    <PMCID>7009162</PMCID>
+    <PMCID>7009151</PMCID>
+    <PMCID>7009133</PMCID>
+    <PMCID>7009105</PMCID>
+    <PMCID>7008942</PMCID>
+    <PMCID>7008912</PMCID>
+    <PMCID>7008883</PMCID>
+    <PMCID>7008872</PMCID>
+    <PMCID>7008853</PMCID>
+    <PMCID>7008834</PMCID>
+    <PMCID>7008812</PMCID>
+    <PMCID>7008808</PMCID>
+    <PMCID>7008784</PMCID>
+    <PMCID>7008781</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6967384</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>6521247</PMCID>
+    <PMCID>6598076</PMCID>
+    <PMCID>6344024</PMCID>
+    <PMCID>6320799</PMCID>
+    <PMCID>6146701</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>5334588</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>4802622</PMCID>
+    <PMCID>6638744</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2853933</PMCID>
+    <PMCID>2894479</PMCID>
+    <id>77811</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Euphorbia mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Euphorbia mosaic virus</scientificName>
+</pathogen>

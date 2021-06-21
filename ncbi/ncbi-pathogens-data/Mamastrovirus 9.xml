@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1659650</id>
+        <scientificName>Astrovirus PA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>20507741</GeneBankPMID>
+        <id>767521</id>
+        <scientificName>Astrovirus SG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7997325</PMCID>
+        <PMCID>7112567</PMCID>
+        <PMCID>7149643</PMCID>
+        <PMCID>7120454</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>6340763</PMCID>
+        <PMCID>5625374</PMCID>
+        <PMCID>5599743</PMCID>
+        <PMCID>5599742</PMCID>
+        <PMCID>5113058</PMCID>
+        <PMCID>4972905</PMCID>
+        <PMCID>4565032</PMCID>
+        <PMCID>4465002</PMCID>
+        <PMCID>4345817</PMCID>
+        <PMCID>4300757</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>3545029</PMCID>
+        <PMCID>2937664</PMCID>
+        <PMCID>2765957</PMCID>
+        <PMCID>2753140</PMCID>
+        <GeneBankPMID>19706703</GeneBankPMID>
+        <id>645687</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus VA1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Astrovirus VA1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6580942</PMCID>
+    <PMCID>5454415</PMCID>
+    <PMCID>5332952</PMCID>
+    <PMCID>4047031</PMCID>
+    <PMCID>4188187</PMCID>
+    <id>1239573</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Mamastrovirus-9
+ &lt;/Includes&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mamastrovirus 9</scientificName>
+</pathogen>

@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1265827</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Listeria grayi subsp. murrayi FSL F6-1183
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Listeria grayi FSL F6-1183</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>525367</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Listeria grayi ATCC 19120
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Listeria grayi str. DSM 20601
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Listeria grayi strain DSM 20601
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Listeria grayi DSM 20601</scientificName>
+    </subSpecies>
+    <PMCID>8167537</PMCID>
+    <PMCID>8093504</PMCID>
+    <PMCID>8064612</PMCID>
+    <PMCID>8092201</PMCID>
+    <PMCID>7916596</PMCID>
+    <PMCID>7892895</PMCID>
+    <PMCID>7843925</PMCID>
+    <PMCID>7771431</PMCID>
+    <PMCID>7575433</PMCID>
+    <PMCID>7588929</PMCID>
+    <PMCID>7571677</PMCID>
+    <PMCID>7498459</PMCID>
+    <PMCID>7656185</PMCID>
+    <PMCID>7333235</PMCID>
+    <PMCID>7248855</PMCID>
+    <PMCID>7281329</PMCID>
+    <PMCID>7068146</PMCID>
+    <PMCID>7076699</PMCID>
+    <PMCID>7025549</PMCID>
+    <PMCID>6873790</PMCID>
+    <PMCID>6915462</PMCID>
+    <PMCID>6983307</PMCID>
+    <PMCID>6691048</PMCID>
+    <PMCID>7663999</PMCID>
+    <PMCID>6639485</PMCID>
+    <PMCID>6514681</PMCID>
+    <PMCID>6553834</PMCID>
+    <PMCID>6330363</PMCID>
+    <PMCID>6509916</PMCID>
+    <PMCID>6863195</PMCID>
+    <PMCID>6247988</PMCID>
+    <PMCID>6248997</PMCID>
+    <PMCID>6182795</PMCID>
+    <PMCID>6174289</PMCID>
+    <PMCID>6163125</PMCID>
+    <PMCID>6122793</PMCID>
+    <PMCID>6222073</PMCID>
+    <PMCID>6068817</PMCID>
+    <PMCID>5998028</PMCID>
+    <PMCID>6363078</PMCID>
+    <PMCID>5962758</PMCID>
+    <PMCID>5954800</PMCID>
+    <PMCID>6116329</PMCID>
+    <PMCID>5816965</PMCID>
+    <PMCID>5871051</PMCID>
+    <PMCID>5845737</PMCID>
+    <PMCID>5704228</PMCID>
+    <PMCID>5585140</PMCID>
+    <PMCID>5701663</PMCID>
+    <PMCID>5620641</PMCID>
+    <PMCID>5615842</PMCID>
+    <PMCID>6152043</PMCID>
+    <PMCID>5500611</PMCID>
+    <PMCID>5483036</PMCID>
+    <PMCID>5438364</PMCID>
+    <PMCID>5421713</PMCID>
+    <PMCID>5300967</PMCID>
+    <PMCID>5238772</PMCID>
+    <PMCID>5177632</PMCID>
+    <PMCID>5132219</PMCID>
+    <PMCID>5075766</PMCID>
+    <PMCID>4944223</PMCID>
+    <PMCID>4875933</PMCID>
+    <PMCID>4826938</PMCID>
+    <PMCID>4866881</PMCID>
+    <PMCID>4801265</PMCID>
+    <PMCID>4767227</PMCID>
+    <PMCID>6273463</PMCID>
+    <PMCID>4702652</PMCID>
+    <PMCID>6332088</PMCID>
+    <PMCID>4658148</PMCID>
+    <PMCID>4630290</PMCID>
+    <PMCID>4608264</PMCID>
+    <PMCID>5076688</PMCID>
+    <PMCID>4503923</PMCID>
+    <PMCID>4648395</PMCID>
+    <PMCID>4558849</PMCID>
+    <PMCID>4825267</PMCID>
+    <PMCID>4450167</PMCID>
+    <PMCID>4392284</PMCID>
+    <PMCID>4290631</PMCID>
+    <PMCID>4269947</PMCID>
+    <PMCID>4662235</PMCID>
+    <PMCID>4662229</PMCID>
+    <PMCID>4152301</PMCID>
+    <PMCID>4115164</PMCID>
+    <PMCID>4097692</PMCID>
+    <PMCID>4054214</PMCID>
+    <PMCID>4053416</PMCID>
+    <PMCID>3993192</PMCID>
+    <PMCID>4004658</PMCID>
+    <PMCID>4027348</PMCID>
+    <PMCID>3911231</PMCID>
+    <PMCID>4083164</PMCID>
+    <PMCID>3903184</PMCID>
+    <PMCID>3770767</PMCID>
+    <PMCID>3889501</PMCID>
+    <PMCID>3623203</PMCID>
+    <PMCID>3519753</PMCID>
+    <PMCID>3627020</PMCID>
+    <PMCID>3430356</PMCID>
+    <PMCID>3421859</PMCID>
+    <PMCID>3427147</PMCID>
+    <PMCID>3421524</PMCID>
+    <PMCID>3416265</PMCID>
+    <PMCID>3447576</PMCID>
+    <PMCID>3370529</PMCID>
+    <PMCID>3267712</PMCID>
+    <PMCID>3252269</PMCID>
+    <PMCID>3241796</PMCID>
+    <PMCID>3241885</PMCID>
+    <PMCID>3211020</PMCID>
+    <PMCID>3481638</PMCID>
+    <PMCID>3165386</PMCID>
+    <PMCID>3179153</PMCID>
+    <PMCID>3125854</PMCID>
+    <PMCID>3116507</PMCID>
+    <PMCID>3818997</PMCID>
+    <PMCID>3088537</PMCID>
+    <PMCID>3090735</PMCID>
+    <PMCID>3067712</PMCID>
+    <PMCID>3028757</PMCID>
+    <PMCID>3019728</PMCID>
+    <PMCID>2962469</PMCID>
+    <PMCID>2976142</PMCID>
+    <PMCID>2874476</PMCID>
+    <PMCID>2901719</PMCID>
+    <PMCID>2897495</PMCID>
+    <PMCID>3815340</PMCID>
+    <PMCID>2863927</PMCID>
+    <PMCID>2859500</PMCID>
+    <PMCID>2812257</PMCID>
+    <PMCID>2747854</PMCID>
+    <PMCID>2734052</PMCID>
+    <PMCID>2715605</PMCID>
+    <PMCID>2576701</PMCID>
+    <PMCID>2446553</PMCID>
+    <PMCID>2168051</PMCID>
+    <PMCID>2562909</PMCID>
+    <PMCID>1698330</PMCID>
+    <PMCID>1636279</PMCID>
+    <PMCID>1214657</PMCID>
+    <PMCID>1082516</PMCID>
+    <PMCID>548051</PMCID>
+    <PMCID>544203</PMCID>
+    <PMCID>522132</PMCID>
+    <PMCID>404568</PMCID>
+    <PMCID>387863</PMCID>
+    <PMCID>321639</PMCID>
+    <PMCID>262260</PMCID>
+    <PMCID>164889</PMCID>
+    <PMCID>165466</PMCID>
+    <PMCID>123967</PMCID>
+    <PMCID>95447</PMCID>
+    <PMCID>98459</PMCID>
+    <PMCID>90391</PMCID>
+    <PMCID>87854</PMCID>
+    <PMCID>92295</PMCID>
+    <PMCID>87512</PMCID>
+    <PMCID>92255</PMCID>
+    <PMCID>89623</PMCID>
+    <PMCID>91739</PMCID>
+    <PMCID>85677</PMCID>
+    <PMCID>88629</PMCID>
+    <PMCID>93394</PMCID>
+    <PMCID>105140</PMCID>
+    <PMCID>106818</PMCID>
+    <PMCID>104596</PMCID>
+    <PMCID>167294</PMCID>
+    <PMCID>201656</PMCID>
+    <PMCID>207560</PMCID>
+    <PMCID>183637</PMCID>
+    <PMCID>183622</PMCID>
+    <PMCID>184530</PMCID>
+    <PMCID>184222</PMCID>
+    <PMCID>204418</PMCID>
+    <PMCID>269249</PMCID>
+    <PMCID>414543</PMCID>
+    <GeneBankPMID>20824078</GeneBankPMID>
+    <id>1641</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Listeria grayi murrayi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Listeria grayi subsp. grayi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Listeria murrayi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Murraya grayi
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Murraya grayi" (Errebo Larsen and Seeliger 1966) Stuart and Welshimer 1974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Listeria grayi Errebo Larsen and Seeliger 1966 (Approved Lists 1980) emend. Rocourt et al. 1992
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Listeria grayi grayi (Errebo Larsen and Seeliger 1966) Stuart and Welshimer 1974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Listeria murrayi Welshimer and Meredith 1971 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25401
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25401
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:16490
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:16491
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 4983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 5118
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:4983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:5118
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105447
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 6818
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105447
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:6818
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CLIP 12515
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CLIP:12515
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20601
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20601
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 16490
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 16491
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:16490
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:16491
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCAIM B.01372
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCAIM B.01871
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10812
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10812
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Listeria grayi</scientificName>
+</pathogen>

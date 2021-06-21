@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2012639</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ovis papillomavirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ovis aries papillomavirus type 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>56145</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ovine papillomavirus - 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ovine papillomavirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ovis aries papillomavirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ovine papillomavirus type 2</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>5021401</PMCID>
+    <id>56144</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ovine papillomavirus - 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ovine papillomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ovis aries papillomavirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Deltapapillomavirus 3</scientificName>
+</pathogen>

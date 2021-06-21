@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>1592461</PMCID>
+        <id>110944</id>
+        <scientificName>Stork hepatitis B virus</scientificName>
+    </subSpecies>
+    <PMCID>7414443</PMCID>
+    <PMCID>7086886</PMCID>
+    <PMCID>4629082</PMCID>
+    <PMCID>2350185</PMCID>
+    <PMCID>1636360</PMCID>
+    <PMCID>1592461</PMCID>
+    <PMCID>1166580</PMCID>
+    <PMCID>161928</PMCID>
+    <PMCID>20452</PMCID>
+    <PMCID>190918</PMCID>
+    <GeneBankPMID>3418788</GeneBankPMID>
+    <id>28300</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HHBV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  heron hepatitis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Heron hepatitis B virus</scientificName>
+</pathogen>

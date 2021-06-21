@@ -1,0 +1,12 @@
+
+A single dose of whole inactivated H7N9 influenza vaccine confers protection from severe disease but not infection in ferrets.
+
+The H7N9 influenza virus caused significant mortality and morbidity in infected humans during an outbreak in China in 2013 stimulating vaccine development efforts. 
+As previous H7-based vaccines have been poorly immunogenic in humans we sought to determine the immunogenic and protective properties of an inactivated whole virus vaccine derived from a 2013 H7N9 virus in ferrets. 
+As whole virus vaccine preparations have been shown to be more immunogenic in humans, but less likely to be used, than split or surface antigen formulations, we vaccinated ferrets with a single dose of 15, 30, or 50 μg of the vaccine and subsequently challenged with wild-type A/Anhui/1/2013 (H7N9) either by direct instillation or by contact with infected animals. 
+Although ferrets vaccinated with higher doses of vaccine had higher serum hemagglutinin inhibition (HI) titers, the titers were still low. 
+During subsequent instillation challenge, however, ferrets vaccinated with 50 μg of vaccine showed no illness and shed significantly less virus than mock vaccinated controls. 
+All vaccinated ferrets had lower virus loads in their lungs as compared to controls. 
+In a separate study where unvaccinated-infected ferrets were placed in the same cage with vaccinated-uninfected ferrets, vaccination did not prevent infection in the contact ferrets, although they showed a trend of lower viral load. 
+Overall, we conclude that inactivated whole-virus H7N9 vaccine was able to reduce the severity of infection and viral load, despite the lack of hemagglutinin-inhibiting antibodies.
+

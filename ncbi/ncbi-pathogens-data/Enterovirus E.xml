@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2768764</id>
+        <scientificName>enterovirus E4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2768763</id>
+        <scientificName>enterovirus E3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2763914</id>
+        <scientificName>enterovirus E2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6943316</PMCID>
+        <PMCID>6158190</PMCID>
+        <id>1248331</id>
+        <scientificName>Bovine enterovirus type 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>106608</id>
+        <scientificName>Bovine enterovirus strain SL305</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>106607</id>
+        <scientificName>Bovine enterovirus strain K2577</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12065</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine enterovirus (STRAIN VG-5-27)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine enterovirus strain VG-5-27</scientificName>
+    </subSpecies>
+    <PMCID>7793301</PMCID>
+    <PMCID>7452828</PMCID>
+    <PMCID>7168541</PMCID>
+    <PMCID>7131559</PMCID>
+    <PMCID>7168561</PMCID>
+    <PMCID>7114519</PMCID>
+    <PMCID>6896891</PMCID>
+    <PMCID>6834195</PMCID>
+    <PMCID>6779266</PMCID>
+    <PMCID>6607526</PMCID>
+    <PMCID>6562951</PMCID>
+    <PMCID>6518482</PMCID>
+    <PMCID>6384098</PMCID>
+    <PMCID>6313479</PMCID>
+    <PMCID>6293526</PMCID>
+    <PMCID>6443042</PMCID>
+    <PMCID>6158190</PMCID>
+    <PMCID>5729238</PMCID>
+    <PMCID>5633025</PMCID>
+    <PMCID>5588887</PMCID>
+    <PMCID>5471348</PMCID>
+    <PMCID>5240211</PMCID>
+    <PMCID>5772826</PMCID>
+    <PMCID>4973211</PMCID>
+    <PMCID>4774877</PMCID>
+    <PMCID>4727389</PMCID>
+    <PMCID>4682392</PMCID>
+    <PMCID>4135968</PMCID>
+    <PMCID>4022658</PMCID>
+    <PMCID>4014120</PMCID>
+    <PMCID>3988102</PMCID>
+    <PMCID>3990684</PMCID>
+    <PMCID>3741315</PMCID>
+    <PMCID>3470038</PMCID>
+    <PMCID>3489104</PMCID>
+    <PMCID>4791751</PMCID>
+    <PMCID>3370518</PMCID>
+    <PMCID>3378640</PMCID>
+    <PMCID>3480180</PMCID>
+    <PMCID>3298778</PMCID>
+    <PMCID>3198388</PMCID>
+    <PMCID>3381551</PMCID>
+    <PMCID>3142241</PMCID>
+    <PMCID>2975644</PMCID>
+    <PMCID>2826036</PMCID>
+    <PMCID>4310689</PMCID>
+    <PMCID>2290972</PMCID>
+    <PMCID>2267166</PMCID>
+    <PMCID>1642140</PMCID>
+    <PMCID>1168977</PMCID>
+    <PMCID>1160218</PMCID>
+    <PMCID>135860</PMCID>
+    <GeneBankPMID>2828511</GeneBankPMID>
+    <id>12064</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BEV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine enterovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Enterovirus E</scientificName>
+</pathogen>

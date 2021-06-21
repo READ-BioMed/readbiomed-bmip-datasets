@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>993466</id>
+        <scientificName>Seoul virus HP8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993465</id>
+        <scientificName>Seoul virus HP7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993464</id>
+        <scientificName>Seoul virus 41CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993463</id>
+        <scientificName>Seoul virus 25CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993462</id>
+        <scientificName>Seoul virus 11CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993461</id>
+        <scientificName>Seoul virus 5CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993460</id>
+        <scientificName>Seoul virus 24D12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993459</id>
+        <scientificName>Seoul virus 19D12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993458</id>
+        <scientificName>Seoul virus 14D12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993457</id>
+        <scientificName>Seoul virus 60CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993456</id>
+        <scientificName>Seoul virus 58CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993455</id>
+        <scientificName>Seoul virus 57CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993454</id>
+        <scientificName>Seoul virus 51CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993453</id>
+        <scientificName>Seoul virus 44CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993452</id>
+        <scientificName>Seoul virus 42CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993451</id>
+        <scientificName>Seoul virus 38CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993450</id>
+        <scientificName>Seoul virus 33CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993449</id>
+        <scientificName>Seoul virus CSG25</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993448</id>
+        <scientificName>Seoul virus 19CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993447</id>
+        <scientificName>Seoul virus CSG11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>993446</id>
+        <scientificName>Seoul virus CSG5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929050</id>
+        <scientificName>Seoul virus SD5-153</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929049</id>
+        <scientificName>Seoul virus SD201</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929048</id>
+        <scientificName>Seoul virus Rn-YUE12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929047</id>
+        <scientificName>Seoul virus Rn-SHY17</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929046</id>
+        <scientificName>Seoul virus Rn-HD27</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929045</id>
+        <scientificName>Seoul virus Rn-HD11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929044</id>
+        <scientificName>Seoul virus Rn-CP7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929043</id>
+        <scientificName>Seoul virus HuBJ9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929042</id>
+        <scientificName>Seoul virus HuBJ3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929041</id>
+        <scientificName>Seoul virus HuBJ22</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929040</id>
+        <scientificName>Seoul virus HuBJ20</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929039</id>
+        <scientificName>Seoul virus HuBJ19</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929038</id>
+        <scientificName>Seoul virus HuBJ16</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>929037</id>
+        <scientificName>Seoul virus HuBJ15</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>453899</id>
+        <scientificName>Hantavirus SDP19</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>453898</id>
+        <scientificName>Hantavirus SDP12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>453897</id>
+        <scientificName>Hantavirus SDH8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>453896</id>
+        <scientificName>Hantavirus SDH17</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>453895</id>
+        <scientificName>Hantavirus SDH14</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>381330</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus strain GM04-38
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Hantavirus GM04-38</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>381329</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus strain ZB8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Hantavirus ZB8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374467</id>
+        <scientificName>Seoul virus B-1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>350036</id>
+        <scientificName>Hantavirus JUN5-14</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6913923</PMCID>
+        <id>280855</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus BjHD01
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoul virus BjHD01</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2823670</PMCID>
+        <id>279233</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus strain Z37
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Hantavirus Z37</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>164254</id>
+        <scientificName>Seoul virus K24-v2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>164253</id>
+        <scientificName>Seoul virus K24-e7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>164252</id>
+        <scientificName>Hantavirus Gou3-v9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>164251</id>
+        <scientificName>Seoul virus Gou3-e5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>164246</id>
+        <scientificName>Seoul virus Hb8610</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2823670</PMCID>
+        <id>147455</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus IR461
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoulvirus IR461</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>147454</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus tchoupitoulas
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoulvirus tchoupitoulas</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2823670</PMCID>
+        <id>93831</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus Gou3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoulvirus Gou3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5664966</PMCID>
+        <PMCID>2823670</PMCID>
+        <id>72684</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus L99
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoulvirus L99</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>72683</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus HB55
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoulvirus HB55</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>44269</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus R22
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoulvirus R22</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31620</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Seoul virus (strain R22)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoul virus R22</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31619</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hantavirus Baltimore
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoulvirus Baltimore</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12557</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Seoul 80-39 virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Seoul virus (STRAIN 80-39)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoul virus 80-39</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2823670</PMCID>
+        <id>11610</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Seoul virus (STRAIN SR-11)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Seoul virus SR-11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Seoul virus SR11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7245491</PMCID>
+        <PMCID>6090319</PMCID>
+        <PMCID>1181592</PMCID>
+        <PMCID>88161</PMCID>
+        <PMCID>115151</PMCID>
+        <PMCID>114090</PMCID>
+        <PMCID>111467</PMCID>
+        <PMCID>112585</PMCID>
+        <PMCID>2640777</PMCID>
+        <PMCID>103873</PMCID>
+        <PMCID>105155</PMCID>
+        <PMCID>109349</PMCID>
+        <id>11607</id>
+        <scientificName>Sapporo rat virus</scientificName>
+    </subSpecies>
+    <PMCID>8009391</PMCID>
+    <PMCID>7932522</PMCID>
+    <PMCID>7922539</PMCID>
+    <PMCID>7819890</PMCID>
+    <PMCID>7595615</PMCID>
+    <PMCID>7206682</PMCID>
+    <PMCID>7101631</PMCID>
+    <PMCID>7083127</PMCID>
+    <PMCID>7083784</PMCID>
+    <PMCID>7087218</PMCID>
+    <PMCID>7660455</PMCID>
+    <PMCID>7510722</PMCID>
+    <PMCID>7481397</PMCID>
+    <PMCID>7202661</PMCID>
+    <PMCID>7102061</PMCID>
+    <PMCID>7097586</PMCID>
+    <PMCID>7097214</PMCID>
+    <PMCID>7045827</PMCID>
+    <PMCID>7077262</PMCID>
+    <PMCID>6986832</PMCID>
+    <PMCID>6995102</PMCID>
+    <PMCID>7002362</PMCID>
+    <PMCID>6968928</PMCID>
+    <PMCID>6958671</PMCID>
+    <PMCID>6913923</PMCID>
+    <PMCID>6950471</PMCID>
+    <PMCID>6949945</PMCID>
+    <PMCID>6874259</PMCID>
+    <PMCID>6888197</PMCID>
+    <PMCID>6851128</PMCID>
+    <PMCID>6813044</PMCID>
+    <PMCID>6807675</PMCID>
+    <PMCID>6790396</PMCID>
+    <PMCID>6783933</PMCID>
+    <PMCID>6784073</PMCID>
+    <PMCID>6712034</PMCID>
+    <PMCID>6693291</PMCID>
+    <PMCID>6881143</PMCID>
+    <PMCID>6722858</PMCID>
+    <PMCID>6723923</PMCID>
+    <PMCID>6722727</PMCID>
+    <PMCID>6669632</PMCID>
+    <PMCID>6669828</PMCID>
+    <PMCID>6669582</PMCID>
+    <PMCID>6669544</PMCID>
+    <PMCID>6570900</PMCID>
+    <PMCID>6630879</PMCID>
+    <PMCID>6549348</PMCID>
+    <PMCID>6683916</PMCID>
+    <PMCID>6560302</PMCID>
+    <PMCID>6562389</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6498058</PMCID>
+    <PMCID>6474636</PMCID>
+    <PMCID>6582813</PMCID>
+    <PMCID>6441502</PMCID>
+    <PMCID>6838826</PMCID>
+    <PMCID>6466081</PMCID>
+    <PMCID>6455186</PMCID>
+    <PMCID>6831229</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6394330</PMCID>
+    <PMCID>6446953</PMCID>
+    <PMCID>6409794</PMCID>
+    <PMCID>6383869</PMCID>
+    <PMCID>6382775</PMCID>
+    <PMCID>6346471</PMCID>
+    <PMCID>6351540</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>6329334</PMCID>
+    <PMCID>6318823</PMCID>
+    <PMCID>6302603</PMCID>
+    <PMCID>6256391</PMCID>
+    <PMCID>6313313</PMCID>
+    <PMCID>6261020</PMCID>
+    <PMCID>6556216</PMCID>
+    <PMCID>6240170</PMCID>
+    <PMCID>6199996</PMCID>
+    <PMCID>6218101</PMCID>
+    <PMCID>6182751</PMCID>
+    <PMCID>6171170</PMCID>
+    <PMCID>6169199</PMCID>
+    <PMCID>6172680</PMCID>
+    <PMCID>6256665</PMCID>
+    <PMCID>6153690</PMCID>
+    <PMCID>6039051</PMCID>
+    <PMCID>6022222</PMCID>
+    <PMCID>6013855</PMCID>
+    <PMCID>5998146</PMCID>
+    <PMCID>6015871</PMCID>
+    <PMCID>6005641</PMCID>
+    <PMCID>6032371</PMCID>
+    <PMCID>6004851</PMCID>
+    <PMCID>6004848</PMCID>
+    <PMCID>5965032</PMCID>
+    <PMCID>5944027</PMCID>
+    <PMCID>5908068</PMCID>
+    <PMCID>5891940</PMCID>
+    <PMCID>5861045</PMCID>
+    <PMCID>5794350</PMCID>
+    <PMCID>5864277</PMCID>
+    <PMCID>5782898</PMCID>
+    <PMCID>5768775</PMCID>
+    <PMCID>5758900</PMCID>
+    <PMCID>5730780</PMCID>
+    <PMCID>5732971</PMCID>
+    <PMCID>5750944</PMCID>
+    <PMCID>5717093</PMCID>
+    <PMCID>5657933</PMCID>
+    <PMCID>6178786</PMCID>
+    <PMCID>5602290</PMCID>
+    <PMCID>5516384</PMCID>
+    <PMCID>6598888</PMCID>
+    <PMCID>5513362</PMCID>
+    <PMCID>6231242</PMCID>
+    <PMCID>5463320</PMCID>
+    <PMCID>5443433</PMCID>
+    <PMCID>5443425</PMCID>
+    <PMCID>5559374</PMCID>
+    <PMCID>5403056</PMCID>
+    <PMCID>5353647</PMCID>
+    <PMCID>5325721</PMCID>
+    <PMCID>5303042</PMCID>
+    <PMCID>5267462</PMCID>
+    <PMCID>5206430</PMCID>
+    <PMCID>5404621</PMCID>
+    <PMCID>5129272</PMCID>
+    <PMCID>5081555</PMCID>
+    <PMCID>5095384</PMCID>
+    <PMCID>5086618</PMCID>
+    <PMCID>5203943</PMCID>
+    <PMCID>5029828</PMCID>
+    <PMCID>5653249</PMCID>
+    <PMCID>4997585</PMCID>
+    <PMCID>4931335</PMCID>
+    <PMCID>4936146</PMCID>
+    <PMCID>4901218</PMCID>
+    <PMCID>4891966</PMCID>
+    <PMCID>4879520</PMCID>
+    <PMCID>4885073</PMCID>
+    <PMCID>4844727</PMCID>
+    <PMCID>4818876</PMCID>
+    <PMCID>4751944</PMCID>
+    <PMCID>4737898</PMCID>
+    <PMCID>4734509</PMCID>
+    <PMCID>4730112</PMCID>
+    <PMCID>4955619</PMCID>
+    <PMCID>4702685</PMCID>
+    <PMCID>4672424</PMCID>
+    <PMCID>4663195</PMCID>
+    <PMCID>4661284</PMCID>
+    <PMCID>4630907</PMCID>
+    <PMCID>4599133</PMCID>
+    <PMCID>4742371</PMCID>
+    <PMCID>4723665</PMCID>
+    <PMCID>4507303</PMCID>
+    <PMCID>4871597</PMCID>
+    <PMCID>4399110</PMCID>
+    <PMCID>4384476</PMCID>
+    <PMCID>4318940</PMCID>
+    <PMCID>4306842</PMCID>
+    <PMCID>4285283</PMCID>
+    <PMCID>4285249</PMCID>
+    <PMCID>4273638</PMCID>
+    <PMCID>4270494</PMCID>
+    <PMCID>4268697</PMCID>
+    <PMCID>4811644</PMCID>
+    <PMCID>4257821</PMCID>
+    <PMCID>4276605</PMCID>
+    <PMCID>4257849</PMCID>
+    <PMCID>4205793</PMCID>
+    <PMCID>4189029</PMCID>
+    <PMCID>4189028</PMCID>
+    <PMCID>4157232</PMCID>
+    <PMCID>4147688</PMCID>
+    <PMCID>4135943</PMCID>
+    <PMCID>4120652</PMCID>
+    <PMCID>4076983</PMCID>
+    <PMCID>4112321</PMCID>
+    <PMCID>4105051</PMCID>
+    <PMCID>4098074</PMCID>
+    <PMCID>4054411</PMCID>
+    <PMCID>4070998</PMCID>
+    <PMCID>4296190</PMCID>
+    <PMCID>4074933</PMCID>
+    <PMCID>4161193</PMCID>
+    <PMCID>4135427</PMCID>
+    <PMCID>4047433</PMCID>
+    <PMCID>4015584</PMCID>
+    <PMCID>4025565</PMCID>
+    <PMCID>4036548</PMCID>
+    <PMCID>4036540</PMCID>
+    <PMCID>4014717</PMCID>
+    <PMCID>4014705</PMCID>
+    <PMCID>3970152</PMCID>
+    <PMCID>3970142</PMCID>
+    <PMCID>3970141</PMCID>
+    <PMCID>3952587</PMCID>
+    <PMCID>3944734</PMCID>
+    <PMCID>3939476</PMCID>
+    <PMCID>3939470</PMCID>
+    <PMCID>3901500</PMCID>
+    <PMCID>4058404</PMCID>
+    <PMCID>3917436</PMCID>
+    <PMCID>3887490</PMCID>
+    <PMCID>3880909</PMCID>
+    <PMCID>3840873</PMCID>
+    <PMCID>3856411</PMCID>
+    <PMCID>3820312</PMCID>
+    <PMCID>3837658</PMCID>
+    <PMCID>3837639</PMCID>
+    <PMCID>3931171</PMCID>
+    <PMCID>3851560</PMCID>
+    <PMCID>3864905</PMCID>
+    <PMCID>3798905</PMCID>
+    <PMCID>3798901</PMCID>
+    <PMCID>4082828</PMCID>
+    <PMCID>3784163</PMCID>
+    <PMCID>4129941</PMCID>
+    <PMCID>3754509</PMCID>
+    <PMCID>3750667</PMCID>
+    <PMCID>4010434</PMCID>
+    <PMCID>4153883</PMCID>
+    <PMCID>3722641</PMCID>
+    <PMCID>3708768</PMCID>
+    <PMCID>3713973</PMCID>
+    <PMCID>3696076</PMCID>
+    <PMCID>4286007</PMCID>
+    <PMCID>3669618</PMCID>
+    <PMCID>3641006</PMCID>
+    <PMCID>3571280</PMCID>
+    <PMCID>3564479</PMCID>
+    <PMCID>3561286</PMCID>
+    <PMCID>3534714</PMCID>
+    <PMCID>3557968</PMCID>
+    <PMCID>3536377</PMCID>
+    <PMCID>3515034</PMCID>
+    <PMCID>3557881</PMCID>
+    <PMCID>3503101</PMCID>
+    <PMCID>3542127</PMCID>
+    <PMCID>3486303</PMCID>
+    <PMCID>3457156</PMCID>
+    <PMCID>3446614</PMCID>
+    <PMCID>3423653</PMCID>
+    <PMCID>3429022</PMCID>
+    <PMCID>3376800</PMCID>
+    <PMCID>3335829</PMCID>
+    <PMCID>3317902</PMCID>
+    <PMCID>3302504</PMCID>
+    <PMCID>3302241</PMCID>
+    <PMCID>3284379</PMCID>
+    <PMCID>3729070</PMCID>
+    <PMCID>3331809</PMCID>
+    <PMCID>3310113</PMCID>
+    <PMCID>3255798</PMCID>
+    <PMCID>3240607</PMCID>
+    <PMCID>3234885</PMCID>
+    <PMCID>3250336</PMCID>
+    <PMCID>3196424</PMCID>
+    <PMCID>3204296</PMCID>
+    <PMCID>3165220</PMCID>
+    <PMCID>3163881</PMCID>
+    <PMCID>3169483</PMCID>
+    <PMCID>3381544</PMCID>
+    <PMCID>3185782</PMCID>
+    <PMCID>3146012</PMCID>
+    <PMCID>3219076</PMCID>
+    <PMCID>3114737</PMCID>
+    <PMCID>3111272</PMCID>
+    <PMCID>3243073</PMCID>
+    <PMCID>3126157</PMCID>
+    <PMCID>3248757</PMCID>
+    <PMCID>3042829</PMCID>
+    <PMCID>3046926</PMCID>
+    <PMCID>3029172</PMCID>
+    <PMCID>3060427</PMCID>
+    <PMCID>3019113</PMCID>
+    <PMCID>3019482</PMCID>
+    <PMCID>3004803</PMCID>
+    <PMCID>2990043</PMCID>
+    <PMCID>3294554</PMCID>
+    <PMCID>3002308</PMCID>
+    <PMCID>2977899</PMCID>
+    <PMCID>2919379</PMCID>
+    <PMCID>3298307</PMCID>
+    <PMCID>2979336</PMCID>
+    <PMCID>2979330</PMCID>
+    <PMCID>2979329</PMCID>
+    <PMCID>2921407</PMCID>
+    <PMCID>2863364</PMCID>
+    <PMCID>2863915</PMCID>
+    <PMCID>2880890</PMCID>
+    <PMCID>2958020</PMCID>
+    <PMCID>2823670</PMCID>
+    <PMCID>3044545</PMCID>
+    <PMCID>3044508</PMCID>
+    <PMCID>2798396</PMCID>
+    <PMCID>2857219</PMCID>
+    <PMCID>2798441</PMCID>
+    <PMCID>2919849</PMCID>
+    <PMCID>2786626</PMCID>
+    <PMCID>2786366</PMCID>
+    <PMCID>2719057</PMCID>
+    <PMCID>2889182</PMCID>
+    <PMCID>2780037</PMCID>
+    <PMCID>2702001</PMCID>
+    <PMCID>4006645</PMCID>
+    <PMCID>2727351</PMCID>
+    <PMCID>2671245</PMCID>
+    <PMCID>2687366</PMCID>
+    <PMCID>2796853</PMCID>
+    <PMCID>2673745</PMCID>
+    <PMCID>2682085</PMCID>
+    <PMCID>2703139</PMCID>
+    <PMCID>2662651</PMCID>
+    <PMCID>2660967</PMCID>
+    <PMCID>2584234</PMCID>
+    <PMCID>2686532</PMCID>
+    <PMCID>4152707</PMCID>
+    <PMCID>2527069</PMCID>
+    <PMCID>2978542</PMCID>
+    <PMCID>2600406</PMCID>
+    <PMCID>2570905</PMCID>
+    <PMCID>4421181</PMCID>
+    <PMCID>2394832</PMCID>
+    <PMCID>2248171</PMCID>
+    <PMCID>2232037</PMCID>
+    <PMCID>2396444</PMCID>
+    <PMCID>2810485</PMCID>
+    <PMCID>3375801</PMCID>
+    <PMCID>2262106</PMCID>
+    <PMCID>2253664</PMCID>
+    <PMCID>2186316</PMCID>
+    <PMCID>2168392</PMCID>
+    <PMCID>2000552</PMCID>
+    <PMCID>2000529</PMCID>
+    <PMCID>2857277</PMCID>
+    <PMCID>2262104</PMCID>
+    <PMCID>2828076</PMCID>
+    <PMCID>2254531</PMCID>
+    <PMCID>1951205</PMCID>
+    <PMCID>2725857</PMCID>
+    <PMCID>1866138</PMCID>
+    <PMCID>1797798</PMCID>
+    <PMCID>1694442</PMCID>
+    <PMCID>1617216</PMCID>
+    <PMCID>1642145</PMCID>
+    <PMCID>1578555</PMCID>
+    <PMCID>1563903</PMCID>
+    <PMCID>2729880</PMCID>
+    <PMCID>1635497</PMCID>
+    <PMCID>3890741</PMCID>
+    <PMCID>3373030</PMCID>
+    <PMCID>3374458</PMCID>
+    <PMCID>3294712</PMCID>
+    <PMCID>1322228</PMCID>
+    <PMCID>1181592</PMCID>
+    <PMCID>4128169</PMCID>
+    <PMCID>1151903</PMCID>
+    <PMCID>1143646</PMCID>
+    <PMCID>552903</PMCID>
+    <PMCID>545842</PMCID>
+    <PMCID>1447519</PMCID>
+    <PMCID>3323368</PMCID>
+    <PMCID>533921</PMCID>
+    <PMCID>523238</PMCID>
+    <PMCID>3320406</PMCID>
+    <PMCID>356881</PMCID>
+    <PMCID>254384</PMCID>
+    <PMCID>225001</PMCID>
+    <PMCID>224585</PMCID>
+    <PMCID>167242</PMCID>
+    <PMCID>165253</PMCID>
+    <PMCID>145270</PMCID>
+    <PMCID>140797</PMCID>
+    <PMCID>140611</PMCID>
+    <PMCID>140609</PMCID>
+    <PMCID>2732533</PMCID>
+    <PMCID>137000</PMCID>
+    <PMCID>2732528</PMCID>
+    <PMCID>136272</PMCID>
+    <PMCID>2738486</PMCID>
+    <PMCID>2730278</PMCID>
+    <PMCID>135710</PMCID>
+    <PMCID>115092</PMCID>
+    <PMCID>88161</PMCID>
+    <PMCID>88127</PMCID>
+    <PMCID>112467</PMCID>
+    <PMCID>102124</PMCID>
+    <PMCID>112358</PMCID>
+    <PMCID>111725</PMCID>
+    <PMCID>111467</PMCID>
+    <PMCID>4531915</PMCID>
+    <PMCID>112585</PMCID>
+    <PMCID>2640777</PMCID>
+    <PMCID>104173</PMCID>
+    <PMCID>2627702</PMCID>
+    <PMCID>2627699</PMCID>
+    <PMCID>2627686</PMCID>
+    <PMCID>103873</PMCID>
+    <PMCID>103864</PMCID>
+    <PMCID>105155</PMCID>
+    <PMCID>109349</PMCID>
+    <PMCID>229635</PMCID>
+    <PMCID>2271696</PMCID>
+    <PMCID>4534982</PMCID>
+    <GeneBankPMID>1867009</GeneBankPMID>
+    <GeneBankPMID>28368241</GeneBankPMID>
+    <GeneBankPMID>1840713</GeneBankPMID>
+    <MeSHPMID>32484879</MeSHPMID>
+    <MeSHPMID>32484864</MeSHPMID>
+    <MeSHPMID>31841521</MeSHPMID>
+    <MeSHPMID>31835357</MeSHPMID>
+    <MeSHPMID>31545808</MeSHPMID>
+    <MeSHPMID>31319534</MeSHPMID>
+    <MeSHPMID>31181690</MeSHPMID>
+    <MeSHPMID>31023948</MeSHPMID>
+    <MeSHPMID>30952778</MeSHPMID>
+    <MeSHPMID>30915955</MeSHPMID>
+    <MeSHPMID>30696898</MeSHPMID>
+    <MeSHPMID>30670905</MeSHPMID>
+    <MeSHPMID>30666956</MeSHPMID>
+    <MeSHPMID>30609070</MeSHPMID>
+    <MeSHPMID>30445913</MeSHPMID>
+    <MeSHPMID>30067176</MeSHPMID>
+    <MeSHPMID>29869603</MeSHPMID>
+    <MeSHPMID>29774860</MeSHPMID>
+    <MeSHPMID>29393924</MeSHPMID>
+    <MeSHPMID>29350137</MeSHPMID>
+    <MeSHPMID>29023435</MeSHPMID>
+    <MeSHPMID>28724455</MeSHPMID>
+    <MeSHPMID>28720142</MeSHPMID>
+    <MeSHPMID>28669005</MeSHPMID>
+    <MeSHPMID>28537534</MeSHPMID>
+    <MeSHPMID>28368241</MeSHPMID>
+    <MeSHPMID>27430149</MeSHPMID>
+    <MeSHPMID>27258409</MeSHPMID>
+    <MeSHPMID>27038799</MeSHPMID>
+    <MeSHPMID>26868241</MeSHPMID>
+    <MeSHPMID>25968286</MeSHPMID>
+    <MeSHPMID>25920565</MeSHPMID>
+    <MeSHPMID>25772576</MeSHPMID>
+    <MeSHPMID>25629777</MeSHPMID>
+    <MeSHPMID>25417507</MeSHPMID>
+    <MeSHPMID>25256390</MeSHPMID>
+    <MeSHPMID>25256389</MeSHPMID>
+    <MeSHPMID>25169964</MeSHPMID>
+    <MeSHPMID>24639295</MeSHPMID>
+    <MeSHPMID>24555484</MeSHPMID>
+    <MeSHPMID>24504130</MeSHPMID>
+    <MeSHPMID>24359425</MeSHPMID>
+    <MeSHPMID>24229532</MeSHPMID>
+    <MeSHPMID>23871164</MeSHPMID>
+    <MeSHPMID>23870077</MeSHPMID>
+    <MeSHPMID>23787080</MeSHPMID>
+    <MeSHPMID>23787079</MeSHPMID>
+    <MeSHPMID>23668557</MeSHPMID>
+    <MeSHPMID>23647626</MeSHPMID>
+    <MeSHPMID>23532380</MeSHPMID>
+    <MeSHPMID>23470018</MeSHPMID>
+    <MeSHPMID>23305714</MeSHPMID>
+    <MeSHPMID>23166256</MeSHPMID>
+    <MeSHPMID>23114204</MeSHPMID>
+    <MeSHPMID>22915818</MeSHPMID>
+    <MeSHPMID>22910184</MeSHPMID>
+    <MeSHPMID>22711359</MeSHPMID>
+    <MeSHPMID>22673720</MeSHPMID>
+    <MeSHPMID>22426376</MeSHPMID>
+    <MeSHPMID>22403334</MeSHPMID>
+    <MeSHPMID>22258864</MeSHPMID>
+    <MeSHPMID>22108583</MeSHPMID>
+    <MeSHPMID>22095538</MeSHPMID>
+    <MeSHPMID>22090114</MeSHPMID>
+    <MeSHPMID>22042876</MeSHPMID>
+    <MeSHPMID>21441196</MeSHPMID>
+    <MeSHPMID>21428852</MeSHPMID>
+    <MeSHPMID>21417923</MeSHPMID>
+    <MeSHPMID>21264354</MeSHPMID>
+    <MeSHPMID>21162996</MeSHPMID>
+    <MeSHPMID>21162871</MeSHPMID>
+    <MeSHPMID>21118933</MeSHPMID>
+    <MeSHPMID>20678311</MeSHPMID>
+    <MeSHPMID>20193387</MeSHPMID>
+    <MeSHPMID>20181748</MeSHPMID>
+    <MeSHPMID>20170933</MeSHPMID>
+    <MeSHPMID>20113591</MeSHPMID>
+    <MeSHPMID>19848600</MeSHPMID>
+    <MeSHPMID>19642377</MeSHPMID>
+    <MeSHPMID>19583957</MeSHPMID>
+    <MeSHPMID>19537913</MeSHPMID>
+    <MeSHPMID>19523286</MeSHPMID>
+    <MeSHPMID>19193263</MeSHPMID>
+    <MeSHPMID>18931068</MeSHPMID>
+    <MeSHPMID>18821445</MeSHPMID>
+    <MeSHPMID>18620010</MeSHPMID>
+    <MeSHPMID>18461618</MeSHPMID>
+    <MeSHPMID>18458321</MeSHPMID>
+    <MeSHPMID>18249007</MeSHPMID>
+    <MeSHPMID>18053684</MeSHPMID>
+    <MeSHPMID>17878294</MeSHPMID>
+    <MeSHPMID>17826847</MeSHPMID>
+    <MeSHPMID>17719050</MeSHPMID>
+    <MeSHPMID>17619252</MeSHPMID>
+    <MeSHPMID>17432948</MeSHPMID>
+    <MeSHPMID>16972031</MeSHPMID>
+    <MeSHPMID>16927115</MeSHPMID>
+    <MeSHPMID>16721853</MeSHPMID>
+    <MeSHPMID>16464732</MeSHPMID>
+    <MeSHPMID>16390005</MeSHPMID>
+    <MeSHPMID>16040226</MeSHPMID>
+    <MeSHPMID>15929399</MeSHPMID>
+    <MeSHPMID>15744561</MeSHPMID>
+    <MeSHPMID>15664046</MeSHPMID>
+    <MeSHPMID>15287380</MeSHPMID>
+    <MeSHPMID>15258986</MeSHPMID>
+    <MeSHPMID>15221534</MeSHPMID>
+    <MeSHPMID>15190673</MeSHPMID>
+    <MeSHPMID>15056437</MeSHPMID>
+    <MeSHPMID>15031523</MeSHPMID>
+    <MeSHPMID>14981768</MeSHPMID>
+    <MeSHPMID>14609633</MeSHPMID>
+    <MeSHPMID>14505081</MeSHPMID>
+    <MeSHPMID>12894473</MeSHPMID>
+    <MeSHPMID>12869992</MeSHPMID>
+    <MeSHPMID>12850202</MeSHPMID>
+    <MeSHPMID>12522053</MeSHPMID>
+    <MeSHPMID>12480503</MeSHPMID>
+    <MeSHPMID>12435066</MeSHPMID>
+    <MeSHPMID>12078290</MeSHPMID>
+    <MeSHPMID>12015110</MeSHPMID>
+    <MeSHPMID>14440122</MeSHPMID>
+    <MeSHPMID>13639773</MeSHPMID>
+    <id>1980490</id>
+    <meSHTree>B04.820.480.750.440.690</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Seoul hantavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Seoul virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  epidemic hemorrhagic fever virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Seoul virus</scientificName>
+</pathogen>

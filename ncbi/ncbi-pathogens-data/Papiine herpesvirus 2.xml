@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7459551</PMCID>
+    <PMCID>7318535</PMCID>
+    <PMCID>7158299</PMCID>
+    <PMCID>7150127</PMCID>
+    <PMCID>7459556</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6893520</PMCID>
+    <PMCID>6787236</PMCID>
+    <PMCID>6466031</PMCID>
+    <PMCID>5640867</PMCID>
+    <PMCID>7041526</PMCID>
+    <PMCID>5878061</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4825966</PMCID>
+    <PMCID>4801651</PMCID>
+    <PMCID>4214296</PMCID>
+    <PMCID>5896283</PMCID>
+    <PMCID>4047195</PMCID>
+    <PMCID>3989440</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3963400</PMCID>
+    <PMCID>4310701</PMCID>
+    <PMCID>3079670</PMCID>
+    <PMCID>3044317</PMCID>
+    <PMCID>3017652</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2923853</PMCID>
+    <PMCID>2770495</PMCID>
+    <PMCID>4416230</PMCID>
+    <PMCID>2713539</PMCID>
+    <PMCID>2729440</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>3016714</PMCID>
+    <PMCID>2654603</PMCID>
+    <PMCID>2703160</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>2092379</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>3683542</PMCID>
+    <PMCID>1346941</PMCID>
+    <PMCID>224954</PMCID>
+    <PMCID>135856</PMCID>
+    <PMCID>88291</PMCID>
+    <GeneBankPMID>16414998</GeneBankPMID>
+    <GeneBankPMID>24606686</GeneBankPMID>
+    <id>340907</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CeHV-16
+ &lt;/GenbankAcronym&gt; 
+ &lt;GenbankSynonym&gt;
+  Herpesvirus papio 2
+ &lt;/GenbankSynonym&gt; 
+ &lt;Acronym&gt;
+  HVP2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Baboon herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Baboon herpesvirus HVP2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cercopithecine herpesvirus 16
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Papiine herpesvirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Papiine herpesvirus 2</scientificName>
+</pathogen>

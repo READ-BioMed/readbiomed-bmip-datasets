@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1166473</id>
+        <scientificName>Pepper huasteco yellow vein virus- San Luis Potosi</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223304</id>
+        <scientificName>Pepper huasteco yellow vein virus-[Sinaloa]</scientificName>
+    </subSpecies>
+    <PMCID>7357562</PMCID>
+    <PMCID>7396689</PMCID>
+    <PMCID>7150747</PMCID>
+    <PMCID>7102708</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6498046</PMCID>
+    <PMCID>6344024</PMCID>
+    <PMCID>6517466</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5219900</PMCID>
+    <PMCID>4690854</PMCID>
+    <PMCID>5014474</PMCID>
+    <PMCID>6638794</PMCID>
+    <PMCID>3967154</PMCID>
+    <PMCID>4174809</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3546870</PMCID>
+    <PMCID>3390404</PMCID>
+    <PMCID>3232243</PMCID>
+    <PMCID>3233405</PMCID>
+    <PMCID>3196459</PMCID>
+    <PMCID>6638836</PMCID>
+    <PMCID>3061938</PMCID>
+    <PMCID>3026904</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2770057</PMCID>
+    <PMCID>2620903</PMCID>
+    <PMCID>2528102</PMCID>
+    <PMCID>2894479</PMCID>
+    <PMCID>1435821</PMCID>
+    <PMCID>521842</PMCID>
+    <GeneBankPMID>8409944</GeneBankPMID>
+    <id>223303</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pepper huasteco virus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pepper Hausteco Geminivirus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pepper huasteco yellow vein virus</scientificName>
+</pathogen>

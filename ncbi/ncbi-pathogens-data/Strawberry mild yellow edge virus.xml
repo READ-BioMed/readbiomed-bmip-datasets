@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7324436</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7009144</PMCID>
+    <PMCID>7009162</PMCID>
+    <PMCID>7008834</PMCID>
+    <PMCID>6316418</PMCID>
+    <PMCID>5455130</PMCID>
+    <PMCID>5043284</PMCID>
+    <PMCID>3818234</PMCID>
+    <PMCID>3708502</PMCID>
+    <PMCID>3656352</PMCID>
+    <PMCID>3605023</PMCID>
+    <PMCID>202373</PMCID>
+    <GeneBankPMID>2191082</GeneBankPMID>
+    <GeneBankPMID>1339469</GeneBankPMID>
+    <id>12187</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SMYEaV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Strawberry mild yellow edge-associated virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  strawberry mild yellow edge-associated potexvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Strawberry mild yellow edge virus</scientificName>
+</pathogen>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>406769</id>
+        <scientificName>Human T-cell leukemia virus 3 (strain Pyl43)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>11739691</GeneBankPMID>
+        <MeSHPMID>25355890</MeSHPMID>
+        <MeSHPMID>22993189</MeSHPMID>
+        <MeSHPMID>22462797</MeSHPMID>
+        <MeSHPMID>21994771</MeSHPMID>
+        <MeSHPMID>19860877</MeSHPMID>
+        <id>39101</id>
+        <meSHTree>B04.613.807.200.735.750, B04.613.807.805.858, B04.820.650.200.735.750</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PTLV
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  STLV
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  STLV-L
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Primate T-cell lymphotropic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Primate T-lymphotropic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian T-cell leukemia virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian T-cell lymphotropic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian T-cell lymphotropic virus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian T-cell lymphotropic virus STLV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian T-cell lymphotropic virus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian T-cell lymphotropic virus type III
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  primate T-cell lymphotropic virus type L
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  primate T-lymphotropic virus PTLV-L
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Simian T-lymphotropic virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian T-lymphotropic virus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>402036</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human T-lymphotropic virus 3 strain 2026ND
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>HTLV-3 strain 2026ND</scientificName>
+        </subSpecies>
+        <MeSHPMID>28193549</MeSHPMID>
+        <MeSHPMID>24872589</MeSHPMID>
+        <MeSHPMID>23217627</MeSHPMID>
+        <MeSHPMID>22911729</MeSHPMID>
+        <MeSHPMID>21994771</MeSHPMID>
+        <MeSHPMID>21917984</MeSHPMID>
+        <MeSHPMID>21851326</MeSHPMID>
+        <MeSHPMID>20929392</MeSHPMID>
+        <MeSHPMID>20830293</MeSHPMID>
+        <MeSHPMID>20353873</MeSHPMID>
+        <MeSHPMID>20303544</MeSHPMID>
+        <MeSHPMID>20047475</MeSHPMID>
+        <MeSHPMID>19968515</MeSHPMID>
+        <MeSHPMID>19741085</MeSHPMID>
+        <id>28332</id>
+        <meSHTree>B04.613.807.200.735.374, B04.820.650.200.735.374</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HTLV-3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human T-cell Lymphotropic Virus Type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human T-lymphotropic virus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human lymphotropic virus type III
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human T-lymphotropic virus 3</scientificName>
+    </subSpecies>
+    <MeSHPMID>28193549</MeSHPMID>
+    <MeSHPMID>25355890</MeSHPMID>
+    <MeSHPMID>24872589</MeSHPMID>
+    <MeSHPMID>23217627</MeSHPMID>
+    <MeSHPMID>22993189</MeSHPMID>
+    <MeSHPMID>22911729</MeSHPMID>
+    <MeSHPMID>22462797</MeSHPMID>
+    <MeSHPMID>21994771</MeSHPMID>
+    <MeSHPMID>21917984</MeSHPMID>
+    <MeSHPMID>21851326</MeSHPMID>
+    <MeSHPMID>21087785</MeSHPMID>
+    <MeSHPMID>20929392</MeSHPMID>
+    <MeSHPMID>20830293</MeSHPMID>
+    <MeSHPMID>20353873</MeSHPMID>
+    <MeSHPMID>20303544</MeSHPMID>
+    <MeSHPMID>20047475</MeSHPMID>
+    <MeSHPMID>19968515</MeSHPMID>
+    <MeSHPMID>19860877</MeSHPMID>
+    <MeSHPMID>19761585</MeSHPMID>
+    <MeSHPMID>19741085</MeSHPMID>
+    <MeSHPMID>19213697</MeSHPMID>
+    <MeSHPMID>19193260</MeSHPMID>
+    <MeSHPMID>18417569</MeSHPMID>
+    <MeSHPMID>17976676</MeSHPMID>
+    <MeSHPMID>17428869</MeSHPMID>
+    <MeSHPMID>16840323</MeSHPMID>
+    <MeSHPMID>16532031</MeSHPMID>
+    <MeSHPMID>15882466</MeSHPMID>
+    <MeSHPMID>15078952</MeSHPMID>
+    <MeSHPMID>14769908</MeSHPMID>
+    <MeSHPMID>13679606</MeSHPMID>
+    <MeSHPMID>12477886</MeSHPMID>
+    <MeSHPMID>11739691</MeSHPMID>
+    <MeSHPMID>11708284</MeSHPMID>
+    <id>194443</id>
+    <meSHTree>B04.613.807.200.735, B04.820.650.200.735</meSHTree>
+    <scientificName>Primate T-lymphotropic virus 3</scientificName>
+</pathogen>

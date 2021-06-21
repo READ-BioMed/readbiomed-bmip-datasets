@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7281597</PMCID>
+        <PMCID>7101103</PMCID>
+        <PMCID>7011290</PMCID>
+        <PMCID>6070238</PMCID>
+        <PMCID>5653249</PMCID>
+        <PMCID>4507303</PMCID>
+        <PMCID>4036540</PMCID>
+        <PMCID>4014705</PMCID>
+        <PMCID>3970150</PMCID>
+        <PMCID>3901500</PMCID>
+        <PMCID>3798901</PMCID>
+        <PMCID>3358143</PMCID>
+        <PMCID>3381544</PMCID>
+        <PMCID>3219076</PMCID>
+        <PMCID>3114775</PMCID>
+        <PMCID>3294554</PMCID>
+        <PMCID>3321943</PMCID>
+        <PMCID>2863364</PMCID>
+        <PMCID>2671436</PMCID>
+        <PMCID>2828069</PMCID>
+        <id>379964</id>
+        <scientificName>Anajatuba virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7281597</PMCID>
+        <PMCID>4036540</PMCID>
+        <PMCID>3970150</PMCID>
+        <PMCID>3901500</PMCID>
+        <PMCID>3358143</PMCID>
+        <PMCID>3381544</PMCID>
+        <PMCID>3294554</PMCID>
+        <PMCID>3321943</PMCID>
+        <PMCID>2828069</PMCID>
+        <id>379963</id>
+        <scientificName>Rio Mearim virus</scientificName>
+    </subSpecies>
+    <PMCID>6784073</PMCID>
+    <PMCID>6669540</PMCID>
+    <PMCID>5594662</PMCID>
+    <PMCID>5450251</PMCID>
+    <PMCID>5653249</PMCID>
+    <PMCID>4909039</PMCID>
+    <PMCID>4178416</PMCID>
+    <PMCID>4047759</PMCID>
+    <PMCID>4036540</PMCID>
+    <PMCID>4014717</PMCID>
+    <PMCID>3901500</PMCID>
+    <PMCID>3798901</PMCID>
+    <PMCID>3503106</PMCID>
+    <PMCID>3358143</PMCID>
+    <PMCID>3310113</PMCID>
+    <PMCID>3381544</PMCID>
+    <PMCID>2927102</PMCID>
+    <PMCID>3321943</PMCID>
+    <PMCID>2863364</PMCID>
+    <PMCID>2880890</PMCID>
+    <PMCID>3044524</PMCID>
+    <PMCID>2248171</PMCID>
+    <PMCID>1578555</PMCID>
+    <PMCID>1563903</PMCID>
+    <PMCID>1181592</PMCID>
+    <PMCID>2730253</PMCID>
+    <PMCID>136083</PMCID>
+    <PMCID>87178</PMCID>
+    <PMCID>112989</PMCID>
+    <id>46920</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Rio Mamore Hantavirus strain OM-137
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Rio Mamore Hantavirus strain OM-142
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Rio Mamore hantavirus strain OM-556
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Rio Mamore virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rio Mamore virus</scientificName>
+</pathogen>

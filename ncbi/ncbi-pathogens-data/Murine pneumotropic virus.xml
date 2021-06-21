@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7110478</PMCID>
+        <PMCID>4888988</PMCID>
+        <PMCID>3794449</PMCID>
+        <PMCID>2134959</PMCID>
+        <PMCID>149493</PMCID>
+        <id>10638</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mouse polyomavirus (strain KILHAM)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Kilham polyomavirus</scientificName>
+    </subSpecies>
+    <PMCID>7086986</PMCID>
+    <PMCID>6833039</PMCID>
+    <PMCID>6160877</PMCID>
+    <PMCID>4882938</PMCID>
+    <PMCID>4888988</PMCID>
+    <PMCID>4073331</PMCID>
+    <PMCID>3815707</PMCID>
+    <PMCID>1472594</PMCID>
+    <GeneBankPMID>1849675</GeneBankPMID>
+    <GeneBankPMID>17658947</GeneBankPMID>
+    <GeneBankPMID>27885808</GeneBankPMID>
+    <id>1891770</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  MptV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Kilham strain of Polyomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Murine pneumotropic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Murine pneumotropic virus</scientificName>
+</pathogen>

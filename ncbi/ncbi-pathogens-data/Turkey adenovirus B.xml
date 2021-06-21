@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>6700354</PMCID>
+        <PMCID>4984651</PMCID>
+        <GeneBankPMID>20709116</GeneBankPMID>
+        <id>878329</id>
+        <scientificName>Turkey adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6394704</PMCID>
+    <PMCID>6109506</PMCID>
+    <PMCID>6021868</PMCID>
+    <PMCID>5850404</PMCID>
+    <PMCID>5387021</PMCID>
+    <id>1146875</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Turkey adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Turkey adenovirus B</scientificName>
+</pathogen>

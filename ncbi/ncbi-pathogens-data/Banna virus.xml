@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>9780055</GeneBankPMID>
+        <GeneBankPMID>10811934</GeneBankPMID>
+        <GeneBankPMID>15784908</GeneBankPMID>
+        <id>649604</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Coltivirus JKT-6423
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Banna virus strain JKT-6423</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>267784</id>
+        <scientificName>Coltivirus strain YN-6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>267783</id>
+        <scientificName>Coltivirus strain BJ95-75</scientificName>
+    </subSpecies>
+    <PMCID>7898981</PMCID>
+    <PMCID>7680115</PMCID>
+    <PMCID>7426863</PMCID>
+    <PMCID>7359424</PMCID>
+    <PMCID>7173583</PMCID>
+    <PMCID>7154088</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7108571</PMCID>
+    <PMCID>7094257</PMCID>
+    <PMCID>7089225</PMCID>
+    <PMCID>7402514</PMCID>
+    <PMCID>7399325</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7097586</PMCID>
+    <PMCID>6784079</PMCID>
+    <PMCID>6563235</PMCID>
+    <PMCID>6632117</PMCID>
+    <PMCID>6466307</PMCID>
+    <PMCID>6213526</PMCID>
+    <PMCID>5889548</PMCID>
+    <PMCID>5866263</PMCID>
+    <PMCID>6178073</PMCID>
+    <PMCID>5795443</PMCID>
+    <PMCID>5660997</PMCID>
+    <PMCID>5665172</PMCID>
+    <PMCID>5646734</PMCID>
+    <PMCID>5360701</PMCID>
+    <PMCID>5355851</PMCID>
+    <PMCID>5226260</PMCID>
+    <PMCID>5203674</PMCID>
+    <PMCID>5155513</PMCID>
+    <PMCID>4840257</PMCID>
+    <PMCID>4810255</PMCID>
+    <PMCID>4748042</PMCID>
+    <PMCID>4667914</PMCID>
+    <PMCID>4570817</PMCID>
+    <PMCID>4546636</PMCID>
+    <PMCID>4477421</PMCID>
+    <PMCID>4000049</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3901712</PMCID>
+    <PMCID>3870893</PMCID>
+    <PMCID>3795637</PMCID>
+    <PMCID>3789765</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3486453</PMCID>
+    <PMCID>3407206</PMCID>
+    <PMCID>3359322</PMCID>
+    <PMCID>3226645</PMCID>
+    <PMCID>3206158</PMCID>
+    <PMCID>3192121</PMCID>
+    <PMCID>3169540</PMCID>
+    <PMCID>3121708</PMCID>
+    <PMCID>3083741</PMCID>
+    <PMCID>3048566</PMCID>
+    <PMCID>2987831</PMCID>
+    <PMCID>2964288</PMCID>
+    <PMCID>2860493</PMCID>
+    <PMCID>3322026</PMCID>
+    <PMCID>2832772</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>2600385</PMCID>
+    <PMCID>1899879</PMCID>
+    <PMCID>3367365</PMCID>
+    <PMCID>368758</PMCID>
+    <id>77763</id>
+    <meSHTree>B04.820.223.719.160</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Coltivirus JKT-6969
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Coltivirus JKT-7043
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Coltivirus BANNA
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Banna virus</scientificName>
+</pathogen>

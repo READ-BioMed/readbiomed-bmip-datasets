@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7652332</PMCID>
+        <PMCID>7158200</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6701456</PMCID>
+        <PMCID>5665413</PMCID>
+        <PMCID>3541803</PMCID>
+        <PMCID>3403753</PMCID>
+        <id>1138489</id>
+        <scientificName>Tucunduba virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1138488</id>
+        <scientificName>Wyeomyia virus strain Darien</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1138487</id>
+        <scientificName>Wyeomyia virus strain TRVL8349</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>479050</PMCID>
+        <id>273353</id>
+        <scientificName>BeAr328208 virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6382863</PMCID>
+        <PMCID>6701456</PMCID>
+        <PMCID>479050</PMCID>
+        <id>273351</id>
+        <scientificName>Taiassui virus</scientificName>
+    </subSpecies>
+    <PMCID>7101110</PMCID>
+    <PMCID>6783978</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6382863</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>4507351</PMCID>
+    <PMCID>4345823</PMCID>
+    <PMCID>3675483</PMCID>
+    <PMCID>3516088</PMCID>
+    <PMCID>3471633</PMCID>
+    <PMCID>3541803</PMCID>
+    <PMCID>2990042</PMCID>
+    <PMCID>2725646</PMCID>
+    <PMCID>3374447</PMCID>
+    <PMCID>479050</PMCID>
+    <GeneBankPMID>22278828</GeneBankPMID>
+    <id>273350</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Wyeomyia virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Wyeomyia virus</scientificName>
+</pathogen>

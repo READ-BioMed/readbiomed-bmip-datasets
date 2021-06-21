@@ -1,0 +1,11 @@
+
+Virological and pathological characterization of an avian H1N1 influenza A virus.
+
+Gene segments from avian H1N1 influenza A viruses have reassorted with other influenza viruses to generate pandemic strains over the past century. 
+Nevertheless, little effort has been invested in understanding the characteristics of avian H1N1 influenza viruses. 
+Here, we present the genome sequence and a molecular and virological characterization of an avian influenza A virus, A/wild bird/Korea/SK14/2014 (A/SK14, H1N1), isolated from migratory birds in South Korea during the winter season of 2014-2015. 
+Full-genome sequencing and phylogenetic analysis revealed that the virus belongs to the Eurasian avian lineage. 
+Although it retained avian-receptor binding preference, A/SK14 virus also exhibited detectable human-like receptor binding and was able to replicate in differentiated primary normal human bronchial epithelial cells. 
+In animal models, A/SK14 virus was moderately pathogenic in mice, and virus was detected in nasal washes from inoculated guinea pigs, but not in direct-contact guinea pigs. 
+Although A/SK14 showed moderate pathogenicity and no evidence of transmission in a mammalian model, our results suggest that the dual receptor specificity of A/SK14-like virus might allow for a more rapid adaptation to mammals, emphasizing the importance of further continuous surveillance and risk-assessment activities.
+

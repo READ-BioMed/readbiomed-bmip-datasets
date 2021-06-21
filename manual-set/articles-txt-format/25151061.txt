@@ -1,0 +1,10 @@
+
+Characterization of an H4N2 influenza virus from Quails with a multibasic motif in the hemagglutinin cleavage site.
+
+The cleavage motif in the hemagglutinin (HA) protein of highly pathogenic H5 and H7 subtypes of avian influenza viruses is characterized by a peptide insertion or a multibasic cleavage site (MBCS). 
+Here, we isolated an H4N2 virus from quails (Quail/CA12) with two additional arginines in the HA cleavage site, PEKRRTR/G, forming an MBCS-like motif. 
+Quail/CA12 is a reassortant virus with the HA and neuraminidase (NA) gene most similar to a duck-isolated H4N2 virus, PD/CA06 with a monobasic HA cleavage site. 
+Quail/CA12 required exogenous trypsin for efficient growth in culture and caused no clinical illness in infected chickens. 
+Quail/CA12 had high binding preference for α2,6-linked sialic acids and showed higher replication and transmission ability in chickens and quails than PD/CA06. 
+Although the H4N2 virus remained low pathogenic, these data suggests that the acquisition of MBCS in the field is not restricted to H5 or H7 subtypes. 
+

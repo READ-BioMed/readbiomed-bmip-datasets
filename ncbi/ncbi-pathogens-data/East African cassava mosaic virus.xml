@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1925497</id>
+        <scientificName>Deinbollia mosaic virus DB_T0</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1813732</id>
+        <scientificName>East African cassava mosaic virus TZ_19</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1268809</id>
+        <scientificName>East African cassava mosaic virus-Congo</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1229189</id>
+        <scientificName>East African cassava mosaic virus-Kenya</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7022610</PMCID>
+        <PMCID>6425663</PMCID>
+        <PMCID>5618022</PMCID>
+        <PMCID>5142593</PMCID>
+        <PMCID>4810563</PMCID>
+        <PMCID>3499829</PMCID>
+        <PMCID>3240119</PMCID>
+        <PMCID>6640248</PMCID>
+        <PMCID>3061584</PMCID>
+        <id>1188991</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  East African cassava mosaic virus Uganda
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>East African cassava mosaic virus - Uganda</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>581119</id>
+        <scientificName>East African cassava mosaic virus-Uganda BFA/2008</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>375009</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  East African cassava mosaic virus-Uganda variant
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>East African cassava mosaic virus (Uganda variant)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374779</id>
+        <scientificName>East African cassava mosaic virus-KE3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374778</id>
+        <scientificName>East African cassava mosaic virus-KE2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268967</id>
+        <scientificName>East African cassava mosaic virus - [Malawi]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268965</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  East African cassava mosaic virus-[Kenya-k2B]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>East African cassava mosaic virus - [Kenya - K2B]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223274</id>
+        <scientificName>East African cassava mosaic virus-Uganda3 Severe</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223273</id>
+        <scientificName>East African cassava mosaic virus-Uganda3 Mild</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223272</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  East African cassava mosaic virus-Uganda 2 Severe
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>East African cassava mosaic virus-Uganda2 Severe</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223271</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  East African cassava mosaic virus-Uganda 2 Mild
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>East African cassava mosaic virus-Uganda2 Mild</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223270</id>
+        <scientificName>East African cassava mosaic virus-[Uganda1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223269</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  East African cassava mosaic virus-Uganda 2 (Uganda variant)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  East African cassava mosaic virus-Uganda2(Uganda variant)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>East African cassava mosaic virus-Uganda2 (Uganda variant)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223268</id>
+        <scientificName>East African cassava mosaic virus-[Tanzania]</scientificName>
+    </subSpecies>
+    <PMCID>8007712</PMCID>
+    <PMCID>8000510</PMCID>
+    <PMCID>7874048</PMCID>
+    <PMCID>7696030</PMCID>
+    <PMCID>7685591</PMCID>
+    <PMCID>7775399</PMCID>
+    <PMCID>7727096</PMCID>
+    <PMCID>7691754</PMCID>
+    <PMCID>7157939</PMCID>
+    <PMCID>7125799</PMCID>
+    <PMCID>7116913</PMCID>
+    <PMCID>7661706</PMCID>
+    <PMCID>7386929</PMCID>
+    <PMCID>7167663</PMCID>
+    <PMCID>7102708</PMCID>
+    <PMCID>7058106</PMCID>
+    <PMCID>7022610</PMCID>
+    <PMCID>6927654</PMCID>
+    <PMCID>6669703</PMCID>
+    <PMCID>6425663</PMCID>
+    <PMCID>6951474</PMCID>
+    <PMCID>6472608</PMCID>
+    <PMCID>6472602</PMCID>
+    <PMCID>6472601</PMCID>
+    <PMCID>6472600</PMCID>
+    <PMCID>6358137</PMCID>
+    <PMCID>6206295</PMCID>
+    <PMCID>6173849</PMCID>
+    <PMCID>6109987</PMCID>
+    <PMCID>6473628</PMCID>
+    <PMCID>6089456</PMCID>
+    <PMCID>6020238</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>5923463</PMCID>
+    <PMCID>5872585</PMCID>
+    <PMCID>5947582</PMCID>
+    <PMCID>5744040</PMCID>
+    <PMCID>5663696</PMCID>
+    <PMCID>5618022</PMCID>
+    <PMCID>5750334</PMCID>
+    <PMCID>5640732</PMCID>
+    <PMCID>5365051</PMCID>
+    <PMCID>5341465</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>5425491</PMCID>
+    <PMCID>5371953</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>5387033</PMCID>
+    <PMCID>5130204</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5012068</PMCID>
+    <PMCID>5021159</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4872795</PMCID>
+    <PMCID>4632403</PMCID>
+    <PMCID>6638542</PMCID>
+    <PMCID>4210599</PMCID>
+    <PMCID>4045720</PMCID>
+    <PMCID>4113279</PMCID>
+    <PMCID>3924389</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3896733</PMCID>
+    <PMCID>3789765</PMCID>
+    <PMCID>3754110</PMCID>
+    <PMCID>3648162</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3560262</PMCID>
+    <PMCID>3458115</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3407900</PMCID>
+    <PMCID>3328289</PMCID>
+    <PMCID>3240119</PMCID>
+    <PMCID>3163225</PMCID>
+    <PMCID>3095596</PMCID>
+    <PMCID>3120783</PMCID>
+    <PMCID>2945956</PMCID>
+    <PMCID>2858149</PMCID>
+    <PMCID>2885043</PMCID>
+    <PMCID>2719613</PMCID>
+    <PMCID>6640248</PMCID>
+    <PMCID>4091138</PMCID>
+    <PMCID>2648288</PMCID>
+    <PMCID>2886952</PMCID>
+    <PMCID>3061584</PMCID>
+    <PMCID>1781101</PMCID>
+    <PMCID>1797551</PMCID>
+    <PMCID>1143740</PMCID>
+    <PMCID>1180858</PMCID>
+    <PMCID>1079959</PMCID>
+    <PMCID>506916</PMCID>
+    <PMCID>434130</PMCID>
+    <PMCID>110531</PMCID>
+    <GeneBankPMID>11172108</GeneBankPMID>
+    <id>62079</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  EACMV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>East African cassava mosaic virus</scientificName>
+</pathogen>

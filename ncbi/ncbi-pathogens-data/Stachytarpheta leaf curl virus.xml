@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>290007</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn35]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290006</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn33]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290005</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn32]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290004</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn31]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290003</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn29]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290002</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn28]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290001</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn27]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290000</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn26]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>289999</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn34]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>289998</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn30]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269281</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn6.1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269280</id>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn5.4]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223329</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Stachytarpheta leaf curl virus-[Hn5]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Stachytarpheta leaf curl virus - [Hn5]</scientificName>
+    </subSpecies>
+    <PMCID>3126389</PMCID>
+    <PMCID>3002923</PMCID>
+    <id>202568</id>
+    <scientificName>Stachytarpheta leaf curl virus</scientificName>
+</pathogen>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1313353</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Honeysuckle yellow vein virus [Australia:Ayr:1983]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Honeysuckle yellow vein virus-[Australia:Ayr:1983]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>435489</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Honeysuckle yellow vein virus-[Japan:Masuda: 2003]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Honeysuckle yellow vein virus-[Japan:Masuda:2003]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>434023</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HYVV-[JR:Fuk:06]
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Honeysuckle yellow vein virus-[Japan:Fukui: 2001]
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Honeysuckle yellow vein virus-[Japan:Fukua:2006]
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Honeysuckle yellow vein virus-[Japan:Fukui:2001]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>240867</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HYVV-[UK2]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Honeysuckle yellow vein virus-[UK2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>240866</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HYVV-[UK1]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Honeysuckle yellow vein virus-[UK1]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3209288</PMCID>
+    <PMCID>2974675</PMCID>
+    <GeneBankPMID>21279729</GeneBankPMID>
+    <id>240865</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HYVV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Honeysuckle yellow vein virus</scientificName>
+</pathogen>

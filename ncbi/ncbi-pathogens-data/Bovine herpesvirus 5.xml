@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>263683</id>
+        <scientificName>Bovine herpesvirus 5 strain TX89</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7161410</PMCID>
+        <id>171005</id>
+        <scientificName>Buffalo herpesvirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>36350</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus 5 (strain N569)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus type 5 (strain N569)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine herpesvirus 5 strain N569</scientificName>
+    </subSpecies>
+    <PMCID>7656011</PMCID>
+    <PMCID>7203363</PMCID>
+    <PMCID>7157740</PMCID>
+    <PMCID>6470272</PMCID>
+    <PMCID>6466031</PMCID>
+    <PMCID>6412908</PMCID>
+    <PMCID>6004832</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4854831</PMCID>
+    <PMCID>6698855</PMCID>
+    <PMCID>4667652</PMCID>
+    <PMCID>4454734</PMCID>
+    <PMCID>4487326</PMCID>
+    <PMCID>4252008</PMCID>
+    <PMCID>3679755</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3528423</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>4655773</PMCID>
+    <PMCID>3127761</PMCID>
+    <PMCID>3079670</PMCID>
+    <PMCID>3044317</PMCID>
+    <PMCID>3041673</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2923853</PMCID>
+    <PMCID>3768616</PMCID>
+    <PMCID>2770474</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2702503</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1472021</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>387723</PMCID>
+    <PMCID>294956</PMCID>
+    <PMCID>228503</PMCID>
+    <PMCID>136090</PMCID>
+    <PMCID>111690</PMCID>
+    <PMCID>1320334</PMCID>
+    <GeneBankPMID>20219909</GeneBankPMID>
+    <GeneBankPMID>12970418</GeneBankPMID>
+    <GeneBankPMID>24482291</GeneBankPMID>
+    <GeneBankPMID>17477950</GeneBankPMID>
+    <id>35244</id>
+    <meSHTree>B04.280.382.100.900.410</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BoHV-5
+ &lt;/GenbankAcronym&gt; 
+ &lt;GenbankSynonym&gt;
+  Bovine encephalitis herpesvirus
+ &lt;/GenbankSynonym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine herpesvirus 5</scientificName>
+</pathogen>

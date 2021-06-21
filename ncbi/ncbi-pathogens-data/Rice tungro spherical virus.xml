@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>337081</id>
+        <scientificName>Rice tungro spherical virus (isolate A)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>337080</id>
+        <scientificName>Rice tungro spherical virus (isolate Vt6)</scientificName>
+    </subSpecies>
+    <PMCID>7873300</PMCID>
+    <PMCID>7702697</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7168641</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7114179</PMCID>
+    <PMCID>7536795</PMCID>
+    <PMCID>7536791</PMCID>
+    <PMCID>7282670</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>6950130</PMCID>
+    <PMCID>6720679</PMCID>
+    <PMCID>6723455</PMCID>
+    <PMCID>6611054</PMCID>
+    <PMCID>6522785</PMCID>
+    <PMCID>6514154</PMCID>
+    <PMCID>6341021</PMCID>
+    <PMCID>6308375</PMCID>
+    <PMCID>6256188</PMCID>
+    <PMCID>6156261</PMCID>
+    <PMCID>6117396</PMCID>
+    <PMCID>6032925</PMCID>
+    <PMCID>6181218</PMCID>
+    <PMCID>5979409</PMCID>
+    <PMCID>5902531</PMCID>
+    <PMCID>5890005</PMCID>
+    <PMCID>5775324</PMCID>
+    <PMCID>5732235</PMCID>
+    <PMCID>5671674</PMCID>
+    <PMCID>5691635</PMCID>
+    <PMCID>5334583</PMCID>
+    <PMCID>5452134</PMCID>
+    <PMCID>4982238</PMCID>
+    <PMCID>4659784</PMCID>
+    <PMCID>4635496</PMCID>
+    <PMCID>4542936</PMCID>
+    <PMCID>4436910</PMCID>
+    <PMCID>5033193</PMCID>
+    <PMCID>4364965</PMCID>
+    <PMCID>4346958</PMCID>
+    <PMCID>4152289</PMCID>
+    <PMCID>4033013</PMCID>
+    <PMCID>3912842</PMCID>
+    <PMCID>3888933</PMCID>
+    <PMCID>3793123</PMCID>
+    <PMCID>3759801</PMCID>
+    <PMCID>4174810</PMCID>
+    <PMCID>6638767</PMCID>
+    <PMCID>4883712</PMCID>
+    <PMCID>3509663</PMCID>
+    <PMCID>6638641</PMCID>
+    <PMCID>3291615</PMCID>
+    <PMCID>3241695</PMCID>
+    <PMCID>2872476</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>2634887</PMCID>
+    <PMCID>2522301</PMCID>
+    <PMCID>2267166</PMCID>
+    <PMCID>1948888</PMCID>
+    <PMCID>2779359</PMCID>
+    <PMCID>1262566</PMCID>
+    <PMCID>1087892</PMCID>
+    <PMCID>526188</PMCID>
+    <PMCID>111688</PMCID>
+    <GeneBankPMID>8760450</GeneBankPMID>
+    <GeneBankPMID>8460478</GeneBankPMID>
+    <GeneBankPMID>9683576</GeneBankPMID>
+    <id>35287</id>
+    <meSHTree>B04.715.750.900, B04.820.578.829.900</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RTSV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  rice tungro spherical virus RTSV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  rice tungro spherical waikavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rice tungro spherical virus</scientificName>
+</pathogen>

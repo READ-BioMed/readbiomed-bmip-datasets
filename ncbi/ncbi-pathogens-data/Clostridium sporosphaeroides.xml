@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1121334</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sporosphaeroides DSM 1294
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium sporosphaeroides VPI 4527
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>[Clostridium] sporosphaeroides DSM 1294</scientificName>
+    </subSpecies>
+    <PMCID>7873966</PMCID>
+    <PMCID>7566613</PMCID>
+    <PMCID>7025575</PMCID>
+    <PMCID>6987398</PMCID>
+    <PMCID>7011079</PMCID>
+    <PMCID>5887030</PMCID>
+    <PMCID>5766598</PMCID>
+    <PMCID>5767839</PMCID>
+    <PMCID>5488402</PMCID>
+    <PMCID>5399333</PMCID>
+    <PMCID>5382032</PMCID>
+    <PMCID>5296205</PMCID>
+    <PMCID>5338722</PMCID>
+    <PMCID>5155555</PMCID>
+    <PMCID>4917392</PMCID>
+    <PMCID>4880562</PMCID>
+    <PMCID>4569480</PMCID>
+    <PMCID>4241516</PMCID>
+    <PMCID>4148971</PMCID>
+    <PMCID>3639104</PMCID>
+    <PMCID>3310137</PMCID>
+    <PMCID>3147461</PMCID>
+    <PMCID>3134244</PMCID>
+    <PMCID>3126404</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3079304</PMCID>
+    <PMCID>2708528</PMCID>
+    <PMCID>1860316</PMCID>
+    <PMCID>4250702</PMCID>
+    <PMCID>535136</PMCID>
+    <PMCID>374397</PMCID>
+    <PMCID>123985</PMCID>
+    <PMCID>92730</PMCID>
+    <PMCID>91833</PMCID>
+    <PMCID>91647</PMCID>
+    <PMCID>242673</PMCID>
+    <id>1549</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sporosphaeroides
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium sporosphaeroides Soriano and Soriano 1948 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25781
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25781
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1294
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1294
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium sporosphaeroides</scientificName>
+</pathogen>

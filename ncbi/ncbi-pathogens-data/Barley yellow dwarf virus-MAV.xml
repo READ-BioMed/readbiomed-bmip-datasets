@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>394775</id>
+        <scientificName>Alaska barley yellow dwarf virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31723</id>
+        <scientificName>Barley yellow dwarf virus (ISOLATE MAV-PS1)</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7459587</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>5592212</PMCID>
+    <PMCID>4521826</PMCID>
+    <PMCID>4422679</PMCID>
+    <PMCID>4874343</PMCID>
+    <PMCID>3719023</PMCID>
+    <PMCID>3197656</PMCID>
+    <PMCID>6638836</PMCID>
+    <PMCID>2583970</PMCID>
+    <PMCID>2495034</PMCID>
+    <PMCID>2246048</PMCID>
+    <PMCID>1413584</PMCID>
+    <GeneBankPMID>1538199</GeneBankPMID>
+    <GeneBankPMID>2273382</GeneBankPMID>
+    <id>2169984</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus (ISOLATE MAV)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus - MAV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus-MAV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Barley yellow dwarf virus-MAV</scientificName>
+</pathogen>

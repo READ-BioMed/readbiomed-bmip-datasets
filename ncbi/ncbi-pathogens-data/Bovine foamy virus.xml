@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7719878</PMCID>
+    <PMCID>7163650</PMCID>
+    <PMCID>7119978</PMCID>
+    <PMCID>7548135</PMCID>
+    <PMCID>7072860</PMCID>
+    <PMCID>6942390</PMCID>
+    <PMCID>6528319</PMCID>
+    <PMCID>6433803</PMCID>
+    <PMCID>6207520</PMCID>
+    <PMCID>5712078</PMCID>
+    <PMCID>5894420</PMCID>
+    <PMCID>5588738</PMCID>
+    <PMCID>4929722</PMCID>
+    <PMCID>6698855</PMCID>
+    <PMCID>4746887</PMCID>
+    <PMCID>4664980</PMCID>
+    <PMCID>4422223</PMCID>
+    <PMCID>6941201</PMCID>
+    <PMCID>4054356</PMCID>
+    <PMCID>4024004</PMCID>
+    <PMCID>3925403</PMCID>
+    <PMCID>3833384</PMCID>
+    <PMCID>3798896</PMCID>
+    <PMCID>3457248</PMCID>
+    <PMCID>3460426</PMCID>
+    <PMCID>3206158</PMCID>
+    <PMCID>3611960</PMCID>
+    <PMCID>2703162</PMCID>
+    <PMCID>1236073</PMCID>
+    <GeneBankPMID>27363487</GeneBankPMID>
+    <GeneBankPMID>18305040</GeneBankPMID>
+    <GeneBankPMID>19911263</GeneBankPMID>
+    <GeneBankPMID>8289332</GeneBankPMID>
+    <GeneBankPMID>18448144</GeneBankPMID>
+    <GeneBankPMID>20178883</GeneBankPMID>
+    <GeneBankPMID>24615636</GeneBankPMID>
+    <GeneBankPMID>20615521</GeneBankPMID>
+    <GeneBankPMID>21813148</GeneBankPMID>
+    <GeneBankPMID>20844054</GeneBankPMID>
+    <id>207343</id>
+    <meSHTree>B04.820.650.850</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BFV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine syncytial virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine foamy virus</scientificName>
+</pathogen>

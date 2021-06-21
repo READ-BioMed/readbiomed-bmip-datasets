@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1678948</id>
+        <scientificName>Duck parvovirus strain NMZJD110</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1678947</id>
+        <scientificName>Duck parvovirus strain FJM3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1678930</id>
+        <scientificName>Duck parvovirus strain M8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1511896</id>
+        <scientificName>Goose parvovirus-PT</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7858078</PMCID>
+        <PMCID>7912424</PMCID>
+        <PMCID>7850790</PMCID>
+        <PMCID>7765237</PMCID>
+        <PMCID>7426261</PMCID>
+        <PMCID>7150892</PMCID>
+        <PMCID>7149826</PMCID>
+        <PMCID>7117362</PMCID>
+        <PMCID>7076910</PMCID>
+        <PMCID>6950434</PMCID>
+        <PMCID>6854815</PMCID>
+        <PMCID>6823957</PMCID>
+        <PMCID>6626651</PMCID>
+        <PMCID>6417286</PMCID>
+        <PMCID>6381646</PMCID>
+        <PMCID>6329121</PMCID>
+        <PMCID>6394704</PMCID>
+        <PMCID>6305514</PMCID>
+        <PMCID>6122767</PMCID>
+        <PMCID>5938198</PMCID>
+        <PMCID>5732990</PMCID>
+        <PMCID>5680767</PMCID>
+        <PMCID>5745191</PMCID>
+        <PMCID>5465613</PMCID>
+        <PMCID>5349109</PMCID>
+        <PMCID>5081149</PMCID>
+        <PMCID>4963502</PMCID>
+        <PMCID>4932596</PMCID>
+        <PMCID>4915054</PMCID>
+        <PMCID>4871417</PMCID>
+        <PMCID>4790921</PMCID>
+        <PMCID>4905843</PMCID>
+        <PMCID>4628294</PMCID>
+        <PMCID>4605506</PMCID>
+        <PMCID>4524367</PMCID>
+        <PMCID>4263826</PMCID>
+        <PMCID>4083065</PMCID>
+        <PMCID>4013541</PMCID>
+        <PMCID>3818428</PMCID>
+        <PMCID>3833156</PMCID>
+        <PMCID>3632529</PMCID>
+        <PMCID>3515454</PMCID>
+        <PMCID>3494565</PMCID>
+        <PMCID>3378466</PMCID>
+        <PMCID>3198713</PMCID>
+        <PMCID>3310660</PMCID>
+        <PMCID>3078135</PMCID>
+        <PMCID>2987831</PMCID>
+        <PMCID>2976744</PMCID>
+        <PMCID>2898692</PMCID>
+        <PMCID>2805842</PMCID>
+        <PMCID>2663820</PMCID>
+        <PMCID>1193622</PMCID>
+        <PMCID>1200281</PMCID>
+        <PMCID>1143717</PMCID>
+        <PMCID>112289</PMCID>
+        <PMCID>104052</PMCID>
+        <GeneBankPMID>7571426</GeneBankPMID>
+        <GeneBankPMID>27154558</GeneBankPMID>
+        <id>37325</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  MDPV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Barbarie duck parvovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Muscovy duck parvovirus</scientificName>
+    </subSpecies>
+    <PMCID>7112334</PMCID>
+    <PMCID>6626651</PMCID>
+    <PMCID>4858762</PMCID>
+    <PMCID>3818428</PMCID>
+    <id>341673</id>
+    <scientificName>Duck parvovirus</scientificName>
+</pathogen>

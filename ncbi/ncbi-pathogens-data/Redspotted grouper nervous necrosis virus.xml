@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1110530</id>
+        <scientificName>Sparus aurata betanodavirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>713885</id>
+        <scientificName>Trachinotus ovatus nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>596239</id>
+        <scientificName>Lates calcarifer nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>421750</id>
+        <scientificName>Orange-spotted grouper nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>421749</id>
+        <scientificName>Potato grouper nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>421748</id>
+        <scientificName>Giant grouper nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>6046410</PMCID>
+        <PMCID>4619592</PMCID>
+        <PMCID>4118809</PMCID>
+        <PMCID>2677071</PMCID>
+        <id>292633</id>
+        <scientificName>Dragon grouper nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5836763</PMCID>
+        <id>247507</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SGNNV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sevenband grouper nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>241436</id>
+        <scientificName>Lates calcarifer encephalitis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>204929</id>
+        <scientificName>Epinephelus coioides nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6955699</PMCID>
+        <PMCID>5622607</PMCID>
+        <PMCID>4093860</PMCID>
+        <PMCID>4050099</PMCID>
+        <PMCID>3952952</PMCID>
+        <PMCID>2290972</PMCID>
+        <PMCID>2224432</PMCID>
+        <PMCID>2693410</PMCID>
+        <GeneBankPMID>11172107</GeneBankPMID>
+        <id>143921</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Greasy grouper nervous necrosis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Epinephelus tauvina nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7119358</PMCID>
+        <PMCID>6211762</PMCID>
+        <PMCID>5437026</PMCID>
+        <PMCID>4619592</PMCID>
+        <PMCID>4156749</PMCID>
+        <id>138672</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Malabaricus nervous necrosis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Malabaricus grouper nervous necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7159363</PMCID>
+        <PMCID>7129965</PMCID>
+        <PMCID>6046410</PMCID>
+        <id>43762</id>
+        <scientificName>Japanese flounder nervous necrosis virus</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>6497758</PMCID>
+    <PMCID>6687808</PMCID>
+    <PMCID>6312370</PMCID>
+    <PMCID>6161923</PMCID>
+    <PMCID>6046410</PMCID>
+    <PMCID>5836763</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>5050641</PMCID>
+    <PMCID>5007544</PMCID>
+    <PMCID>4932916</PMCID>
+    <PMCID>4881562</PMCID>
+    <PMCID>4488739</PMCID>
+    <PMCID>4118809</PMCID>
+    <PMCID>3237678</PMCID>
+    <PMCID>3026760</PMCID>
+    <PMCID>3037892</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>2290972</PMCID>
+    <GeneBankPMID>19116179</GeneBankPMID>
+    <GeneBankPMID>25626678</GeneBankPMID>
+    <GeneBankPMID>14722280</GeneBankPMID>
+    <GeneBankPMID>32899810</GeneBankPMID>
+    <id>43763</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RGNNV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Grouper nervous necrosis virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  red-spotted grouper nervous necrosis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Redspotted grouper nervous necrosis virus</scientificName>
+</pathogen>

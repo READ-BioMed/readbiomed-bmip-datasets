@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2576740</id>
+        <scientificName>Duck reovirus SY</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1532849</id>
+        <scientificName>Duck reovirus SD-12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7747739</PMCID>
+        <PMCID>4810255</PMCID>
+        <id>1227559</id>
+        <scientificName>Goose orthoreovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7445919</PMCID>
+        <PMCID>7113782</PMCID>
+        <PMCID>6789564</PMCID>
+        <PMCID>6639940</PMCID>
+        <PMCID>6444421</PMCID>
+        <PMCID>6031628</PMCID>
+        <PMCID>6019803</PMCID>
+        <PMCID>5501479</PMCID>
+        <PMCID>5081149</PMCID>
+        <PMCID>4668636</PMCID>
+        <PMCID>3198713</PMCID>
+        <PMCID>3063797</PMCID>
+        <id>1171667</id>
+        <scientificName>Duck reovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>926004</id>
+        <scientificName>Duck reovirus GZ/CHN/2007</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>703175</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  orthoreovirus turkey/CA/SEP-N605/08
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian orthoreovirus turkey/CA/SEP-N605/08</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>679727</id>
+        <scientificName>Duck reovirus NP03/CHN/2009</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>638799</id>
+        <scientificName>Duck reovirus strain HC/China</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>564798</id>
+        <scientificName>Avian orthoreovirus turkey/NC/SEP-R44/03</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500089</id>
+        <scientificName>Avian orthoreovirus turkey/WI/SEP-847/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500088</id>
+        <scientificName>Avian orthoreovirus turkey/NC/Sep-835/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500087</id>
+        <scientificName>Avian orthoreovirus turkey/NC/SEP-833/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500086</id>
+        <scientificName>Avian orthoreovirus turkey/NC/SEP-832/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500085</id>
+        <scientificName>Avian orthoreovirus turkey/MO/SEP-828/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500084</id>
+        <scientificName>Avian orthoreovirus turkey/MO/SEP-827/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500083</id>
+        <scientificName>Avian orthoreovirus turkey/MO/SEP-819/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500082</id>
+        <scientificName>Avian orthoreovirus turkey/MO/SEP-816/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500081</id>
+        <scientificName>Avian orthoreovirus chicken/NC/SEP-838/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500080</id>
+        <scientificName>Avian orthoreovirus chicken/NC/SEP-837/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500079</id>
+        <scientificName>Avian orthoreovirus chicken/NC/SEP-836/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500078</id>
+        <scientificName>Avian orthoreovirus chicken/MO/SEP-801/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500077</id>
+        <scientificName>Avian orthoreovirus chicken/MO/SEP-798/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500076</id>
+        <scientificName>Avian orthoreovirus chicken/GA/SEP-855/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500075</id>
+        <scientificName>Avian orthoreovirus chicken/GA/SEP-851/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500074</id>
+        <scientificName>Avian orthoreovirus chicken/GA/SEP-849/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500073</id>
+        <scientificName>Avian orthoreovirus chicken/GA/SEP-790/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500072</id>
+        <scientificName>Avian orthoreovirus chicken/CA/SEP-917/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500071</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-854/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500070</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-853/06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500069</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-843/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500068</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-842/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500067</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-841/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500066</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-840/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500065</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-804/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500064</id>
+        <scientificName>Avian orthoreovirus chicken/AR/SEP-802/05</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>321457</id>
+        <scientificName>Duck reovirus strain DRF</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>321456</id>
+        <scientificName>Duck reovirus strain DRV044</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>321455</id>
+        <scientificName>Avian reovirus ARV17</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>321454</id>
+        <scientificName>Avian reovirus 99G</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>299807</id>
+        <scientificName>Avian orthoreovirus strain 918</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>253452</id>
+        <scientificName>Avian orthoreovirus strain T6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>253451</id>
+        <scientificName>Avian orthoreovirus strain R2/TW</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>253450</id>
+        <scientificName>Avian orthoreovirus strain OS161</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>253449</id>
+        <scientificName>Avian orthoreovirus strain 919</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>253448</id>
+        <scientificName>Avian orthoreovirus strain 601SI</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>253447</id>
+        <scientificName>Avian orthoreovirus strain 2408</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>253446</id>
+        <scientificName>Avian orthoreovirus strain 1017-1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5501479</PMCID>
+        <id>198038</id>
+        <scientificName>Goose reovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177354</id>
+        <scientificName>Avian reovirus NLI12 96M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177353</id>
+        <scientificName>Avian reovirus NLI02 98M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177352</id>
+        <scientificName>Avian reovirus NLA13 96T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177351</id>
+        <scientificName>Avian reovirus GEL13b98M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177350</id>
+        <scientificName>Avian reovirus GEL13a98M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177349</id>
+        <scientificName>Avian reovirus GEL12 98M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177348</id>
+        <scientificName>Avian reovirus GEL06 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177347</id>
+        <scientificName>Avian reovirus GEL05 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177346</id>
+        <scientificName>Avian reovirus GEL03 97T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177345</id>
+        <scientificName>Avian reovirus GEL01 96T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177344</id>
+        <scientificName>Avian reovirus GEI10 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177343</id>
+        <scientificName>Avian reovirus GEI09 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177334</id>
+        <scientificName>Avian reovirus NLI21 98H</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177333</id>
+        <scientificName>Avian reovirus NLI03 93T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177332</id>
+        <scientificName>Avian reovirus NLA14b96T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177331</id>
+        <scientificName>Avian reovirus NLA14a96T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177330</id>
+        <scientificName>Avian reovirus NLA11 96M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177329</id>
+        <scientificName>Avian reovirus NLA09 96M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177326</id>
+        <scientificName>Avian reovirus NLI20 98M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177325</id>
+        <scientificName>Avian reovirus NLI19 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177324</id>
+        <scientificName>Avian reovirus NLI01 80M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177323</id>
+        <scientificName>Avian reovirus NLA18 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177322</id>
+        <scientificName>Avian reovirus NLA17 96U</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177321</id>
+        <scientificName>Avian reovirus NLA16 96U</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177320</id>
+        <scientificName>Avian reovirus NLA10 96M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177319</id>
+        <scientificName>Avian reovirus NLA08 96M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177318</id>
+        <scientificName>Avian reovirus NLA07 96M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177317</id>
+        <scientificName>Avian reovirus GEL15 00M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177316</id>
+        <scientificName>Avian reovirus GEL14 98T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177315</id>
+        <scientificName>Avian reovirus GEL08 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177314</id>
+        <scientificName>Avian reovirus GEL07 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177313</id>
+        <scientificName>Avian reovirus GEL04 97T</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177312</id>
+        <scientificName>Avian reovirus GEL02 96U</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>177311</id>
+        <scientificName>Avian reovirus GEI11 97M</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>139874</id>
+        <scientificName>Avian orthoreovirus strain 916</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>139873</id>
+        <scientificName>Avian orthoreovirus strain 601G</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5123878</PMCID>
+        <PMCID>2615760</PMCID>
+        <id>118026</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian reovirus strain 138
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>ARV-138</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3711887</PMCID>
+        <id>118025</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian reovirus strain 176
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>ARV-176</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <PMCID>5589220</PMCID>
+            <id>407102</id>
+            <scientificName>Muscovy duck reovirus S14</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>407101</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian orthoreovirus 89330
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Muscovy duck reovirus 89330</scientificName>
+        </subSpecies>
+        <PMCID>8004025</PMCID>
+        <PMCID>7918360</PMCID>
+        <PMCID>7890030</PMCID>
+        <PMCID>7816157</PMCID>
+        <PMCID>7772699</PMCID>
+        <PMCID>7652756</PMCID>
+        <PMCID>7412057</PMCID>
+        <PMCID>7404338</PMCID>
+        <PMCID>7376328</PMCID>
+        <PMCID>7738351</PMCID>
+        <PMCID>7291293</PMCID>
+        <PMCID>7104942</PMCID>
+        <PMCID>7086385</PMCID>
+        <PMCID>7126888</PMCID>
+        <PMCID>7026491</PMCID>
+        <PMCID>6861840</PMCID>
+        <PMCID>6823957</PMCID>
+        <PMCID>6789564</PMCID>
+        <PMCID>6675107</PMCID>
+        <PMCID>6639940</PMCID>
+        <PMCID>6533297</PMCID>
+        <PMCID>6511161</PMCID>
+        <PMCID>6329121</PMCID>
+        <PMCID>6394704</PMCID>
+        <PMCID>6145877</PMCID>
+        <PMCID>6122767</PMCID>
+        <PMCID>6060254</PMCID>
+        <PMCID>6021497</PMCID>
+        <PMCID>5745192</PMCID>
+        <PMCID>5589220</PMCID>
+        <PMCID>5348909</PMCID>
+        <PMCID>5156932</PMCID>
+        <PMCID>5103266</PMCID>
+        <PMCID>4628294</PMCID>
+        <PMCID>4365707</PMCID>
+        <PMCID>4172264</PMCID>
+        <PMCID>4015296</PMCID>
+        <PMCID>3497648</PMCID>
+        <PMCID>3486446</PMCID>
+        <PMCID>3376814</PMCID>
+        <PMCID>3255859</PMCID>
+        <PMCID>3192755</PMCID>
+        <PMCID>2907335</PMCID>
+        <PMCID>5123877</PMCID>
+        <id>77153</id>
+        <scientificName>Muscovy duck reovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>61431</id>
+        <scientificName>Avian reovirus strain 1733</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5346753</PMCID>
+        <id>38171</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian orthoreovirus (strain S1133)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian reovirus strain S1133</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>37323</id>
+        <scientificName>Orthoreovirus S1</scientificName>
+    </subSpecies>
+    <PMCID>7918360</PMCID>
+    <PMCID>7412057</PMCID>
+    <PMCID>7747739</PMCID>
+    <PMCID>7290992</PMCID>
+    <PMCID>7087202</PMCID>
+    <PMCID>7173163</PMCID>
+    <PMCID>7123570</PMCID>
+    <PMCID>7113909</PMCID>
+    <PMCID>7107190</PMCID>
+    <PMCID>7092890</PMCID>
+    <PMCID>7088580</PMCID>
+    <PMCID>7041985</PMCID>
+    <PMCID>6789743</PMCID>
+    <PMCID>6639940</PMCID>
+    <PMCID>6534907</PMCID>
+    <PMCID>6511161</PMCID>
+    <PMCID>6515820</PMCID>
+    <PMCID>6716273</PMCID>
+    <PMCID>6364165</PMCID>
+    <PMCID>6238339</PMCID>
+    <PMCID>6274990</PMCID>
+    <PMCID>6192116</PMCID>
+    <PMCID>6505790</PMCID>
+    <PMCID>6021497</PMCID>
+    <PMCID>5963251</PMCID>
+    <PMCID>5923464</PMCID>
+    <PMCID>5827385</PMCID>
+    <PMCID>5702118</PMCID>
+    <PMCID>5508928</PMCID>
+    <PMCID>5507987</PMCID>
+    <PMCID>5501479</PMCID>
+    <PMCID>5593535</PMCID>
+    <PMCID>5492345</PMCID>
+    <PMCID>5520459</PMCID>
+    <PMCID>5408696</PMCID>
+    <PMCID>5426731</PMCID>
+    <PMCID>5309954</PMCID>
+    <PMCID>5220524</PMCID>
+    <PMCID>5156932</PMCID>
+    <PMCID>5103266</PMCID>
+    <PMCID>5346753</PMCID>
+    <PMCID>5082797</PMCID>
+    <PMCID>5067505</PMCID>
+    <PMCID>6238701</PMCID>
+    <PMCID>4926172</PMCID>
+    <PMCID>4835796</PMCID>
+    <PMCID>4795661</PMCID>
+    <PMCID>4810255</PMCID>
+    <PMCID>4696179</PMCID>
+    <PMCID>4606735</PMCID>
+    <PMCID>4645345</PMCID>
+    <PMCID>4649943</PMCID>
+    <PMCID>4365711</PMCID>
+    <PMCID>4335558</PMCID>
+    <PMCID>4336486</PMCID>
+    <PMCID>5432841</PMCID>
+    <PMCID>4172264</PMCID>
+    <PMCID>4234517</PMCID>
+    <PMCID>4188178</PMCID>
+    <PMCID>3838159</PMCID>
+    <PMCID>3964136</PMCID>
+    <PMCID>3711887</PMCID>
+    <PMCID>3709157</PMCID>
+    <PMCID>3701659</PMCID>
+    <PMCID>3705452</PMCID>
+    <PMCID>3646018</PMCID>
+    <PMCID>3598504</PMCID>
+    <PMCID>3497648</PMCID>
+    <PMCID>3486446</PMCID>
+    <PMCID>3419194</PMCID>
+    <PMCID>3542737</PMCID>
+    <PMCID>3367920</PMCID>
+    <PMCID>3384478</PMCID>
+    <PMCID>3230843</PMCID>
+    <PMCID>3192755</PMCID>
+    <PMCID>3147939</PMCID>
+    <PMCID>3135578</PMCID>
+    <PMCID>2980485</PMCID>
+    <PMCID>2849163</PMCID>
+    <PMCID>2747991</PMCID>
+    <PMCID>5123878</PMCID>
+    <PMCID>2666654</PMCID>
+    <PMCID>2615760</PMCID>
+    <PMCID>2573251</PMCID>
+    <PMCID>2409309</PMCID>
+    <PMCID>2373779</PMCID>
+    <PMCID>5123876</PMCID>
+    <PMCID>2335010</PMCID>
+    <PMCID>1794256</PMCID>
+    <PMCID>2219974</PMCID>
+    <PMCID>1952445</PMCID>
+    <PMCID>546569</PMCID>
+    <PMCID>2366905</PMCID>
+    <PMCID>114906</PMCID>
+    <PMCID>190156</PMCID>
+    <PMCID>237102</PMCID>
+    <PMCID>249045</PMCID>
+    <PMCID>280406</PMCID>
+    <PMCID>256211</PMCID>
+    <PMCID>1320192</PMCID>
+    <PMCID>354938</PMCID>
+    <PMCID>354937</PMCID>
+    <GeneBankPMID>30156372</GeneBankPMID>
+    <GeneBankPMID>27233800</GeneBankPMID>
+    <GeneBankPMID>25092461</GeneBankPMID>
+    <GeneBankPMID>21795469</GeneBankPMID>
+    <GeneBankPMID>22832119</GeneBankPMID>
+    <GeneBankPMID>21116842</GeneBankPMID>
+    <GeneBankPMID>26244501</GeneBankPMID>
+    <GeneBankPMID>26350773</GeneBankPMID>
+    <GeneBankPMID>26109354</GeneBankPMID>
+    <GeneBankPMID>27603133</GeneBankPMID>
+    <id>38170</id>
+    <meSHTree>B04.820.223.719.590.500</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian reovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian orthoreovirus</scientificName>
+</pathogen>

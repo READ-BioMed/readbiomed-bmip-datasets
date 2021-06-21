@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>2271837</PMCID>
+        <PMCID>2249447</PMCID>
+        <id>108093</id>
+        <scientificName>Gweru virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2271837</PMCID>
+        <id>108092</id>
+        <scientificName>Marondera virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6431056</PMCID>
+        <PMCID>522334</PMCID>
+        <PMCID>2249447</PMCID>
+        <id>108091</id>
+        <scientificName>Nyabira virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7154088</PMCID>
+        <PMCID>5991510</PMCID>
+        <PMCID>4921034</PMCID>
+        <PMCID>3365852</PMCID>
+        <PMCID>522334</PMCID>
+        <id>108090</id>
+        <scientificName>Bunyip Creek virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2887561</PMCID>
+        <PMCID>522334</PMCID>
+        <id>108089</id>
+        <scientificName>CSIRO Village virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6563232</PMCID>
+        <PMCID>522334</PMCID>
+        <id>108088</id>
+        <scientificName>Marrakai virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>108087</id>
+        <scientificName>D'Aguilar virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7464351</PMCID>
+        <PMCID>7719874</PMCID>
+        <PMCID>7154088</PMCID>
+        <PMCID>7158333</PMCID>
+        <PMCID>7349947</PMCID>
+        <PMCID>7308569</PMCID>
+        <PMCID>7168380</PMCID>
+        <PMCID>7086690</PMCID>
+        <PMCID>7077223</PMCID>
+        <PMCID>6651986</PMCID>
+        <PMCID>6256394</PMCID>
+        <PMCID>6243180</PMCID>
+        <PMCID>6207524</PMCID>
+        <PMCID>5974516</PMCID>
+        <PMCID>5488374</PMCID>
+        <PMCID>5443447</PMCID>
+        <PMCID>4921034</PMCID>
+        <PMCID>4619357</PMCID>
+        <PMCID>4581091</PMCID>
+        <PMCID>4514961</PMCID>
+        <PMCID>4300748</PMCID>
+        <PMCID>4363032</PMCID>
+        <PMCID>4191977</PMCID>
+        <PMCID>4136241</PMCID>
+        <PMCID>4000049</PMCID>
+        <PMCID>4028744</PMCID>
+        <PMCID>3805514</PMCID>
+        <PMCID>3811627</PMCID>
+        <PMCID>3998237</PMCID>
+        <PMCID>3615238</PMCID>
+        <PMCID>3305294</PMCID>
+        <PMCID>3198726</PMCID>
+        <PMCID>3163642</PMCID>
+        <PMCID>3122808</PMCID>
+        <PMCID>3020880</PMCID>
+        <PMCID>2887561</PMCID>
+        <PMCID>2698550</PMCID>
+        <PMCID>2634640</PMCID>
+        <PMCID>2373779</PMCID>
+        <PMCID>2872696</PMCID>
+        <PMCID>1317520</PMCID>
+        <PMCID>3367365</PMCID>
+        <PMCID>522334</PMCID>
+        <id>77204</id>
+        <meSHTree>B04.820.223.719.550.750</meSHTree>
+        <scientificName>Chuzan virus</scientificName>
+    </subSpecies>
+    <PMCID>7464351</PMCID>
+    <PMCID>7173583</PMCID>
+    <PMCID>7154088</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>7442119</PMCID>
+    <PMCID>7010010</PMCID>
+    <PMCID>7009857</PMCID>
+    <PMCID>7168380</PMCID>
+    <PMCID>7077223</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6563232</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>6863193</PMCID>
+    <PMCID>5488374</PMCID>
+    <PMCID>4921034</PMCID>
+    <PMCID>4806581</PMCID>
+    <PMCID>4546636</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>4191977</PMCID>
+    <PMCID>4136241</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3901712</PMCID>
+    <PMCID>3869324</PMCID>
+    <PMCID>3805514</PMCID>
+    <PMCID>3754974</PMCID>
+    <PMCID>3305294</PMCID>
+    <PMCID>3246798</PMCID>
+    <PMCID>3310674</PMCID>
+    <PMCID>3163642</PMCID>
+    <PMCID>3122741</PMCID>
+    <PMCID>3321788</PMCID>
+    <PMCID>2941451</PMCID>
+    <PMCID>2826768</PMCID>
+    <PMCID>2887561</PMCID>
+    <PMCID>2373779</PMCID>
+    <PMCID>154693</PMCID>
+    <GeneBankPMID>22022432</GeneBankPMID>
+    <GeneBankPMID>10211963</GeneBankPMID>
+    <GeneBankPMID>9934703</GeneBankPMID>
+    <MeSHPMID>30457543</MeSHPMID>
+    <MeSHPMID>26822138</MeSHPMID>
+    <MeSHPMID>26733292</MeSHPMID>
+    <MeSHPMID>24313924</MeSHPMID>
+    <MeSHPMID>21411335</MeSHPMID>
+    <MeSHPMID>18840974</MeSHPMID>
+    <MeSHPMID>15472317</MeSHPMID>
+    <MeSHPMID>11600267</MeSHPMID>
+    <id>40059</id>
+    <meSHTree>B04.820.223.719.550.750</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Palyam virus group
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Palyam virus</scientificName>
+</pathogen>

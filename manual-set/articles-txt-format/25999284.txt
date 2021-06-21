@@ -1,0 +1,13 @@
+
+Egg-adaptive mutations in H3N2v vaccine virus enhance egg-based production without loss of antigenicity or immunogenicity.
+
+The recently detected zoonotic H3N2 variant influenza A (H3N2v) viruses have caused 343 documented cases of human infection linked to contact with swine. 
+An effective vaccine is needed for these viruses, which may acquire transmissibility among humans. 
+However, viruses isolated from human cases do not replicate well in embryonated chicken eggs, posing an obstacle to egg-based vaccine production. 
+To address this issue, we sought to identify egg-adaptive mutations in surface proteins that increase the yield of candidate vaccine viruses (CVVs) in eggs while preserving their immunizing effectiveness. 
+After serial passage of a representative H3N2v isolate (A/Indiana/08/2011), we identified several egg-adaptive combinations of HA mutations and assessed the egg-based replication, antigenicity, and immunogenicity of A/Puerto Rico/8/34 (H1N1, PR8)-based 6+2 reverse genetics CVVs carrying these mutations. 
+Here we demonstrate that the respective combined HA substitutions G1861V+N2461K, N1651K+G1861V, T1281N+N1651K+R762G, and T1281N+N1651K+I102M, all identified after egg passage, enhanced the replication of the CVVs in eggs without substantially affecting their antigenicity or immunogenicity. 
+The mutations were stable, and the mutant viruses acquired no additional substitutions during six subsequent egg passages. 
+We found two crucial mutations, G186V, which was previously defined, and N246K, which in combination improved virus yield in eggs without significantly impacting antigenicity or immunogenicity. 
+This combination of egg-adaptive mutations appears to most effectively generate high egg-based yields of influenza A/Indiana/08/2011-like CVVs. 
+

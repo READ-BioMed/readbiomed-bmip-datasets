@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>332091</id>
+        <scientificName>B-lymphotropic polyomavirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10574</id>
+        <scientificName>Monkey B-lymphotropic papovavirus</scientificName>
+    </subSpecies>
+    <PMCID>7111918</PMCID>
+    <PMCID>7086986</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>4097780</PMCID>
+    <PMCID>4093890</PMCID>
+    <PMCID>3794449</PMCID>
+    <PMCID>3732942</PMCID>
+    <PMCID>3688531</PMCID>
+    <PMCID>3659475</PMCID>
+    <PMCID>3928796</PMCID>
+    <PMCID>3378559</PMCID>
+    <PMCID>3318214</PMCID>
+    <PMCID>3732449</PMCID>
+    <PMCID>3381546</PMCID>
+    <PMCID>3815707</PMCID>
+    <PMCID>3192922</PMCID>
+    <PMCID>2912394</PMCID>
+    <PMCID>2818589</PMCID>
+    <PMCID>2568840</PMCID>
+    <PMCID>2446883</PMCID>
+    <PMCID>2703155</PMCID>
+    <PMCID>1864993</PMCID>
+    <PMCID>1472594</PMCID>
+    <PMCID>120229</PMCID>
+    <PMCID>87319</PMCID>
+    <PMCID>249302</PMCID>
+    <PMCID>250638</PMCID>
+    <PMCID>255588</PMCID>
+    <PMCID>256876</PMCID>
+    <GeneBankPMID>2998001</GeneBankPMID>
+    <GeneBankPMID>17658947</GeneBankPMID>
+    <id>12480</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  African green monkey lymphotropic papovavirus LPV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Lymphotropic papovavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Lymphotropic polyomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Polyomavirus cercopitheci
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>African green monkey polyomavirus</scientificName>
+</pathogen>

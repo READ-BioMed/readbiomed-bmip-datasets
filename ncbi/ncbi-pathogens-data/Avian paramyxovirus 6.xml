@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <id>2560316</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  APMV-6
+ &lt;/GenbankAcronym&gt; 
+ &lt;Synonym&gt;
+  Avian avulavirus 6
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus 6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus type 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian paramyxovirus 6</scientificName>
+</pathogen>

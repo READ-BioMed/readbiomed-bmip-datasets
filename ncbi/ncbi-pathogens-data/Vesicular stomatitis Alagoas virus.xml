@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7114375</PMCID>
+    <PMCID>5853760</PMCID>
+    <PMCID>5375677</PMCID>
+    <PMCID>4698526</PMCID>
+    <PMCID>3911598</PMCID>
+    <PMCID>3755043</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3010432</PMCID>
+    <PMCID>2937603</PMCID>
+    <GeneBankPMID>18512001</GeneBankPMID>
+    <GeneBankPMID>26311888</GeneBankPMID>
+    <id>198833</id>
+    <meSHTree>B04.820.480.937.750.900</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  VSAV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Vesicular stomatitis Alagoas virus</scientificName>
+</pathogen>

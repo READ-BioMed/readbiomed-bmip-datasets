@@ -1,0 +1,73 @@
+PMID,mention,mention id,bmip term,bmip id
+27157719,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+26851596,Yersinia Pseudotuberculosis,ncbi-633,Yersinia Pseudotuberculosis,ncbi-633
+26003039,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+26003039,h3n2,ncbi-119210,Influenza A virus,ncbi-11320
+26003039,h5n1,ncbi-102793,Influenza A virus,ncbi-11320
+24951867,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+25553517,RSV,ncbi-12814,Human orthopneumovirus,ncbi-11250
+27309301,h5n8 subtype,ncbi-232441,Influenza A virus,ncbi-11320
+26366729,h3n2,ncbi-119210,Influenza A virus,ncbi-11320
+26366729,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+26366729,h5n1,ncbi-102793,Influenza A virus,ncbi-11320
+25930115,Vaccinia Virus,ncbi-10245,Vaccinia virus,ncbi-10245
+21253757,boulinum,D148,Botulinum toxin,toxin-botulinum toxins
+24242232,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+24242232,Adenovirus,ncbi-10535
+24242232,Staph MRSA,ncbi-1004953,Staphylococcus aureus,ncbi-1280
+17386746,Botulinum A,D148,Botulinum toxin,toxin-botulinum toxins
+25609808,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+23800580,h3n8 subtype,ncbi-119211,Influenza A virus,ncbi-11320
+27546489,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+25179390,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+25179390,influenza b,ncbi-11520,Influenza B virus,ncbi-11520
+25179390,Parainfluenza,ncbi-1979160
+25179390,RSV,ncbi-12814
+25179390,Adenovirus,ncbi-10535,Human orthopneumovirus,ncbi-11250
+18285494,Anthrax,ncbi-1392,Bacillus anthracis,ncbi-1392
+29368065,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+27905835,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+27905835,h3n2,ncbi-119210,Influenza A virus,ncbi-11320
+27905835,influenza b,ncbi-11520,Influenza B virus,ncbi-11520
+26216889,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+26216889,h5n1,ncbi-102793,Influenza A virus,ncbi-11320
+26216889,h5n2 subtype,ncbi-119220,Influenza A virus,ncbi-11320
+26216889,h7n3,ncbi-119215,Influenza A virus,ncbi-11320
+26216889,h9n2,ncbi-102796,Influenza A virus,ncbi-11320
+25999284,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+26577194,h5n1,ncbi-102793,Influenza A virus,ncbi-11320
+26269288,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+22879618,h3n2,ncbi-119210,Influenza A virus,ncbi-11320
+28094780,h5n8 subtype,ncbi-232441,Influenza A virus,ncbi-11320
+25151061,h4n2 subtype,ncbi-299327,Influenza A virus,ncbi-11320
+28546479,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+28973317,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+24950355,h7n9 subtype,ncbi-333278,Influenza A virus,ncbi-11320
+21690241,Anthrax,ncbi-1392,Bacillus anthracis,ncbi-1392
+25985198,Anthrax,ncbi-1392,Bacillus anthracis,ncbi-1392
+25776760,h5n8 subtype,ncbi-232441,Influenza A virus,ncbi-11320
+11682133,Measles virus,ncbi-11234,Measles morbillivirus,ncbi-11234
+16085861,Anthrax,ncbi-1392,Bacillus anthracis,ncbi-1392
+26057442,Tularensis,ncbi-263,Francisella tularensis,ncbi-263
+28737374,Yersinia Pestis,ncbi-632,Yersinia pestis,ncbi-632
+16107961,Vaccinia Virus,ncbi-10245,Vaccinia virus,ncbi-10245
+24657788,influenza virus,ncbi-11309,11309,Influenza A virus,ncbi-11320
+26350415,Bacillus Licheniformis,ncbi-1402,Bacillus licheniformis,ncbi-1402
+24392148,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+15681162,Bacillus anthracis,ncbi-1392,Bacillus anthracis,ncbi-1392
+15681162,Bacillus cereus,ncbi-1396,Bacillus cereus,ncbi-1396
+23727921,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+23801124,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+26073120,Botulinum Toxin A,D148,Botulinum toxin,toxin-botulinum toxins
+11886745,Bacillus anthracis,ncbi-1392,Bacillus anthracis,ncbi-1392
+11886745,Bacillus cereus,ncbi-1396,Bacillus cereus,ncbi-1396
+27894299,fmd virus,ncbi-12110,Bacillus licheniformis,ncbi-12110
+23786562,influenza a WSN/33,ncbi-382835,Influenza A virus,ncbi-11320
+21741185,h7n2 subtype,ncbi-119214,Influenza A virus,ncbi-11320
+25737652,h1n1,ncbi-114727,Influenza A virus,ncbi-11320
+24201084,h1n1(A/NWS/33),ncbi-382819,Influenza A virus,ncbi-11320
+28233349,influenza a,ncbi-11320,Influenza A virus,ncbi-11320
+28233349,influenza b,ncbi-11520,Influenza B virus,ncbi-11520
+23624803,Canine distemper virus,ncbi-11232,Bacillus licheniformis,ncbi-11232
+23503429,Botulinum Toxin B,D148,Botulinum toxin,toxin-botulinum toxins
+11682139,Measles virus,ncbi-11234,Measles morbillivirus,ncbi-11234

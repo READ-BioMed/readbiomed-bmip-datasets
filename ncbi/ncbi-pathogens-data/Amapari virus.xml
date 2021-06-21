@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7097103</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6401469</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>5932378</PMCID>
+    <PMCID>5105672</PMCID>
+    <PMCID>4936151</PMCID>
+    <PMCID>4702697</PMCID>
+    <PMCID>4524219</PMCID>
+    <PMCID>4445801</PMCID>
+    <PMCID>4217180</PMCID>
+    <PMCID>4136298</PMCID>
+    <PMCID>3640512</PMCID>
+    <PMCID>3497045</PMCID>
+    <PMCID>3869547</PMCID>
+    <PMCID>3144912</PMCID>
+    <PMCID>3131282</PMCID>
+    <PMCID>3067847</PMCID>
+    <PMCID>2940758</PMCID>
+    <PMCID>2921407</PMCID>
+    <PMCID>2888150</PMCID>
+    <PMCID>2680969</PMCID>
+    <PMCID>2795640</PMCID>
+    <PMCID>2714187</PMCID>
+    <PMCID>2395157</PMCID>
+    <PMCID>2374749</PMCID>
+    <PMCID>2224602</PMCID>
+    <PMCID>1900301</PMCID>
+    <PMCID>376003</PMCID>
+    <GeneBankPMID>12504568</GeneBankPMID>
+    <GeneBankPMID>14698659</GeneBankPMID>
+    <id>2169996</id>
+    <meSHTree>B04.820.480.500.070.095</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  AMAV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Amapar mammarenavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Amapari arenavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Amapari mammarenavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Amapari virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Amapari virus</scientificName>
+</pathogen>

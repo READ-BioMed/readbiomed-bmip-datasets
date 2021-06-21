@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7172424</PMCID>
+    <PMCID>6755097</PMCID>
+    <PMCID>6549245</PMCID>
+    <PMCID>6115721</PMCID>
+    <PMCID>5852052</PMCID>
+    <PMCID>5775324</PMCID>
+    <PMCID>5552992</PMCID>
+    <PMCID>5891822</PMCID>
+    <PMCID>5382211</PMCID>
+    <PMCID>5375686</PMCID>
+    <PMCID>5021432</PMCID>
+    <PMCID>5410770</PMCID>
+    <PMCID>4737148</PMCID>
+    <PMCID>4488728</PMCID>
+    <PMCID>4474299</PMCID>
+    <PMCID>4211703</PMCID>
+    <PMCID>3836746</PMCID>
+    <PMCID>4034384</PMCID>
+    <PMCID>3541449</PMCID>
+    <PMCID>3416697</PMCID>
+    <PMCID>3234231</PMCID>
+    <PMCID>3229121</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>1880899</PMCID>
+    <GeneBankPMID>9191913</GeneBankPMID>
+    <GeneBankPMID>24278346</GeneBankPMID>
+    <id>12056</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  TNV-D
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco necrosis virus (STRAIN D)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco necrosis virus (type D)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tobacco necrosis virus D</scientificName>
+</pathogen>

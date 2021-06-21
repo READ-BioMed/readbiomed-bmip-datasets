@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7131559</PMCID>
+        <GeneBankPMID>18340400</GeneBankPMID>
+        <id>389484</id>
+        <scientificName>Ovine adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>6591194</PMCID>
+    <PMCID>5215340</PMCID>
+    <id>389483</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ovine adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ovine adenovirus B</scientificName>
+</pathogen>

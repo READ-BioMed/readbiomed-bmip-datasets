@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>292476</id>
+        <scientificName>Tomato leaf curl Java virus-[Magelang]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>292475</id>
+        <scientificName>Tomato leaf curl Java virus-[Purwokerto]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>263577</id>
+        <scientificName>Tomato leaf curl Java virus-[Ageratum]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>7248346</PMCID>
+    <PMCID>7215500</PMCID>
+    <PMCID>7121007</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6589721</PMCID>
+    <PMCID>6517462</PMCID>
+    <PMCID>5425365</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3217939</PMCID>
+    <PMCID>3166278</PMCID>
+    <PMCID>2816314</PMCID>
+    <GeneBankPMID>19409945</GeneBankPMID>
+    <GeneBankPMID>18944312</GeneBankPMID>
+    <id>263001</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl Indonesia virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl Java virus</scientificName>
+</pathogen>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>31554</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  COTTONTAIL RABBIT (SHOPE) PAPILLOMAVIRUS (STRAIN WASHINGTON B)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papillomavirus sylvilagi (STRAIN WASHINGTON B)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31553</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  COTTONTAIL RABBIT (SHOPE) PAPILLOMAVIRUS (STRAIN KANSAS)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papillomavirus sylvilagi (STRAIN KANSAS)</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6525988</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>6365735</PMCID>
+    <PMCID>5711859</PMCID>
+    <PMCID>5361623</PMCID>
+    <PMCID>4886775</PMCID>
+    <PMCID>4763949</PMCID>
+    <PMCID>4493010</PMCID>
+    <PMCID>4165355</PMCID>
+    <PMCID>3209276</PMCID>
+    <PMCID>3137155</PMCID>
+    <PMCID>3407688</PMCID>
+    <PMCID>3065889</PMCID>
+    <PMCID>2879011</PMCID>
+    <PMCID>4459584</PMCID>
+    <PMCID>2845176</PMCID>
+    <PMCID>2829937</PMCID>
+    <PMCID>2776308</PMCID>
+    <PMCID>2770085</PMCID>
+    <PMCID>2688781</PMCID>
+    <PMCID>2278115</PMCID>
+    <PMCID>3181152</PMCID>
+    <PMCID>1539125</PMCID>
+    <PMCID>434115</PMCID>
+    <PMCID>167252</PMCID>
+    <PMCID>136551</PMCID>
+    <PMCID>136259</PMCID>
+    <PMCID>90444</PMCID>
+    <PMCID>112403</PMCID>
+    <PMCID>116381</PMCID>
+    <PMCID>112793</PMCID>
+    <PMCID>1868605</PMCID>
+    <PMCID>104120</PMCID>
+    <PMCID>110422</PMCID>
+    <PMCID>191796</PMCID>
+    <PMCID>190206</PMCID>
+    <PMCID>188618</PMCID>
+    <PMCID>236914</PMCID>
+    <PMCID>236866</PMCID>
+    <PMCID>237784</PMCID>
+    <PMCID>237374</PMCID>
+    <PMCID>240904</PMCID>
+    <PMCID>253674</PMCID>
+    <PMCID>255829</PMCID>
+    <GeneBankPMID>18951930</GeneBankPMID>
+    <GeneBankPMID>2984661</GeneBankPMID>
+    <GeneBankPMID>16641280</GeneBankPMID>
+    <id>10623</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CRPV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Cottontail rabbit (SHOPE) PAPILLOMAVIRUS
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cottontail rabbit papillomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Papillomavirus sylvilagi
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rabbit papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Kappapapillomavirus 2</scientificName>
+</pathogen>

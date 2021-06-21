@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>624128</id>
+        <scientificName>Tomato leaf curl Taiwan virus ZJWZ5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>418144</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ToLCTWV-[TW:Hsi:C1:05]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl Taiwan virus - [Taiwan:Hsinchu:C1:2005]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6476845</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>4614018</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2816314</PMCID>
+    <PMCID>2170441</PMCID>
+    <id>196093</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  ToLCTWV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus - Taiwan
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus-Taiwan
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl Taiwan virus</scientificName>
+</pathogen>

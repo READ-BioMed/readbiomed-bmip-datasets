@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7087186</PMCID>
+        <PMCID>7158200</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>4926184</PMCID>
+        <PMCID>4856612</PMCID>
+        <PMCID>136317</PMCID>
+        <id>1810952</id>
+        <scientificName>Clo Mor virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7690952</PMCID>
+        <PMCID>7305176</PMCID>
+        <PMCID>7087186</PMCID>
+        <PMCID>7425989</PMCID>
+        <PMCID>7396840</PMCID>
+        <PMCID>7158200</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6343935</PMCID>
+        <PMCID>5744148</PMCID>
+        <PMCID>4926184</PMCID>
+        <PMCID>4856612</PMCID>
+        <PMCID>4861517</PMCID>
+        <PMCID>2632750</PMCID>
+        <id>487050</id>
+        <scientificName>Taggert virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7119616</PMCID>
+        <PMCID>7087186</PMCID>
+        <PMCID>7158200</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6343935</PMCID>
+        <PMCID>4926184</PMCID>
+        <PMCID>4856612</PMCID>
+        <PMCID>4703270</PMCID>
+        <PMCID>2632750</PMCID>
+        <PMCID>103897</PMCID>
+        <id>37297</id>
+        <scientificName>Tillamook virus</scientificName>
+    </subSpecies>
+    <PMCID>7108853</PMCID>
+    <PMCID>6563318</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>4926184</PMCID>
+    <PMCID>4856612</PMCID>
+    <PMCID>4809068</PMCID>
+    <PMCID>3204620</PMCID>
+    <id>1980528</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sakhalin nairovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Sakhalin virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Sakhalin virus</scientificName>
+</pathogen>

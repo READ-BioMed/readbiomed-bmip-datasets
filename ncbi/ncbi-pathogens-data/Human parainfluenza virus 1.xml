@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>188538</id>
+        <scientificName>Human parainfluenza virus 1 strain Washington/1964</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>36412</id>
+        <scientificName>Human parainfluenza 1 virus (strains A1426 / 86-315 / 62M-753)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31607</id>
+        <scientificName>Human parainfluenza 1 virus (strain CI-5/73)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31606</id>
+        <scientificName>Human parainfluenza 1 virus (strain CI-14/83)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31605</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 1 virus (strain C35)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parainfluenza virus 1 (C35)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11211</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 1 virus (strain Washington/1957)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>HPIV-1 (human/Washington/1957)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11210</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 1 virus (strain C39)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parainfluenza virus 1 (C39)</scientificName>
+    </subSpecies>
+    <PMCID>7377618</PMCID>
+    <PMCID>7122910</PMCID>
+    <PMCID>7110468</PMCID>
+    <PMCID>7108207</PMCID>
+    <PMCID>7094389</PMCID>
+    <PMCID>7645972</PMCID>
+    <PMCID>7291101</PMCID>
+    <PMCID>7149528</PMCID>
+    <PMCID>7111117</PMCID>
+    <PMCID>7106021</PMCID>
+    <PMCID>7097102</PMCID>
+    <PMCID>6906815</PMCID>
+    <PMCID>6737605</PMCID>
+    <PMCID>6724169</PMCID>
+    <PMCID>6770386</PMCID>
+    <PMCID>6733163</PMCID>
+    <PMCID>6637506</PMCID>
+    <PMCID>6641539</PMCID>
+    <PMCID>6460028</PMCID>
+    <PMCID>6460460</PMCID>
+    <PMCID>6355543</PMCID>
+    <PMCID>6307152</PMCID>
+    <PMCID>6159683</PMCID>
+    <PMCID>6042793</PMCID>
+    <PMCID>6006297</PMCID>
+    <PMCID>6002731</PMCID>
+    <PMCID>6076851</PMCID>
+    <PMCID>5863084</PMCID>
+    <PMCID>5752929</PMCID>
+    <PMCID>5637349</PMCID>
+    <PMCID>5831667</PMCID>
+    <PMCID>5259656</PMCID>
+    <PMCID>5201439</PMCID>
+    <PMCID>5837305</PMCID>
+    <PMCID>4947412</PMCID>
+    <PMCID>4875950</PMCID>
+    <PMCID>4810254</PMCID>
+    <PMCID>4778849</PMCID>
+    <PMCID>4667943</PMCID>
+    <PMCID>4736895</PMCID>
+    <PMCID>4679493</PMCID>
+    <PMCID>4665237</PMCID>
+    <PMCID>4540912</PMCID>
+    <PMCID>4476725</PMCID>
+    <PMCID>5683071</PMCID>
+    <PMCID>4340902</PMCID>
+    <PMCID>4072021</PMCID>
+    <PMCID>3993798</PMCID>
+    <PMCID>3672079</PMCID>
+    <PMCID>3785049</PMCID>
+    <PMCID>3602193</PMCID>
+    <PMCID>4745450</PMCID>
+    <PMCID>3499202</PMCID>
+    <PMCID>3855370</PMCID>
+    <PMCID>3319594</PMCID>
+    <PMCID>3295729</PMCID>
+    <PMCID>3126496</PMCID>
+    <PMCID>3028907</PMCID>
+    <PMCID>2977906</PMCID>
+    <PMCID>2916606</PMCID>
+    <PMCID>3035151</PMCID>
+    <PMCID>2791187</PMCID>
+    <PMCID>2842628</PMCID>
+    <PMCID>2887575</PMCID>
+    <PMCID>2727953</PMCID>
+    <PMCID>2712088</PMCID>
+    <PMCID>2782883</PMCID>
+    <PMCID>2643784</PMCID>
+    <PMCID>2625347</PMCID>
+    <PMCID>2573208</PMCID>
+    <PMCID>2519580</PMCID>
+    <PMCID>2728217</PMCID>
+    <PMCID>1939843</PMCID>
+    <PMCID>1781425</PMCID>
+    <PMCID>2725825</PMCID>
+    <PMCID>1280205</PMCID>
+    <PMCID>3371782</PMCID>
+    <PMCID>535307</PMCID>
+    <PMCID>415788</PMCID>
+    <PMCID>369514</PMCID>
+    <PMCID>369445</PMCID>
+    <PMCID>164798</PMCID>
+    <PMCID>136693</PMCID>
+    <PMCID>155142</PMCID>
+    <PMCID>2193921</PMCID>
+    <PMCID>114724</PMCID>
+    <PMCID>1572756</PMCID>
+    <PMCID>114213</PMCID>
+    <PMCID>114017</PMCID>
+    <PMCID>28209</PMCID>
+    <PMCID>110485</PMCID>
+    <PMCID>104993</PMCID>
+    <PMCID>395266</PMCID>
+    <PMCID>240931</PMCID>
+    <PMCID>239486</PMCID>
+    <PMCID>273869</PMCID>
+    <GeneBankPMID>22993149</GeneBankPMID>
+    <GeneBankPMID>21846691</GeneBankPMID>
+    <GeneBankPMID>23740997</GeneBankPMID>
+    <GeneBankPMID>21123378</GeneBankPMID>
+    <GeneBankPMID>16940513</GeneBankPMID>
+    <GeneBankPMID>11928991</GeneBankPMID>
+    <GeneBankPMID>18614629</GeneBankPMID>
+    <GeneBankPMID>23082748</GeneBankPMID>
+    <id>12730</id>
+    <meSHTree>B04.820.480.937.600.650.700.715</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HPIV-1
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  HPIV1
+ &lt;/Acronym&gt; 
+ &lt;Inpart&gt;
+  human parainfluenza virus
+ &lt;/Inpart&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza 1 virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parainfluenza virus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Parainfluenza virus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human parainfluenza virus type 1 HPIV-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human parainfluenza virus type 1 hPIV1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human parainfluenza virus 1</scientificName>
+</pathogen>

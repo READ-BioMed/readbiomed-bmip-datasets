@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>5047884</PMCID>
+    <PMCID>2676847</PMCID>
+    <PMCID>112128</PMCID>
+    <GeneBankPMID>2235505</GeneBankPMID>
+    <id>12149</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BMDV
+ &lt;/Acronym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Belladona mottle virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Belladonna mottle virus</scientificName>
+</pathogen>

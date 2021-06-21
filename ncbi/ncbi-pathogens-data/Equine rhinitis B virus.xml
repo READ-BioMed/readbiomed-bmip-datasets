@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7114519</PMCID>
+        <PMCID>3931614</PMCID>
+        <PMCID>3503094</PMCID>
+        <PMCID>3541788</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>3165794</PMCID>
+        <GeneBankPMID>11602775</GeneBankPMID>
+        <id>168014</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ERBV-2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Equine rhinovirus 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine rhinitis B virus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>650131</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equine rhinitis B virus 1 (strain P1436/71)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Equine rhinitis B virus 1 strain P1436/71</scientificName>
+        </subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>4603672</PMCID>
+        <PMCID>3931614</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>2267166</PMCID>
+        <PMCID>540098</PMCID>
+        <GeneBankPMID>8760418</GeneBankPMID>
+        <id>47001</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ERBV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Equine Rhinovirus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine rhinovirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine rhinitis B virus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086902</PMCID>
+    <PMCID>7114519</PMCID>
+    <PMCID>5228260</PMCID>
+    <PMCID>5063349</PMCID>
+    <PMCID>4093777</PMCID>
+    <PMCID>2889435</PMCID>
+    <PMCID>2267166</PMCID>
+    <PMCID>1242213</PMCID>
+    <id>312185</id>
+    <meSHTree>B04.820.578.750.290</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equine rhinitis B virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equine rhinitis B virus</scientificName>
+</pathogen>

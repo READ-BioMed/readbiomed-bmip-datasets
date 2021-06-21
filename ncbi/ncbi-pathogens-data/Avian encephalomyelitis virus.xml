@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>475780</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian encephalomyelitis virus (strain L2Z)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian encephalomyelitis virus strain L2Z</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>475779</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian encephalomyelitis virus (strain Van Reokel)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian encephalomyelitis virus strain Van Reokel</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>475778</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian encephalomyelitis virus (strain Calnek)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian encephalomyelitis virus strain Calnek</scientificName>
+    </subSpecies>
+    <PMCID>7086975</PMCID>
+    <PMCID>7114519</PMCID>
+    <PMCID>7088580</PMCID>
+    <PMCID>6838705</PMCID>
+    <PMCID>6002732</PMCID>
+    <PMCID>6505821</PMCID>
+    <PMCID>5228260</PMCID>
+    <PMCID>5063349</PMCID>
+    <PMCID>6238701</PMCID>
+    <PMCID>4819345</PMCID>
+    <PMCID>4679062</PMCID>
+    <PMCID>4093777</PMCID>
+    <PMCID>3165794</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>2889435</PMCID>
+    <PMCID>2656461</PMCID>
+    <PMCID>3339847</PMCID>
+    <PMCID>1948888</PMCID>
+    <PMCID>222961</PMCID>
+    <GeneBankPMID>10092005</GeneBankPMID>
+    <id>70796</id>
+    <meSHTree>B04.820.578.750.227</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian encephalomyelitis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian encephalomyelitis virus</scientificName>
+</pathogen>

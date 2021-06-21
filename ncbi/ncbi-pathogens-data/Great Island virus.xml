@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5057483</PMCID>
+        <id>1597962</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Megami Mountain virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Muko virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7140251</PMCID>
+        <PMCID>7113850</PMCID>
+        <PMCID>6563318</PMCID>
+        <PMCID>6466370</PMCID>
+        <PMCID>6110481</PMCID>
+        <PMCID>5866268</PMCID>
+        <PMCID>5488374</PMCID>
+        <PMCID>5057483</PMCID>
+        <PMCID>4810255</PMCID>
+        <PMCID>4806581</PMCID>
+        <PMCID>4452902</PMCID>
+        <PMCID>4191977</PMCID>
+        <PMCID>3923044</PMCID>
+        <PMCID>3549795</PMCID>
+        <PMCID>3438810</PMCID>
+        <PMCID>2897458</PMCID>
+        <id>881914</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  TRBV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tribec virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7152383</PMCID>
+        <PMCID>7077223</PMCID>
+        <PMCID>6466370</PMCID>
+        <PMCID>5866268</PMCID>
+        <PMCID>5840726</PMCID>
+        <PMCID>5057483</PMCID>
+        <PMCID>4546636</PMCID>
+        <PMCID>4191977</PMCID>
+        <PMCID>5972349</PMCID>
+        <PMCID>3923044</PMCID>
+        <PMCID>3438810</PMCID>
+        <PMCID>3494582</PMCID>
+        <id>881913</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  LIPV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Lipovnik virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7305176</PMCID>
+        <PMCID>7172769</PMCID>
+        <PMCID>3438810</PMCID>
+        <PMCID>3494582</PMCID>
+        <PMCID>2632750</PMCID>
+        <id>526523</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  NUGV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Nugget virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>8032855</PMCID>
+        <PMCID>7655031</PMCID>
+        <PMCID>7151899</PMCID>
+        <PMCID>7149777</PMCID>
+        <PMCID>7151951</PMCID>
+        <PMCID>7140251</PMCID>
+        <PMCID>7113850</PMCID>
+        <PMCID>7077223</PMCID>
+        <PMCID>6882324</PMCID>
+        <PMCID>6563318</PMCID>
+        <PMCID>6466370</PMCID>
+        <PMCID>6109506</PMCID>
+        <PMCID>5866268</PMCID>
+        <PMCID>5840726</PMCID>
+        <PMCID>5488374</PMCID>
+        <PMCID>5445278</PMCID>
+        <PMCID>5057483</PMCID>
+        <PMCID>5116163</PMCID>
+        <PMCID>4888597</PMCID>
+        <PMCID>4810255</PMCID>
+        <PMCID>4806581</PMCID>
+        <PMCID>4452902</PMCID>
+        <PMCID>4191977</PMCID>
+        <PMCID>5972349</PMCID>
+        <PMCID>3923044</PMCID>
+        <PMCID>3869324</PMCID>
+        <PMCID>3438810</PMCID>
+        <PMCID>3494582</PMCID>
+        <PMCID>3246798</PMCID>
+        <id>40064</id>
+        <meSHTree>B04.820.223.719.550</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  KEMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Kemerovo complex
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Kemerovo virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4546636</PMCID>
+        <PMCID>4191977</PMCID>
+        <PMCID>3923044</PMCID>
+        <PMCID>3494582</PMCID>
+        <PMCID>3198726</PMCID>
+        <PMCID>3310674</PMCID>
+        <PMCID>2887561</PMCID>
+        <PMCID>2632750</PMCID>
+        <PMCID>2533695</PMCID>
+        <PMCID>1317520</PMCID>
+        <PMCID>1142584</PMCID>
+        <PMCID>446137</PMCID>
+        <PMCID>136864</PMCID>
+        <PMCID>27178</PMCID>
+        <PMCID>98980</PMCID>
+        <id>10893</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BRDV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Broadhaven virus</scientificName>
+    </subSpecies>
+    <PMCID>7077223</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6580951</PMCID>
+    <PMCID>6563318</PMCID>
+    <PMCID>6676836</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>5991510</PMCID>
+    <PMCID>5866268</PMCID>
+    <PMCID>5743484</PMCID>
+    <PMCID>5526847</PMCID>
+    <PMCID>5057483</PMCID>
+    <PMCID>4806581</PMCID>
+    <PMCID>4546636</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>4411093</PMCID>
+    <PMCID>4191977</PMCID>
+    <PMCID>5972349</PMCID>
+    <PMCID>3923044</PMCID>
+    <PMCID>3901712</PMCID>
+    <PMCID>3805514</PMCID>
+    <PMCID>3754974</PMCID>
+    <PMCID>3998237</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3494582</PMCID>
+    <PMCID>3305294</PMCID>
+    <PMCID>3226645</PMCID>
+    <PMCID>3203887</PMCID>
+    <PMCID>3192121</PMCID>
+    <PMCID>3163642</PMCID>
+    <PMCID>2632750</PMCID>
+    <PMCID>2603216</PMCID>
+    <GeneBankPMID>24167629</GeneBankPMID>
+    <GeneBankPMID>20739272</GeneBankPMID>
+    <id>204269</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  GIV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Great Island virus (GIV)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Great Island virus</scientificName>
+</pathogen>

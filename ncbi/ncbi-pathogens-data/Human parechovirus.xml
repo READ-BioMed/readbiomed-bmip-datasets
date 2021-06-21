@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1906356</id>
+        <scientificName>Human parechovirus 19</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1906355</id>
+        <scientificName>Human parechovirus 18</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6399083</PMCID>
+        <PMCID>6095524</PMCID>
+        <id>1906354</id>
+        <scientificName>Human parechovirus 17</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1248134</id>
+        <scientificName>Human parechovirus 16</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1248133</id>
+        <scientificName>Human parechovirus 13</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1248132</id>
+        <scientificName>Human parechovirus 9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1248131</id>
+        <scientificName>Human parechovirus 15</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1248130</id>
+        <scientificName>Human parechovirus 12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1001059</id>
+        <scientificName>Human parechovirus 14</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>941909</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HPeV11
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parechovirus 11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>941908</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HPeV10
+ &lt;/Acronym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Human parechovirus 10 Pham et al. 2010
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parechovirus 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6095524</PMCID>
+        <id>602074</id>
+        <scientificName>Human parechovirus 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7426863</PMCID>
+        <PMCID>3187576</PMCID>
+        <id>533185</id>
+        <scientificName>Human parechovirus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>568507</id>
+            <scientificName>Human parechovirus type 6 PicoBank/HPeV6/a</scientificName>
+        </subSpecies>
+        <PMCID>6390631</PMCID>
+        <PMCID>6095524</PMCID>
+        <PMCID>2889435</PMCID>
+        <id>411152</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parechovirus type 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parechovirus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1001058</id>
+            <scientificName>Human parechovirus strain T82-659</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1001057</id>
+            <scientificName>Human parechovirus strain T83-2051</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1001056</id>
+            <scientificName>Human parechovirus strain T82-0169</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>122961</id>
+            <scientificName>HPeV 5 strain CT86-6760</scientificName>
+        </subSpecies>
+        <PMCID>6095524</PMCID>
+        <id>376148</id>
+        <scientificName>Human parechovirus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1008434</id>
+            <scientificName>Human parechovirus strain T82-203</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1008433</id>
+            <scientificName>Human parechovirus strain T73-838</scientificName>
+        </subSpecies>
+        <PMCID>7426863</PMCID>
+        <PMCID>6095524</PMCID>
+        <PMCID>3187576</PMCID>
+        <id>362784</id>
+        <scientificName>Human parechovirus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7967035</PMCID>
+        <PMCID>7772471</PMCID>
+        <PMCID>7426863</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7038243</PMCID>
+        <PMCID>6893760</PMCID>
+        <PMCID>6364030</PMCID>
+        <PMCID>6364010</PMCID>
+        <PMCID>5700941</PMCID>
+        <PMCID>5637349</PMCID>
+        <PMCID>5608956</PMCID>
+        <PMCID>5549297</PMCID>
+        <PMCID>4961769</PMCID>
+        <PMCID>4824449</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>3187576</PMCID>
+        <PMCID>2723090</PMCID>
+        <PMCID>2889435</PMCID>
+        <PMCID>2657636</PMCID>
+        <PMCID>2657611</PMCID>
+        <PMCID>2270820</PMCID>
+        <PMCID>2267166</PMCID>
+        <PMCID>3294360</PMCID>
+        <id>195055</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HPEV-3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Parechovirus A3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parechovirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <PMCID>2746286</PMCID>
+            <id>122962</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Echovirus 23 (strain Williamson)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Echovirus 23 strain Williamson</scientificName>
+        </subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7114519</PMCID>
+        <PMCID>3503094</PMCID>
+        <PMCID>3541788</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>2746286</PMCID>
+        <PMCID>1948888</PMCID>
+        <PMCID>154598</PMCID>
+        <PMCID>123733</PMCID>
+        <id>39085</id>
+        <meSHTree>B04.820.578.750.700</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Echovirus 23
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Echovirus 23 EV23
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human echovirus 23
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parechovirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1219761</id>
+            <scientificName>Human parechovirus strain CAU10-NN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>568506</id>
+            <scientificName>Human parechovirus type 1 PicoBank/HPeV1/a</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>103911</id>
+            <scientificName>Echovirus 22 (strain Harris)</scientificName>
+        </subSpecies>
+        <PMCID>7537604</PMCID>
+        <PMCID>7426863</PMCID>
+        <PMCID>7339151</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7168442</PMCID>
+        <PMCID>7152347</PMCID>
+        <PMCID>7132524</PMCID>
+        <PMCID>7106367</PMCID>
+        <PMCID>7127510</PMCID>
+        <PMCID>7119103</PMCID>
+        <PMCID>7109797</PMCID>
+        <PMCID>6691886</PMCID>
+        <PMCID>6669472</PMCID>
+        <PMCID>6390631</PMCID>
+        <PMCID>6332554</PMCID>
+        <PMCID>6316871</PMCID>
+        <PMCID>6095524</PMCID>
+        <PMCID>6089459</PMCID>
+        <PMCID>5855671</PMCID>
+        <PMCID>5758616</PMCID>
+        <PMCID>5597212</PMCID>
+        <PMCID>5431903</PMCID>
+        <PMCID>4930465</PMCID>
+        <PMCID>4851366</PMCID>
+        <PMCID>6822300</PMCID>
+        <PMCID>4380134</PMCID>
+        <PMCID>4165708</PMCID>
+        <PMCID>3931614</PMCID>
+        <PMCID>3950689</PMCID>
+        <PMCID>4056497</PMCID>
+        <PMCID>3486453</PMCID>
+        <PMCID>3518274</PMCID>
+        <PMCID>3187576</PMCID>
+        <PMCID>2919010</PMCID>
+        <PMCID>3018333</PMCID>
+        <PMCID>3029644</PMCID>
+        <PMCID>2723090</PMCID>
+        <PMCID>2706813</PMCID>
+        <PMCID>2889435</PMCID>
+        <PMCID>2656461</PMCID>
+        <PMCID>2593270</PMCID>
+        <PMCID>2692539</PMCID>
+        <PMCID>2546772</PMCID>
+        <PMCID>2270820</PMCID>
+        <PMCID>2525663</PMCID>
+        <PMCID>1346857</PMCID>
+        <PMCID>446274</PMCID>
+        <PMCID>156510</PMCID>
+        <PMCID>154598</PMCID>
+        <PMCID>130891</PMCID>
+        <PMCID>114574</PMCID>
+        <PMCID>114884</PMCID>
+        <PMCID>115142</PMCID>
+        <PMCID>112132</PMCID>
+        <PMCID>112080</PMCID>
+        <PMCID>112579</PMCID>
+        <PMCID>237290</PMCID>
+        <PMCID>249448</PMCID>
+        <PMCID>269596</PMCID>
+        <PMCID>375956</PMCID>
+        <GeneBankPMID>1528901</GeneBankPMID>
+        <id>12063</id>
+        <meSHTree>B04.820.578.750.700</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Echovirus 22
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human echovirus 22
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human parechovirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  echovirus 22 EV22
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  echovirus 22, EV22
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human parechovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>8060412</PMCID>
+    <PMCID>7772471</PMCID>
+    <PMCID>7131978</PMCID>
+    <PMCID>7108207</PMCID>
+    <PMCID>7696872</PMCID>
+    <PMCID>7485989</PMCID>
+    <PMCID>7114519</PMCID>
+    <PMCID>7109797</PMCID>
+    <PMCID>7108192</PMCID>
+    <PMCID>7107094</PMCID>
+    <PMCID>7036261</PMCID>
+    <PMCID>7038243</PMCID>
+    <PMCID>7001287</PMCID>
+    <PMCID>6993487</PMCID>
+    <PMCID>7024059</PMCID>
+    <PMCID>6940434</PMCID>
+    <PMCID>6885749</PMCID>
+    <PMCID>6893760</PMCID>
+    <PMCID>6893832</PMCID>
+    <PMCID>6893659</PMCID>
+    <PMCID>6832754</PMCID>
+    <PMCID>6770386</PMCID>
+    <PMCID>6676779</PMCID>
+    <PMCID>6607526</PMCID>
+    <PMCID>6586808</PMCID>
+    <PMCID>6581414</PMCID>
+    <PMCID>6457488</PMCID>
+    <PMCID>6687797</PMCID>
+    <PMCID>6739717</PMCID>
+    <PMCID>6390631</PMCID>
+    <PMCID>6364030</PMCID>
+    <PMCID>6364010</PMCID>
+    <PMCID>6409123</PMCID>
+    <PMCID>6344602</PMCID>
+    <PMCID>6394728</PMCID>
+    <PMCID>6332554</PMCID>
+    <PMCID>6316871</PMCID>
+    <PMCID>6255404</PMCID>
+    <PMCID>6254456</PMCID>
+    <PMCID>6126294</PMCID>
+    <PMCID>6399083</PMCID>
+    <PMCID>6119779</PMCID>
+    <PMCID>6095524</PMCID>
+    <PMCID>6081802</PMCID>
+    <PMCID>6092972</PMCID>
+    <PMCID>6048695</PMCID>
+    <PMCID>6053599</PMCID>
+    <PMCID>6018345</PMCID>
+    <PMCID>5712449</PMCID>
+    <PMCID>5862080</PMCID>
+    <PMCID>5758616</PMCID>
+    <PMCID>5877821</PMCID>
+    <PMCID>5637349</PMCID>
+    <PMCID>5631368</PMCID>
+    <PMCID>5631241</PMCID>
+    <PMCID>5608956</PMCID>
+    <PMCID>5682858</PMCID>
+    <PMCID>5549297</PMCID>
+    <PMCID>5477390</PMCID>
+    <PMCID>5360075</PMCID>
+    <PMCID>5356422</PMCID>
+    <PMCID>5349594</PMCID>
+    <PMCID>5431903</PMCID>
+    <PMCID>5228260</PMCID>
+    <PMCID>5134128</PMCID>
+    <PMCID>5100207</PMCID>
+    <PMCID>5063349</PMCID>
+    <PMCID>4987234</PMCID>
+    <PMCID>5091344</PMCID>
+    <PMCID>4961769</PMCID>
+    <PMCID>4897715</PMCID>
+    <PMCID>4930465</PMCID>
+    <PMCID>4824449</PMCID>
+    <PMCID>4660665</PMCID>
+    <PMCID>4622238</PMCID>
+    <PMCID>4710368</PMCID>
+    <PMCID>4623089</PMCID>
+    <PMCID>4505642</PMCID>
+    <PMCID>4388971</PMCID>
+    <PMCID>4581998</PMCID>
+    <PMCID>4306844</PMCID>
+    <PMCID>4290914</PMCID>
+    <PMCID>4276674</PMCID>
+    <PMCID>5782110</PMCID>
+    <PMCID>5781779</PMCID>
+    <PMCID>4335547</PMCID>
+    <PMCID>4283143</PMCID>
+    <PMCID>4254409</PMCID>
+    <PMCID>4153822</PMCID>
+    <PMCID>3973479</PMCID>
+    <PMCID>3980782</PMCID>
+    <PMCID>3950689</PMCID>
+    <PMCID>4093777</PMCID>
+    <PMCID>3737500</PMCID>
+    <PMCID>3559140</PMCID>
+    <PMCID>3421728</PMCID>
+    <PMCID>3426481</PMCID>
+    <PMCID>3518274</PMCID>
+    <PMCID>3235098</PMCID>
+    <PMCID>3187576</PMCID>
+    <PMCID>3165794</PMCID>
+    <PMCID>3147923</PMCID>
+    <PMCID>3239780</PMCID>
+    <PMCID>3321892</PMCID>
+    <PMCID>2919010</PMCID>
+    <PMCID>3018333</PMCID>
+    <PMCID>3029644</PMCID>
+    <PMCID>2723090</PMCID>
+    <PMCID>2889435</PMCID>
+    <PMCID>2657636</PMCID>
+    <PMCID>2657611</PMCID>
+    <PMCID>2593270</PMCID>
+    <PMCID>2593639</PMCID>
+    <PMCID>2546772</PMCID>
+    <PMCID>2519456</PMCID>
+    <PMCID>2600268</PMCID>
+    <PMCID>2270820</PMCID>
+    <PMCID>2267166</PMCID>
+    <PMCID>1948888</PMCID>
+    <PMCID>2792847</PMCID>
+    <PMCID>1810468</PMCID>
+    <PMCID>1797470</PMCID>
+    <PMCID>3373051</PMCID>
+    <PMCID>2525663</PMCID>
+    <PMCID>1346857</PMCID>
+    <PMCID>3294360</PMCID>
+    <PMCID>156510</PMCID>
+    <PMCID>130891</PMCID>
+    <PMCID>114574</PMCID>
+    <PMCID>114884</PMCID>
+    <PMCID>115142</PMCID>
+    <PMCID>112080</PMCID>
+    <GeneBankPMID>9820139</GeneBankPMID>
+    <GeneBankPMID>12163611</GeneBankPMID>
+    <GeneBankPMID>29643409</GeneBankPMID>
+    <id>1803956</id>
+    <meSHTree>B04.820.578.750.700</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human parechovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human parechovirus</scientificName>
+</pathogen>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>203190</id>
+        <scientificName>Camelpox virus CP5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203189</id>
+        <scientificName>Camelpox virus CMG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203188</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Camelpox virus strain 903
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Camelpox virus 903</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203174</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Camelpox virus (strain cp-1)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Camelpox virus strain CP1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Camelpox virus strain cp-1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Camelpox virus CP1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203173</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Camelpox virus strain M-96
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Camelpox virus M-96</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3942028</PMCID>
+        <PMCID>3249598</PMCID>
+        <PMCID>2907574</PMCID>
+        <PMCID>2812294</PMCID>
+        <PMCID>2746888</PMCID>
+        <PMCID>2268676</PMCID>
+        <PMCID>1266063</PMCID>
+        <id>203172</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Camelpox virus strain CMS
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Camelpox virus CMS</scientificName>
+    </subSpecies>
+    <PMCID>7911750</PMCID>
+    <PMCID>7815923</PMCID>
+    <PMCID>7810815</PMCID>
+    <PMCID>7653928</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>7112685</PMCID>
+    <PMCID>7112317</PMCID>
+    <PMCID>7102760</PMCID>
+    <PMCID>7094492</PMCID>
+    <PMCID>7419068</PMCID>
+    <PMCID>7173550</PMCID>
+    <PMCID>7150176</PMCID>
+    <PMCID>7119807</PMCID>
+    <PMCID>7094658</PMCID>
+    <PMCID>6706688</PMCID>
+    <PMCID>6723315</PMCID>
+    <PMCID>6630961</PMCID>
+    <PMCID>6532080</PMCID>
+    <PMCID>6398431</PMCID>
+    <PMCID>5977245</PMCID>
+    <PMCID>5923436</PMCID>
+    <PMCID>5682278</PMCID>
+    <PMCID>5707538</PMCID>
+    <PMCID>5670720</PMCID>
+    <PMCID>5762823</PMCID>
+    <PMCID>5597213</PMCID>
+    <PMCID>5599756</PMCID>
+    <PMCID>5618008</PMCID>
+    <PMCID>5473882</PMCID>
+    <PMCID>5454414</PMCID>
+    <PMCID>5447873</PMCID>
+    <PMCID>5316968</PMCID>
+    <PMCID>5420333</PMCID>
+    <PMCID>5357487</PMCID>
+    <PMCID>5148848</PMCID>
+    <PMCID>5119566</PMCID>
+    <PMCID>5026613</PMCID>
+    <PMCID>5237644</PMCID>
+    <PMCID>4773239</PMCID>
+    <PMCID>4640714</PMCID>
+    <PMCID>4584292</PMCID>
+    <PMCID>4571595</PMCID>
+    <PMCID>4491865</PMCID>
+    <PMCID>4411693</PMCID>
+    <PMCID>4365196</PMCID>
+    <PMCID>4248964</PMCID>
+    <PMCID>4077651</PMCID>
+    <PMCID>4112975</PMCID>
+    <PMCID>3942028</PMCID>
+    <PMCID>3848979</PMCID>
+    <PMCID>3945082</PMCID>
+    <PMCID>3929309</PMCID>
+    <PMCID>3832703</PMCID>
+    <PMCID>3649941</PMCID>
+    <PMCID>3624294</PMCID>
+    <PMCID>4080715</PMCID>
+    <PMCID>3508084</PMCID>
+    <PMCID>3570343</PMCID>
+    <PMCID>3550805</PMCID>
+    <PMCID>3271019</PMCID>
+    <PMCID>3249598</PMCID>
+    <PMCID>3233142</PMCID>
+    <PMCID>3152555</PMCID>
+    <PMCID>3125194</PMCID>
+    <PMCID>3185573</PMCID>
+    <PMCID>3185746</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>3185982</PMCID>
+    <PMCID>2907574</PMCID>
+    <PMCID>2812294</PMCID>
+    <PMCID>2764843</PMCID>
+    <PMCID>2818276</PMCID>
+    <PMCID>2746888</PMCID>
+    <PMCID>2736983</PMCID>
+    <PMCID>2710004</PMCID>
+    <PMCID>2723760</PMCID>
+    <PMCID>2684537</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2504846</PMCID>
+    <PMCID>2527504</PMCID>
+    <PMCID>2268676</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>2216015</PMCID>
+    <PMCID>2167969</PMCID>
+    <PMCID>1994675</PMCID>
+    <PMCID>1976117</PMCID>
+    <PMCID>1964790</PMCID>
+    <PMCID>2878226</PMCID>
+    <PMCID>2885618</PMCID>
+    <PMCID>1884148</PMCID>
+    <PMCID>1933313</PMCID>
+    <PMCID>1802086</PMCID>
+    <PMCID>1797242</PMCID>
+    <PMCID>1617232</PMCID>
+    <PMCID>1472061</PMCID>
+    <PMCID>1314898</PMCID>
+    <PMCID>1266063</PMCID>
+    <PMCID>1235851</PMCID>
+    <PMCID>549079</PMCID>
+    <PMCID>546595</PMCID>
+    <PMCID>509180</PMCID>
+    <PMCID>356842</PMCID>
+    <PMCID>344443</PMCID>
+    <PMCID>307623</PMCID>
+    <PMCID>296094</PMCID>
+    <PMCID>207110</PMCID>
+    <PMCID>179856</PMCID>
+    <PMCID>164831</PMCID>
+    <PMCID>2738512</PMCID>
+    <PMCID>120230</PMCID>
+    <PMCID>113916</PMCID>
+    <PMCID>87686</PMCID>
+    <PMCID>415112</PMCID>
+    <GeneBankPMID>11119592</GeneBankPMID>
+    <GeneBankPMID>22595140</GeneBankPMID>
+    <GeneBankPMID>1467923</GeneBankPMID>
+    <GeneBankPMID>11435582</GeneBankPMID>
+    <GeneBankPMID>17485525</GeneBankPMID>
+    <GeneBankPMID>30105893</GeneBankPMID>
+    <GeneBankPMID>26396982</GeneBankPMID>
+    <id>28873</id>
+    <meSHTree>B04.280.650.160.650</meSHTree>
+    <scientificName>Camelpox virus</scientificName>
+</pathogen>

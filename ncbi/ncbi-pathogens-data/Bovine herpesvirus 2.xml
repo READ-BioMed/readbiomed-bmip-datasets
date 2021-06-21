@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>10297</id>
+        <scientificName>Bovine herpesvirus type 2 (strain BHM-1)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10296</id>
+        <scientificName>Bovine herpesvirus type 2 (strain BMV)</scientificName>
+    </subSpecies>
+    <PMCID>7912165</PMCID>
+    <PMCID>7656011</PMCID>
+    <PMCID>7459556</PMCID>
+    <PMCID>7106810</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4894315</PMCID>
+    <PMCID>4672570</PMCID>
+    <PMCID>3694397</PMCID>
+    <PMCID>3141240</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3032949</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2238129</PMCID>
+    <PMCID>1346941</PMCID>
+    <PMCID>2193921</PMCID>
+    <PMCID>114024</PMCID>
+    <GeneBankPMID>2841793</GeneBankPMID>
+    <id>10295</id>
+    <meSHTree>B04.280.382.100.750.200</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Bovine mammillitis virus
+ &lt;/GenbankSynonym&gt; 
+ &lt;EquivalentName&gt;
+  Allerton virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine ulcerative mammillitis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine herpesvirus 2</scientificName>
+</pathogen>

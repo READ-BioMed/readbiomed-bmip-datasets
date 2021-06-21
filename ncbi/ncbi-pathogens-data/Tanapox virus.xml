@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>11277691</GeneBankPMID>
+        <GeneBankPMID>17437712</GeneBankPMID>
+        <GeneBankPMID>16528029</GeneBankPMID>
+        <id>132475</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tanapox virus strain Davis
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Yaba-like disease virus</scientificName>
+    </subSpecies>
+    <PMCID>7810815</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>7173506</PMCID>
+    <PMCID>7151899</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7141564</PMCID>
+    <PMCID>7123905</PMCID>
+    <PMCID>7451061</PMCID>
+    <PMCID>7176208</PMCID>
+    <PMCID>7151951</PMCID>
+    <PMCID>7149528</PMCID>
+    <PMCID>7141568</PMCID>
+    <PMCID>7141567</PMCID>
+    <PMCID>7125787</PMCID>
+    <PMCID>7089053</PMCID>
+    <PMCID>7020083</PMCID>
+    <PMCID>6723315</PMCID>
+    <PMCID>6532080</PMCID>
+    <PMCID>5707538</PMCID>
+    <PMCID>4974947</PMCID>
+    <PMCID>4773239</PMCID>
+    <PMCID>4411693</PMCID>
+    <PMCID>4379583</PMCID>
+    <PMCID>4189193</PMCID>
+    <PMCID>4077651</PMCID>
+    <PMCID>4229897</PMCID>
+    <PMCID>3945082</PMCID>
+    <PMCID>3775265</PMCID>
+    <PMCID>3700194</PMCID>
+    <PMCID>3671162</PMCID>
+    <PMCID>3624294</PMCID>
+    <PMCID>4080715</PMCID>
+    <PMCID>3508084</PMCID>
+    <PMCID>3570343</PMCID>
+    <PMCID>3196448</PMCID>
+    <PMCID>3163472</PMCID>
+    <PMCID>3084725</PMCID>
+    <PMCID>3055918</PMCID>
+    <PMCID>3185573</PMCID>
+    <PMCID>2841075</PMCID>
+    <PMCID>2806865</PMCID>
+    <PMCID>2812294</PMCID>
+    <PMCID>2764843</PMCID>
+    <PMCID>2819277</PMCID>
+    <PMCID>2818276</PMCID>
+    <PMCID>2600227</PMCID>
+    <PMCID>1383482</PMCID>
+    <PMCID>1317533</PMCID>
+    <PMCID>1698395</PMCID>
+    <PMCID>538591</PMCID>
+    <PMCID>509180</PMCID>
+    <PMCID>296094</PMCID>
+    <PMCID>153641</PMCID>
+    <PMCID>161711</PMCID>
+    <PMCID>114604</PMCID>
+    <PMCID>2129896</PMCID>
+    <PMCID>2130009</PMCID>
+    <GeneBankPMID>17574698</GeneBankPMID>
+    <GeneBankPMID>23269801</GeneBankPMID>
+    <GeneBankPMID>19232662</GeneBankPMID>
+    <id>99000</id>
+    <meSHTree>B04.280.210.950, B04.280.650.160.980, B04.613.204.950</meSHTree>
+    <scientificName>Tanapox virus</scientificName>
+</pathogen>

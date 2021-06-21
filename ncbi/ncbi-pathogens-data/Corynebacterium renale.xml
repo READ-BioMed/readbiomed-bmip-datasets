@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7887428</PMCID>
+    <PMCID>7972320</PMCID>
+    <PMCID>7538881</PMCID>
+    <PMCID>7512153</PMCID>
+    <PMCID>7517842</PMCID>
+    <PMCID>7476506</PMCID>
+    <PMCID>7232468</PMCID>
+    <PMCID>7204317</PMCID>
+    <PMCID>6920059</PMCID>
+    <PMCID>7153328</PMCID>
+    <PMCID>6774462</PMCID>
+    <PMCID>6600115</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>5989022</PMCID>
+    <PMCID>5806208</PMCID>
+    <PMCID>5733152</PMCID>
+    <PMCID>5643470</PMCID>
+    <PMCID>5790645</PMCID>
+    <PMCID>5536039</PMCID>
+    <PMCID>5817230</PMCID>
+    <PMCID>5521585</PMCID>
+    <PMCID>7271189</PMCID>
+    <PMCID>7158295</PMCID>
+    <PMCID>5382887</PMCID>
+    <PMCID>5296432</PMCID>
+    <PMCID>5224473</PMCID>
+    <PMCID>4806873</PMCID>
+    <PMCID>7271154</PMCID>
+    <PMCID>4780121</PMCID>
+    <PMCID>4647549</PMCID>
+    <PMCID>4638162</PMCID>
+    <PMCID>7149867</PMCID>
+    <PMCID>4567093</PMCID>
+    <PMCID>4629560</PMCID>
+    <PMCID>4489456</PMCID>
+    <PMCID>4347328</PMCID>
+    <PMCID>4789252</PMCID>
+    <PMCID>4313134</PMCID>
+    <PMCID>4140931</PMCID>
+    <PMCID>3962273</PMCID>
+    <PMCID>3894217</PMCID>
+    <PMCID>3655952</PMCID>
+    <PMCID>3553904</PMCID>
+    <PMCID>3658426</PMCID>
+    <PMCID>3541768</PMCID>
+    <PMCID>3658859</PMCID>
+    <PMCID>7150056</PMCID>
+    <PMCID>3122860</PMCID>
+    <PMCID>3125861</PMCID>
+    <PMCID>3028668</PMCID>
+    <PMCID>2886109</PMCID>
+    <PMCID>2671871</PMCID>
+    <PMCID>2519354</PMCID>
+    <PMCID>2721339</PMCID>
+    <PMCID>2268328</PMCID>
+    <PMCID>1876245</PMCID>
+    <PMCID>1804279</PMCID>
+    <PMCID>1560077</PMCID>
+    <PMCID>516356</PMCID>
+    <PMCID>156531</PMCID>
+    <PMCID>126758</PMCID>
+    <PMCID>226988</PMCID>
+    <PMCID>7150219</PMCID>
+    <PMCID>93160</PMCID>
+    <PMCID>95026</PMCID>
+    <PMCID>97208</PMCID>
+    <PMCID>91618</PMCID>
+    <PMCID>90925</PMCID>
+    <PMCID>106418</PMCID>
+    <PMCID>168735</PMCID>
+    <PMCID>168112</PMCID>
+    <PMCID>551466</PMCID>
+    <PMCID>551463</PMCID>
+    <PMCID>7172659</PMCID>
+    <PMCID>551002</PMCID>
+    <PMCID>422029</PMCID>
+    <PMCID>421308</PMCID>
+    <PMCID>421517</PMCID>
+    <PMCID>423121</PMCID>
+    <PMCID>422315</PMCID>
+    <PMCID>250434</PMCID>
+    <PMCID>250427</PMCID>
+    <PMCID>518639</PMCID>
+    <GeneBankPMID>16545871</GeneBankPMID>
+    <id>1724</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus pyelonephritidis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus pyelonephritidis boum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus pyelonephritidis bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus pyelonephritis bovis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus renalis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium renale
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Corynebacterium ovale
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium renale
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus pyelonephritidis boum" Hoflich 1891
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus pyelonephritidis bovis" Lucet 1893
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus pyelonephritidis" Glage 1903
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus pyelonephritis bovis" (sic) Kunnemann 1903
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus renalis" (Migula 1900) Kunnemann 1903
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium renale" Migula 1900
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Corynebacterium ovale" Welsch and Thibaut 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycobacterium renale" (Migula 1900) Krasil'nikov 1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Corynebacterium renale (Migula 1900) Ernst 1906
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Corynebacterium renale (Migula 1900) Ernst 1906 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19412
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19412
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 27542
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:27542
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI 2321
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI:2321
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15290
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15290
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 9391
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:9391
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15290
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15290
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 7448
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:7448
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Corynebacterium renale</scientificName>
+</pathogen>

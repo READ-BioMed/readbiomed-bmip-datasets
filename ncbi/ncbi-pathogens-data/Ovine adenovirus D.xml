@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>7131559</PMCID>
+        <PMCID>7111983</PMCID>
+        <PMCID>6880561</PMCID>
+        <PMCID>5656758</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4451742</PMCID>
+        <PMCID>2567038</PMCID>
+        <PMCID>112778</PMCID>
+        <GeneBankPMID>9614874</GeneBankPMID>
+        <GeneBankPMID>8659111</GeneBankPMID>
+        <GeneBankPMID>9126262</GeneBankPMID>
+        <GeneBankPMID>7778275</GeneBankPMID>
+        <GeneBankPMID>8921842</GeneBankPMID>
+        <id>114430</id>
+        <meSHTree>B04.280.030.080</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ovine adenovirus OAV287
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ovine adenovirus isolate 287
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ovine adenovirus type 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  ovine adenovirus serotype 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ovine adenovirus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7131559</PMCID>
+        <id>111168</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  caprine adenovirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Goat adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7811793</PMCID>
+    <PMCID>7354429</PMCID>
+    <PMCID>6591194</PMCID>
+    <PMCID>5656758</PMCID>
+    <PMCID>4451742</PMCID>
+    <PMCID>2238904</PMCID>
+    <GeneBankPMID>9614874</GeneBankPMID>
+    <GeneBankPMID>9126262</GeneBankPMID>
+    <id>130327</id>
+    <meSHTree>B04.280.030.080</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ovine adenovirus D
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ovine adenovirus D</scientificName>
+</pathogen>

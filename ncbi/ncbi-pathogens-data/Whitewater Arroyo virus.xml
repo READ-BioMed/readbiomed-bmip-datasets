@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>568065</id>
+        <scientificName>Arenavirus H0380005</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>523743</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Arenavirus strain AV 96010025
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Arenavirus AV 96010025</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4136298</PMCID>
+        <PMCID>4136274</PMCID>
+        <PMCID>2680969</PMCID>
+        <PMCID>2714187</PMCID>
+        <PMCID>2441566</PMCID>
+        <PMCID>2374749</PMCID>
+        <PMCID>2270610</PMCID>
+        <PMCID>2323605</PMCID>
+        <PMCID>2777661</PMCID>
+        <PMCID>2725987</PMCID>
+        <PMCID>2771864</PMCID>
+        <PMCID>3047505</PMCID>
+        <id>481887</id>
+        <scientificName>North American arenavirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7755828</PMCID>
+        <PMCID>7106275</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>5837305</PMCID>
+        <PMCID>4524252</PMCID>
+        <PMCID>4340808</PMCID>
+        <PMCID>4217180</PMCID>
+        <PMCID>4136298</PMCID>
+        <PMCID>4111098</PMCID>
+        <PMCID>3640512</PMCID>
+        <PMCID>3564120</PMCID>
+        <PMCID>3538765</PMCID>
+        <PMCID>3497041</PMCID>
+        <PMCID>3309595</PMCID>
+        <PMCID>3210867</PMCID>
+        <PMCID>3185808</PMCID>
+        <PMCID>3053032</PMCID>
+        <PMCID>2979333</PMCID>
+        <PMCID>3086254</PMCID>
+        <PMCID>2658809</PMCID>
+        <PMCID>2374749</PMCID>
+        <id>481886</id>
+        <scientificName>Skinner Tank virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7122398</PMCID>
+        <id>466144</id>
+        <scientificName>Big brushy tank virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7122398</PMCID>
+        <id>466143</id>
+        <scientificName>Tonto creek virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7755828</PMCID>
+        <PMCID>7122398</PMCID>
+        <PMCID>7106275</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>5649414</PMCID>
+        <PMCID>5837305</PMCID>
+        <PMCID>4448520</PMCID>
+        <PMCID>4340808</PMCID>
+        <PMCID>4136298</PMCID>
+        <PMCID>4111098</PMCID>
+        <PMCID>3864108</PMCID>
+        <PMCID>3640512</PMCID>
+        <PMCID>3538765</PMCID>
+        <PMCID>3540900</PMCID>
+        <PMCID>3497041</PMCID>
+        <PMCID>3319932</PMCID>
+        <PMCID>3309595</PMCID>
+        <PMCID>3210867</PMCID>
+        <PMCID>3185808</PMCID>
+        <PMCID>3053032</PMCID>
+        <PMCID>2979333</PMCID>
+        <PMCID>3086254</PMCID>
+        <PMCID>2658809</PMCID>
+        <PMCID>2714187</PMCID>
+        <PMCID>2374749</PMCID>
+        <id>404768</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Carrizo Springs virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Catarina virus</scientificName>
+    </subSpecies>
+    <PMCID>7149528</PMCID>
+    <PMCID>7111477</PMCID>
+    <PMCID>7015158</PMCID>
+    <PMCID>6941993</PMCID>
+    <PMCID>6700223</PMCID>
+    <PMCID>6630961</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6450128</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6288339</PMCID>
+    <PMCID>6171170</PMCID>
+    <PMCID>6085440</PMCID>
+    <PMCID>6743070</PMCID>
+    <PMCID>5951886</PMCID>
+    <PMCID>5932378</PMCID>
+    <PMCID>5498534</PMCID>
+    <PMCID>5105672</PMCID>
+    <PMCID>5837305</PMCID>
+    <PMCID>4855710</PMCID>
+    <PMCID>4448520</PMCID>
+    <PMCID>4340808</PMCID>
+    <PMCID>4178406</PMCID>
+    <PMCID>4136298</PMCID>
+    <PMCID>4136274</PMCID>
+    <PMCID>4111098</PMCID>
+    <PMCID>3675627</PMCID>
+    <PMCID>3640512</PMCID>
+    <PMCID>3540900</PMCID>
+    <PMCID>3509680</PMCID>
+    <PMCID>3421694</PMCID>
+    <PMCID>3421673</PMCID>
+    <PMCID>3319932</PMCID>
+    <PMCID>3309595</PMCID>
+    <PMCID>3310648</PMCID>
+    <PMCID>3265294</PMCID>
+    <PMCID>3381580</PMCID>
+    <PMCID>3067847</PMCID>
+    <PMCID>3067777</PMCID>
+    <PMCID>3028880</PMCID>
+    <PMCID>2940758</PMCID>
+    <PMCID>2979333</PMCID>
+    <PMCID>2933069</PMCID>
+    <PMCID>2937778</PMCID>
+    <PMCID>3086254</PMCID>
+    <PMCID>2884409</PMCID>
+    <PMCID>2880318</PMCID>
+    <PMCID>2888150</PMCID>
+    <PMCID>2838133</PMCID>
+    <PMCID>2787016</PMCID>
+    <PMCID>2772779</PMCID>
+    <PMCID>2714187</PMCID>
+    <PMCID>2441566</PMCID>
+    <PMCID>2374749</PMCID>
+    <PMCID>2224602</PMCID>
+    <PMCID>2168988</PMCID>
+    <PMCID>2777661</PMCID>
+    <PMCID>2771888</PMCID>
+    <PMCID>2725987</PMCID>
+    <PMCID>3371794</PMCID>
+    <PMCID>2771864</PMCID>
+    <PMCID>2730321</PMCID>
+    <PMCID>2631812</PMCID>
+    <PMCID>2631787</PMCID>
+    <GeneBankPMID>18602020</GeneBankPMID>
+    <GeneBankPMID>11336541</GeneBankPMID>
+    <GeneBankPMID>17624390</GeneBankPMID>
+    <id>46919</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Whitewater Arroyo virus strain AV 9310135
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Whitewater Arroyo virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Whitewater Arroyo virus</scientificName>
+</pathogen>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>73473</id>
+        <scientificName>Apple chlorotic leaf spot virus (isolate PLUM P863)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>73472</id>
+        <scientificName>Apple chlorotic leaf spot virus (isolate APPLE)</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7868969</PMCID>
+    <PMCID>7464454</PMCID>
+    <PMCID>7395596</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7125799</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7167136</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>7077234</PMCID>
+    <PMCID>6631394</PMCID>
+    <PMCID>6423057</PMCID>
+    <PMCID>6523588</PMCID>
+    <PMCID>6308375</PMCID>
+    <PMCID>6258436</PMCID>
+    <PMCID>6266667</PMCID>
+    <PMCID>6173849</PMCID>
+    <PMCID>6116224</PMCID>
+    <PMCID>6188560</PMCID>
+    <PMCID>6115964</PMCID>
+    <PMCID>6116962</PMCID>
+    <PMCID>6024520</PMCID>
+    <PMCID>5952423</PMCID>
+    <PMCID>5977231</PMCID>
+    <PMCID>5923498</PMCID>
+    <PMCID>5923438</PMCID>
+    <PMCID>5789896</PMCID>
+    <PMCID>5720609</PMCID>
+    <PMCID>5636130</PMCID>
+    <PMCID>5595849</PMCID>
+    <PMCID>5547701</PMCID>
+    <PMCID>5437062</PMCID>
+    <PMCID>5291398</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>5051563</PMCID>
+    <PMCID>4982687</PMCID>
+    <PMCID>4977635</PMCID>
+    <PMCID>4937603</PMCID>
+    <PMCID>4933950</PMCID>
+    <PMCID>4766310</PMCID>
+    <PMCID>4704818</PMCID>
+    <PMCID>4647338</PMCID>
+    <PMCID>4472227</PMCID>
+    <PMCID>4458569</PMCID>
+    <PMCID>4585052</PMCID>
+    <PMCID>4262299</PMCID>
+    <PMCID>4263765</PMCID>
+    <PMCID>4227794</PMCID>
+    <PMCID>6638403</PMCID>
+    <PMCID>4434073</PMCID>
+    <PMCID>4083346</PMCID>
+    <PMCID>3988175</PMCID>
+    <PMCID>3917434</PMCID>
+    <PMCID>4188501</PMCID>
+    <PMCID>3751145</PMCID>
+    <PMCID>3708502</PMCID>
+    <PMCID>6638639</PMCID>
+    <PMCID>3550780</PMCID>
+    <PMCID>3550820</PMCID>
+    <PMCID>3220667</PMCID>
+    <PMCID>3258126</PMCID>
+    <PMCID>3550718</PMCID>
+    <PMCID>546594</PMCID>
+    <GeneBankPMID>2219716</GeneBankPMID>
+    <GeneBankPMID>29186964</GeneBankPMID>
+    <GeneBankPMID>26164936</GeneBankPMID>
+    <id>12175</id>
+    <meSHTree>B04.715.260, B04.820.578.375</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ACLSV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Apple chlorotic leaf spot trichovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  apple chlorotic leaf spot virus ACLSV-A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Apple chlorotic leaf spot virus</scientificName>
+</pathogen>

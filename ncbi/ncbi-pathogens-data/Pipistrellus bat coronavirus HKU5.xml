@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1503295</id>
+        <scientificName>BtPa-BetaCoV/GD2013</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424366</id>
+        <scientificName>Bat coronavirus HKU5-5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424365</id>
+        <scientificName>Bat coronavirus HKU5-3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424364</id>
+        <scientificName>Bat coronavirus HKU5-2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424363</id>
+        <scientificName>Bat coronavirus HKU5-1</scientificName>
+    </subSpecies>
+    <PMCID>8005542</PMCID>
+    <PMCID>7938741</PMCID>
+    <PMCID>7836388</PMCID>
+    <PMCID>7808868</PMCID>
+    <PMCID>7789067</PMCID>
+    <PMCID>7700164</PMCID>
+    <PMCID>7481402</PMCID>
+    <PMCID>7290700</PMCID>
+    <PMCID>7166610</PMCID>
+    <PMCID>7157455</PMCID>
+    <PMCID>7149967</PMCID>
+    <PMCID>7126491</PMCID>
+    <PMCID>7120312</PMCID>
+    <PMCID>7123318</PMCID>
+    <PMCID>7113789</PMCID>
+    <PMCID>7102734</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7584483</PMCID>
+    <PMCID>7230578</PMCID>
+    <PMCID>7195271</PMCID>
+    <PMCID>7188130</PMCID>
+    <PMCID>7156260</PMCID>
+    <PMCID>7157439</PMCID>
+    <PMCID>7149743</PMCID>
+    <PMCID>7122401</PMCID>
+    <PMCID>7113851</PMCID>
+    <PMCID>7112876</PMCID>
+    <PMCID>7102731</PMCID>
+    <PMCID>7097822</PMCID>
+    <PMCID>6992374</PMCID>
+    <PMCID>6448012</PMCID>
+    <PMCID>6390631</PMCID>
+    <PMCID>6296008</PMCID>
+    <PMCID>4687304</PMCID>
+    <PMCID>4883660</PMCID>
+    <PMCID>4681066</PMCID>
+    <PMCID>4476908</PMCID>
+    <PMCID>4237331</PMCID>
+    <PMCID>4254391</PMCID>
+    <PMCID>3747525</PMCID>
+    <PMCID>3719811</PMCID>
+    <PMCID>3731569</PMCID>
+    <PMCID>3700179</PMCID>
+    <PMCID>3509437</PMCID>
+    <PMCID>3407358</PMCID>
+    <PMCID>3265309</PMCID>
+    <PMCID>3185738</PMCID>
+    <GeneBankPMID>23720729</GeneBankPMID>
+    <GeneBankPMID>26038405</GeneBankPMID>
+    <GeneBankPMID>17121802</GeneBankPMID>
+    <GeneBankPMID>28432925</GeneBankPMID>
+    <id>694008</id>
+    <meSHTree>B04.820.578.500.540.150.113</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bat coronavirus HKU5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pipistrellus bat coronavirus HKU5</scientificName>
+</pathogen>

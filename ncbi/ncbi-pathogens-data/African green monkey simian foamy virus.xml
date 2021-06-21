@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>11644</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SFV-3
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Simian foamy virus (TYPE 3 / STRAIN LK3)</scientificName>
+        </subSpecies>
+        <PMCID>3833384</PMCID>
+        <PMCID>3798896</PMCID>
+        <PMCID>1180852</PMCID>
+        <PMCID>111647</PMCID>
+        <PMCID>113046</PMCID>
+        <PMCID>85313</PMCID>
+        <id>11965</id>
+        <meSHTree>B04.820.650.850</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian foamy virus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  simian foamy virus SFV-3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian foamy virus 3</scientificName>
+    </subSpecies>
+    <PMCID>7093845</PMCID>
+    <PMCID>5773720</PMCID>
+    <PMCID>4718089</PMCID>
+    <PMCID>4024004</PMCID>
+    <PMCID>3705266</PMCID>
+    <GeneBankPMID>23675305</GeneBankPMID>
+    <GeneBankPMID>22393357</GeneBankPMID>
+    <GeneBankPMID>1310187</GeneBankPMID>
+    <id>338079</id>
+    <meSHTree>B04.820.650.850</meSHTree>
+    <scientificName>African green monkey simian foamy virus</scientificName>
+</pathogen>

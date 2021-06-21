@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>269303</id>
+        <scientificName>Tomato leaf curl China virus - [G32]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>269302</id>
+        <scientificName>Tomato leaf curl China virus - [G18]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>6669703</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>4704257</PMCID>
+    <PMCID>3735576</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>3126389</PMCID>
+    <id>229636</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus-[China]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl China virus</scientificName>
+</pathogen>

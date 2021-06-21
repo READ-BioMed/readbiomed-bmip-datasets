@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2023344</id>
+        <scientificName>Tomato leaf curl virus - Bangalore</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313362</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus [Australia:Mossman:2003]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl virus-[Australia:Mossman:2003]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313361</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus [Australia:Darwin:2003]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl virus-[Australia:Darwin:2003]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313360</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl virus [Australia:Aurukun:2003]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl virus-[Australia:Aurukun:2003]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1297896</id>
+        <scientificName>Tomato leaf curl virus [India:Kalyani-B.C.K.V.:Ridgegourd:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036271</id>
+        <scientificName>Tomato leaf curl virus-Panipat 7 [India:Panipat:Papaya:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036269</id>
+        <scientificName>Tomato leaf curl virus-Naj 2 [India:New Delhi:Papaya:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>627502</id>
+        <scientificName>Tomato leaf curl virus-[Buea]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223355</id>
+        <scientificName>Tomato leaf curl virus-[Solanum species D2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223354</id>
+        <scientificName>Tomato leaf curl virus-[Solanum species D1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223353</id>
+        <scientificName>Tomato leaf curl virus-[AU]</scientificName>
+    </subSpecies>
+    <PMCID>8027503</PMCID>
+    <PMCID>7795297</PMCID>
+    <PMCID>7789182</PMCID>
+    <PMCID>7318802</PMCID>
+    <PMCID>7747998</PMCID>
+    <PMCID>7192925</PMCID>
+    <PMCID>7149379</PMCID>
+    <PMCID>7215500</PMCID>
+    <PMCID>7120842</PMCID>
+    <PMCID>6963434</PMCID>
+    <PMCID>6890265</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6864324</PMCID>
+    <PMCID>6990403</PMCID>
+    <PMCID>6466867</PMCID>
+    <PMCID>6384059</PMCID>
+    <PMCID>6422369</PMCID>
+    <PMCID>6296076</PMCID>
+    <PMCID>6109318</PMCID>
+    <PMCID>6089456</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>5897953</PMCID>
+    <PMCID>5872585</PMCID>
+    <PMCID>5855737</PMCID>
+    <PMCID>5787326</PMCID>
+    <PMCID>5796946</PMCID>
+    <PMCID>6517462</PMCID>
+    <PMCID>5834980</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5623726</PMCID>
+    <PMCID>6638018</PMCID>
+    <PMCID>5611411</PMCID>
+    <PMCID>5455116</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5365051</PMCID>
+    <PMCID>5360763</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5078808</PMCID>
+    <PMCID>5086600</PMCID>
+    <PMCID>4973738</PMCID>
+    <PMCID>4890432</PMCID>
+    <PMCID>4877078</PMCID>
+    <PMCID>4734014</PMCID>
+    <PMCID>4584297</PMCID>
+    <PMCID>4453994</PMCID>
+    <PMCID>4528249</PMCID>
+    <PMCID>4452923</PMCID>
+    <PMCID>4452918</PMCID>
+    <PMCID>4382981</PMCID>
+    <PMCID>4376871</PMCID>
+    <PMCID>4818328</PMCID>
+    <PMCID>4625138</PMCID>
+    <PMCID>4250495</PMCID>
+    <PMCID>4054350</PMCID>
+    <PMCID>4070032</PMCID>
+    <PMCID>3798893</PMCID>
+    <PMCID>3759801</PMCID>
+    <PMCID>4174809</PMCID>
+    <PMCID>3723831</PMCID>
+    <PMCID>3694866</PMCID>
+    <PMCID>3662875</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3705308</PMCID>
+    <PMCID>3528285</PMCID>
+    <PMCID>3529866</PMCID>
+    <PMCID>3560262</PMCID>
+    <PMCID>3545858</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>3550815</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3217939</PMCID>
+    <PMCID>3163225</PMCID>
+    <PMCID>3125359</PMCID>
+    <PMCID>3166278</PMCID>
+    <PMCID>3081322</PMCID>
+    <PMCID>3072929</PMCID>
+    <PMCID>3062569</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3315792</PMCID>
+    <PMCID>3061938</PMCID>
+    <PMCID>3051253</PMCID>
+    <PMCID>3550711</PMCID>
+    <PMCID>3002923</PMCID>
+    <PMCID>2972279</PMCID>
+    <PMCID>3388970</PMCID>
+    <PMCID>2945956</PMCID>
+    <PMCID>2892029</PMCID>
+    <PMCID>6640424</PMCID>
+    <PMCID>6640490</PMCID>
+    <PMCID>3185516</PMCID>
+    <PMCID>2770057</PMCID>
+    <PMCID>2761890</PMCID>
+    <PMCID>2748025</PMCID>
+    <PMCID>2666655</PMCID>
+    <PMCID>6640326</PMCID>
+    <PMCID>2620903</PMCID>
+    <PMCID>2546898</PMCID>
+    <PMCID>2170441</PMCID>
+    <PMCID>2703654</PMCID>
+    <PMCID>1796863</PMCID>
+    <PMCID>1797551</PMCID>
+    <PMCID>1654176</PMCID>
+    <PMCID>2693410</PMCID>
+    <PMCID>1181577</PMCID>
+    <PMCID>1143740</PMCID>
+    <PMCID>1061533</PMCID>
+    <PMCID>546595</PMCID>
+    <PMCID>544507</PMCID>
+    <PMCID>533896</PMCID>
+    <PMCID>506916</PMCID>
+    <PMCID>224580</PMCID>
+    <PMCID>156158</PMCID>
+    <PMCID>114639</PMCID>
+    <PMCID>60222</PMCID>
+    <PMCID>18771</PMCID>
+    <PMCID>113070</PMCID>
+    <PMCID>112605</PMCID>
+    <PMCID>103986</PMCID>
+    <PMCID>110531</PMCID>
+    <PMCID>147362</PMCID>
+    <PMCID>21289</PMCID>
+    <PMCID>38375</PMCID>
+    <GeneBankPMID>8423446</GeneBankPMID>
+    <GeneBankPMID>16786308</GeneBankPMID>
+    <id>28350</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  tomato leaf curl geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  tomato leaf curl virus TLCV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato leaf curl virus</scientificName>
+</pathogen>

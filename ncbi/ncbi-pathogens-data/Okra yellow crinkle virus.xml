@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>627500</id>
+        <scientificName>Okra yellow crinkle virus-[Cameroon]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>454126</id>
+        <scientificName>Okra yellow crinkle virus-[Mali]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>454125</id>
+        <scientificName>Okra leaf curl virus-[Mali]</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>5355441</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>2839976</PMCID>
+    <id>401040</id>
+    <scientificName>Okra yellow crinkle virus</scientificName>
+</pathogen>

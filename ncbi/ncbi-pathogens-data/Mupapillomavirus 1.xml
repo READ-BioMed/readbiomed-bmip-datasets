@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3427170</PMCID>
+        <PMCID>290248</PMCID>
+        <id>10583</id>
+        <scientificName>Human papillomavirus type 1a</scientificName>
+    </subSpecies>
+    <PMCID>7704424</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6993575</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>1794530</PMCID>
+    <GeneBankPMID>18321970</GeneBankPMID>
+    <GeneBankPMID>6325156</GeneBankPMID>
+    <GeneBankPMID>19798429</GeneBankPMID>
+    <GeneBankPMID>17686007</GeneBankPMID>
+    <GeneBankPMID>16249186</GeneBankPMID>
+    <GeneBankPMID>25142587</GeneBankPMID>
+    <GeneBankPMID>18632869</GeneBankPMID>
+    <id>334203</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mupapillomavirus 1</scientificName>
+</pathogen>

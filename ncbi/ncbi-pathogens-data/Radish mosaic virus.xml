@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>6637867</PMCID>
+    <PMCID>4364965</PMCID>
+    <PMCID>4152289</PMCID>
+    <PMCID>3315246</PMCID>
+    <GeneBankPMID>17533551</GeneBankPMID>
+    <id>328061</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  RaMV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Radish mosaic virus</scientificName>
+</pathogen>

@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>515263</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  'Streptomyces parvulus subsp. citrinus'
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Streptomyces parvulus subsp. citrinus</scientificName>
+    </subSpecies>
+    <PMCID>8105627</PMCID>
+    <PMCID>7991222</PMCID>
+    <PMCID>7955054</PMCID>
+    <PMCID>7916415</PMCID>
+    <PMCID>7777393</PMCID>
+    <PMCID>7824335</PMCID>
+    <PMCID>7767326</PMCID>
+    <PMCID>7775675</PMCID>
+    <PMCID>7979052</PMCID>
+    <PMCID>7698459</PMCID>
+    <PMCID>7698260</PMCID>
+    <PMCID>7600914</PMCID>
+    <PMCID>7660262</PMCID>
+    <PMCID>7508523</PMCID>
+    <PMCID>7375171</PMCID>
+    <PMCID>7369989</PMCID>
+    <PMCID>7350948</PMCID>
+    <PMCID>7277807</PMCID>
+    <PMCID>7284804</PMCID>
+    <PMCID>7232178</PMCID>
+    <PMCID>7207166</PMCID>
+    <PMCID>7105598</PMCID>
+    <PMCID>7049965</PMCID>
+    <PMCID>6968539</PMCID>
+    <PMCID>6935866</PMCID>
+    <PMCID>6842983</PMCID>
+    <PMCID>6787268</PMCID>
+    <PMCID>6788412</PMCID>
+    <PMCID>6835510</PMCID>
+    <PMCID>6753079</PMCID>
+    <PMCID>6784132</PMCID>
+    <PMCID>6780632</PMCID>
+    <PMCID>6669520</PMCID>
+    <PMCID>6596283</PMCID>
+    <PMCID>6549336</PMCID>
+    <PMCID>6697708</PMCID>
+    <PMCID>6867800</PMCID>
+    <PMCID>6521150</PMCID>
+    <PMCID>6409935</PMCID>
+    <PMCID>6345950</PMCID>
+    <PMCID>6767045</PMCID>
+    <PMCID>6392460</PMCID>
+    <PMCID>6295570</PMCID>
+    <PMCID>6254013</PMCID>
+    <PMCID>6155160</PMCID>
+    <PMCID>6269563</PMCID>
+    <PMCID>6058180</PMCID>
+    <PMCID>6320700</PMCID>
+    <PMCID>5997859</PMCID>
+    <PMCID>6022970</PMCID>
+    <PMCID>6017418</PMCID>
+    <PMCID>5924519</PMCID>
+    <PMCID>5900327</PMCID>
+    <PMCID>5751324</PMCID>
+    <PMCID>5618420</PMCID>
+    <PMCID>5487404</PMCID>
+    <PMCID>5391158</PMCID>
+    <PMCID>5397652</PMCID>
+    <PMCID>6296567</PMCID>
+    <PMCID>5337897</PMCID>
+    <PMCID>5216682</PMCID>
+    <PMCID>5117904</PMCID>
+    <PMCID>5107571</PMCID>
+    <PMCID>5156506</PMCID>
+    <PMCID>5000831</PMCID>
+    <PMCID>4940715</PMCID>
+    <PMCID>4888730</PMCID>
+    <PMCID>4752587</PMCID>
+    <PMCID>4589764</PMCID>
+    <PMCID>4580463</PMCID>
+    <PMCID>4645248</PMCID>
+    <PMCID>4536658</PMCID>
+    <PMCID>4458686</PMCID>
+    <PMCID>4389257</PMCID>
+    <PMCID>4350101</PMCID>
+    <PMCID>7123643</PMCID>
+    <PMCID>4243253</PMCID>
+    <PMCID>4035114</PMCID>
+    <PMCID>4059315</PMCID>
+    <PMCID>4039732</PMCID>
+    <PMCID>3826141</PMCID>
+    <PMCID>7102343</PMCID>
+    <PMCID>3701899</PMCID>
+    <PMCID>3697537</PMCID>
+    <PMCID>3643900</PMCID>
+    <PMCID>3563980</PMCID>
+    <PMCID>3609227</PMCID>
+    <PMCID>3389605</PMCID>
+    <PMCID>3312193</PMCID>
+    <PMCID>3257076</PMCID>
+    <PMCID>3476477</PMCID>
+    <PMCID>3166718</PMCID>
+    <PMCID>3100480</PMCID>
+    <PMCID>3044732</PMCID>
+    <PMCID>3064449</PMCID>
+    <PMCID>3399765</PMCID>
+    <PMCID>5649747</PMCID>
+    <PMCID>3159409</PMCID>
+    <PMCID>2982861</PMCID>
+    <PMCID>2863554</PMCID>
+    <PMCID>3026423</PMCID>
+    <PMCID>2772349</PMCID>
+    <PMCID>2708438</PMCID>
+    <PMCID>2681660</PMCID>
+    <PMCID>2592907</PMCID>
+    <PMCID>2395053</PMCID>
+    <PMCID>3823478</PMCID>
+    <PMCID>2707933</PMCID>
+    <PMCID>2263081</PMCID>
+    <PMCID>2565576</PMCID>
+    <PMCID>2577175</PMCID>
+    <PMCID>1563600</PMCID>
+    <PMCID>1539946</PMCID>
+    <PMCID>1482885</PMCID>
+    <PMCID>2908043</PMCID>
+    <PMCID>6725844</PMCID>
+    <PMCID>2253399</PMCID>
+    <PMCID>2286771</PMCID>
+    <PMCID>152441</PMCID>
+    <PMCID>95220</PMCID>
+    <PMCID>89862</PMCID>
+    <PMCID>91091</PMCID>
+    <PMCID>98923</PMCID>
+    <PMCID>178098</PMCID>
+    <PMCID>167513</PMCID>
+    <PMCID>176724</PMCID>
+    <PMCID>212569</PMCID>
+    <PMCID>208076</PMCID>
+    <PMCID>211409</PMCID>
+    <PMCID>215132</PMCID>
+    <PMCID>216406</PMCID>
+    <PMCID>216405</PMCID>
+    <PMCID>216254</PMCID>
+    <PMCID>218046</PMCID>
+    <PMCID>352192</PMCID>
+    <PMCID>352128</PMCID>
+    <PMCID>351969</PMCID>
+    <PMCID>429225</PMCID>
+    <id>146923</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Streptomyces parvullus
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. RL01
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC012
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. USC013
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces parvullus (sic) Waksman and Gregory 1954
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces parvulus corrig. Waksman and Gregory 1954
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 12434
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19796
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:12434
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19796
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:19312
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 12046
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:12046
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 418.59
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 548.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:418.59
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:548.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 12046
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:12046
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40048
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40048
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HUT 6081
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HUT:6081
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP 156
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP:156
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 13193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:13193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMET 41380
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMET:41380
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5048
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5048
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4068
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4601
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4068
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4601
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 19312
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:19312
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 13193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:13193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 11240
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:11240
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-1628
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5048
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5048
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-1628
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1075
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 507
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1075
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:507
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM 182
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM:182
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-1063
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:1063
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:1628
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces parvulus</scientificName>
+</pathogen>

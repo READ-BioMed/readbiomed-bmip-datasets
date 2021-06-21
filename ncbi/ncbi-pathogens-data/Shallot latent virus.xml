@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>37779</id>
+        <scientificName>Garlic virus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7680954</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7018812</PMCID>
+        <PMCID>6339470</PMCID>
+        <PMCID>5179071</PMCID>
+        <PMCID>4356611</PMCID>
+        <PMCID>4307630</PMCID>
+        <GeneBankPMID>12552905</GeneBankPMID>
+        <GeneBankPMID>11722009</GeneBankPMID>
+        <id>12458</id>
+        <scientificName>Garlic latent virus</scientificName>
+    </subSpecies>
+    <PMCID>7680954</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>6655591</PMCID>
+    <PMCID>6024712</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5604777</PMCID>
+    <PMCID>5179071</PMCID>
+    <PMCID>4400424</PMCID>
+    <PMCID>4356611</PMCID>
+    <PMCID>4136854</PMCID>
+    <PMCID>3765376</PMCID>
+    <PMCID>3689765</PMCID>
+    <PMCID>3650194</PMCID>
+    <id>12172</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Shallot latent carlavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Shallot latent virus</scientificName>
+</pathogen>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>22275097</GeneBankPMID>
+        <id>1104326</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Enterobacter cloacae subsp. dissolvens str. SDM
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Enterobacter cloacae subsp. dissolvens strain SDM
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Enterobacter cloacae subsp. dissolvens SDM</scientificName>
+    </subSpecies>
+    <PMCID>7406230</PMCID>
+    <PMCID>7345618</PMCID>
+    <PMCID>7521038</PMCID>
+    <PMCID>6904717</PMCID>
+    <PMCID>6781474</PMCID>
+    <PMCID>6468342</PMCID>
+    <PMCID>6313750</PMCID>
+    <PMCID>6255953</PMCID>
+    <PMCID>5892270</PMCID>
+    <PMCID>6432096</PMCID>
+    <PMCID>4674922</PMCID>
+    <PMCID>4662064</PMCID>
+    <PMCID>4421048</PMCID>
+    <PMCID>4068683</PMCID>
+    <PMCID>3728145</PMCID>
+    <PMCID>3165386</PMCID>
+    <PMCID>2914405</PMCID>
+    <PMCID>2729845</PMCID>
+    <PMCID>2031827</PMCID>
+    <PMCID>1449048</PMCID>
+    <PMCID>1169129</PMCID>
+    <PMCID>194928</PMCID>
+    <PMCID>123855</PMCID>
+    <PMCID>93131</PMCID>
+    <PMCID>89900</PMCID>
+    <PMCID>85297</PMCID>
+    <PMCID>106586</PMCID>
+    <PMCID>124844</PMCID>
+    <PMCID>267735</PMCID>
+    <PMCID>268805</PMCID>
+    <PMCID>285637</PMCID>
+    <PMCID>251447</PMCID>
+    <PMCID>1058221</PMCID>
+    <id>69219</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Aerobacter dissolvens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Aplanobacter dissolvens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium dissolvens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Enterobacter dissolvens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia dissolvens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Phytomonas dissolvens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas dissolvens
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Enterobacter sp. GN02534
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Aerobacter dissolvens" (Rosen 1922) Waldee 1945
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Aplanobacter dissolvens" (Rosen 1922) Rosen 1926
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium dissolvens" Rosen 1922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Phytomonas dissolvens" (Rosen 1922) Rosen 1926
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pseudomonas dissolvens" Rosen 1922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Enterobacter cloacae subsp. dissolvens (Rosen 1922) Hoffmann et al. 2005
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Enterobacter dissolvens (Rosen 1922) Brenner et al. 1988
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Erwinia dissolvens (Rosen 1922) Burkholder 1948 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 23373
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:23373
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2683
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105586
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105586
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP 1570
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP:1570
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6049
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6049
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2683
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2683
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Erwinia dissolvens</scientificName>
+</pathogen>

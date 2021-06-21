@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2779844</id>
+        <scientificName>Macaca mulata papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1816787</id>
+        <scientificName>Macaca fuscata papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5225126</PMCID>
+        <GeneBankPMID>22446324</GeneBankPMID>
+        <id>990303</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papio hamadryas papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papio hamadryas papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6005490</PMCID>
+        <id>656889</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>19716580</GeneBankPMID>
+        <id>524653</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 10
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>19716580</GeneBankPMID>
+        <id>524652</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 9
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>471186</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>19716580</GeneBankPMID>
+        <id>471185</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6005490</PMCID>
+        <id>471184</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>471183</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>471182</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>471181</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>464936</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 3b
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 3b</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6005490</PMCID>
+        <id>464935</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Rhesus papillomavirus type 1b
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rhesus papillomavirus 1b</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>5749499</PMCID>
+    <PMCID>5760104</PMCID>
+    <PMCID>5497797</PMCID>
+    <PMCID>5021401</PMCID>
+    <PMCID>4810129</PMCID>
+    <PMCID>4709609</PMCID>
+    <PMCID>4758316</PMCID>
+    <PMCID>4653223</PMCID>
+    <PMCID>4062193</PMCID>
+    <PMCID>3649705</PMCID>
+    <PMCID>3248866</PMCID>
+    <PMCID>3209276</PMCID>
+    <PMCID>3186704</PMCID>
+    <PMCID>3086876</PMCID>
+    <PMCID>2832751</PMCID>
+    <PMCID>2636891</PMCID>
+    <PMCID>3569523</PMCID>
+    <PMCID>85322</PMCID>
+    <PMCID>112504</PMCID>
+    <PMCID>24014</PMCID>
+    <PMCID>240996</PMCID>
+    <PMCID>54914</PMCID>
+    <GeneBankPMID>8396814</GeneBankPMID>
+    <GeneBankPMID>1847267</GeneBankPMID>
+    <id>10570</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RHPV 1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Macaca mulatta papillomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rhesus monkey papillomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rhesus monkey papillomavirus - 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rhesus monkey papillomavirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rhesus papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  rhesus papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Alphapapillomavirus 12</scientificName>
+</pathogen>

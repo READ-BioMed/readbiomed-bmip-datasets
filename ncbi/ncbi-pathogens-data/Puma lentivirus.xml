@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>32616</id>
+        <scientificName>Puma lentivirus 21</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3713012</PMCID>
+        <PMCID>2193921</PMCID>
+        <GeneBankPMID>8030248</GeneBankPMID>
+        <id>32615</id>
+        <scientificName>Puma lentivirus 14</scientificName>
+    </subSpecies>
+    <PMCID>7089169</PMCID>
+    <PMCID>6783916</PMCID>
+    <PMCID>6091477</PMCID>
+    <PMCID>5923504</PMCID>
+    <PMCID>5923480</PMCID>
+    <PMCID>5442522</PMCID>
+    <PMCID>4097783</PMCID>
+    <PMCID>3713012</PMCID>
+    <PMCID>3536369</PMCID>
+    <PMCID>3275583</PMCID>
+    <PMCID>3205387</PMCID>
+    <PMCID>2822018</PMCID>
+    <PMCID>2575341</PMCID>
+    <PMCID>3169092</PMCID>
+    <PMCID>2270836</PMCID>
+    <PMCID>2490721</PMCID>
+    <PMCID>2442884</PMCID>
+    <PMCID>1876777</PMCID>
+    <PMCID>1440405</PMCID>
+    <PMCID>2193921</PMCID>
+    <PMCID>104329</PMCID>
+    <PMCID>241478</PMCID>
+    <id>12804</id>
+    <meSHTree>B04.820.650.589.530.400</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  puma lentivirus PLV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Puma lentivirus</scientificName>
+</pathogen>

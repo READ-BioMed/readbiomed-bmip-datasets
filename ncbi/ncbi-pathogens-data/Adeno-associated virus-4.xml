@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>501327</id>
+        <scientificName>Adeno-associated virus 13</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>235458</id>
+        <scientificName>Adeno-associated virus 12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>235457</id>
+        <scientificName>Adeno-associated virus 11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>235456</id>
+        <scientificName>Adeno-associated virus 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>235455</id>
+        <scientificName>Adeno-associated virus 9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>21900159</GeneBankPMID>
+        <GeneBankPMID>12192090</GeneBankPMID>
+        <GeneBankPMID>24198419</GeneBankPMID>
+        <id>202813</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Adeno-associated virus - 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>12192090</GeneBankPMID>
+        <id>202812</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Adeno-associated virus - 7</scientificName>
+    </subSpecies>
+    <GeneBankPMID>9261407</GeneBankPMID>
+    <id>57579</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  AAV-4
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Adeno-associated virus-4</scientificName>
+</pathogen>

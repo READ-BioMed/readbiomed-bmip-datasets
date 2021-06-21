@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7096189</PMCID>
+        <PMCID>4984651</PMCID>
+        <GeneBankPMID>21924564</GeneBankPMID>
+        <id>46916</id>
+        <scientificName>Equine adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>5744146</PMCID>
+    <PMCID>5215340</PMCID>
+    <id>129954</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equine adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equine adenovirus A</scientificName>
+</pathogen>

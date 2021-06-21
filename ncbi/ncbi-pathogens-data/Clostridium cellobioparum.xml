@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1121303</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium cellobioparum ATCC 15832
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium cellobioparum DSM 1351
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium cellobioparum JCM 1422
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Clostridium cellobioparum ATCC 15832 = DSM 1351
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Clostridium cellobioparum DSM 1351 = ATCC 15832
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ruminiclostridium cellobioparum DSM 1351 = ATCC 15832</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <PMCID>4912747</PMCID>
+            <id>1195236</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium termitidis CT1112
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Ruminiclostridium cellobioparum subsp. termitidis CT1112</scientificName>
+        </subSpecies>
+        <PMCID>7886066</PMCID>
+        <PMCID>7587552</PMCID>
+        <PMCID>7490808</PMCID>
+        <PMCID>7320173</PMCID>
+        <PMCID>7174330</PMCID>
+        <PMCID>7256832</PMCID>
+        <PMCID>7029132</PMCID>
+        <PMCID>6841923</PMCID>
+        <PMCID>6852018</PMCID>
+        <PMCID>6507058</PMCID>
+        <PMCID>6525495</PMCID>
+        <PMCID>6442616</PMCID>
+        <PMCID>6516742</PMCID>
+        <PMCID>6007105</PMCID>
+        <PMCID>5797777</PMCID>
+        <PMCID>5744482</PMCID>
+        <PMCID>5686333</PMCID>
+        <PMCID>5591829</PMCID>
+        <PMCID>5399015</PMCID>
+        <PMCID>5430456</PMCID>
+        <PMCID>5062022</PMCID>
+        <PMCID>4976890</PMCID>
+        <PMCID>4912747</PMCID>
+        <PMCID>4877739</PMCID>
+        <PMCID>4654470</PMCID>
+        <PMCID>4646819</PMCID>
+        <PMCID>4403768</PMCID>
+        <PMCID>4356463</PMCID>
+        <PMCID>4231106</PMCID>
+        <PMCID>4248796</PMCID>
+        <PMCID>4125193</PMCID>
+        <PMCID>4047459</PMCID>
+        <PMCID>3662827</PMCID>
+        <PMCID>142815</PMCID>
+        <PMCID>92244</PMCID>
+        <PMCID>101473</PMCID>
+        <PMCID>91680</PMCID>
+        <PMCID>91663</PMCID>
+        <id>29371</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium termitidis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium termitidis Hethener et al. 1992
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Ruminiclostridium cellobioparum subsp. termitidis (Hethener et al. 1992) (Hethener et al. 1992) Zhang et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 51846
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:51846
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 5398
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:5398
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::CT1112
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain CT1112
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ruminiclostridium cellobioparum subsp. termitidis</scientificName>
+    </subSpecies>
+    <PMCID>8044423</PMCID>
+    <PMCID>7923553</PMCID>
+    <PMCID>7654836</PMCID>
+    <PMCID>7573106</PMCID>
+    <PMCID>7490822</PMCID>
+    <PMCID>7376564</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7053418</PMCID>
+    <PMCID>7029132</PMCID>
+    <PMCID>6895961</PMCID>
+    <PMCID>6715849</PMCID>
+    <PMCID>6852018</PMCID>
+    <PMCID>6591296</PMCID>
+    <PMCID>6594340</PMCID>
+    <PMCID>6895631</PMCID>
+    <PMCID>6516742</PMCID>
+    <PMCID>6341035</PMCID>
+    <PMCID>5888151</PMCID>
+    <PMCID>5477327</PMCID>
+    <PMCID>4976890</PMCID>
+    <PMCID>4895234</PMCID>
+    <PMCID>4403768</PMCID>
+    <PMCID>3869013</PMCID>
+    <PMCID>3936119</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3346354</PMCID>
+    <PMCID>3317672</PMCID>
+    <PMCID>3195036</PMCID>
+    <PMCID>3187396</PMCID>
+    <PMCID>2918958</PMCID>
+    <PMCID>2566179</PMCID>
+    <PMCID>2635718</PMCID>
+    <PMCID>1538713</PMCID>
+    <PMCID>225047</PMCID>
+    <PMCID>142815</PMCID>
+    <PMCID>99019</PMCID>
+    <PMCID>92225</PMCID>
+    <PMCID>91833</PMCID>
+    <PMCID>91680</PMCID>
+    <PMCID>91664</PMCID>
+    <PMCID>91663</PMCID>
+    <PMCID>93785</PMCID>
+    <PMCID>202424</PMCID>
+    <PMCID>239342</PMCID>
+    <PMCID>169777</PMCID>
+    <id>29355</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium cellobioparum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium cellobioparus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Clostridium cellobioparus" (sic) Hungate 1944
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium cellobioparum Hungate 1944 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Ruminiclostridium cellobioparum (Hungate 1944) Zhang et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 15832
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:15832
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5589
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1351
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1351
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1422
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1422
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5589
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5589
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium cellobioparum</scientificName>
+</pathogen>

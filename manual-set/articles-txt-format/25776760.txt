@@ -1,0 +1,11 @@
+
+Pathogenesis of novel reassortant avian influenza virus A (H5N8) Isolates in the ferret.
+
+Outbreaks of avian influenza virus H5N8 first occurred in 2014, and spread to poultry farms in Korea. 
+Although there was no report of human infection by this subtype, it has the potential to threaten human public health. 
+Therefore, we evaluated the pathogenesis of H5N8 viruses in ferrets. 
+Two representative Korean H5N8 strains did not induce mortality and significant respiratory signs after an intranasal challenge in ferrets. 
+However, ferrets intratracheally infected with A/broiler duck/Korea/Buan2/2014 virus showed dose-dependent mortality. 
+Although the Korean H5N8 strains were classified as the HPAI virus, possessing multiple basic amino acids in the cleavage site of the hemagglutinin sequence, they did not produce pathogenesis in ferrets challenged intranasally, similar to the natural infection route. 
+These results could be useful for public health by providing the pathogenic characterization of H5N8 viruses. 
+

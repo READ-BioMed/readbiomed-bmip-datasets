@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>228731</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Dawa Mosaic Virus
+ &lt;/GenbankSynonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Nigerian sorghum potyvirus</scientificName>
+    </subSpecies>
+    <PMCID>7695315</PMCID>
+    <PMCID>7450272</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7221342</PMCID>
+    <PMCID>7165799</PMCID>
+    <PMCID>7149764</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6873528</PMCID>
+    <PMCID>6686331</PMCID>
+    <PMCID>6417105</PMCID>
+    <PMCID>6154414</PMCID>
+    <PMCID>6164272</PMCID>
+    <PMCID>5966901</PMCID>
+    <PMCID>5945787</PMCID>
+    <PMCID>5606705</PMCID>
+    <PMCID>4561679</PMCID>
+    <PMCID>4551372</PMCID>
+    <PMCID>4778525</PMCID>
+    <PMCID>4119744</PMCID>
+    <PMCID>4088970</PMCID>
+    <PMCID>4016037</PMCID>
+    <PMCID>3720893</PMCID>
+    <PMCID>3110624</PMCID>
+    <PMCID>5904606</PMCID>
+    <PMCID>2745699</PMCID>
+    <PMCID>2429970</PMCID>
+    <PMCID>6640351</PMCID>
+    <PMCID>1979097</PMCID>
+    <PMCID>2677071</PMCID>
+    <PMCID>32003</PMCID>
+    <PMCID>298246</PMCID>
+    <GeneBankPMID>8150599</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>31742</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  JGMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Johnson grass mosaic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Johnsongrass mosaic virus</scientificName>
+</pathogen>

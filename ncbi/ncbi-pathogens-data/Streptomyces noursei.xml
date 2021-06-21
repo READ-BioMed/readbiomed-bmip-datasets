@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>2747051</PMCID>
+        <PMCID>2008767</PMCID>
+        <GeneBankPMID>15990252</GeneBankPMID>
+        <GeneBankPMID>10873841</GeneBankPMID>
+        <id>316284</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces noursei str. ATCC 11455
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Streptomyces noursei strain ATCC 11455
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Streptomyces noursei ATCC 11455</scientificName>
+    </subSpecies>
+    <PMCID>8161476</PMCID>
+    <PMCID>8141235</PMCID>
+    <PMCID>8084100</PMCID>
+    <PMCID>8081529</PMCID>
+    <PMCID>7990538</PMCID>
+    <PMCID>7954767</PMCID>
+    <PMCID>7896053</PMCID>
+    <PMCID>7896044</PMCID>
+    <PMCID>7905183</PMCID>
+    <PMCID>7888258</PMCID>
+    <PMCID>7827423</PMCID>
+    <PMCID>7787650</PMCID>
+    <PMCID>7731078</PMCID>
+    <PMCID>7724567</PMCID>
+    <PMCID>7566563</PMCID>
+    <PMCID>7672478</PMCID>
+    <PMCID>7589671</PMCID>
+    <PMCID>7549694</PMCID>
+    <PMCID>7524897</PMCID>
+    <PMCID>7570522</PMCID>
+    <PMCID>7487605</PMCID>
+    <PMCID>7472640</PMCID>
+    <PMCID>7460540</PMCID>
+    <PMCID>7460513</PMCID>
+    <PMCID>7369989</PMCID>
+    <PMCID>7356834</PMCID>
+    <PMCID>7321373</PMCID>
+    <PMCID>7344866</PMCID>
+    <PMCID>7268287</PMCID>
+    <PMCID>7242734</PMCID>
+    <PMCID>7224186</PMCID>
+    <PMCID>7192436</PMCID>
+    <PMCID>7170484</PMCID>
+    <PMCID>7175800</PMCID>
+    <PMCID>7160885</PMCID>
+    <PMCID>7232369</PMCID>
+    <PMCID>7105598</PMCID>
+    <PMCID>7497060</PMCID>
+    <PMCID>7149660</PMCID>
+    <PMCID>7044140</PMCID>
+    <PMCID>6993583</PMCID>
+    <PMCID>7101291</PMCID>
+    <PMCID>6970514</PMCID>
+    <PMCID>6928123</PMCID>
+    <PMCID>6997601</PMCID>
+    <PMCID>6862857</PMCID>
+    <PMCID>6920838</PMCID>
+    <PMCID>6819662</PMCID>
+    <PMCID>6798449</PMCID>
+    <PMCID>6963833</PMCID>
+    <PMCID>6999293</PMCID>
+    <PMCID>6784071</PMCID>
+    <PMCID>6701643</PMCID>
+    <PMCID>6677859</PMCID>
+    <PMCID>6622542</PMCID>
+    <PMCID>6697067</PMCID>
+    <PMCID>6596283</PMCID>
+    <PMCID>6801146</PMCID>
+    <PMCID>7259720</PMCID>
+    <PMCID>7150082</PMCID>
+    <PMCID>6661780</PMCID>
+    <PMCID>6471872</PMCID>
+    <PMCID>6414380</PMCID>
+    <PMCID>6680616</PMCID>
+    <PMCID>6441600</PMCID>
+    <PMCID>6408372</PMCID>
+    <PMCID>6386503</PMCID>
+    <PMCID>6261845</PMCID>
+    <PMCID>6241123</PMCID>
+    <PMCID>6225622</PMCID>
+    <PMCID>6215055</PMCID>
+    <PMCID>6155160</PMCID>
+    <PMCID>6134108</PMCID>
+    <PMCID>6108126</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6299108</PMCID>
+    <PMCID>5997859</PMCID>
+    <PMCID>5974421</PMCID>
+    <PMCID>5941336</PMCID>
+    <PMCID>5935735</PMCID>
+    <PMCID>6022917</PMCID>
+    <PMCID>6494476</PMCID>
+    <PMCID>5894146</PMCID>
+    <PMCID>5816076</PMCID>
+    <PMCID>5884252</PMCID>
+    <PMCID>6151668</PMCID>
+    <PMCID>5648908</PMCID>
+    <PMCID>5643529</PMCID>
+    <PMCID>5599378</PMCID>
+    <PMCID>5925218</PMCID>
+    <PMCID>5525229</PMCID>
+    <PMCID>5514685</PMCID>
+    <PMCID>5701842</PMCID>
+    <PMCID>5541152</PMCID>
+    <PMCID>6152636</PMCID>
+    <PMCID>5431850</PMCID>
+    <PMCID>5395666</PMCID>
+    <PMCID>5370406</PMCID>
+    <PMCID>5209317</PMCID>
+    <PMCID>5183585</PMCID>
+    <PMCID>5103293</PMCID>
+    <PMCID>5135293</PMCID>
+    <PMCID>5156506</PMCID>
+    <PMCID>5078963</PMCID>
+    <PMCID>5015098</PMCID>
+    <PMCID>5161580</PMCID>
+    <PMCID>5018448</PMCID>
+    <PMCID>4935845</PMCID>
+    <PMCID>4959151</PMCID>
+    <PMCID>5067021</PMCID>
+    <PMCID>4853412</PMCID>
+    <PMCID>4801147</PMCID>
+    <PMCID>4784035</PMCID>
+    <PMCID>4752587</PMCID>
+    <PMCID>4564158</PMCID>
+    <PMCID>4549113</PMCID>
+    <PMCID>4519757</PMCID>
+    <PMCID>4507847</PMCID>
+    <PMCID>5310147</PMCID>
+    <PMCID>4437780</PMCID>
+    <PMCID>4569627</PMCID>
+    <PMCID>4358262</PMCID>
+    <PMCID>4499425</PMCID>
+    <PMCID>4270375</PMCID>
+    <PMCID>4139839</PMCID>
+    <PMCID>4109414</PMCID>
+    <PMCID>4062495</PMCID>
+    <PMCID>4052509</PMCID>
+    <PMCID>4051428</PMCID>
+    <PMCID>4066775</PMCID>
+    <PMCID>3918677</PMCID>
+    <PMCID>3871631</PMCID>
+    <PMCID>3719701</PMCID>
+    <PMCID>3786784</PMCID>
+    <PMCID>3733888</PMCID>
+    <PMCID>3723631</PMCID>
+    <PMCID>3660562</PMCID>
+    <PMCID>3647764</PMCID>
+    <PMCID>3591988</PMCID>
+    <PMCID>3538425</PMCID>
+    <PMCID>3571298</PMCID>
+    <PMCID>3616232</PMCID>
+    <PMCID>3551636</PMCID>
+    <PMCID>3454455</PMCID>
+    <PMCID>3402410</PMCID>
+    <PMCID>3503796</PMCID>
+    <PMCID>3362935</PMCID>
+    <PMCID>6638710</PMCID>
+    <PMCID>3291330</PMCID>
+    <PMCID>3187094</PMCID>
+    <PMCID>3187132</PMCID>
+    <PMCID>3093324</PMCID>
+    <PMCID>3143290</PMCID>
+    <PMCID>3063666</PMCID>
+    <PMCID>3053990</PMCID>
+    <PMCID>3105412</PMCID>
+    <PMCID>2957485</PMCID>
+    <PMCID>2953396</PMCID>
+    <PMCID>2932657</PMCID>
+    <PMCID>2942817</PMCID>
+    <PMCID>2922099</PMCID>
+    <PMCID>2922176</PMCID>
+    <PMCID>2935806</PMCID>
+    <PMCID>2901726</PMCID>
+    <PMCID>2872012</PMCID>
+    <PMCID>2956595</PMCID>
+    <PMCID>2849233</PMCID>
+    <PMCID>2849207</PMCID>
+    <PMCID>2819678</PMCID>
+    <PMCID>2795112</PMCID>
+    <PMCID>2790121</PMCID>
+    <PMCID>2808006</PMCID>
+    <PMCID>2798639</PMCID>
+    <PMCID>2747051</PMCID>
+    <PMCID>2711870</PMCID>
+    <PMCID>2687333</PMCID>
+    <PMCID>2682052</PMCID>
+    <PMCID>2699751</PMCID>
+    <PMCID>2648172</PMCID>
+    <PMCID>2629187</PMCID>
+    <PMCID>2630740</PMCID>
+    <PMCID>2575832</PMCID>
+    <PMCID>2947747</PMCID>
+    <PMCID>2566214</PMCID>
+    <PMCID>2922689</PMCID>
+    <PMCID>2517148</PMCID>
+    <PMCID>2292616</PMCID>
+    <PMCID>2168226</PMCID>
+    <PMCID>2008767</PMCID>
+    <PMCID>1940057</PMCID>
+    <PMCID>1805451</PMCID>
+    <PMCID>1828933</PMCID>
+    <PMCID>1800780</PMCID>
+    <PMCID>2553251</PMCID>
+    <PMCID>1592344</PMCID>
+    <PMCID>1626607</PMCID>
+    <PMCID>1595491</PMCID>
+    <PMCID>1471990</PMCID>
+    <PMCID>1449010</PMCID>
+    <PMCID>1280151</PMCID>
+    <PMCID>1265966</PMCID>
+    <PMCID>1214203</PMCID>
+    <PMCID>1196261</PMCID>
+    <PMCID>1151996</PMCID>
+    <PMCID>1087532</PMCID>
+    <PMCID>1134766</PMCID>
+    <PMCID>547112</PMCID>
+    <PMCID>529246</PMCID>
+    <PMCID>525400</PMCID>
+    <PMCID>520904</PMCID>
+    <PMCID>515157</PMCID>
+    <PMCID>444755</PMCID>
+    <PMCID>387814</PMCID>
+    <PMCID>344421</PMCID>
+    <PMCID>262701</PMCID>
+    <PMCID>219374</PMCID>
+    <PMCID>212726</PMCID>
+    <PMCID>140747</PMCID>
+    <PMCID>126426</PMCID>
+    <PMCID>126421</PMCID>
+    <PMCID>127163</PMCID>
+    <PMCID>140327</PMCID>
+    <PMCID>90731</PMCID>
+    <PMCID>90172</PMCID>
+    <PMCID>105614</PMCID>
+    <id>1971</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Streptomyces sp. NCIM 2424
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces noursei Brown et al. 1953
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces noursei Brown et al. 1953 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 11455
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:11455
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5982
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 12044
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:12044
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 240.57
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:240.57
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 12044
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:12044
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT 3240
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT:3240
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40635
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40635
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15452
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15452
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 1083
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:1083
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5982
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5982
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15452
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15452
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 8593
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:8593
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-1714
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-1714
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:1714
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces noursei</scientificName>
+</pathogen>

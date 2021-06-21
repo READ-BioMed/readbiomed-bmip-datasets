@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7158200</PMCID>
+        <PMCID>6563235</PMCID>
+        <PMCID>5651748</PMCID>
+        <PMCID>5526847</PMCID>
+        <PMCID>5201441</PMCID>
+        <PMCID>4810267</PMCID>
+        <PMCID>5683172</PMCID>
+        <PMCID>4412252</PMCID>
+        <PMCID>4210486</PMCID>
+        <PMCID>4019087</PMCID>
+        <PMCID>3209339</PMCID>
+        <PMCID>1265912</PMCID>
+        <PMCID>1235842</PMCID>
+        <PMCID>114237</PMCID>
+        <PMCID>112784</PMCID>
+        <id>53017</id>
+        <scientificName>Batken virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11319</id>
+        <scientificName>Dhori virus (strain Indian/1313/61)</scientificName>
+    </subSpecies>
+    <PMCID>7354609</PMCID>
+    <PMCID>7149528</PMCID>
+    <PMCID>7113850</PMCID>
+    <PMCID>7097586</PMCID>
+    <PMCID>7019218</PMCID>
+    <PMCID>6935189</PMCID>
+    <PMCID>6812269</PMCID>
+    <PMCID>6639282</PMCID>
+    <PMCID>6474636</PMCID>
+    <PMCID>6431747</PMCID>
+    <PMCID>6333742</PMCID>
+    <PMCID>6191289</PMCID>
+    <PMCID>6165133</PMCID>
+    <PMCID>6069203</PMCID>
+    <PMCID>5708220</PMCID>
+    <PMCID>5651748</PMCID>
+    <PMCID>6159731</PMCID>
+    <PMCID>5482515</PMCID>
+    <PMCID>5443430</PMCID>
+    <PMCID>5413327</PMCID>
+    <PMCID>5201441</PMCID>
+    <PMCID>5121581</PMCID>
+    <PMCID>4839412</PMCID>
+    <PMCID>4623713</PMCID>
+    <PMCID>5683172</PMCID>
+    <PMCID>4412252</PMCID>
+    <PMCID>4210486</PMCID>
+    <PMCID>3209339</PMCID>
+    <PMCID>2987831</PMCID>
+    <PMCID>2981521</PMCID>
+    <PMCID>2728380</PMCID>
+    <PMCID>3291068</PMCID>
+    <PMCID>1383738</PMCID>
+    <PMCID>114495</PMCID>
+    <PMCID>114432</PMCID>
+    <PMCID>114237</PMCID>
+    <PMCID>115893</PMCID>
+    <PMCID>112356</PMCID>
+    <PMCID>112046</PMCID>
+    <PMCID>111572</PMCID>
+    <PMCID>112784</PMCID>
+    <PMCID>104467</PMCID>
+    <PMCID>124576</PMCID>
+    <GeneBankPMID>2024457</GeneBankPMID>
+    <id>11318</id>
+    <meSHTree>B04.820.480.968.850</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Dhori virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tick-borne virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Dhori virus</scientificName>
+</pathogen>

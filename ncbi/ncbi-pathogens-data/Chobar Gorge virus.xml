@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7077223</PMCID>
+        <PMCID>6676836</PMCID>
+        <PMCID>6466370</PMCID>
+        <PMCID>4452902</PMCID>
+        <PMCID>1539106</PMCID>
+        <id>2547356</id>
+        <scientificName>Fomede virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7077223</PMCID>
+        <id>2547355</id>
+        <scientificName>Bukakata virus</scientificName>
+    </subSpecies>
+    <PMCID>7077223</PMCID>
+    <PMCID>6949946</PMCID>
+    <PMCID>6580951</PMCID>
+    <PMCID>6702691</PMCID>
+    <PMCID>6676836</PMCID>
+    <PMCID>6466370</PMCID>
+    <PMCID>6863193</PMCID>
+    <PMCID>5866268</PMCID>
+    <PMCID>5526847</PMCID>
+    <PMCID>4452902</PMCID>
+    <PMCID>3321788</PMCID>
+    <PMCID>2941451</PMCID>
+    <GeneBankPMID>25928203</GeneBankPMID>
+    <id>1679172</id>
+    <scientificName>Chobar Gorge virus</scientificName>
+</pathogen>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>371463</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD13]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD13]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371410</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD30]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD30]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371409</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD25]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD25]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371408</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD22]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD22]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371407</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD21]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD21]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371406</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD16]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD16]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371405</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD12]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD12]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371404</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD11]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD11]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371403</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD27]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD27]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>371402</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus-[GD24]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Siegesbeckia yellow vein virus-[GD24]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>5425491</PMCID>
+    <GeneBankPMID>17187292</GeneBankPMID>
+    <id>371401</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sigesbeckia yellow vein virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Siegesbeckia yellow vein virus</scientificName>
+</pathogen>

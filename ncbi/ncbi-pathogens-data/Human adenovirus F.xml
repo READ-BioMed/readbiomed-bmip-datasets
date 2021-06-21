@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>2682463</id>
+            <scientificName>Simian adenovirus ROC-2012</scientificName>
+        </subSpecies>
+        <id>2682459</id>
+        <scientificName>unclassified Human mastadenovirus F</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7112026</PMCID>
+        <PMCID>7368910</PMCID>
+        <PMCID>6160089</PMCID>
+        <PMCID>5700941</PMCID>
+        <PMCID>5940486</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>5093187</PMCID>
+        <PMCID>3910799</PMCID>
+        <PMCID>3512288</PMCID>
+        <PMCID>3444445</PMCID>
+        <PMCID>3166150</PMCID>
+        <PMCID>2950467</PMCID>
+        <PMCID>4569093</PMCID>
+        <PMCID>2886083</PMCID>
+        <PMCID>114747</PMCID>
+        <PMCID>113896</PMCID>
+        <PMCID>110119</PMCID>
+        <PMCID>236569</PMCID>
+        <PMCID>2249390</PMCID>
+        <id>28284</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus type 40
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus F40
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 40
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus 40
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h40
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus 40</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1038055</id>
+            <scientificName>Human adenovirus 41 Wisconsin</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>232104</id>
+            <scientificName>Human adenovirus I02-2B-2</scientificName>
+        </subSpecies>
+        <PMCID>7465710</PMCID>
+        <PMCID>7426863</PMCID>
+        <PMCID>7115419</PMCID>
+        <PMCID>7112910</PMCID>
+        <PMCID>7422451</PMCID>
+        <PMCID>6849880</PMCID>
+        <PMCID>5972892</PMCID>
+        <PMCID>5755429</PMCID>
+        <PMCID>5700941</PMCID>
+        <PMCID>5637349</PMCID>
+        <PMCID>5549297</PMCID>
+        <PMCID>4979158</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>5093187</PMCID>
+        <PMCID>3512288</PMCID>
+        <PMCID>3187576</PMCID>
+        <PMCID>2992506</PMCID>
+        <PMCID>1142584</PMCID>
+        <PMCID>114453</PMCID>
+        <PMCID>112295</PMCID>
+        <PMCID>110119</PMCID>
+        <id>10524</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus type 41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus F41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus 41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h41
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus 41</scientificName>
+    </subSpecies>
+    <PMCID>7767662</PMCID>
+    <PMCID>7472731</PMCID>
+    <PMCID>6898786</PMCID>
+    <PMCID>5637349</PMCID>
+    <PMCID>5549297</PMCID>
+    <PMCID>5471248</PMCID>
+    <PMCID>5123214</PMCID>
+    <PMCID>4178792</PMCID>
+    <PMCID>3700531</PMCID>
+    <PMCID>3187507</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>1489592</PMCID>
+    <GeneBankPMID>2481711</GeneBankPMID>
+    <GeneBankPMID>2773314</GeneBankPMID>
+    <GeneBankPMID>8263936</GeneBankPMID>
+    <GeneBankPMID>3279700</GeneBankPMID>
+    <GeneBankPMID>15775987</GeneBankPMID>
+    <GeneBankPMID>2961652</GeneBankPMID>
+    <GeneBankPMID>3811242</GeneBankPMID>
+    <GeneBankPMID>2968714</GeneBankPMID>
+    <GeneBankPMID>32328642</GeneBankPMID>
+    <id>130309</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAdV-F
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus F
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human adenovirus F</scientificName>
+</pathogen>

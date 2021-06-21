@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7131559</PMCID>
+        <PMCID>7096189</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>290248</PMCID>
+        <PMCID>150671</PMCID>
+        <GeneBankPMID>8294184</GeneBankPMID>
+        <GeneBankPMID>9612727</GeneBankPMID>
+        <GeneBankPMID>7698883</GeneBankPMID>
+        <GeneBankPMID>9820840</GeneBankPMID>
+        <id>114429</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus bos2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 2 BAV2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7131559</PMCID>
+        <id>114428</id>
+        <scientificName>Ovine adenovirus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7131559</PMCID>
+        <id>114427</id>
+        <scientificName>Ovine adenovirus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7131559</PMCID>
+        <id>114426</id>
+        <scientificName>Ovine adenovirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7131559</PMCID>
+        <id>114425</id>
+        <scientificName>Ovine adenovirus 2</scientificName>
+    </subSpecies>
+    <PMCID>6591194</PMCID>
+    <PMCID>5744146</PMCID>
+    <PMCID>2567038</PMCID>
+    <GeneBankPMID>14573794</GeneBankPMID>
+    <id>114424</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ovine adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ovine adenovirus A</scientificName>
+</pathogen>

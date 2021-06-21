@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5760104</PMCID>
+        <GeneBankPMID>20921322</GeneBankPMID>
+        <id>915424</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Macaca fascicularis papillomavirus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Macaca fascicularis papillomavirus 2</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <id>1172193</id>
+    <scientificName>Betapapillomavirus 6</scientificName>
+</pathogen>

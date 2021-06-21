@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1333534</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus azotofixans ATCC 35681
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Paenibacillus azotofixans ATCC 35681
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Paenibacillus durus ATCC 35681</scientificName>
+    </subSpecies>
+    <PMCID>7930024</PMCID>
+    <PMCID>7824875</PMCID>
+    <PMCID>7749748</PMCID>
+    <PMCID>7640352</PMCID>
+    <PMCID>7593576</PMCID>
+    <PMCID>7414965</PMCID>
+    <PMCID>7470759</PMCID>
+    <PMCID>7187602</PMCID>
+    <PMCID>6761918</PMCID>
+    <PMCID>5914197</PMCID>
+    <PMCID>5367396</PMCID>
+    <PMCID>5470448</PMCID>
+    <PMCID>5134293</PMCID>
+    <PMCID>5100339</PMCID>
+    <PMCID>4759058</PMCID>
+    <PMCID>4746698</PMCID>
+    <PMCID>4689555</PMCID>
+    <PMCID>4246453</PMCID>
+    <PMCID>4088308</PMCID>
+    <PMCID>3993500</PMCID>
+    <PMCID>3961195</PMCID>
+    <PMCID>3131848</PMCID>
+    <PMCID>2976274</PMCID>
+    <PMCID>2812986</PMCID>
+    <PMCID>3768463</PMCID>
+    <PMCID>535155</PMCID>
+    <PMCID>368376</PMCID>
+    <PMCID>368353</PMCID>
+    <PMCID>321232</PMCID>
+    <PMCID>161525</PMCID>
+    <PMCID>124105</PMCID>
+    <PMCID>126810</PMCID>
+    <PMCID>123827</PMCID>
+    <PMCID>61044</PMCID>
+    <PMCID>93305</PMCID>
+    <PMCID>93279</PMCID>
+    <PMCID>93149</PMCID>
+    <PMCID>93056</PMCID>
+    <PMCID>93054</PMCID>
+    <PMCID>92702</PMCID>
+    <PMCID>92694</PMCID>
+    <PMCID>92540</PMCID>
+    <PMCID>92225</PMCID>
+    <PMCID>91948</PMCID>
+    <PMCID>91928</PMCID>
+    <PMCID>91693</PMCID>
+    <PMCID>91619</PMCID>
+    <PMCID>91150</PMCID>
+    <PMCID>90948</PMCID>
+    <PMCID>106570</PMCID>
+    <PMCID>106771</PMCID>
+    <PMCID>106131</PMCID>
+    <PMCID>106341</PMCID>
+    <PMCID>208692</PMCID>
+    <id>44251</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Paenibacillus azotofixans
+ &lt;/GenbankSynonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus azotifixans
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus azotofixans
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium durum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Paenibacillus durum
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  bacterium ISSDS-862
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacillus azotofixans Seldin et al. 1984
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium durum Smith and Cato 1974 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Paenibacillus azotofixans (Seldin et al. 1984) Ash et al. 1994
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Paenibacillus durus corrig. (Smith and Cato 1974) Collins et al. 1994
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27763
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 35681
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27763
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:35681
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:14658
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104586
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104586
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1735
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 5976
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1735
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:5976
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 14658
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:14658
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 6563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:6563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::P3L-5
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain P3L-5
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium durum</scientificName>
+</pathogen>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7818635</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>5291397</PMCID>
+    <PMCID>5017516</PMCID>
+    <PMCID>4810260</PMCID>
+    <PMCID>4488728</PMCID>
+    <PMCID>3906132</PMCID>
+    <PMCID>3957428</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>112128</PMCID>
+    <GeneBankPMID>18929604</GeneBankPMID>
+    <GeneBankPMID>23830075</GeneBankPMID>
+    <GeneBankPMID>20922437</GeneBankPMID>
+    <id>378833</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SoMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Rubus chlorotic mottle virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Sowbane mosaic virus</scientificName>
+</pathogen>

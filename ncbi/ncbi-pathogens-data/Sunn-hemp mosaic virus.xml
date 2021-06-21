@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <GeneBankPMID>8938983</GeneBankPMID>
+    <GeneBankPMID>6292867</GeneBankPMID>
+    <GeneBankPMID>6950195</GeneBankPMID>
+    <id>12240</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Sunn-hemp Mosaic Virus (SHMV)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Sunn-hemp mosaic virus (TMV strain cowpea)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Sunnhemp mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  TMV strain cowpea
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco Mosaic Virus - Cowpea strain
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco Mosaic Virus - Cowpea strain (TMV-CP)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Sunn-hemp mosaic virus</scientificName>
+</pathogen>

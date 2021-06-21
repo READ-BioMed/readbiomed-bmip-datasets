@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>374078</id>
+            <scientificName>Bovine papillomavirus type 8-EB</scientificName>
+        </subSpecies>
+        <id>2758968</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine papillomavirus 8
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 8
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus type 8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bos taurus papillomavirus 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2491661</id>
+        <scientificName>Bos taurus papillomavirus 5</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>7058819</PMCID>
+    <PMCID>2832751</PMCID>
+    <GeneBankPMID>12208979</GeneBankPMID>
+    <id>40537</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BPV-5
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus - 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine papillomavirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Epsilonpapillomavirus 1</scientificName>
+</pathogen>

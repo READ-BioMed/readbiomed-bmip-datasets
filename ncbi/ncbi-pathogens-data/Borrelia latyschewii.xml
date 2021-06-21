@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7986556</PMCID>
+    <PMCID>7497999</PMCID>
+    <PMCID>7382693</PMCID>
+    <PMCID>3771281</PMCID>
+    <PMCID>3421807</PMCID>
+    <id>1027767</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Spirochaeta latyschewi
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Spirochaeta latyschewi" (sic) Sofiev 1941
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Borrelia latyschewii (Sofiev 1941) Davis 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Borrelia latyschewii</scientificName>
+</pathogen>

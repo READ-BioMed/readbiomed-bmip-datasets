@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>8038247</PMCID>
+        <PMCID>4828761</PMCID>
+        <GeneBankPMID>22843577</GeneBankPMID>
+        <id>630626</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Escherichia blattae CIP 104942
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Escherichia blattae DSM 4481
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Escherichia blattae JCM 1650
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Escherichia blattae NBRC 105725
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shimwellia blattae CIP 104942
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shimwellia blattae DSM 4481
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shimwellia blattae JCM 1650
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Shimwellia blattae NBRC 105725
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Shimwellia blattae NBRC 105725 = DSM 4481
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Shimwellia blattae DSM 4481 = NBRC 105725</scientificName>
+    </subSpecies>
+    <PMCID>8072342</PMCID>
+    <PMCID>8038247</PMCID>
+    <PMCID>7978226</PMCID>
+    <PMCID>8011034</PMCID>
+    <PMCID>7789792</PMCID>
+    <PMCID>7585037</PMCID>
+    <PMCID>7671988</PMCID>
+    <PMCID>7728641</PMCID>
+    <PMCID>7654741</PMCID>
+    <PMCID>7400480</PMCID>
+    <PMCID>7253650</PMCID>
+    <PMCID>7018646</PMCID>
+    <PMCID>6997174</PMCID>
+    <PMCID>6782097</PMCID>
+    <PMCID>6584368</PMCID>
+    <PMCID>6544826</PMCID>
+    <PMCID>6542942</PMCID>
+    <PMCID>6389850</PMCID>
+    <PMCID>6146992</PMCID>
+    <PMCID>6095959</PMCID>
+    <PMCID>6174958</PMCID>
+    <PMCID>5766452</PMCID>
+    <PMCID>5674790</PMCID>
+    <PMCID>5542473</PMCID>
+    <PMCID>5481537</PMCID>
+    <PMCID>5424252</PMCID>
+    <PMCID>5454151</PMCID>
+    <PMCID>5405348</PMCID>
+    <PMCID>5575885</PMCID>
+    <PMCID>6999392</PMCID>
+    <PMCID>5083709</PMCID>
+    <PMCID>5000081</PMCID>
+    <PMCID>4918981</PMCID>
+    <PMCID>4859513</PMCID>
+    <PMCID>4828761</PMCID>
+    <PMCID>4937194</PMCID>
+    <PMCID>4771760</PMCID>
+    <PMCID>4644294</PMCID>
+    <PMCID>4829326</PMCID>
+    <PMCID>4829275</PMCID>
+    <PMCID>4456594</PMCID>
+    <PMCID>4516053</PMCID>
+    <PMCID>4385116</PMCID>
+    <PMCID>4334874</PMCID>
+    <PMCID>4249027</PMCID>
+    <PMCID>4230902</PMCID>
+    <PMCID>4116150</PMCID>
+    <PMCID>4068691</PMCID>
+    <PMCID>4068683</PMCID>
+    <PMCID>4068680</PMCID>
+    <PMCID>4050452</PMCID>
+    <PMCID>4081917</PMCID>
+    <PMCID>4040569</PMCID>
+    <PMCID>4014512</PMCID>
+    <PMCID>3937361</PMCID>
+    <PMCID>3907412</PMCID>
+    <PMCID>4289513</PMCID>
+    <PMCID>3865639</PMCID>
+    <PMCID>3827991</PMCID>
+    <PMCID>3810377</PMCID>
+    <PMCID>3800600</PMCID>
+    <PMCID>3741392</PMCID>
+    <PMCID>3754702</PMCID>
+    <PMCID>3675910</PMCID>
+    <PMCID>3535981</PMCID>
+    <PMCID>3508851</PMCID>
+    <PMCID>3416266</PMCID>
+    <PMCID>3347110</PMCID>
+    <PMCID>3318830</PMCID>
+    <PMCID>3165386</PMCID>
+    <PMCID>2771037</PMCID>
+    <PMCID>2760582</PMCID>
+    <PMCID>2765150</PMCID>
+    <PMCID>2775480</PMCID>
+    <PMCID>2707250</PMCID>
+    <PMCID>2610509</PMCID>
+    <PMCID>2561040</PMCID>
+    <PMCID>2233627</PMCID>
+    <PMCID>2238212</PMCID>
+    <PMCID>2758525</PMCID>
+    <PMCID>1392959</PMCID>
+    <PMCID>545627</PMCID>
+    <PMCID>524169</PMCID>
+    <PMCID>342803</PMCID>
+    <PMCID>262265</PMCID>
+    <PMCID>115240</PMCID>
+    <PMCID>212741</PMCID>
+    <PMCID>110513</PMCID>
+    <PMCID>91990</PMCID>
+    <PMCID>93509</PMCID>
+    <PMCID>107142</PMCID>
+    <PMCID>2130441</PMCID>
+    <id>563</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Escherichia blattae
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Escherichia blattae Burgess et al. 1973 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Shimwellia blattae (Burgess et al. 1973) Priest and Barker 2010
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29907
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29907
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:3030
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CDC 9005-74
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CDC:9005-74
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103175
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104942
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103175
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104942
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 4481
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:4481
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI 1692
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI:1692
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1650
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1650
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 3030
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:3030
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 105725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:105725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 12127
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:12127
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Escherichia blattae</scientificName>
+</pathogen>

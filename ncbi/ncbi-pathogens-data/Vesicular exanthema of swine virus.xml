@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1266463</id>
+        <scientificName>Reptile vesivirus Cro1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4136137</PMCID>
+        <PMCID>2859098</PMCID>
+        <id>360721</id>
+        <scientificName>San Miguel sea lion virus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>181833</id>
+        <scientificName>Bovine Calicivirus Bos-2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7687136</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7119616</PMCID>
+        <PMCID>7165577</PMCID>
+        <PMCID>7150363</PMCID>
+        <PMCID>5312078</PMCID>
+        <PMCID>4236159</PMCID>
+        <PMCID>4159302</PMCID>
+        <PMCID>3519611</PMCID>
+        <PMCID>136553</PMCID>
+        <GeneBankPMID>15084403</GeneBankPMID>
+        <id>146073</id>
+        <scientificName>Walrus calicivirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>4236159</PMCID>
+        <PMCID>4159302</PMCID>
+        <id>85617</id>
+        <scientificName>Vesicular exanthema of swine virus A48</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>82664</id>
+        <scientificName>VESV-like calicivirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7119616</PMCID>
+        <PMCID>5312078</PMCID>
+        <PMCID>3519611</PMCID>
+        <PMCID>3230843</PMCID>
+        <id>47047</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Reptile calicivirus Cro-1
+ &lt;/Includes&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Reptile calicivirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7124307</PMCID>
+        <PMCID>7167529</PMCID>
+        <PMCID>2795755</PMCID>
+        <PMCID>2716420</PMCID>
+        <id>37300</id>
+        <scientificName>Bovine calicivirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7119616</PMCID>
+        <PMCID>7149759</PMCID>
+        <PMCID>7148634</PMCID>
+        <PMCID>7088658</PMCID>
+        <PMCID>5312078</PMCID>
+        <PMCID>3519611</PMCID>
+        <PMCID>136553</PMCID>
+        <id>37299</id>
+        <scientificName>Primate calicivirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7119616</PMCID>
+        <id>37298</id>
+        <scientificName>Cetacean calicivirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>149496</PMCID>
+        <PMCID>136553</PMCID>
+        <PMCID>354933</PMCID>
+        <id>36407</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  San Miguel sea lion virus serotype 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  San miguel sea lion virus (serotype 4)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>San Miguel sea lion virus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7165577</PMCID>
+        <PMCID>5925730</PMCID>
+        <PMCID>5370393</PMCID>
+        <PMCID>136553</PMCID>
+        <id>36406</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  San Miguel sea lion virus serotype 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  San miguel sea lion virus (serotype 1)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>San Miguel sea lion virus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7119616</PMCID>
+        <id>35611</id>
+        <scientificName>Skunk calicivirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>85616</id>
+            <scientificName>San Miguel sea lion virus 13</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>85615</id>
+            <scientificName>San Miguel sea lion virus 6</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>85614</id>
+            <scientificName>San Miguel sea lion virus 2</scientificName>
+        </subSpecies>
+        <PMCID>7895291</PMCID>
+        <PMCID>7811793</PMCID>
+        <PMCID>7860939</PMCID>
+        <PMCID>7331980</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7693663</PMCID>
+        <PMCID>7202234</PMCID>
+        <PMCID>7159363</PMCID>
+        <PMCID>7152425</PMCID>
+        <PMCID>7150083</PMCID>
+        <PMCID>7119616</PMCID>
+        <PMCID>7122688</PMCID>
+        <PMCID>7087719</PMCID>
+        <PMCID>7516376</PMCID>
+        <PMCID>7165577</PMCID>
+        <PMCID>7167529</PMCID>
+        <PMCID>7149648</PMCID>
+        <PMCID>7149611</PMCID>
+        <PMCID>7111791</PMCID>
+        <PMCID>7096732</PMCID>
+        <PMCID>7090958</PMCID>
+        <PMCID>7011698</PMCID>
+        <PMCID>6563846</PMCID>
+        <PMCID>6630345</PMCID>
+        <PMCID>6466229</PMCID>
+        <PMCID>6466125</PMCID>
+        <PMCID>6364031</PMCID>
+        <PMCID>5964351</PMCID>
+        <PMCID>5925730</PMCID>
+        <PMCID>5824495</PMCID>
+        <PMCID>5360701</PMCID>
+        <PMCID>5370393</PMCID>
+        <PMCID>5373398</PMCID>
+        <PMCID>5312078</PMCID>
+        <PMCID>5234545</PMCID>
+        <PMCID>4795697</PMCID>
+        <PMCID>4810723</PMCID>
+        <PMCID>4719606</PMCID>
+        <PMCID>4619592</PMCID>
+        <PMCID>4517720</PMCID>
+        <PMCID>4368116</PMCID>
+        <PMCID>4263838</PMCID>
+        <PMCID>4136137</PMCID>
+        <PMCID>3606144</PMCID>
+        <PMCID>3816691</PMCID>
+        <PMCID>3592120</PMCID>
+        <PMCID>3547835</PMCID>
+        <PMCID>3590410</PMCID>
+        <PMCID>3393579</PMCID>
+        <PMCID>3767311</PMCID>
+        <PMCID>3206158</PMCID>
+        <PMCID>3196430</PMCID>
+        <PMCID>3163491</PMCID>
+        <PMCID>2876613</PMCID>
+        <PMCID>2876586</PMCID>
+        <PMCID>2863423</PMCID>
+        <PMCID>4875112</PMCID>
+        <PMCID>2855553</PMCID>
+        <PMCID>2795755</PMCID>
+        <PMCID>2854733</PMCID>
+        <PMCID>2859098</PMCID>
+        <PMCID>2722322</PMCID>
+        <PMCID>2716420</PMCID>
+        <PMCID>2627867</PMCID>
+        <PMCID>2546961</PMCID>
+        <PMCID>2519574</PMCID>
+        <PMCID>2377429</PMCID>
+        <PMCID>2268367</PMCID>
+        <PMCID>1797550</PMCID>
+        <PMCID>1796966</PMCID>
+        <PMCID>1797490</PMCID>
+        <PMCID>1472427</PMCID>
+        <PMCID>1061574</PMCID>
+        <PMCID>548067</PMCID>
+        <PMCID>544230</PMCID>
+        <PMCID>416503</PMCID>
+        <PMCID>229252</PMCID>
+        <PMCID>149496</PMCID>
+        <PMCID>141104</PMCID>
+        <PMCID>136553</PMCID>
+        <PMCID>136307</PMCID>
+        <PMCID>120604</PMCID>
+        <PMCID>114491</PMCID>
+        <PMCID>112168</PMCID>
+        <PMCID>111441</PMCID>
+        <PMCID>113000</PMCID>
+        <PMCID>112869</PMCID>
+        <PMCID>103899</PMCID>
+        <PMCID>103897</PMCID>
+        <PMCID>109688</PMCID>
+        <PMCID>109753</PMCID>
+        <PMCID>1320098</PMCID>
+        <PMCID>1320038</PMCID>
+        <PMCID>1277616</PMCID>
+        <PMCID>515749</PMCID>
+        <PMCID>354933</PMCID>
+        <id>11982</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  San Miguel sea lion virus SMSV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>San Miguel sea lion virus</scientificName>
+    </subSpecies>
+    <PMCID>7811793</PMCID>
+    <PMCID>7915499</PMCID>
+    <PMCID>7860939</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7693663</PMCID>
+    <PMCID>7173516</PMCID>
+    <PMCID>7173416</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7127483</PMCID>
+    <PMCID>7119616</PMCID>
+    <PMCID>7173411</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7149611</PMCID>
+    <PMCID>7126528</PMCID>
+    <PMCID>7111791</PMCID>
+    <PMCID>6776623</PMCID>
+    <PMCID>6563846</PMCID>
+    <PMCID>6534938</PMCID>
+    <PMCID>6466229</PMCID>
+    <PMCID>5824495</PMCID>
+    <PMCID>4795697</PMCID>
+    <PMCID>4236159</PMCID>
+    <PMCID>4247156</PMCID>
+    <PMCID>4159302</PMCID>
+    <PMCID>3646701</PMCID>
+    <PMCID>3519611</PMCID>
+    <PMCID>2789583</PMCID>
+    <PMCID>2716420</PMCID>
+    <PMCID>2649914</PMCID>
+    <PMCID>4310687</PMCID>
+    <PMCID>1914312</PMCID>
+    <PMCID>2725825</PMCID>
+    <PMCID>2735111</PMCID>
+    <PMCID>120604</PMCID>
+    <PMCID>1255337</PMCID>
+    <GeneBankPMID>12504575</GeneBankPMID>
+    <GeneBankPMID>9660070</GeneBankPMID>
+    <MeSHPMID>29194985</MeSHPMID>
+    <MeSHPMID>21620898</MeSHPMID>
+    <MeSHPMID>17609266</MeSHPMID>
+    <MeSHPMID>16702551</MeSHPMID>
+    <MeSHPMID>12615540</MeSHPMID>
+    <MeSHPMID>11860239</MeSHPMID>
+    <MeSHPMID>10507417</MeSHPMID>
+    <MeSHPMID>10074117</MeSHPMID>
+    <MeSHPMID>9660070</MeSHPMID>
+    <MeSHPMID>9476224</MeSHPMID>
+    <MeSHPMID>9389406</MeSHPMID>
+    <MeSHPMID>7769708</MeSHPMID>
+    <MeSHPMID>7619900</MeSHPMID>
+    <MeSHPMID>7760857</MeSHPMID>
+    <MeSHPMID>8009538</MeSHPMID>
+    <MeSHPMID>16498871</MeSHPMID>
+    <MeSHPMID>13903422</MeSHPMID>
+    <id>35612</id>
+    <meSHTree>B04.820.578.298.887.900</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  VESV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Swine vesicular exanthema virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Vesicular exanthema of swine virus</scientificName>
+</pathogen>

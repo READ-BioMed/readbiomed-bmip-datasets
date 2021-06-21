@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>133791</id>
+        <scientificName>Budgerigar fledgling disease virus - 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>133790</id>
+        <scientificName>Budgerigar fledgling disease virus - 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>9739329</GeneBankPMID>
+        <GeneBankPMID>7844527</GeneBankPMID>
+        <GeneBankPMID>2838972</GeneBankPMID>
+        <GeneBankPMID>10769059</GeneBankPMID>
+        <GeneBankPMID>8381462</GeneBankPMID>
+        <id>133789</id>
+        <scientificName>Budgerigar fledgling disease virus - 1</scientificName>
+    </subSpecies>
+    <PMCID>7086986</PMCID>
+    <PMCID>6854729</PMCID>
+    <PMCID>6943099</PMCID>
+    <PMCID>6727120</PMCID>
+    <PMCID>6265585</PMCID>
+    <PMCID>5137399</PMCID>
+    <PMCID>3794449</PMCID>
+    <PMCID>3815707</PMCID>
+    <id>1891747</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BFPyV
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  BFDV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Budgerigar fledgling disease polyomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Budgerigar fledgling disease virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Budgerigar fledgling polyomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Budgerigar fledgling disease polyomavirus</scientificName>
+</pathogen>

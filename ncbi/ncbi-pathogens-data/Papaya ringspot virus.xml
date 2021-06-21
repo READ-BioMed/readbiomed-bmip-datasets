@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1913031</id>
+        <scientificName>Papaya ringspot virus-W</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>555058</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya ringspot virus Las Tunas
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya ringspot virus - Las Tunas</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>412097</id>
+        <scientificName>Papaya ringspot virus - Congo 2006</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7885638</PMCID>
+        <PMCID>7064807</PMCID>
+        <id>12207</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Papaya ringspot virus (strain W)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Papaya ringspot virus strain W
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya ringspot virus W</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>31731</id>
+            <scientificName>Papaya ringspot virus (strain P / mutant HA)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>31730</id>
+            <scientificName>Papaya ringspot virus (strain P / mutant HA 5-1)</scientificName>
+        </subSpecies>
+        <PMCID>139984</PMCID>
+        <id>12206</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  PRSV-P
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Papaya ringspot virus (strain P)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Papaya ringspot virus strain P
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  papaya ringspot potyvirus type P
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Papaya ringspot virus P</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7873300</PMCID>
+    <PMCID>7885638</PMCID>
+    <PMCID>7864462</PMCID>
+    <PMCID>7801719</PMCID>
+    <PMCID>7757248</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009757</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7759848</PMCID>
+    <PMCID>7293216</PMCID>
+    <PMCID>7149880</PMCID>
+    <PMCID>7126379</PMCID>
+    <PMCID>7100406</PMCID>
+    <PMCID>7536795</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7064807</PMCID>
+    <PMCID>7077339</PMCID>
+    <PMCID>6998830</PMCID>
+    <PMCID>6996281</PMCID>
+    <PMCID>7077269</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6967384</PMCID>
+    <PMCID>6938495</PMCID>
+    <PMCID>6963434</PMCID>
+    <PMCID>6963518</PMCID>
+    <PMCID>6885351</PMCID>
+    <PMCID>6873528</PMCID>
+    <PMCID>6953188</PMCID>
+    <PMCID>6864349</PMCID>
+    <PMCID>6815192</PMCID>
+    <PMCID>6843808</PMCID>
+    <PMCID>6722529</PMCID>
+    <PMCID>6669575</PMCID>
+    <PMCID>6916320</PMCID>
+    <PMCID>6539981</PMCID>
+    <PMCID>6835170</PMCID>
+    <PMCID>6521185</PMCID>
+    <PMCID>6425663</PMCID>
+    <PMCID>6501101</PMCID>
+    <PMCID>6686125</PMCID>
+    <PMCID>6411703</PMCID>
+    <PMCID>6385306</PMCID>
+    <PMCID>6412240</PMCID>
+    <PMCID>6637905</PMCID>
+    <PMCID>6376063</PMCID>
+    <PMCID>6531597</PMCID>
+    <PMCID>6333650</PMCID>
+    <PMCID>6162326</PMCID>
+    <PMCID>6213961</PMCID>
+    <PMCID>6126502</PMCID>
+    <PMCID>6109318</PMCID>
+    <PMCID>6051622</PMCID>
+    <PMCID>5981033</PMCID>
+    <PMCID>5974079</PMCID>
+    <PMCID>5967643</PMCID>
+    <PMCID>5952327</PMCID>
+    <PMCID>6357427</PMCID>
+    <PMCID>5986827</PMCID>
+    <PMCID>6638099</PMCID>
+    <PMCID>6097130</PMCID>
+    <PMCID>6041442</PMCID>
+    <PMCID>5811460</PMCID>
+    <PMCID>5722061</PMCID>
+    <PMCID>5717725</PMCID>
+    <PMCID>5626737</PMCID>
+    <PMCID>5669357</PMCID>
+    <PMCID>5620596</PMCID>
+    <PMCID>5559511</PMCID>
+    <PMCID>6638139</PMCID>
+    <PMCID>5507805</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>6638112</PMCID>
+    <PMCID>5446643</PMCID>
+    <PMCID>5426740</PMCID>
+    <PMCID>5379136</PMCID>
+    <PMCID>6638057</PMCID>
+    <PMCID>6637986</PMCID>
+    <PMCID>5299730</PMCID>
+    <PMCID>5253543</PMCID>
+    <PMCID>5253358</PMCID>
+    <PMCID>5256226</PMCID>
+    <PMCID>5226948</PMCID>
+    <PMCID>5214455</PMCID>
+    <PMCID>5126848</PMCID>
+    <PMCID>5282761</PMCID>
+    <PMCID>5080351</PMCID>
+    <PMCID>5604577</PMCID>
+    <PMCID>5035753</PMCID>
+    <PMCID>5206265</PMCID>
+    <PMCID>5586037</PMCID>
+    <PMCID>4968642</PMCID>
+    <PMCID>4863961</PMCID>
+    <PMCID>4859702</PMCID>
+    <PMCID>6302892</PMCID>
+    <PMCID>4722753</PMCID>
+    <PMCID>4780804</PMCID>
+    <PMCID>4677746</PMCID>
+    <PMCID>6638324</PMCID>
+    <PMCID>4566192</PMCID>
+    <PMCID>4576180</PMCID>
+    <PMCID>4517128</PMCID>
+    <PMCID>4457045</PMCID>
+    <PMCID>5386206</PMCID>
+    <PMCID>4406713</PMCID>
+    <PMCID>4411680</PMCID>
+    <PMCID>4353907</PMCID>
+    <PMCID>4442352</PMCID>
+    <PMCID>4271346</PMCID>
+    <PMCID>4246468</PMCID>
+    <PMCID>4213569</PMCID>
+    <PMCID>4227254</PMCID>
+    <PMCID>4144303</PMCID>
+    <PMCID>4073217</PMCID>
+    <PMCID>4188198</PMCID>
+    <PMCID>4014477</PMCID>
+    <PMCID>3972461</PMCID>
+    <PMCID>3976845</PMCID>
+    <PMCID>4188202</PMCID>
+    <PMCID>3933750</PMCID>
+    <PMCID>6638794</PMCID>
+    <PMCID>4553512</PMCID>
+    <PMCID>3840659</PMCID>
+    <PMCID>3788040</PMCID>
+    <PMCID>3766677</PMCID>
+    <PMCID>3771462</PMCID>
+    <PMCID>3706314</PMCID>
+    <PMCID>3662875</PMCID>
+    <PMCID>3784902</PMCID>
+    <PMCID>3616238</PMCID>
+    <PMCID>6638740</PMCID>
+    <PMCID>3650182</PMCID>
+    <PMCID>3458115</PMCID>
+    <PMCID>6638729</PMCID>
+    <PMCID>6638678</PMCID>
+    <PMCID>6638723</PMCID>
+    <PMCID>6638818</PMCID>
+    <PMCID>3229117</PMCID>
+    <PMCID>3120150</PMCID>
+    <PMCID>6640337</PMCID>
+    <PMCID>3079067</PMCID>
+    <PMCID>3028878</PMCID>
+    <PMCID>6640250</PMCID>
+    <PMCID>3388970</PMCID>
+    <PMCID>3550763</PMCID>
+    <PMCID>2880117</PMCID>
+    <PMCID>6640227</PMCID>
+    <PMCID>2756233</PMCID>
+    <PMCID>3224731</PMCID>
+    <PMCID>3815900</PMCID>
+    <PMCID>6640340</PMCID>
+    <PMCID>6640285</PMCID>
+    <PMCID>2429970</PMCID>
+    <PMCID>2481413</PMCID>
+    <PMCID>2409047</PMCID>
+    <PMCID>2409016</PMCID>
+    <PMCID>6640413</PMCID>
+    <PMCID>2222634</PMCID>
+    <PMCID>1914064</PMCID>
+    <PMCID>139984</PMCID>
+    <PMCID>112301</PMCID>
+    <GeneBankPMID>15338325</GeneBankPMID>
+    <GeneBankPMID>24526574</GeneBankPMID>
+    <GeneBankPMID>18616401</GeneBankPMID>
+    <GeneBankPMID>1402799</GeneBankPMID>
+    <GeneBankPMID>20447282</GeneBankPMID>
+    <GeneBankPMID>23040510</GeneBankPMID>
+    <id>12205</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PRSV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Papaya ring spot virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  papaya ringspot potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  papaya ringspot virus PRSV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  papaya ringspot virus, PRSV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  watermelon mosaic virus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Papaya ringspot virus</scientificName>
+</pathogen>

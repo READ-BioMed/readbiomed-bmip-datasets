@@ -1,0 +1,11 @@
+
+Rapid genotypic detection of Bacillus anthracis and the Bacillus cereus group by multiplex real-time PCR melting curve analysis.
+
+Bacillus anthracis has four plasmid possible virulence genotypes: pXO1+/pXO2+, pXO1+/pXO2-, pXO1-/pXO2+ or pXO1-/pXO2-. 
+Due to the lack of a specific chromosomal marker for B. anthracis, differentiation of the pXO1-/pXO2- form of B. anthracis from closely related Bacillus cereus group species is difficult. 
+In this study, we evaluate the ability of sspE, pXO1 and pXO2 primers to discriminate individual B. anthracis and the B. cereus group genotypes using multiplex real-time PCR and melting curve analysis. 
+Optimal conditions for successful multiplex assays have been established. 
+Purified DNAs from 38 bacterial strains including 11 strains of B. anthracis and 18 B. cereus group strains were analyzed. 
+Nine of the B. cereus group near-neighbor strains were shown by multilocus sequence typing to be phylogenetically proximate to the B. anthracis clade. 
+We have demonstrated that the four plasmid genotypes of B. anthracis and B. cereus group near-neighbors were differentially and simultaneously discriminated by this assay.
+

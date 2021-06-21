@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>1472594</PMCID>
+        <id>10572</id>
+        <scientificName>Hamster papovavirus</scientificName>
+    </subSpecies>
+    <PMCID>7110861</PMCID>
+    <PMCID>7086986</PMCID>
+    <PMCID>6833039</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>5852106</PMCID>
+    <PMCID>4570255</PMCID>
+    <PMCID>4587627</PMCID>
+    <PMCID>4523907</PMCID>
+    <PMCID>4265424</PMCID>
+    <PMCID>4036550</PMCID>
+    <PMCID>3939476</PMCID>
+    <PMCID>3794449</PMCID>
+    <PMCID>3353289</PMCID>
+    <PMCID>3815707</PMCID>
+    <PMCID>1472594</PMCID>
+    <PMCID>236964</PMCID>
+    <PMCID>238179</PMCID>
+    <PMCID>240988</PMCID>
+    <GeneBankPMID>10334036</GeneBankPMID>
+    <id>1891729</id>
+    <meSHTree>B04.280.210.700.615, B04.613.204.670.615</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HaPyV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Hamster polyomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Hamster polyomavirus</scientificName>
+</pathogen>

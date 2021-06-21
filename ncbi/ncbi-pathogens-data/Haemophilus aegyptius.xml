@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5029168</PMCID>
+        <id>888728</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Haemophilus aegyptius CCUG 25716
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Haemophilus aegyptius CIP 52.129
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Haemophilus aegyptius HK367
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Haemophilus aegyptius NCTC 8502
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Haemophilus aegyptius str. ATCC 11116
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Haemophilus aegyptius strain ATCC 11116
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Haemophilus aegyptius ATCC 11116</scientificName>
+    </subSpecies>
+    <PMCID>7678852</PMCID>
+    <PMCID>7587090</PMCID>
+    <PMCID>7640787</PMCID>
+    <PMCID>7578456</PMCID>
+    <PMCID>7475574</PMCID>
+    <PMCID>7333620</PMCID>
+    <PMCID>7026191</PMCID>
+    <PMCID>6971049</PMCID>
+    <PMCID>6937193</PMCID>
+    <PMCID>6881717</PMCID>
+    <PMCID>6838629</PMCID>
+    <PMCID>6709928</PMCID>
+    <PMCID>6581861</PMCID>
+    <PMCID>6232154</PMCID>
+    <PMCID>6421488</PMCID>
+    <PMCID>5970498</PMCID>
+    <PMCID>5765505</PMCID>
+    <PMCID>5567645</PMCID>
+    <PMCID>5574252</PMCID>
+    <PMCID>5084427</PMCID>
+    <PMCID>5075662</PMCID>
+    <PMCID>5027861</PMCID>
+    <PMCID>4831113</PMCID>
+    <PMCID>5029168</PMCID>
+    <PMCID>4678762</PMCID>
+    <PMCID>4708026</PMCID>
+    <PMCID>4652104</PMCID>
+    <PMCID>4547314</PMCID>
+    <PMCID>4537296</PMCID>
+    <PMCID>4363679</PMCID>
+    <PMCID>4356944</PMCID>
+    <PMCID>5477890</PMCID>
+    <PMCID>4257361</PMCID>
+    <PMCID>4104879</PMCID>
+    <PMCID>4020315</PMCID>
+    <PMCID>3993099</PMCID>
+    <PMCID>3908887</PMCID>
+    <PMCID>3837948</PMCID>
+    <PMCID>3843670</PMCID>
+    <PMCID>3812077</PMCID>
+    <PMCID>3960879</PMCID>
+    <PMCID>7158327</PMCID>
+    <PMCID>3905007</PMCID>
+    <PMCID>3526282</PMCID>
+    <PMCID>3309571</PMCID>
+    <PMCID>7110058</PMCID>
+    <PMCID>4269323</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>2932916</PMCID>
+    <PMCID>2967034</PMCID>
+    <PMCID>3815339</PMCID>
+    <PMCID>2812257</PMCID>
+    <PMCID>2700111</PMCID>
+    <PMCID>2977737</PMCID>
+    <PMCID>2671440</PMCID>
+    <PMCID>2632096</PMCID>
+    <PMCID>2960482</PMCID>
+    <PMCID>2704532</PMCID>
+    <PMCID>1857215</PMCID>
+    <PMCID>523557</PMCID>
+    <PMCID>387840</PMCID>
+    <PMCID>170892</PMCID>
+    <PMCID>149627</PMCID>
+    <PMCID>137429</PMCID>
+    <PMCID>128230</PMCID>
+    <PMCID>55917</PMCID>
+    <PMCID>55914</PMCID>
+    <PMCID>95358</PMCID>
+    <PMCID>88021</PMCID>
+    <PMCID>97941</PMCID>
+    <PMCID>97469</PMCID>
+    <PMCID>94146</PMCID>
+    <PMCID>84917</PMCID>
+    <PMCID>107656</PMCID>
+    <PMCID>107485</PMCID>
+    <PMCID>108097</PMCID>
+    <PMCID>104596</PMCID>
+    <PMCID>175670</PMCID>
+    <PMCID>266831</PMCID>
+    <PMCID>266654</PMCID>
+    <PMCID>268511</PMCID>
+    <PMCID>263644</PMCID>
+    <PMCID>264533</PMCID>
+    <PMCID>218313</PMCID>
+    <PMCID>1994661</PMCID>
+    <PMCID>343130</PMCID>
+    <PMCID>388749</PMCID>
+    <PMCID>354539</PMCID>
+    <PMCID>355446</PMCID>
+    <PMCID>355131</PMCID>
+    <PMCID>356423</PMCID>
+    <PMCID>547652</PMCID>
+    <PMCID>276446</PMCID>
+    <id>197575</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus aegyptius
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus conjunctivitidis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium aegyptiacum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium conjunctivitis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium pseudo conjunctivitidis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Hemophilus conjunctivitidis
+ &lt;/Synonym&gt; 
+ &lt;CommonName&gt;
+  Koch-Weeks bacillus
+ &lt;/CommonName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus aegyptius" Trevisan 1889
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus conjunctivitidis" Kruse 1896
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium aegyptiacum" Lehmann and Neumann 1899
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium conjunctivitis" (sic) Chester 1897
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium pseudo conjunctivitidis" (Kruse 1896) Chester 1897
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Hemophilus conjunctivitidis" (sic) (Kruse 1896) Bergey et al. 1923
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Haemophilus aegyptius (Trevisan 1889) Pittman and Davis 1950
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 11116
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:11116
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 25716
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:25716
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 52.129
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:52.129
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 21187
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:21187
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 8502
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:8502
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Haemophilus aegypticus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Haemophilus aegyptius</scientificName>
+</pathogen>

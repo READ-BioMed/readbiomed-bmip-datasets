@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>875615</id>
+        <scientificName>Bat coronavirus HKU9-5-2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>875614</id>
+        <scientificName>Bat coronavirus HKU9-5-1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>875613</id>
+        <scientificName>Bat coronavirus HKU9-10-2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>875612</id>
+        <scientificName>Bat coronavirus HKU9-10-1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424370</id>
+        <scientificName>Bat coronavirus HKU9-4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424369</id>
+        <scientificName>Bat coronavirus HKU9-3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424368</id>
+        <scientificName>Bat coronavirus HKU9-2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424367</id>
+        <scientificName>Bat coronavirus HKU9-1</scientificName>
+    </subSpecies>
+    <PMCID>7938741</PMCID>
+    <PMCID>7808868</PMCID>
+    <PMCID>7789067</PMCID>
+    <PMCID>7860939</PMCID>
+    <PMCID>7847536</PMCID>
+    <PMCID>7291116</PMCID>
+    <PMCID>7149967</PMCID>
+    <PMCID>7126491</PMCID>
+    <PMCID>7120312</PMCID>
+    <PMCID>7113789</PMCID>
+    <PMCID>7112628</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7086772</PMCID>
+    <PMCID>7658559</PMCID>
+    <PMCID>7418743</PMCID>
+    <PMCID>7281371</PMCID>
+    <PMCID>7195271</PMCID>
+    <PMCID>7156260</PMCID>
+    <PMCID>7157439</PMCID>
+    <PMCID>7122401</PMCID>
+    <PMCID>7113851</PMCID>
+    <PMCID>7079719</PMCID>
+    <PMCID>7087777</PMCID>
+    <PMCID>7079695</PMCID>
+    <PMCID>6390631</PMCID>
+    <PMCID>6296008</PMCID>
+    <PMCID>5038965</PMCID>
+    <PMCID>5456283</PMCID>
+    <PMCID>4580176</PMCID>
+    <PMCID>4681066</PMCID>
+    <PMCID>4476908</PMCID>
+    <PMCID>4073873</PMCID>
+    <PMCID>3719811</PMCID>
+    <PMCID>3509437</PMCID>
+    <PMCID>3407358</PMCID>
+    <PMCID>3194943</PMCID>
+    <PMCID>3265309</PMCID>
+    <PMCID>3185738</PMCID>
+    <GeneBankPMID>17121802</GeneBankPMID>
+    <GeneBankPMID>19264783</GeneBankPMID>
+    <id>694006</id>
+    <meSHTree>B04.820.578.500.540.150.113</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  Bat CoV HKU9
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bat coronavirus HKU9
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rousettus bat coronavirus HKU9</scientificName>
+</pathogen>

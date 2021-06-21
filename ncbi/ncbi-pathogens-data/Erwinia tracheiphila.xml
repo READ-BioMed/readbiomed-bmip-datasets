@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1121872</id>
+        <scientificName>Erwinia tracheiphila DSM 21139</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1044999</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Erwinia tracheiphila str. PSU-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Erwinia tracheiphila strain PSU-1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Erwinia tracheiphila PSU-1</scientificName>
+    </subSpecies>
+    <PMCID>8037233</PMCID>
+    <PMCID>7896084</PMCID>
+    <PMCID>7826153</PMCID>
+    <PMCID>7729658</PMCID>
+    <PMCID>7729394</PMCID>
+    <PMCID>7600996</PMCID>
+    <PMCID>7565045</PMCID>
+    <PMCID>7399728</PMCID>
+    <PMCID>7758035</PMCID>
+    <PMCID>7317114</PMCID>
+    <PMCID>7273348</PMCID>
+    <PMCID>7273826</PMCID>
+    <PMCID>7210985</PMCID>
+    <PMCID>7192414</PMCID>
+    <PMCID>7143467</PMCID>
+    <PMCID>7018670</PMCID>
+    <PMCID>7136195</PMCID>
+    <PMCID>6938495</PMCID>
+    <PMCID>7020435</PMCID>
+    <PMCID>6908805</PMCID>
+    <PMCID>7244331</PMCID>
+    <PMCID>6643237</PMCID>
+    <PMCID>6717049</PMCID>
+    <PMCID>6543542</PMCID>
+    <PMCID>6532026</PMCID>
+    <PMCID>6521040</PMCID>
+    <PMCID>6458209</PMCID>
+    <PMCID>6278637</PMCID>
+    <PMCID>6256489</PMCID>
+    <PMCID>6168856</PMCID>
+    <PMCID>6034870</PMCID>
+    <PMCID>6035067</PMCID>
+    <PMCID>6008421</PMCID>
+    <PMCID>5948838</PMCID>
+    <PMCID>6020689</PMCID>
+    <PMCID>5824000</PMCID>
+    <PMCID>5850368</PMCID>
+    <PMCID>5603701</PMCID>
+    <PMCID>5410622</PMCID>
+    <PMCID>5505637</PMCID>
+    <PMCID>5428705</PMCID>
+    <PMCID>5302809</PMCID>
+    <PMCID>5223187</PMCID>
+    <PMCID>4908230</PMCID>
+    <PMCID>4875605</PMCID>
+    <PMCID>4824170</PMCID>
+    <PMCID>4723187</PMCID>
+    <PMCID>4661320</PMCID>
+    <PMCID>4542225</PMCID>
+    <PMCID>4472904</PMCID>
+    <PMCID>4457052</PMCID>
+    <PMCID>4213635</PMCID>
+    <PMCID>4214988</PMCID>
+    <PMCID>4178595</PMCID>
+    <PMCID>4136094</PMCID>
+    <PMCID>4149516</PMCID>
+    <PMCID>4141780</PMCID>
+    <PMCID>3932477</PMCID>
+    <PMCID>3843690</PMCID>
+    <PMCID>3796458</PMCID>
+    <PMCID>3416588</PMCID>
+    <PMCID>3158684</PMCID>
+    <PMCID>3061173</PMCID>
+    <PMCID>2776422</PMCID>
+    <PMCID>2786516</PMCID>
+    <PMCID>3815248</PMCID>
+    <PMCID>134437</PMCID>
+    <PMCID>123855</PMCID>
+    <PMCID>93131</PMCID>
+    <PMCID>106586</PMCID>
+    <PMCID>518204</PMCID>
+    <id>65700</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus tracheiphilus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium tracheiphilus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia amylovora var. tracheiphila
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus tracheiphilus" Smith 1895
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium tracheiphilus" (sic) (Smith 1895) Chester 1897
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Erwinia amylovora var. tracheiphila" (Smith 1895) Dye 1968
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Erwinia tracheiphila (Smith 1895) Bergey et al. 1923 (Approved Lists 1980) emend. Hauben et al. 1999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2707
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2906
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 2355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:2355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105205
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105205
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 21139
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:21139
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP 5845
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP:5845
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2707
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2906
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2707
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2906
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB 2452
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB:2452
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Erwinia tracheiphila</scientificName>
+</pathogen>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>5072566</PMCID>
+    <PMCID>4891349</PMCID>
+    <PMCID>4589640</PMCID>
+    <PMCID>4035543</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>1805424</PMCID>
+    <id>69263</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CPGMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  cowpea golden mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cowpea golden mosaic virus</scientificName>
+</pathogen>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>268780</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Panicum streak virus (Kenyan isolate)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Panicum streak virus - Kenya
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Panicum streak virus - [Kenya]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268779</id>
+        <scientificName>Panicum streak virus - Karino</scientificName>
+    </subSpecies>
+    <PMCID>4148390</PMCID>
+    <PMCID>4111361</PMCID>
+    <PMCID>4054350</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3165777</PMCID>
+    <PMCID>2777162</PMCID>
+    <PMCID>2702318</PMCID>
+    <PMCID>2613721</PMCID>
+    <PMCID>2630985</PMCID>
+    <GeneBankPMID>7826215</GeneBankPMID>
+    <GeneBankPMID>11504417</GeneBankPMID>
+    <id>10826</id>
+    <scientificName>Panicum streak virus</scientificName>
+</pathogen>

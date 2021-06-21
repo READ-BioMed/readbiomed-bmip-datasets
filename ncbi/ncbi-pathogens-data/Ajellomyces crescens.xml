@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7219639</PMCID>
+        <id>1247875</id>
+        <scientificName>Emmonsia crescens UAMH 3008</scientificName>
+    </subSpecies>
+    <PMCID>8104006</PMCID>
+    <PMCID>7913077</PMCID>
+    <PMCID>7801722</PMCID>
+    <PMCID>7711662</PMCID>
+    <PMCID>7511336</PMCID>
+    <PMCID>7493162</PMCID>
+    <PMCID>7464454</PMCID>
+    <PMCID>7242561</PMCID>
+    <PMCID>7975895</PMCID>
+    <PMCID>7219639</PMCID>
+    <PMCID>7041581</PMCID>
+    <PMCID>6898942</PMCID>
+    <PMCID>6752945</PMCID>
+    <PMCID>6827448</PMCID>
+    <PMCID>7389562</PMCID>
+    <PMCID>6355550</PMCID>
+    <PMCID>6355541</PMCID>
+    <PMCID>5852033</PMCID>
+    <PMCID>5800596</PMCID>
+    <PMCID>5740316</PMCID>
+    <PMCID>5717386</PMCID>
+    <PMCID>5686095</PMCID>
+    <PMCID>5633207</PMCID>
+    <PMCID>7158322</PMCID>
+    <PMCID>5374152</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>5775888</PMCID>
+    <PMCID>5121379</PMCID>
+    <PMCID>7102464</PMCID>
+    <PMCID>4652914</PMCID>
+    <PMCID>4595289</PMCID>
+    <PMCID>5843156</PMCID>
+    <PMCID>4500079</PMCID>
+    <PMCID>4565823</PMCID>
+    <PMCID>7122059</PMCID>
+    <PMCID>4152044</PMCID>
+    <PMCID>7152349</PMCID>
+    <PMCID>4225685</PMCID>
+    <PMCID>3629771</PMCID>
+    <PMCID>3364295</PMCID>
+    <PMCID>3318518</PMCID>
+    <PMCID>3315196</PMCID>
+    <PMCID>3122495</PMCID>
+    <PMCID>7119992</PMCID>
+    <PMCID>2671442</PMCID>
+    <PMCID>2668304</PMCID>
+    <PMCID>7271218</PMCID>
+    <PMCID>1081399</PMCID>
+    <PMCID>87720</PMCID>
+    <PMCID>87351</PMCID>
+    <PMCID>88727</PMCID>
+    <PMCID>100249</PMCID>
+    <PMCID>84155</PMCID>
+    <PMCID>105088</PMCID>
+    <id>73230</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Ajellomyces crescens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Chrysosporium parvum var. crescens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Emmonsia parva var. crescens
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Emmonsia crescens C.W. Emmons &amp;amp; Jellison, 1960
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Emmonsia parva var. crescens (C.W. Emmons &amp;amp; Jellison) Oorschot, 1980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 13704
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:13704
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 177.60
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:177.60
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UAMH 3008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UAMH:3008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ajellomyces crescens</scientificName>
+</pathogen>

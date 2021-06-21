@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7114551</PMCID>
+    <PMCID>6343687</PMCID>
+    <PMCID>6505778</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4810138</PMCID>
+    <PMCID>4252008</PMCID>
+    <PMCID>3325274</PMCID>
+    <PMCID>3050707</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2573114</PMCID>
+    <PMCID>2222256</PMCID>
+    <PMCID>548611</PMCID>
+    <PMCID>84844</PMCID>
+    <GeneBankPMID>12018712</GeneBankPMID>
+    <id>39944</id>
+    <meSHTree>B04.280.382.100.900</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  goat herpesvirus
+ &lt;/GenbankCommonName&gt; 
+ &lt;GenbankAcronym&gt;
+  CpHV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Caprine herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Caprine herpesvirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Caprine herpesvirus 1</scientificName>
+</pathogen>

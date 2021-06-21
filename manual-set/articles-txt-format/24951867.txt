@@ -1,0 +1,11 @@
+
+AS04-adjuvanted virus-like particles containing multiple M2 extracellular domains of influenza virus confer improved protection.
+
+The ectodomain of matrix protein 2 (M2e) of influenza virus is suggested to be a rational target for a universal influenza A vaccine. 
+However, there are some concerns that M2e vaccines might not be highly effective in the general population with diverse genetic backgrounds. 
+Here we examined the immunogenicity and protective efficacy of the baculovirus-derived virus-like particles containing multiple M2e (M2eVLP) with AS04 adjuvant in a C57BL/6 mouse strain (H-2(b)). 
+M2eVLP vaccine induced significant levels of M2e-specific IgG in C57BL/6 mice after vaccination. 
+Furthermore, M2eVLP adjuvanted with AS04 was more effective than M2eVLP alone in conferring protection as well as in inducing recall humoral and T cell responses specific for M2e after lethal influenza virus challenge. 
+A mechanistic study provides evidence that activation of dendritic cells by the toll-like receptor 4 agonist MPL in the AS04 adjuvant was associated with interferon-γ producing CD4 T cell responses. 
+Our results suggest that AS04 adjuvanted M2eVLP vaccines have the potential to improve cross-protection. 
+

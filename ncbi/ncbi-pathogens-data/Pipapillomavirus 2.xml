@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5760104</PMCID>
+        <PMCID>3923884</PMCID>
+        <GeneBankPMID>23077564</GeneBankPMID>
+        <id>1036963</id>
+        <scientificName>Apodemus sylvaticus papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5942179</PMCID>
+        <PMCID>5760104</PMCID>
+        <PMCID>5512245</PMCID>
+        <PMCID>5325784</PMCID>
+        <GeneBankPMID>21084500</GeneBankPMID>
+        <id>763552</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mus musculus papillomavirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mus musculus papillomavirus type 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>19605590</GeneBankPMID>
+        <id>664730</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Rattus norvegicus papillomavirus 1 EES-2009
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rattus norvegicus papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7163119</PMCID>
+        <PMCID>5760104</PMCID>
+        <PMCID>3930562</PMCID>
+        <id>392505</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  McPV2
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mastomys coucha papillomavirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5021401</PMCID>
+        <PMCID>336941</PMCID>
+        <GeneBankPMID>17412977</GeneBankPMID>
+        <id>10568</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  European harvest mouse papillomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Micromys minutus papillomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Old World harvest mouse papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Micromys minutus papillomavirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <id>1176145</id>
+    <scientificName>Pipapillomavirus 2</scientificName>
+</pathogen>

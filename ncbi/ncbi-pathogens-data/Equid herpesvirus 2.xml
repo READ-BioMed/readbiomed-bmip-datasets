@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>82832</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Equine herpesvirus type 2 strain t400/3
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   EQUINE HERPESVIRUS TYPE 2 (STRAIN T400/3)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equid herpesvirus type 2 strain t400/3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>82831</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpesvirus 2 strain 86/67
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpesvirus type 2 (strain 86/87)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpesvirus type 2 strain 86/87
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equid herpesvirus type 2 strain 86/87</scientificName>
+    </subSpecies>
+    <PMCID>7825769</PMCID>
+    <PMCID>7895312</PMCID>
+    <PMCID>7134872</PMCID>
+    <PMCID>7687889</PMCID>
+    <PMCID>7114836</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6979091</PMCID>
+    <PMCID>6901505</PMCID>
+    <PMCID>6863341</PMCID>
+    <PMCID>6857012</PMCID>
+    <PMCID>6466031</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>6213343</PMCID>
+    <PMCID>6146799</PMCID>
+    <PMCID>6399083</PMCID>
+    <PMCID>6071243</PMCID>
+    <PMCID>6042439</PMCID>
+    <PMCID>6060314</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5707556</PMCID>
+    <PMCID>5691659</PMCID>
+    <PMCID>5658569</PMCID>
+    <PMCID>5553167</PMCID>
+    <PMCID>5375668</PMCID>
+    <PMCID>4847483</PMCID>
+    <PMCID>4894315</PMCID>
+    <PMCID>4829031</PMCID>
+    <PMCID>4863610</PMCID>
+    <PMCID>4630835</PMCID>
+    <PMCID>5444539</PMCID>
+    <PMCID>6065615</PMCID>
+    <PMCID>4338891</PMCID>
+    <PMCID>4063692</PMCID>
+    <PMCID>3880466</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3577509</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3430378</PMCID>
+    <PMCID>3437474</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3051829</PMCID>
+    <PMCID>2878635</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>2014757</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1951306</PMCID>
+    <PMCID>1308826</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>290248</PMCID>
+    <PMCID>136626</PMCID>
+    <PMCID>311046</PMCID>
+    <PMCID>112253</PMCID>
+    <PMCID>25829</PMCID>
+    <PMCID>111633</PMCID>
+    <PMCID>111628</PMCID>
+    <PMCID>111576</PMCID>
+    <PMCID>113033</PMCID>
+    <PMCID>109360</PMCID>
+    <PMCID>265802</PMCID>
+    <PMCID>256479</PMCID>
+    <PMCID>256259</PMCID>
+    <PMCID>274583</PMCID>
+    <PMCID>375932</PMCID>
+    <GeneBankPMID>7783207</GeneBankPMID>
+    <GeneBankPMID>10523854</GeneBankPMID>
+    <id>12657</id>
+    <meSHTree>B04.280.210.400.700, B04.280.382.400.700, B04.613.204.500.700</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  Equine herpesvirus 2
+ &lt;/GenbankCommonName&gt; 
+ &lt;Acronym&gt;
+  EHV-2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Equid herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpes virus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Equine herpes virus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine cytomegalovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  not_Equid_herpesvirus_2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equid herpesvirus 2</scientificName>
+</pathogen>

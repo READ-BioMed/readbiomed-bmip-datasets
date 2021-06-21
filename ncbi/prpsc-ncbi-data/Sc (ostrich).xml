@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PrPSc>
+    <pubMedQuery>"PrPSc Proteins"[MH] AND "ostrich"[MH]</pubMedQuery>
+    <species>ostrich</species>
+</PrPSc>

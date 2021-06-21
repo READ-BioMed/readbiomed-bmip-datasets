@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>268787</id>
+        <scientificName>Sugarcane streak Egypt virus - [Naga]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268786</id>
+        <scientificName>Sugarcane streak Egypt virus - [Man]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>10664387</GeneBankPMID>
+        <id>268785</id>
+        <scientificName>Sugarcane streak Egypt virus - [Giza]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268784</id>
+        <scientificName>Sugarcane streak Egypt virus - [Ben]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268783</id>
+        <scientificName>Sugarcane streak Egypt virus - [Aswan]</scientificName>
+    </subSpecies>
+    <PMCID>5534050</PMCID>
+    <PMCID>4111361</PMCID>
+    <PMCID>2777162</PMCID>
+    <PMCID>2756586</PMCID>
+    <PMCID>2630985</PMCID>
+    <id>71548</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Egyptian sugarcane streak virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Sugarcane streak Egypt virus</scientificName>
+</pathogen>

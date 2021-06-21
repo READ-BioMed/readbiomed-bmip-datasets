@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>37780</id>
+        <scientificName>Garlic virus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>28352</id>
+        <scientificName>Garlic poty virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>4356611</PMCID>
+        <id>12200</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  GarMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  garlic mosaic virus, GarMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Garlic mosaic virus</scientificName>
+    </subSpecies>
+    <PMCID>7680954</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7064807</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6339470</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>4356611</PMCID>
+    <PMCID>4307630</PMCID>
+    <PMCID>4136854</PMCID>
+    <PMCID>3765376</PMCID>
+    <PMCID>3650194</PMCID>
+    <PMCID>3017867</PMCID>
+    <GeneBankPMID>11890533</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>42004</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  LYSV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Leek yellow stripe potyvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Leek yellow stripe virus</scientificName>
+</pathogen>

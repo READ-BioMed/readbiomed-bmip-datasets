@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <PMCID>4416912</PMCID>
+        <PMCID>4160252</PMCID>
+        <PMCID>4227300</PMCID>
+        <PMCID>3255897</PMCID>
+        <PMCID>2655575</PMCID>
+        <PMCID>1509106</PMCID>
+        <PMCID>1680034</PMCID>
+        <GeneBankPMID>8837892</GeneBankPMID>
+        <id>35267</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus PAV-4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus p4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus sus4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  porcine adenovirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine adenovirus 4</scientificName>
+    </subSpecies>
+    <PMCID>7736431</PMCID>
+    <PMCID>6071052</PMCID>
+    <PMCID>5215340</PMCID>
+    <id>130370</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Porcine adenovirus B</scientificName>
+</pathogen>

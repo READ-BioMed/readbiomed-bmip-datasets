@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>480611</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RHBV-cr
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Rice hoja blanca virus (strain Costa Rica)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rice hoja blanca virus - cr</scientificName>
+    </subSpecies>
+    <PMCID>6612211</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6019303</PMCID>
+    <PMCID>5814491</PMCID>
+    <PMCID>5016678</PMCID>
+    <PMCID>4702677</PMCID>
+    <PMCID>4659784</PMCID>
+    <PMCID>6638393</PMCID>
+    <PMCID>4033013</PMCID>
+    <PMCID>4019118</PMCID>
+    <PMCID>6638762</PMCID>
+    <PMCID>3793123</PMCID>
+    <PMCID>3763480</PMCID>
+    <PMCID>3365429</PMCID>
+    <PMCID>1894927</PMCID>
+    <PMCID>2999427</PMCID>
+    <PMCID>2693410</PMCID>
+    <PMCID>140852</PMCID>
+    <GeneBankPMID>8245863</GeneBankPMID>
+    <id>12332</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  RHBV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Rice hoja blanca virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rice hoja blanca virus</scientificName>
+</pathogen>

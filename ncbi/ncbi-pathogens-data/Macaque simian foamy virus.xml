@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7110651</PMCID>
+    <PMCID>6428148</PMCID>
+    <PMCID>3833384</PMCID>
+    <PMCID>104344</PMCID>
+    <PMCID>104413</PMCID>
+    <PMCID>110192</PMCID>
+    <PMCID>109442</PMCID>
+    <PMCID>109401</PMCID>
+    <PMCID>238282</PMCID>
+    <PMCID>240922</PMCID>
+    <PMCID>249652</PMCID>
+    <GeneBankPMID>1647358</GeneBankPMID>
+    <GeneBankPMID>24418555</GeneBankPMID>
+    <id>338478</id>
+    <meSHTree>B04.820.650.850</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SFVmac
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  SFV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian foamy virus (TYPE 1)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian foamy virus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian foamy virus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Macaque simian foamy virus</scientificName>
+</pathogen>

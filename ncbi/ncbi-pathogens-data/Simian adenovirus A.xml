@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>995021</id>
+        <scientificName>Simian adenovirus 48</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <PMCID>3297595</PMCID>
+        <id>413259</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SV39
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus SV-39
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus SV39
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 39
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian virus 39
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>38434</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 14
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 14</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>38428</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 10
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>38426</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 9
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>38422</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4131054</PMCID>
+        <PMCID>4124145</PMCID>
+        <GeneBankPMID>10769022</GeneBankPMID>
+        <GeneBankPMID>22573317</GeneBankPMID>
+        <GeneBankPMID>15448340</GeneBankPMID>
+        <id>38420</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SAdV-3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 3</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>6943099</PMCID>
+    <PMCID>5744146</PMCID>
+    <PMCID>5123214</PMCID>
+    <PMCID>4984651</PMCID>
+    <PMCID>5002280</PMCID>
+    <PMCID>3187507</PMCID>
+    <PMCID>2989969</PMCID>
+    <id>298334</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Simian adenovirus A</scientificName>
+</pathogen>

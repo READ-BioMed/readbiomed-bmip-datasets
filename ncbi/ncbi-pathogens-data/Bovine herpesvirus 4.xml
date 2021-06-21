@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>436507</id>
+        <scientificName>Bovine herpesvirus 4 (isolate V. test)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>436506</id>
+        <scientificName>Bovine herpesvirus 4 (isolate LVR140)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>230457</id>
+        <scientificName>Phacochoerus africanus rhadinovirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221985</id>
+        <scientificName>Babyrousa babyrussa rhadinovirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221984</id>
+        <scientificName>Sus barbatus rhadinovirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10355</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus type 4 (ISOLATE DN-599)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine herpesvirus 4 (isolate DN-599)</scientificName>
+    </subSpecies>
+    <PMCID>7911203</PMCID>
+    <PMCID>7902923</PMCID>
+    <PMCID>7912165</PMCID>
+    <PMCID>7895312</PMCID>
+    <PMCID>7788162</PMCID>
+    <PMCID>7823852</PMCID>
+    <PMCID>7810815</PMCID>
+    <PMCID>7710049</PMCID>
+    <PMCID>7695858</PMCID>
+    <PMCID>7656011</PMCID>
+    <PMCID>7471987</PMCID>
+    <PMCID>7353805</PMCID>
+    <PMCID>7157740</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>7114653</PMCID>
+    <PMCID>7245791</PMCID>
+    <PMCID>7244429</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>7104734</PMCID>
+    <PMCID>7060532</PMCID>
+    <PMCID>7059244</PMCID>
+    <PMCID>7000896</PMCID>
+    <PMCID>6943099</PMCID>
+    <PMCID>6789841</PMCID>
+    <PMCID>6651951</PMCID>
+    <PMCID>6474629</PMCID>
+    <PMCID>6466008</PMCID>
+    <PMCID>6466031</PMCID>
+    <PMCID>6368735</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>6163364</PMCID>
+    <PMCID>6146799</PMCID>
+    <PMCID>6279326</PMCID>
+    <PMCID>6071243</PMCID>
+    <PMCID>6018347</PMCID>
+    <PMCID>5899193</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5845008</PMCID>
+    <PMCID>5828089</PMCID>
+    <PMCID>5706299</PMCID>
+    <PMCID>5707556</PMCID>
+    <PMCID>5660961</PMCID>
+    <PMCID>5607491</PMCID>
+    <PMCID>5572515</PMCID>
+    <PMCID>5553167</PMCID>
+    <PMCID>5472674</PMCID>
+    <PMCID>5122150</PMCID>
+    <PMCID>5502126</PMCID>
+    <PMCID>4776205</PMCID>
+    <PMCID>4734007</PMCID>
+    <PMCID>4839386</PMCID>
+    <PMCID>4549876</PMCID>
+    <PMCID>4503683</PMCID>
+    <PMCID>4473039</PMCID>
+    <PMCID>4361794</PMCID>
+    <PMCID>4512082</PMCID>
+    <PMCID>4366105</PMCID>
+    <PMCID>4300650</PMCID>
+    <PMCID>4252008</PMCID>
+    <PMCID>4139384</PMCID>
+    <PMCID>4193889</PMCID>
+    <PMCID>4063692</PMCID>
+    <PMCID>3994135</PMCID>
+    <PMCID>4629622</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3549454</PMCID>
+    <PMCID>3577509</PMCID>
+    <PMCID>3462797</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3437474</PMCID>
+    <PMCID>3302276</PMCID>
+    <PMCID>3303620</PMCID>
+    <PMCID>3271019</PMCID>
+    <PMCID>3277459</PMCID>
+    <PMCID>3280804</PMCID>
+    <PMCID>3219721</PMCID>
+    <PMCID>3178527</PMCID>
+    <PMCID>3079670</PMCID>
+    <PMCID>2984596</PMCID>
+    <PMCID>2976404</PMCID>
+    <PMCID>2949847</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2923853</PMCID>
+    <PMCID>2734843</PMCID>
+    <PMCID>2713677</PMCID>
+    <PMCID>2784443</PMCID>
+    <PMCID>2657796</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2627908</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2707594</PMCID>
+    <PMCID>2259350</PMCID>
+    <PMCID>2249614</PMCID>
+    <PMCID>2094095</PMCID>
+    <PMCID>2048506</PMCID>
+    <PMCID>2740819</PMCID>
+    <PMCID>1899870</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1951306</PMCID>
+    <PMCID>1829177</PMCID>
+    <PMCID>1592508</PMCID>
+    <PMCID>1656551</PMCID>
+    <PMCID>1601974</PMCID>
+    <PMCID>1395385</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>1176014</PMCID>
+    <PMCID>1169148</PMCID>
+    <PMCID>369250</PMCID>
+    <PMCID>290248</PMCID>
+    <PMCID>141125</PMCID>
+    <PMCID>140990</PMCID>
+    <PMCID>114615</PMCID>
+    <PMCID>2517702</PMCID>
+    <PMCID>31189</PMCID>
+    <PMCID>114024</PMCID>
+    <PMCID>112475</PMCID>
+    <PMCID>87662</PMCID>
+    <PMCID>112347</PMCID>
+    <PMCID>95706</PMCID>
+    <PMCID>110393</PMCID>
+    <PMCID>192367</PMCID>
+    <GeneBankPMID>20592111</GeneBankPMID>
+    <GeneBankPMID>22114560</GeneBankPMID>
+    <GeneBankPMID>11152491</GeneBankPMID>
+    <GeneBankPMID>26656682</GeneBankPMID>
+    <GeneBankPMID>21068242</GeneBankPMID>
+    <GeneBankPMID>21035279</GeneBankPMID>
+    <GeneBankPMID>22205754</GeneBankPMID>
+    <GeneBankPMID>20720165</GeneBankPMID>
+    <id>10385</id>
+    <meSHTree>B04.280.210.400.700.300, B04.280.382.400.700.300, B04.613.204.500.700.300</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bovine herpesvirus 4
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  BHV-4
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine herpesvirus type 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine cytomegalovirus BHV-4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine herpesvirus 4 BHV-4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine herpesvirus 4, BHV-4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine herpesvirus type 4 BHV-4
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bovine herpes virus 4
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine herpesvirus 4</scientificName>
+</pathogen>

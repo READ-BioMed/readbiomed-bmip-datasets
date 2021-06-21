@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1159196</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SESV-McQI
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Southern elephant seal virus Macquarie Island</scientificName>
+    </subSpecies>
+    <PMCID>7905232</PMCID>
+    <PMCID>7863525</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7242702</PMCID>
+    <PMCID>7232666</PMCID>
+    <PMCID>7114216</PMCID>
+    <PMCID>7149648</PMCID>
+    <PMCID>7114543</PMCID>
+    <PMCID>6600200</PMCID>
+    <PMCID>6598490</PMCID>
+    <PMCID>5850377</PMCID>
+    <PMCID>5759361</PMCID>
+    <PMCID>5244351</PMCID>
+    <PMCID>4926186</PMCID>
+    <PMCID>4829277</PMCID>
+    <PMCID>4672445</PMCID>
+    <PMCID>4259830</PMCID>
+    <PMCID>4300653</PMCID>
+    <PMCID>4287844</PMCID>
+    <PMCID>3416173</PMCID>
+    <PMCID>3437828</PMCID>
+    <PMCID>3302268</PMCID>
+    <PMCID>2762864</PMCID>
+    <PMCID>2569925</PMCID>
+    <PMCID>114586</PMCID>
+    <GeneBankPMID>18822126</GeneBankPMID>
+    <GeneBankPMID>22190718</GeneBankPMID>
+    <id>1159195</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SESV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Seal louse virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Southern elephant seal virus</scientificName>
+</pathogen>

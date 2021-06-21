@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>164751</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  CABMV-Cr
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Crotalaria mosaic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Crotalaria mosaic potyvirus</scientificName>
+    </subSpecies>
+    <GeneBankPMID>12021872</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>12199</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CABMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Cowpea aphid-borne mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  adzuki bean mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  cowpea Moroccan aphid-borne mosaic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cowpea aphid-borne mosaic virus</scientificName>
+</pathogen>

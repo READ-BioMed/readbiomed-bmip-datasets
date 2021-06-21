@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1329410</id>
+        <scientificName>Elephant endotheliotropic herpesvirus 1A/1B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>759754</id>
+        <scientificName>Elephant endotheliotropic herpesvirus 1B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3624679</PMCID>
+        <id>759753</id>
+        <scientificName>Elephant endotheliotropic herpesvirus 1A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>654902</id>
+        <scientificName>Elephantid herpesvirus 1 (isolate Kiba)</scientificName>
+    </subSpecies>
+    <PMCID>7912165</PMCID>
+    <PMCID>7214618</PMCID>
+    <PMCID>7377626</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6505841</PMCID>
+    <PMCID>6505903</PMCID>
+    <PMCID>5960778</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5385831</PMCID>
+    <PMCID>3676107</PMCID>
+    <PMCID>3028876</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>1951306</PMCID>
+    <GeneBankPMID>23552421</GeneBankPMID>
+    <id>146015</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Elephant herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Elephantid herpesvirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Elephantid herpesvirus 1</scientificName>
+</pathogen>

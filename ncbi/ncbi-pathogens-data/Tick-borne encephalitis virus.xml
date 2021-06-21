@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>70733</id>
+        <scientificName>Tick-borne encephalitis virus (strain HYPR)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7515184</PMCID>
+        <PMCID>7158200</PMCID>
+        <PMCID>6071234</PMCID>
+        <PMCID>5915441</PMCID>
+        <PMCID>5070875</PMCID>
+        <PMCID>4645344</PMCID>
+        <PMCID>5443051</PMCID>
+        <PMCID>4811648</PMCID>
+        <PMCID>3421761</PMCID>
+        <PMCID>3285191</PMCID>
+        <PMCID>2952261</PMCID>
+        <PMCID>2919015</PMCID>
+        <PMCID>2600195</PMCID>
+        <PMCID>2851496</PMCID>
+        <id>47300</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TSEV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Turkish sheep encephalitis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7498898</PMCID>
+        <PMCID>7150218</PMCID>
+        <PMCID>7149528</PMCID>
+        <PMCID>6466055</PMCID>
+        <PMCID>6451894</PMCID>
+        <PMCID>6302355</PMCID>
+        <PMCID>5625319</PMCID>
+        <PMCID>3890452</PMCID>
+        <PMCID>3358175</PMCID>
+        <PMCID>4276368</PMCID>
+        <PMCID>2263041</PMCID>
+        <PMCID>109351</PMCID>
+        <id>11094</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Negishi virus NEG
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Negishi virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7498898</PMCID>
+        <PMCID>7150218</PMCID>
+        <PMCID>7149528</PMCID>
+        <PMCID>3511436</PMCID>
+        <PMCID>4276368</PMCID>
+        <id>11092</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Central European tick-borne encephalitis virus Kumlinge
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Flavivirus kumlinge
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Kumlinge virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11088</id>
+        <scientificName>Tick-borne encephalitis virus (WESTERN SUBTYPE)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11087</id>
+        <scientificName>Tick-borne encephalitis virus (STRAIN SOFJIN)</scientificName>
+    </subSpecies>
+    <PMCID>3487155</PMCID>
+    <GeneBankPMID>9343204</GeneBankPMID>
+    <GeneBankPMID>17035331</GeneBankPMID>
+    <GeneBankPMID>8224191</GeneBankPMID>
+    <GeneBankPMID>7483260</GeneBankPMID>
+    <GeneBankPMID>22727684</GeneBankPMID>
+    <GeneBankPMID>7529335</GeneBankPMID>
+    <GeneBankPMID>21925107</GeneBankPMID>
+    <GeneBankPMID>8719513</GeneBankPMID>
+    <GeneBankPMID>21697495</GeneBankPMID>
+    <GeneBankPMID>22131310</GeneBankPMID>
+    <GeneBankPMID>7637027</GeneBankPMID>
+    <GeneBankPMID>8892942</GeneBankPMID>
+    <GeneBankPMID>2554575</GeneBankPMID>
+    <GeneBankPMID>18042258</GeneBankPMID>
+    <GeneBankPMID>10474230</GeneBankPMID>
+    <GeneBankPMID>14687719</GeneBankPMID>
+    <GeneBankPMID>18339416</GeneBankPMID>
+    <GeneBankPMID>33406260</GeneBankPMID>
+    <GeneBankPMID>21957123</GeneBankPMID>
+    <GeneBankPMID>8344415</GeneBankPMID>
+    <GeneBankPMID>27875810</GeneBankPMID>
+    <GeneBankPMID>32196427</GeneBankPMID>
+    <GeneBankPMID>21325407</GeneBankPMID>
+    <GeneBankPMID>24574402</GeneBankPMID>
+    <GeneBankPMID>12634393</GeneBankPMID>
+    <GeneBankPMID>9871542</GeneBankPMID>
+    <GeneBankPMID>11991976</GeneBankPMID>
+    <GeneBankPMID>29321318</GeneBankPMID>
+    <GeneBankPMID>22796133</GeneBankPMID>
+    <GeneBankPMID>3413985</GeneBankPMID>
+    <GeneBankPMID>19199833</GeneBankPMID>
+    <GeneBankPMID>20363326</GeneBankPMID>
+    <id>11084</id>
+    <meSHTree>B04.820.230.511, B04.820.578.344.350.350</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  tick-borne encephalitis virus TBEV
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  TBEV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  FSME virus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   tick-borne encephalitis virus TBE virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tick-borne encephalitis virus</scientificName>
+</pathogen>

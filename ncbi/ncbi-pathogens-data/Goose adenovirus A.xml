@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7747739</PMCID>
+        <PMCID>7211397</PMCID>
+        <PMCID>6700354</PMCID>
+        <PMCID>5989203</PMCID>
+        <PMCID>5850404</PMCID>
+        <PMCID>4984651</PMCID>
+        <GeneBankPMID>32085479</GeneBankPMID>
+        <GeneBankPMID>22894926</GeneBankPMID>
+        <GeneBankPMID>20159738</GeneBankPMID>
+        <id>1193422</id>
+        <scientificName>Goose adenovirus 4</scientificName>
+    </subSpecies>
+    <PMCID>6394704</PMCID>
+    <PMCID>6021868</PMCID>
+    <PMCID>5850404</PMCID>
+    <PMCID>5387021</PMCID>
+    <id>1193420</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Goose adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Goose adenovirus A</scientificName>
+</pathogen>

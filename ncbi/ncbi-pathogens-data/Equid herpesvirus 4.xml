@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>10333</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus type 1 subtype 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Equine herpesvirus type 4 (strain 1942)</scientificName>
+    </subSpecies>
+    <PMCID>7825769</PMCID>
+    <PMCID>7912165</PMCID>
+    <PMCID>7271179</PMCID>
+    <PMCID>7150300</PMCID>
+    <PMCID>7149553</PMCID>
+    <PMCID>7099715</PMCID>
+    <PMCID>7536260</PMCID>
+    <PMCID>7341296</PMCID>
+    <PMCID>7115665</PMCID>
+    <PMCID>6901505</PMCID>
+    <PMCID>6857012</PMCID>
+    <PMCID>6466031</PMCID>
+    <PMCID>6412908</PMCID>
+    <PMCID>6240714</PMCID>
+    <PMCID>6505849</PMCID>
+    <PMCID>6042439</PMCID>
+    <PMCID>6060314</PMCID>
+    <PMCID>5865067</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5517074</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4724163</PMCID>
+    <PMCID>4785124</PMCID>
+    <PMCID>4782672</PMCID>
+    <PMCID>4569764</PMCID>
+    <PMCID>6065615</PMCID>
+    <PMCID>4858095</PMCID>
+    <PMCID>4135906</PMCID>
+    <PMCID>3675093</PMCID>
+    <PMCID>3618259</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3446760</PMCID>
+    <PMCID>3421654</PMCID>
+    <PMCID>3303620</PMCID>
+    <PMCID>3202525</PMCID>
+    <PMCID>3122702</PMCID>
+    <PMCID>3079670</PMCID>
+    <PMCID>2949340</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2923853</PMCID>
+    <PMCID>2713539</PMCID>
+    <PMCID>3032949</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>1932753</PMCID>
+    <PMCID>1899868</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1308826</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>4032367</PMCID>
+    <PMCID>540132</PMCID>
+    <PMCID>374295</PMCID>
+    <PMCID>356883</PMCID>
+    <PMCID>290248</PMCID>
+    <PMCID>130932</PMCID>
+    <PMCID>136825</PMCID>
+    <PMCID>114596</PMCID>
+    <PMCID>311046</PMCID>
+    <PMCID>25829</PMCID>
+    <PMCID>111477</PMCID>
+    <PMCID>85757</PMCID>
+    <PMCID>110161</PMCID>
+    <PMCID>238063</PMCID>
+    <PMCID>429441</PMCID>
+    <PMCID>1319423</PMCID>
+    <PMCID>1494351</PMCID>
+    <GeneBankPMID>9603335</GeneBankPMID>
+    <GeneBankPMID>19931566</GeneBankPMID>
+    <GeneBankPMID>22171258</GeneBankPMID>
+    <GeneBankPMID>23012623</GeneBankPMID>
+    <GeneBankPMID>20236610</GeneBankPMID>
+    <GeneBankPMID>23514881</GeneBankPMID>
+    <GeneBankPMID>21960433</GeneBankPMID>
+    <id>10331</id>
+    <meSHTree>B04.280.382.100.900.440</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  Equine herpesvirus 4
+ &lt;/GenbankCommonName&gt; 
+ &lt;Acronym&gt;
+  EHV-4
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  EHV4
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Equid herpesvirus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus 4 EHV-4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus 4 EHV4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus type 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine herpesvirus type 4 EHV-4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  equine rhinopneumonitis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Equid herpesvirus 4</scientificName>
+</pathogen>

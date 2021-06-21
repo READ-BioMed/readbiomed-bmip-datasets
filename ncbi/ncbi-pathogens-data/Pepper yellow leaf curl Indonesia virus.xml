@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1828509</id>
+        <scientificName>Pepper yellow leaf curl virus TDWS-21</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313355</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pepper yellow leaf curl Indonesia virus-A [Indonesia:Java:2010]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper yellow leaf curl Indonesia virus A-[Indonesia:Java:2010]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>398060</id>
+        <scientificName>Pepper yellow leaf curl Indonesia virus-[Ageratum]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>398059</id>
+        <scientificName>Pepper yellow leaf curl Indonesia virus-[Tomato3]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>292478</id>
+        <scientificName>Pepper yellow leaf curl Indonesia virus-[Tomato2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>292472</id>
+        <scientificName>Pepper yellow leaf curl Indonesia virus-[Tomato1]</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>2858149</PMCID>
+    <GeneBankPMID>19015934</GeneBankPMID>
+    <id>292477</id>
+    <scientificName>Pepper yellow leaf curl Indonesia virus</scientificName>
+</pathogen>

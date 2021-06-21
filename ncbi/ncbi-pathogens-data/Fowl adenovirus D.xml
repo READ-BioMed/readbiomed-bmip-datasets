@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>172864</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 9
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 9 (A2, 90)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl aviadenovirus 9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>172860</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 3 (SR49, 75)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl aviadenovirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>4984651</PMCID>
+        <id>172859</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 2 (GAL-1, 685, SR48)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl aviadenovirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6938405</PMCID>
+        <id>172857</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  FAdV 11
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 11
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus 11 (380)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus serotype 11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Fowl aviadenovirus 11</scientificName>
+    </subSpecies>
+    <PMCID>7311883</PMCID>
+    <PMCID>6943099</PMCID>
+    <PMCID>5916966</PMCID>
+    <PMCID>6021868</PMCID>
+    <PMCID>4369288</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>3339847</PMCID>
+    <PMCID>1459111</PMCID>
+    <GeneBankPMID>9780058</GeneBankPMID>
+    <GeneBankPMID>10859390</GeneBankPMID>
+    <GeneBankPMID>12441071</GeneBankPMID>
+    <id>190064</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus D
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl adenovirus type D
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Fowl aviadenovirus Type D
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Fowl adenovirus D</scientificName>
+</pathogen>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1165455</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TYDV-C
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco yellow dwarf virus-C</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1162558</id>
+        <scientificName>Tobacco yellow dwarf virus-A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>887824</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Brassicaceae weed virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco yellow dwarf virus-B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>31599</id>
+        <scientificName>Tobacco yellow dwarf virus (strain Australia)</scientificName>
+    </subSpecies>
+    <PMCID>8000510</PMCID>
+    <PMCID>7822169</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7354463</PMCID>
+    <PMCID>6937724</PMCID>
+    <PMCID>6917689</PMCID>
+    <PMCID>6357115</PMCID>
+    <PMCID>6109318</PMCID>
+    <PMCID>6517466</PMCID>
+    <PMCID>6517448</PMCID>
+    <PMCID>5862823</PMCID>
+    <PMCID>5787849</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>4594918</PMCID>
+    <PMCID>4585055</PMCID>
+    <PMCID>4148390</PMCID>
+    <PMCID>4494219</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>2630985</PMCID>
+    <PMCID>305619</PMCID>
+    <GeneBankPMID>1546458</GeneBankPMID>
+    <id>10830</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  tobacco yellow dwarf virus TobYDV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tobacco yellow dwarf virus</scientificName>
+</pathogen>

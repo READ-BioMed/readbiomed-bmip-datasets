@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1416740</id>
+        <scientificName>Goatpox virus FZ</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>760197</id>
+        <scientificName>Goatpox virus Ghana</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632789</id>
+        <scientificName>Goatpox virus vaccine Nigeria/99</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632788</id>
+        <scientificName>Goatpox virus Yemen/83</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632787</id>
+        <scientificName>Goatpox virus Turkey/98 Denizli</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632786</id>
+        <scientificName>Goatpox virus Sudan</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632785</id>
+        <scientificName>Goatpox virus Saudi Arabia/93</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632784</id>
+        <scientificName>Goatpox virus Oman/84</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632783</id>
+        <scientificName>Goatpox virus Iraq/61 Gorgan</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632782</id>
+        <scientificName>Goatpox virus India/83</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632781</id>
+        <scientificName>Goatpox virus DesseI</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632780</id>
+        <scientificName>Goatpox virus Chad VC8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632779</id>
+        <scientificName>Goatpox virus Chad VC6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632778</id>
+        <scientificName>Goatpox virus Burkina Benogo 3A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>632777</id>
+        <scientificName>Goatpox virus Bangladesh/86</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4077651</PMCID>
+        <PMCID>3942028</PMCID>
+        <PMCID>4080715</PMCID>
+        <PMCID>3570343</PMCID>
+        <PMCID>3163472</PMCID>
+        <PMCID>3084725</PMCID>
+        <PMCID>2806865</PMCID>
+        <GeneBankPMID>12021338</GeneBankPMID>
+        <id>376852</id>
+        <scientificName>Goatpox virus Pellor</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>376851</id>
+        <scientificName>Goatpox virus G20-LKV</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>239358</id>
+        <scientificName>Capripoxvirus TN/India/2003/1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>239357</id>
+        <scientificName>Capripoxvirus TN/India/2001/2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>239356</id>
+        <scientificName>Capripoxvirus TN/India/2001/1</scientificName>
+    </subSpecies>
+    <PMCID>7931584</PMCID>
+    <PMCID>7844896</PMCID>
+    <PMCID>7896545</PMCID>
+    <PMCID>7810815</PMCID>
+    <PMCID>7453672</PMCID>
+    <PMCID>7765277</PMCID>
+    <PMCID>7222904</PMCID>
+    <PMCID>7092477</PMCID>
+    <PMCID>7411612</PMCID>
+    <PMCID>7264126</PMCID>
+    <PMCID>7219772</PMCID>
+    <PMCID>7035724</PMCID>
+    <PMCID>7001645</PMCID>
+    <PMCID>6146686</PMCID>
+    <PMCID>6261892</PMCID>
+    <PMCID>6111950</PMCID>
+    <PMCID>5987647</PMCID>
+    <PMCID>5884845</PMCID>
+    <PMCID>5913700</PMCID>
+    <PMCID>5579950</PMCID>
+    <PMCID>5514530</PMCID>
+    <PMCID>5316968</PMCID>
+    <PMCID>5218949</PMCID>
+    <PMCID>4894315</PMCID>
+    <PMCID>4584292</PMCID>
+    <PMCID>4411693</PMCID>
+    <PMCID>4379583</PMCID>
+    <PMCID>4077651</PMCID>
+    <PMCID>3942028</PMCID>
+    <PMCID>3945082</PMCID>
+    <PMCID>3749956</PMCID>
+    <PMCID>4080715</PMCID>
+    <PMCID>3508084</PMCID>
+    <PMCID>3570343</PMCID>
+    <PMCID>3298800</PMCID>
+    <PMCID>3398307</PMCID>
+    <PMCID>3163472</PMCID>
+    <PMCID>3084725</PMCID>
+    <PMCID>3185573</PMCID>
+    <PMCID>3185747</PMCID>
+    <PMCID>2866252</PMCID>
+    <PMCID>2907574</PMCID>
+    <PMCID>2829069</PMCID>
+    <PMCID>2806865</PMCID>
+    <PMCID>2812294</PMCID>
+    <PMCID>2764843</PMCID>
+    <PMCID>2818276</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2268676</PMCID>
+    <PMCID>296094</PMCID>
+    <id>186805</id>
+    <meSHTree>B04.280.650.160.150</meSHTree>
+    <scientificName>Goatpox virus</scientificName>
+</pathogen>

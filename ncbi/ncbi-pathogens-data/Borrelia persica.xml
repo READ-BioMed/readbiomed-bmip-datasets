@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1417230</id>
+        <scientificName>Borrelia persica No12</scientificName>
+    </subSpecies>
+    <PMCID>7986556</PMCID>
+    <PMCID>7913760</PMCID>
+    <PMCID>7835866</PMCID>
+    <PMCID>7694800</PMCID>
+    <PMCID>7510688</PMCID>
+    <PMCID>7497999</PMCID>
+    <PMCID>7464417</PMCID>
+    <PMCID>7269392</PMCID>
+    <PMCID>7269391</PMCID>
+    <PMCID>7171858</PMCID>
+    <PMCID>7171826</PMCID>
+    <PMCID>7101097</PMCID>
+    <PMCID>7382693</PMCID>
+    <PMCID>6306154</PMCID>
+    <PMCID>6236141</PMCID>
+    <PMCID>5825361</PMCID>
+    <PMCID>5544103</PMCID>
+    <PMCID>7185378</PMCID>
+    <PMCID>5186749</PMCID>
+    <PMCID>4862127</PMCID>
+    <PMCID>4816561</PMCID>
+    <PMCID>4758604</PMCID>
+    <PMCID>4540281</PMCID>
+    <PMCID>4451892</PMCID>
+    <PMCID>4284306</PMCID>
+    <PMCID>4262381</PMCID>
+    <PMCID>4157404</PMCID>
+    <PMCID>3886952</PMCID>
+    <PMCID>3771281</PMCID>
+    <PMCID>3741250</PMCID>
+    <PMCID>3640964</PMCID>
+    <PMCID>3421807</PMCID>
+    <PMCID>3481739</PMCID>
+    <PMCID>3381401</PMCID>
+    <PMCID>3381385</PMCID>
+    <PMCID>3385570</PMCID>
+    <PMCID>3385554</PMCID>
+    <PMCID>2991353</PMCID>
+    <PMCID>7121989</PMCID>
+    <PMCID>2695030</PMCID>
+    <PMCID>3029673</PMCID>
+    <PMCID>3372360</PMCID>
+    <PMCID>98298</PMCID>
+    <PMCID>85019</PMCID>
+    <id>44448</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Spirochaeta persica
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Spirochaeta persica" Dschunkowsky 1913
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Borrelia persica (Dschunkowsky 1913) Steinhaus 1946
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Borrelia persica</scientificName>
+</pathogen>

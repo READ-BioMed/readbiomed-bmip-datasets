@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8001946</PMCID>
+    <PMCID>7887442</PMCID>
+    <PMCID>7514017</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7173471</PMCID>
+    <PMCID>6893411</PMCID>
+    <PMCID>6633198</PMCID>
+    <PMCID>6563258</PMCID>
+    <PMCID>6315636</PMCID>
+    <PMCID>6213050</PMCID>
+    <PMCID>5799277</PMCID>
+    <PMCID>5544226</PMCID>
+    <PMCID>5367258</PMCID>
+    <PMCID>5048074</PMCID>
+    <PMCID>4262315</PMCID>
+    <PMCID>4045682</PMCID>
+    <PMCID>3880322</PMCID>
+    <PMCID>3667192</PMCID>
+    <PMCID>3051236</PMCID>
+    <PMCID>3169951</PMCID>
+    <PMCID>3185485</PMCID>
+    <PMCID>2254921</PMCID>
+    <PMCID>1952227</PMCID>
+    <PMCID>1563885</PMCID>
+    <id>12888</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  TPMVd
+ &lt;/GenbankAcronym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Tomato plant macho viroid
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato planta macho viroid</scientificName>
+</pathogen>

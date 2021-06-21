@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>664655</id>
+        <scientificName>Pestivirus sp. strain 5250</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>664650</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine viral diarrhea virus 2 strain 178003
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pestivirus sp. strain 178003</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>358768</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine viral diarrhea virus 2-New York'93
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine viral diarrhea virus 2 New York'93</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>99541</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  border disease virus strain SCP
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine viral diarrhea virus-2 isolate SCP</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>99469</id>
+        <scientificName>Bovine viral diarrhea virus-2 isolate 230/98-K3 (Gi-6)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>99468</id>
+        <scientificName>Bovine viral diarrhea virus-2 isolate 230/98-K2 (Gi-5)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>99467</id>
+        <scientificName>Bovine viral diarrhea virus-2 isolate 230/98-K1 (Gi-4)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>99466</id>
+        <scientificName>Bovine viral diarrhea virus-2 isolate Giessen-3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>4910497</PMCID>
+        <id>60869</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Border disease virus strain C413
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine viral diarrhea virus 2-C413
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine viral diarrhea virus 2 C413</scientificName>
+    </subSpecies>
+    <PMCID>7782308</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7298064</PMCID>
+    <PMCID>7112918</PMCID>
+    <PMCID>7080061</PMCID>
+    <PMCID>6950564</PMCID>
+    <PMCID>6827220</PMCID>
+    <PMCID>6758615</PMCID>
+    <PMCID>6327412</PMCID>
+    <PMCID>6325805</PMCID>
+    <PMCID>5853760</PMCID>
+    <PMCID>6292290</PMCID>
+    <PMCID>5637349</PMCID>
+    <PMCID>5656787</PMCID>
+    <PMCID>5549297</PMCID>
+    <PMCID>4910497</PMCID>
+    <PMCID>4333670</PMCID>
+    <PMCID>3381567</PMCID>
+    <PMCID>2707012</PMCID>
+    <PMCID>1764468</PMCID>
+    <PMCID>1410726</PMCID>
+    <PMCID>1283970</PMCID>
+    <PMCID>1142128</PMCID>
+    <PMCID>222961</PMCID>
+    <GeneBankPMID>7676648</GeneBankPMID>
+    <GeneBankPMID>23838147</GeneBankPMID>
+    <id>54315</id>
+    <meSHTree>B04.820.578.344.700.150.120</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BVDV type II
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  BVDV-2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine viral diarrhea virus genotype 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine viral diarrhea virus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine viral diarrhea virus-2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine viral diarrhea virus type II
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  pestivirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine viral diarrhea virus 2</scientificName>
+</pathogen>

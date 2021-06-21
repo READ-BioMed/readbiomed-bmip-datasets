@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7096189</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4074940</PMCID>
+        <PMCID>2567038</PMCID>
+        <PMCID>64942</PMCID>
+        <GeneBankPMID>12634391</GeneBankPMID>
+        <GeneBankPMID>6156536</GeneBankPMID>
+        <id>47680</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TAV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus tup
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tupaia adenovirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  tupaia adenovirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tree shrew adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>5744146</PMCID>
+    <PMCID>5215340</PMCID>
+    <PMCID>4984651</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2567038</PMCID>
+    <GeneBankPMID>12634391</GeneBankPMID>
+    <GeneBankPMID>14573794</GeneBankPMID>
+    <GeneBankPMID>6156536</GeneBankPMID>
+    <id>242710</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tree shrew adenovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tree shrew adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tree shrew adenovirus A</scientificName>
+</pathogen>

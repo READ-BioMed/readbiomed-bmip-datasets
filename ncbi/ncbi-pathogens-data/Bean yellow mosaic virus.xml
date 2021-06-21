@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1143716</id>
+        <scientificName>Bean yellow mosaic virus-[Canna]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1143715</id>
+        <scientificName>Bean yellow mosaic virus-[Hibiscus rosa-sinensis]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1143703</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bean yellow mosaic virus-[Solanum capsicastrum]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bean yellow mosaic virus-[Capsicum annuum 'Purple flash']</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>522268</id>
+        <scientificName>Dahlia yellow mosaic virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>521257</id>
+        <scientificName>Bean yellow mosaic virus isolate B25</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>390237</id>
+        <scientificName>White lupin mosaic virus</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7997183</PMCID>
+    <PMCID>7883180</PMCID>
+    <PMCID>7874184</PMCID>
+    <PMCID>7779967</PMCID>
+    <PMCID>7757248</PMCID>
+    <PMCID>7766433</PMCID>
+    <PMCID>7691756</PMCID>
+    <PMCID>7330602</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7353409</PMCID>
+    <PMCID>7117771</PMCID>
+    <PMCID>7102708</PMCID>
+    <PMCID>7076090</PMCID>
+    <PMCID>7076635</PMCID>
+    <PMCID>7012578</PMCID>
+    <PMCID>6987279</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6952669</PMCID>
+    <PMCID>6873528</PMCID>
+    <PMCID>6863122</PMCID>
+    <PMCID>6843664</PMCID>
+    <PMCID>6669575</PMCID>
+    <PMCID>6435773</PMCID>
+    <PMCID>6425663</PMCID>
+    <PMCID>6376063</PMCID>
+    <PMCID>6154414</PMCID>
+    <PMCID>6116182</PMCID>
+    <PMCID>6083270</PMCID>
+    <PMCID>5862823</PMCID>
+    <PMCID>5695790</PMCID>
+    <PMCID>5694492</PMCID>
+    <PMCID>5680193</PMCID>
+    <PMCID>5713270</PMCID>
+    <PMCID>5739011</PMCID>
+    <PMCID>5498505</PMCID>
+    <PMCID>6638112</PMCID>
+    <PMCID>5047884</PMCID>
+    <PMCID>5430582</PMCID>
+    <PMCID>4984661</PMCID>
+    <PMCID>5074642</PMCID>
+    <PMCID>4910497</PMCID>
+    <PMCID>4859702</PMCID>
+    <PMCID>5562474</PMCID>
+    <PMCID>6638324</PMCID>
+    <PMCID>4561679</PMCID>
+    <PMCID>4663705</PMCID>
+    <PMCID>6638323</PMCID>
+    <PMCID>4429621</PMCID>
+    <PMCID>4379023</PMCID>
+    <PMCID>4246219</PMCID>
+    <PMCID>4262307</PMCID>
+    <PMCID>4141833</PMCID>
+    <PMCID>4125191</PMCID>
+    <PMCID>4174850</PMCID>
+    <PMCID>3979751</PMCID>
+    <PMCID>4007533</PMCID>
+    <PMCID>3951315</PMCID>
+    <PMCID>3946452</PMCID>
+    <PMCID>4188202</PMCID>
+    <PMCID>4174816</PMCID>
+    <PMCID>3700270</PMCID>
+    <PMCID>3735108</PMCID>
+    <PMCID>3650196</PMCID>
+    <PMCID>3509684</PMCID>
+    <PMCID>6638641</PMCID>
+    <PMCID>3158773</PMCID>
+    <PMCID>6638836</PMCID>
+    <PMCID>3550725</PMCID>
+    <PMCID>3025909</PMCID>
+    <PMCID>2789583</PMCID>
+    <PMCID>2756233</PMCID>
+    <PMCID>6640373</PMCID>
+    <PMCID>2649914</PMCID>
+    <PMCID>2222634</PMCID>
+    <PMCID>1567666</PMCID>
+    <PMCID>98927</PMCID>
+    <PMCID>243151</PMCID>
+    <id>12197</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BYMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Pea mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bean yellow mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bean yellow mosaic virus BYMV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bean yellow mosaic virus, BYMV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  pea mosaic potyvirus PMV-I
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bean yellow mosaic virus</scientificName>
+</pathogen>

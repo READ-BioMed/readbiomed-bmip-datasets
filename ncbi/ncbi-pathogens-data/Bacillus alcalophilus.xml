@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1218173</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus alcalophilus ATCC 27647
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus alcalophilus CGMCC 1.3604
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus alcalophilus DSM 485
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus alcalophilus IAM 12461
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus alcalophilus IFO 15653
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacillus alcalophilus NBRC 15653
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Bacillus alcalophilus CGMCC 1.3604 = ATCC 27647
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604</scientificName>
+    </subSpecies>
+    <PMCID>8076557</PMCID>
+    <PMCID>8062480</PMCID>
+    <PMCID>7787011</PMCID>
+    <PMCID>7759134</PMCID>
+    <PMCID>7571677</PMCID>
+    <PMCID>7525065</PMCID>
+    <PMCID>7407149</PMCID>
+    <PMCID>7276444</PMCID>
+    <PMCID>7277484</PMCID>
+    <PMCID>7101268</PMCID>
+    <PMCID>6927924</PMCID>
+    <PMCID>6787118</PMCID>
+    <PMCID>6742469</PMCID>
+    <PMCID>6767865</PMCID>
+    <PMCID>6680979</PMCID>
+    <PMCID>6651295</PMCID>
+    <PMCID>6604391</PMCID>
+    <PMCID>6627055</PMCID>
+    <PMCID>6522883</PMCID>
+    <PMCID>6692554</PMCID>
+    <PMCID>6375700</PMCID>
+    <PMCID>6176047</PMCID>
+    <PMCID>6120979</PMCID>
+    <PMCID>6043687</PMCID>
+    <PMCID>6485780</PMCID>
+    <PMCID>5939612</PMCID>
+    <PMCID>6486512</PMCID>
+    <PMCID>5809494</PMCID>
+    <PMCID>5884911</PMCID>
+    <PMCID>5899699</PMCID>
+    <PMCID>6296584</PMCID>
+    <PMCID>5601474</PMCID>
+    <PMCID>5569350</PMCID>
+    <PMCID>5394311</PMCID>
+    <PMCID>5298331</PMCID>
+    <PMCID>5182017</PMCID>
+    <PMCID>5150636</PMCID>
+    <PMCID>5047918</PMCID>
+    <PMCID>7092833</PMCID>
+    <PMCID>5116877</PMCID>
+    <PMCID>4987347</PMCID>
+    <PMCID>4987636</PMCID>
+    <PMCID>6299904</PMCID>
+    <PMCID>4778876</PMCID>
+    <PMCID>5040864</PMCID>
+    <PMCID>4752951</PMCID>
+    <PMCID>4726428</PMCID>
+    <PMCID>4536690</PMCID>
+    <PMCID>4525482</PMCID>
+    <PMCID>4485142</PMCID>
+    <PMCID>4351885</PMCID>
+    <PMCID>4312637</PMCID>
+    <PMCID>4241669</PMCID>
+    <PMCID>4231106</PMCID>
+    <PMCID>4225499</PMCID>
+    <PMCID>4020544</PMCID>
+    <PMCID>4002152</PMCID>
+    <PMCID>3888941</PMCID>
+    <PMCID>3925218</PMCID>
+    <PMCID>3840746</PMCID>
+    <PMCID>3756968</PMCID>
+    <PMCID>3708380</PMCID>
+    <PMCID>3758960</PMCID>
+    <PMCID>3962208</PMCID>
+    <PMCID>3457975</PMCID>
+    <PMCID>3361193</PMCID>
+    <PMCID>3204233</PMCID>
+    <PMCID>3228905</PMCID>
+    <PMCID>3147393</PMCID>
+    <PMCID>3247762</PMCID>
+    <PMCID>2962914</PMCID>
+    <PMCID>2953014</PMCID>
+    <PMCID>2952212</PMCID>
+    <PMCID>2893209</PMCID>
+    <PMCID>2850911</PMCID>
+    <PMCID>2890045</PMCID>
+    <PMCID>2794097</PMCID>
+    <PMCID>2637859</PMCID>
+    <PMCID>2695506</PMCID>
+    <PMCID>3768371</PMCID>
+    <PMCID>1482892</PMCID>
+    <PMCID>1482817</PMCID>
+    <PMCID>1283985</PMCID>
+    <PMCID>3072713</PMCID>
+    <PMCID>2253390</PMCID>
+    <PMCID>551566</PMCID>
+    <PMCID>2253317</PMCID>
+    <PMCID>310180</PMCID>
+    <PMCID>165752</PMCID>
+    <PMCID>145327</PMCID>
+    <PMCID>99031</PMCID>
+    <PMCID>92793</PMCID>
+    <PMCID>92655</PMCID>
+    <PMCID>87447</PMCID>
+    <PMCID>98975</PMCID>
+    <PMCID>99781</PMCID>
+    <PMCID>107237</PMCID>
+    <PMCID>106153</PMCID>
+    <PMCID>206330</PMCID>
+    <PMCID>182820</PMCID>
+    <PMCID>214338</PMCID>
+    <PMCID>218917</PMCID>
+    <PMCID>217961</PMCID>
+    <PMCID>319154</PMCID>
+    <id>1445</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus alcalophilus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Alkalihalobacillus alcalophilus (Vedder 1934) Patel and Gupta 2020
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacillus alcalophilus Vedder 1934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27647
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27647
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:7120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 15419
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:15419
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 15419
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:15419
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 28516
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:28516
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC 1.3604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:1.3604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 485
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:485
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15653
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15653
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 5262
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:5262
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 1824
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:1824
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 7120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:7120
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15653
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15653
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 8772
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 10436
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 8772
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:10436
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:8772
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 4553
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:4553
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-14309
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL NRS-1548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-14309
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:NRS-1548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:14309
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:NRS:1548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacillus alcalophilus</scientificName>
+</pathogen>

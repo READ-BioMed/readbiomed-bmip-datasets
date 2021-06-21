@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6394706</PMCID>
+        <id>652954</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian metapneumovirus (isolate 15a)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian metapneumovirus 15a</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>519376</id>
+        <scientificName>Avian metapneumovirus type D</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3319594</PMCID>
+        <id>422060</id>
+        <scientificName>Avian metapneumovirus type A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3319594</PMCID>
+        <id>260584</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  APV-Virus Type B
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian pneumovirus type B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian metapneumovirus type B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6007559</PMCID>
+        <PMCID>3319594</PMCID>
+        <id>227731</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  APV-Virus Type C
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Avian metapneumovirus type C</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7149678</PMCID>
+        <PMCID>7149719</PMCID>
+        <PMCID>4176992</PMCID>
+        <PMCID>3126242</PMCID>
+        <PMCID>3436071</PMCID>
+        <PMCID>2963636</PMCID>
+        <PMCID>2627932</PMCID>
+        <PMCID>179772</PMCID>
+        <PMCID>136297</PMCID>
+        <PMCID>130925</PMCID>
+        <PMCID>102035</PMCID>
+        <PMCID>103829</PMCID>
+        <id>11264</id>
+        <meSHTree>B04.820.480.937.600.670.500</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  TRTV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  turkey rhinotracheitis virus TRTV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Turkey rhinotracheitis virus</scientificName>
+    </subSpecies>
+    <PMCID>7936137</PMCID>
+    <PMCID>7890387</PMCID>
+    <PMCID>7768545</PMCID>
+    <PMCID>7305653</PMCID>
+    <PMCID>7297342</PMCID>
+    <PMCID>7232392</PMCID>
+    <PMCID>7169724</PMCID>
+    <PMCID>7150300</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149678</PMCID>
+    <PMCID>7149509</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7127184</PMCID>
+    <PMCID>7126379</PMCID>
+    <PMCID>7111884</PMCID>
+    <PMCID>7087779</PMCID>
+    <PMCID>7087237</PMCID>
+    <PMCID>7232570</PMCID>
+    <PMCID>7154308</PMCID>
+    <PMCID>7150321</PMCID>
+    <PMCID>7149579</PMCID>
+    <PMCID>7127460</PMCID>
+    <PMCID>7127230</PMCID>
+    <PMCID>7119753</PMCID>
+    <PMCID>7119483</PMCID>
+    <PMCID>7114220</PMCID>
+    <PMCID>7110564</PMCID>
+    <PMCID>7087998</PMCID>
+    <PMCID>6802313</PMCID>
+    <PMCID>6754162</PMCID>
+    <PMCID>6784231</PMCID>
+    <PMCID>6641539</PMCID>
+    <PMCID>6501061</PMCID>
+    <PMCID>6460460</PMCID>
+    <PMCID>6406928</PMCID>
+    <PMCID>6300026</PMCID>
+    <PMCID>6304978</PMCID>
+    <PMCID>6394706</PMCID>
+    <PMCID>6395197</PMCID>
+    <PMCID>6188560</PMCID>
+    <PMCID>6291800</PMCID>
+    <PMCID>5993000</PMCID>
+    <PMCID>6076851</PMCID>
+    <PMCID>5913567</PMCID>
+    <PMCID>5863084</PMCID>
+    <PMCID>5795268</PMCID>
+    <PMCID>5775899</PMCID>
+    <PMCID>5640183</PMCID>
+    <PMCID>5522946</PMCID>
+    <PMCID>5481403</PMCID>
+    <PMCID>5524546</PMCID>
+    <PMCID>5831667</PMCID>
+    <PMCID>5126379</PMCID>
+    <PMCID>5837305</PMCID>
+    <PMCID>4984647</PMCID>
+    <PMCID>4947412</PMCID>
+    <PMCID>4938198</PMCID>
+    <PMCID>6007559</PMCID>
+    <PMCID>4798948</PMCID>
+    <PMCID>4620442</PMCID>
+    <PMCID>4546084</PMCID>
+    <PMCID>4326515</PMCID>
+    <PMCID>4248898</PMCID>
+    <PMCID>4222263</PMCID>
+    <PMCID>4188208</PMCID>
+    <PMCID>6807631</PMCID>
+    <PMCID>3956885</PMCID>
+    <PMCID>3914980</PMCID>
+    <PMCID>3941176</PMCID>
+    <PMCID>3903454</PMCID>
+    <PMCID>3672079</PMCID>
+    <PMCID>3661469</PMCID>
+    <PMCID>3564841</PMCID>
+    <PMCID>3485962</PMCID>
+    <PMCID>3811939</PMCID>
+    <PMCID>3319594</PMCID>
+    <PMCID>3293882</PMCID>
+    <PMCID>2880113</PMCID>
+    <PMCID>2833431</PMCID>
+    <PMCID>2712088</PMCID>
+    <PMCID>2699510</PMCID>
+    <PMCID>2643776</PMCID>
+    <PMCID>2516547</PMCID>
+    <PMCID>3339847</PMCID>
+    <PMCID>2442682</PMCID>
+    <PMCID>1472575</PMCID>
+    <PMCID>1325097</PMCID>
+    <PMCID>1316028</PMCID>
+    <PMCID>1287544</PMCID>
+    <PMCID>1087890</PMCID>
+    <PMCID>420231</PMCID>
+    <PMCID>3323073</PMCID>
+    <PMCID>156497</PMCID>
+    <PMCID>153897</PMCID>
+    <PMCID>152140</PMCID>
+    <PMCID>88271</PMCID>
+    <PMCID>87534</PMCID>
+    <GeneBankPMID>16282483</GeneBankPMID>
+    <GeneBankPMID>15483235</GeneBankPMID>
+    <GeneBankPMID>26498473</GeneBankPMID>
+    <GeneBankPMID>18663568</GeneBankPMID>
+    <GeneBankPMID>26175070</GeneBankPMID>
+    <GeneBankPMID>18160118</GeneBankPMID>
+    <GeneBankPMID>22659296</GeneBankPMID>
+    <GeneBankPMID>15666873</GeneBankPMID>
+    <GeneBankPMID>22915815</GeneBankPMID>
+    <GeneBankPMID>20713098</GeneBankPMID>
+    <GeneBankPMID>21287257</GeneBankPMID>
+    <GeneBankPMID>21683102</GeneBankPMID>
+    <id>38525</id>
+    <meSHTree>B04.820.480.937.600.670.500</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Avian pneumovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian metapneumovirus</scientificName>
+</pathogen>

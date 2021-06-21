@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5002280</PMCID>
+        <id>1606860</id>
+        <scientificName>Gorilla gorilla adenovirus E1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7404033</PMCID>
+        <GeneBankPMID>22808149</GeneBankPMID>
+        <id>1123958</id>
+        <scientificName>Chimpanzee adenovirus Y25</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>585073</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SAdV-39
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 39</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>585072</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SAdV-38
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 38</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>585092</id>
+            <scientificName>Simian adenovirus 37.2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>585091</id>
+            <scientificName>Simian adenovirus 37.1</scientificName>
+        </subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>585071</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SAdV-37
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 37</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>585070</id>
+        <scientificName>Simian adenovirus 36</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>585064</id>
+        <scientificName>Simian adenovirus 30</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>585060</id>
+        <scientificName>Simian adenovirus 26</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>175569</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SAdV-22
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus 22
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus E22</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7404033</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>1868475</PMCID>
+        <id>175568</id>
+        <scientificName>Simian adenovirus 24</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>585082</id>
+            <scientificName>Simian adenovirus 25.2</scientificName>
+        </subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>175567</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus SV-25
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 25</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7404033</PMCID>
+        <PMCID>4984651</PMCID>
+        <id>35266</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian adenovirus type 23
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian adenovirus 23</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1643781</id>
+            <scientificName>Human adenovirus 4p</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>8000859</PMCID>
+            <id>35263</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 4a
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human adenovirus 4a</scientificName>
+        </subSpecies>
+        <PMCID>7137215</PMCID>
+        <PMCID>7096189</PMCID>
+        <PMCID>7097586</PMCID>
+        <PMCID>7046724</PMCID>
+        <PMCID>6881435</PMCID>
+        <PMCID>6865078</PMCID>
+        <PMCID>6549382</PMCID>
+        <PMCID>6631750</PMCID>
+        <PMCID>6410123</PMCID>
+        <PMCID>6352248</PMCID>
+        <PMCID>6301965</PMCID>
+        <PMCID>6126648</PMCID>
+        <PMCID>6038765</PMCID>
+        <PMCID>6061873</PMCID>
+        <PMCID>6021486</PMCID>
+        <PMCID>6027524</PMCID>
+        <PMCID>5848554</PMCID>
+        <PMCID>5850404</PMCID>
+        <PMCID>5782899</PMCID>
+        <PMCID>5752955</PMCID>
+        <PMCID>5744130</PMCID>
+        <PMCID>5668234</PMCID>
+        <PMCID>5580473</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4834066</PMCID>
+        <PMCID>4639511</PMCID>
+        <PMCID>4416912</PMCID>
+        <PMCID>4446416</PMCID>
+        <PMCID>4346660</PMCID>
+        <PMCID>4249130</PMCID>
+        <PMCID>4130277</PMCID>
+        <PMCID>4026248</PMCID>
+        <PMCID>3512288</PMCID>
+        <PMCID>2992506</PMCID>
+        <PMCID>2909221</PMCID>
+        <PMCID>1976596</PMCID>
+        <PMCID>1235826</PMCID>
+        <PMCID>387592</PMCID>
+        <PMCID>2640890</PMCID>
+        <PMCID>88656</PMCID>
+        <PMCID>328317</PMCID>
+        <id>28280</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Adenovirus type 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus type 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus h4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human adenovirus E4</scientificName>
+    </subSpecies>
+    <PMCID>7465710</PMCID>
+    <PMCID>7448680</PMCID>
+    <PMCID>7319284</PMCID>
+    <PMCID>7422451</PMCID>
+    <PMCID>7354429</PMCID>
+    <PMCID>6313479</PMCID>
+    <PMCID>6052428</PMCID>
+    <PMCID>4649739</PMCID>
+    <PMCID>4352565</PMCID>
+    <PMCID>4331283</PMCID>
+    <PMCID>4235025</PMCID>
+    <PMCID>4198854</PMCID>
+    <PMCID>3187507</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2725825</PMCID>
+    <GeneBankPMID>19679664</GeneBankPMID>
+    <GeneBankPMID>15483252</GeneBankPMID>
+    <GeneBankPMID>17546044</GeneBankPMID>
+    <GeneBankPMID>19115936</GeneBankPMID>
+    <GeneBankPMID>24025716</GeneBankPMID>
+    <GeneBankPMID>21047956</GeneBankPMID>
+    <GeneBankPMID>16763564</GeneBankPMID>
+    <GeneBankPMID>15556937</GeneBankPMID>
+    <GeneBankPMID>18480450</GeneBankPMID>
+    <GeneBankPMID>18653458</GeneBankPMID>
+    <GeneBankPMID>15507617</GeneBankPMID>
+    <GeneBankPMID>18987153</GeneBankPMID>
+    <GeneBankPMID>20409568</GeneBankPMID>
+    <GeneBankPMID>19948501</GeneBankPMID>
+    <GeneBankPMID>15834423</GeneBankPMID>
+    <GeneBankPMID>19434099</GeneBankPMID>
+    <GeneBankPMID>16185356</GeneBankPMID>
+    <GeneBankPMID>19535438</GeneBankPMID>
+    <id>130308</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAdV-E
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human adenovirus E
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human adenovirus E</scientificName>
+</pathogen>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>6299227</PMCID>
+    <PMCID>5845851</PMCID>
+    <PMCID>5592212</PMCID>
+    <PMCID>4521826</PMCID>
+    <PMCID>4422679</PMCID>
+    <PMCID>4874343</PMCID>
+    <PMCID>4722956</PMCID>
+    <PMCID>4165934</PMCID>
+    <PMCID>3719023</PMCID>
+    <PMCID>3488013</PMCID>
+    <PMCID>3067806</PMCID>
+    <PMCID>2876656</PMCID>
+    <PMCID>3185516</PMCID>
+    <PMCID>2583970</PMCID>
+    <PMCID>2495034</PMCID>
+    <PMCID>2999427</PMCID>
+    <PMCID>1413668</PMCID>
+    <PMCID>112128</PMCID>
+    <GeneBankPMID>1840612</GeneBankPMID>
+    <GeneBankPMID>26116275</GeneBankPMID>
+    <GeneBankPMID>22361475</GeneBankPMID>
+    <id>2170100</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BYDV-RPV
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  CYDV-RPV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus - RPV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus RPV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Barley yellow dwarf virus-RPV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cereal yellow dwarf virus - RPV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cereal yellow dwarf virus-RPV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cereal yellow dwarf virus-RPV</scientificName>
+</pathogen>

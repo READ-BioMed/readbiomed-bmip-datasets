@@ -1,0 +1,12 @@
+
+Recombinant influenza virus carrying the conserved domain of respiratory syncytial virus (RSV) G protein confers protection against RSV without inflammatory disease.
+
+Respiratory syncytial virus (RSV) is one of the most important causes for viral lower respiratory tract disease in humans. 
+There is no licensed RSV vaccine. 
+Here, we generated recombinant influenza viruses (PR8/RSV.HA-G) carrying the chimeric constructs of hemagglutinin (HA) and central conserved-domains of the RSV G protein. 
+PR8/RSV.HA-G virus showed lower pathogenicity without compromising immunogenicity in mice. 
+Single intranasal inoculation of mice with PR8/RSV.HA-G induced IgG2a isotype dominant antibodies and RSV neutralizing activity. 
+Mice with single intranasal inoculation of PR8/RSV.HA-G were protected against RSV infection as evidenced by significant reduction of lung viral loads to a detection limit upon RSV challenge. 
+PR8/RSV.HA-G inoculation of mice did not induce pulmonary eosinophilia and inflammation upon RSV infection. 
+These findings support a concept that recombinant influenza viruses carrying the RSV G conserved-domain can be developed as a promising RSV vaccine candidate without pulmonary disease. 
+

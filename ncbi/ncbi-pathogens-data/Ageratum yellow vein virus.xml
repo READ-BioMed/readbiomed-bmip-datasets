@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1705297</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ageratum yellow vein virus-Malaysia [Malaysia-Tomato Leaf curl-2011]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ageratum yellow vein virus-[Malaysia-Tomato Leaf curl-2011]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>501252</id>
+        <scientificName>Ageratum yellow vein virus - [G130]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>501251</id>
+        <scientificName>Ageratum yellow vein virus - [G129]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>446318</id>
+        <scientificName>Ageratum yellow vein virus-Ishigaki</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>437064</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ageratum yellow vein virus- [Taiwan:Taoyuan3:2000]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ageratum yellow vein virus-[Taiwan:Taoyuan3:2000]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>346391</id>
+        <scientificName>Ageratum yellow vein virus-Pakistan</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>315357</id>
+        <scientificName>Ageratum yellow vein virus-[Tomato3]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>292479</id>
+        <scientificName>Ageratum yellow vein virus-[Indonesia]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>292474</id>
+        <scientificName>Ageratum yellow vein virus-[Tomato2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>263002</id>
+        <scientificName>Ageratum yellow vein virus-[Tomato]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223251</id>
+        <scientificName>Soybean crinkle leaf virus-[Japan]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>18943280</GeneBankPMID>
+        <id>222078</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ageratum yellow vein China virus-[Hn2]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ageratum yellow vein China virus - [Hn2]</scientificName>
+    </subSpecies>
+    <PMCID>7318802</PMCID>
+    <PMCID>7215500</PMCID>
+    <PMCID>6842478</PMCID>
+    <PMCID>6589721</PMCID>
+    <PMCID>6546731</PMCID>
+    <PMCID>6480954</PMCID>
+    <PMCID>5800667</PMCID>
+    <PMCID>5796946</PMCID>
+    <PMCID>6517462</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5425491</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4704257</PMCID>
+    <PMCID>4566980</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>4182527</PMCID>
+    <PMCID>4494219</PMCID>
+    <PMCID>4101524</PMCID>
+    <PMCID>4432016</PMCID>
+    <PMCID>3798893</PMCID>
+    <PMCID>3723831</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2922188</PMCID>
+    <PMCID>2725476</PMCID>
+    <PMCID>2565953</PMCID>
+    <PMCID>2268320</PMCID>
+    <PMCID>1182626</PMCID>
+    <PMCID>1389620</PMCID>
+    <PMCID>533896</PMCID>
+    <GeneBankPMID>8847495</GeneBankPMID>
+    <id>44560</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  AYVV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ageratum yellow vein virus</scientificName>
+</pathogen>

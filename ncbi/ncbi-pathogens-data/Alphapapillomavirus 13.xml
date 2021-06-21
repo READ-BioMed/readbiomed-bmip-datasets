@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7086667</PMCID>
+        <GeneBankPMID>23998342</GeneBankPMID>
+        <GeneBankPMID>7963696</GeneBankPMID>
+        <id>1671798</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 54
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 54
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus type 54</scientificName>
+    </subSpecies>
+    <PMCID>7704424</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>5117989</PMCID>
+    <id>333766</id>
+    <scientificName>Alphapapillomavirus 13</scientificName>
+</pathogen>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>25078300</GeneBankPMID>
+        <id>1538452</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  FAstV-D1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Feline astrovirus D1</scientificName>
+    </subSpecies>
+    <PMCID>7759923</PMCID>
+    <PMCID>7697530</PMCID>
+    <PMCID>7086731</PMCID>
+    <PMCID>7173465</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6881279</PMCID>
+    <PMCID>6081416</PMCID>
+    <PMCID>6505809</PMCID>
+    <PMCID>6505883</PMCID>
+    <PMCID>5454415</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>4188187</PMCID>
+    <GeneBankPMID>33167568</GeneBankPMID>
+    <id>1239566</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Feline astrovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mamastrovirus 2</scientificName>
+</pathogen>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1401075</id>
+        <scientificName>Prevotella disiens DNF00882</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1235811</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Prevotella disiens ATCC 29426
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Prevotella disiens JCM 6334
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Prevotella disiens VPI 8057
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Prevotella disiens ATCC 29426 = JCM 6334
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Prevotella disiens JCM 6334 = ATCC 29426</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>866771</id>
+        <scientificName>Prevotella disiens FB035-09AN</scientificName>
+    </subSpecies>
+    <PMCID>8101409</PMCID>
+    <PMCID>7871823</PMCID>
+    <PMCID>7822910</PMCID>
+    <PMCID>7824525</PMCID>
+    <PMCID>7643181</PMCID>
+    <PMCID>7779204</PMCID>
+    <PMCID>7498004</PMCID>
+    <PMCID>7578456</PMCID>
+    <PMCID>7668344</PMCID>
+    <PMCID>7850003</PMCID>
+    <PMCID>7417979</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7324666</PMCID>
+    <PMCID>7248648</PMCID>
+    <PMCID>7455417</PMCID>
+    <PMCID>7261169</PMCID>
+    <PMCID>7113972</PMCID>
+    <PMCID>8028096</PMCID>
+    <PMCID>7049000</PMCID>
+    <PMCID>7071157</PMCID>
+    <PMCID>6937407</PMCID>
+    <PMCID>6831638</PMCID>
+    <PMCID>6838980</PMCID>
+    <PMCID>6767994</PMCID>
+    <PMCID>6746969</PMCID>
+    <PMCID>6698797</PMCID>
+    <PMCID>6895779</PMCID>
+    <PMCID>6507119</PMCID>
+    <PMCID>6750128</PMCID>
+    <PMCID>6397931</PMCID>
+    <PMCID>6300652</PMCID>
+    <PMCID>6056523</PMCID>
+    <PMCID>5907734</PMCID>
+    <PMCID>5703816</PMCID>
+    <PMCID>5530502</PMCID>
+    <PMCID>5583845</PMCID>
+    <PMCID>5469791</PMCID>
+    <PMCID>5562407</PMCID>
+    <PMCID>5406518</PMCID>
+    <PMCID>5614382</PMCID>
+    <PMCID>5069864</PMCID>
+    <PMCID>5328852</PMCID>
+    <PMCID>4957512</PMCID>
+    <PMCID>4730988</PMCID>
+    <PMCID>4755523</PMCID>
+    <PMCID>4765748</PMCID>
+    <PMCID>4563089</PMCID>
+    <PMCID>4504397</PMCID>
+    <PMCID>4349605</PMCID>
+    <PMCID>4192146</PMCID>
+    <PMCID>4113856</PMCID>
+    <PMCID>4004658</PMCID>
+    <PMCID>4148456</PMCID>
+    <PMCID>3988654</PMCID>
+    <PMCID>3811277</PMCID>
+    <PMCID>3699591</PMCID>
+    <PMCID>3719496</PMCID>
+    <PMCID>3697572</PMCID>
+    <PMCID>3912758</PMCID>
+    <PMCID>3592085</PMCID>
+    <PMCID>3572671</PMCID>
+    <PMCID>3862329</PMCID>
+    <PMCID>3532386</PMCID>
+    <PMCID>3516768</PMCID>
+    <PMCID>3402533</PMCID>
+    <PMCID>3429525</PMCID>
+    <PMCID>3396344</PMCID>
+    <PMCID>3228714</PMCID>
+    <PMCID>3122467</PMCID>
+    <PMCID>2876056</PMCID>
+    <PMCID>2849566</PMCID>
+    <PMCID>2832436</PMCID>
+    <PMCID>2804585</PMCID>
+    <PMCID>2798483</PMCID>
+    <PMCID>2695466</PMCID>
+    <PMCID>2691082</PMCID>
+    <PMCID>2681565</PMCID>
+    <PMCID>2637877</PMCID>
+    <PMCID>5677275</PMCID>
+    <PMCID>2612144</PMCID>
+    <PMCID>2223873</PMCID>
+    <PMCID>1610075</PMCID>
+    <PMCID>1472202</PMCID>
+    <PMCID>1426457</PMCID>
+    <PMCID>1234108</PMCID>
+    <PMCID>535274</PMCID>
+    <PMCID>525447</PMCID>
+    <PMCID>525250</PMCID>
+    <PMCID>478502</PMCID>
+    <PMCID>152516</PMCID>
+    <PMCID>149336</PMCID>
+    <PMCID>149287</PMCID>
+    <PMCID>128757</PMCID>
+    <PMCID>127353</PMCID>
+    <PMCID>127089</PMCID>
+    <PMCID>126985</PMCID>
+    <PMCID>88973</PMCID>
+    <PMCID>90331</PMCID>
+    <PMCID>90047</PMCID>
+    <PMCID>89408</PMCID>
+    <PMCID>88649</PMCID>
+    <PMCID>105856</PMCID>
+    <PMCID>105488</PMCID>
+    <PMCID>121377</PMCID>
+    <PMCID>1194771</PMCID>
+    <PMCID>358214</PMCID>
+    <PMCID>269725</PMCID>
+    <PMCID>269631</PMCID>
+    <PMCID>268628</PMCID>
+    <PMCID>273883</PMCID>
+    <PMCID>283919</PMCID>
+    <id>28130</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides disiens
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides disiens Holdeman and Johnson 1977 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Prevotella disiens (Holdeman and Johnson 1977) Shah and Collins 1990
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29426
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29426
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:6453
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 9558
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:9558
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105108
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105108
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20516
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20516
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6334
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6334
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 6453
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:6453
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11157
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11157
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides disiens</scientificName>
+</pathogen>

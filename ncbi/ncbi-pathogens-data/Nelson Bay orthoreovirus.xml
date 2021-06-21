@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1109732</id>
+        <scientificName>Pteropine orthoreovirus Sikamat/MYS/2010</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>476204</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bali/HK orthoreovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Reovirus strain HK23629/07</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6192116</PMCID>
+        <PMCID>5604424</PMCID>
+        <PMCID>4810255</PMCID>
+        <PMCID>3147939</PMCID>
+        <PMCID>2573251</PMCID>
+        <GeneBankPMID>16205863</GeneBankPMID>
+        <GeneBankPMID>21849518</GeneBankPMID>
+        <id>253454</id>
+        <scientificName>Pulau reovirus</scientificName>
+    </subSpecies>
+    <PMCID>7412057</PMCID>
+    <PMCID>7110734</PMCID>
+    <PMCID>7087202</PMCID>
+    <PMCID>7195271</PMCID>
+    <PMCID>7041985</PMCID>
+    <PMCID>6798121</PMCID>
+    <PMCID>6639940</PMCID>
+    <PMCID>6450123</PMCID>
+    <PMCID>6363997</PMCID>
+    <PMCID>6192116</PMCID>
+    <PMCID>6002737</PMCID>
+    <PMCID>6007231</PMCID>
+    <PMCID>5923464</PMCID>
+    <PMCID>5640853</PMCID>
+    <PMCID>5604424</PMCID>
+    <PMCID>5556373</PMCID>
+    <PMCID>5338561</PMCID>
+    <PMCID>5103266</PMCID>
+    <PMCID>5346753</PMCID>
+    <PMCID>5082797</PMCID>
+    <PMCID>4810255</PMCID>
+    <PMCID>4762779</PMCID>
+    <PMCID>7081072</PMCID>
+    <PMCID>4642344</PMCID>
+    <PMCID>5157728</PMCID>
+    <PMCID>4264558</PMCID>
+    <PMCID>4269970</PMCID>
+    <PMCID>3965453</PMCID>
+    <PMCID>6157708</PMCID>
+    <PMCID>3964136</PMCID>
+    <PMCID>3711887</PMCID>
+    <PMCID>3701659</PMCID>
+    <PMCID>3542737</PMCID>
+    <PMCID>3352366</PMCID>
+    <PMCID>3230843</PMCID>
+    <PMCID>3192755</PMCID>
+    <PMCID>3147939</PMCID>
+    <PMCID>3057921</PMCID>
+    <PMCID>3294587</PMCID>
+    <PMCID>2901333</PMCID>
+    <PMCID>5123878</PMCID>
+    <PMCID>2615760</PMCID>
+    <PMCID>2583042</PMCID>
+    <PMCID>2533695</PMCID>
+    <PMCID>4152769</PMCID>
+    <PMCID>544091</PMCID>
+    <id>118027</id>
+    <meSHTree>B04.820.223.719.590</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Nelson Bay virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Nelson bay reovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Nelson Bay orthoreovirus</scientificName>
+</pathogen>

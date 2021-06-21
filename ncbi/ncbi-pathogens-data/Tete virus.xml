@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7290797</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6434826</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6382863</PMCID>
+        <PMCID>6701456</PMCID>
+        <PMCID>5866268</PMCID>
+        <PMCID>4664991</PMCID>
+        <id>1678229</id>
+        <scientificName>Matruh virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7290797</PMCID>
+        <PMCID>7123612</PMCID>
+        <PMCID>6641860</PMCID>
+        <PMCID>6434826</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6382863</PMCID>
+        <PMCID>6701456</PMCID>
+        <PMCID>5866268</PMCID>
+        <PMCID>4664991</PMCID>
+        <id>1622279</id>
+        <scientificName>Bahig virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6641860</PMCID>
+        <PMCID>6581445</PMCID>
+        <PMCID>6701456</PMCID>
+        <PMCID>4664991</PMCID>
+        <id>500324</id>
+        <scientificName>Weldona virus</scientificName>
+    </subSpecies>
+    <PMCID>6641860</PMCID>
+    <PMCID>6399452</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6382863</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>5866268</PMCID>
+    <PMCID>5526847</PMCID>
+    <PMCID>5968633</PMCID>
+    <PMCID>3167897</PMCID>
+    <PMCID>2708632</PMCID>
+    <GeneBankPMID>26610546</GeneBankPMID>
+    <id>35319</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tete bunyavirus group
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tete serogroup
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tete virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tete virus</scientificName>
+</pathogen>

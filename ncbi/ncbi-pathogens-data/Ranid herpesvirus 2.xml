@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7166504</PMCID>
+    <PMCID>7159363</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3571366</PMCID>
+    <PMCID>3203048</PMCID>
+    <PMCID>3125225</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2779260</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>17098965</GeneBankPMID>
+    <id>389214</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  RaHV-2
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Frog herpesvirus 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ranid herpesvirus 2</scientificName>
+</pathogen>

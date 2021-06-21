@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>756895</id>
+        <scientificName>Okra yellow mosaic Mexico virus - [Herissantia:Colima 1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>756894</id>
+        <scientificName>Okra yellow mosaic Mexico virus - [Sida:Colima 2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>445981</id>
+        <scientificName>Okra yellow mosaic Mexico virus - Tetekalitla</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>445980</id>
+        <scientificName>Okra yellow mosaic Mexico virus - Santa Teresa 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>445979</id>
+        <scientificName>Okra yellow mosaic Mexico virus - Santa Teresa 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>362904</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Okra yellow mosaic Mexico virus-[Abutilon isolate]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Okra yellow mosaic Mexico virus - [Abutilon isolate]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>361724</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Okra yellow mosaic Mexico virus- [Anoda isolate]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Okra yellow mosaic Mexico virus - [Anoda isolate]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>361723</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Okra yellow mosaic Mexico virus - [Sida isolate]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Okra yellow mosaic Mexico virus- [Sida isolate]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Okra yellow mosaic Mexico virus - [Sida]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>361722</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Okra yellow mosaic Mexico virus-[Corchorus isolate]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Okra yellow mosaic Mexico virus - [Corchorus isolate]</scientificName>
+    </subSpecies>
+    <PMCID>7357562</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>5355441</PMCID>
+    <id>327280</id>
+    <scientificName>Okra yellow mosaic Mexico virus</scientificName>
+</pathogen>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1406223</id>
+        <scientificName>Adeno-associated virus 3A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>68742</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  adeno-associated virus type 3B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Adeno-associated virus 3B</scientificName>
+    </subSpecies>
+    <GeneBankPMID>8661429</GeneBankPMID>
+    <id>46350</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  adeno-associated virus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Adeno-associated virus-3</scientificName>
+</pathogen>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1325580</id>
+        <scientificName>Radish leaf curl virus-Hajipur [IN:LabIso:11]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1325579</id>
+        <scientificName>Radish leaf curl virus-Hajipur [IN:Bih06:10]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1325578</id>
+        <scientificName>Radish leaf curl virus-Hajipur [IN:Bih:ok09]</scientificName>
+    </subSpecies>
+    <PMCID>7461331</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6788413</PMCID>
+    <PMCID>6117872</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>5355441</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4566980</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>3002923</PMCID>
+    <id>435646</id>
+    <scientificName>Radish leaf curl virus</scientificName>
+</pathogen>

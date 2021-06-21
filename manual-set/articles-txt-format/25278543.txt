@@ -1,0 +1,5 @@
+
+Complete Genome Sequences of H3N2 Canine Influenza Virus with the Matrix Gene from the Pandemic A/H1N1 Virus.
+
+We analyzed the complete genome sequence containing the 3' and 5' noncoding regions (NCRs) of H3N2 canine influenza virus (CIV) with the matrix gene from the pandemic A/H1N1 virus, which will provide a better understanding of the pathogenesis, transmission, and evolution of variant CIV. 
+

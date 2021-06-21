@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>223360</id>
+        <scientificName>Tomato rugose mosaic virus-[Ube]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>99478</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TGV-Ub
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Tomato geminivirus Uberlandia
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato rugose mosaic virus - [Uberlandia]</scientificName>
+    </subSpecies>
+    <PMCID>6638324</PMCID>
+    <PMCID>4113279</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3648162</PMCID>
+    <PMCID>3356392</PMCID>
+    <PMCID>3061938</PMCID>
+    <PMCID>2945956</PMCID>
+    <id>134599</id>
+    <scientificName>Tomato rugose mosaic virus</scientificName>
+</pathogen>

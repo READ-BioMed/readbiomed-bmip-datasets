@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>20677027</GeneBankPMID>
+        <id>871521</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SiGMFV-MA
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sida golden mosaic Florida virus-Malvastrum</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223315</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SiGMFV-US
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Sida golden mosaic Florida virus-[A1]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Sida golden mosaic Florida virus-[USA]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sida golden mosaic Florida virus-USA</scientificName>
+    </subSpecies>
+    <PMCID>7390960</PMCID>
+    <PMCID>4632403</PMCID>
+    <PMCID>3081322</PMCID>
+    <id>223314</id>
+    <scientificName>Sida golden mosaic Florida virus</scientificName>
+</pathogen>

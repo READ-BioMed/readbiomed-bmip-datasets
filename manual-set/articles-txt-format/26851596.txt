@@ -1,0 +1,12 @@
+
+A role for Toll-like receptor 4 in the host response to the lung infection of Yersinia pseudotuberculosis in mice.
+
+Although a Yersinia pseudotuberculosis (Yptb) lung infection model has been developed to study Y. pestis pathogenesis, it is still necessary to establish a new animal model to mimic the pathophysiological features induced by Y. pestis infection. 
+Here, we provide a new lung infection model using the Yptb strain, IP2777, which displayed rapid spread of bacteria to the liver, spleen, and blood. 
+In addition, we examined whether TLR4 is involved in Yptb-induced pathogenesis in the lung infection model of mice we generated. 
+Following lung infection of WT and TLR4-deficient mice with the Yptb strain IP2777, the survival rate, bacterial colonization, histopathology, and level of cytokines and chemokines in the lung, spleen, liver, and blood were analyzed. 
+TLR4-deficient mice had a lower survival rate than WT mice in response to Yptb lung infection. 
+Although the bacterial colonization and pathology of the lung were comparable between WT and TLR4-deficient mice, those of the spleen and liver were more severe in TLR4-deficient mice. 
+In addition, the levels of TNF-α and CXCL2 in the liver and IL-6 and CXCL2 in the blood were higher in TLR4-deficient mice than in WT mice. 
+Our results demonstrate that TLR4 is necessary for optimal host protection against Yptb lung infection and TLR4-deficient mice may serve as a better genetic model of Yptb infection for mimicking Y. pestis infection. 
+

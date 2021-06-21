@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1663022</id>
+        <scientificName>Beet curly top Iran virus-[Kaf]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1277443</id>
+        <scientificName>Beet curly top Iran virus-[Siv]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>501373</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Iranian beet curly top virus-[Yazd]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Beet curly top Iran virus-[Yazd]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>501372</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Iranian beet curly top virus-[Sh2]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Beet curly top Iran virus-[Sh2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>501371</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Iranian beet curly top virus-[K]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Beet curly top Iran virus-[K]</scientificName>
+    </subSpecies>
+    <PMCID>7766492</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7010050</PMCID>
+    <PMCID>6293997</PMCID>
+    <PMCID>5770407</PMCID>
+    <PMCID>5802298</PMCID>
+    <PMCID>5323628</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5219900</PMCID>
+    <PMCID>3066396</PMCID>
+    <PMCID>2892029</PMCID>
+    <PMCID>2666655</PMCID>
+    <GeneBankPMID>18401697</GeneBankPMID>
+    <id>391228</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Iranian beet curly top curtovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Iranian beet curly top virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Beet curly top Iran virus</scientificName>
+</pathogen>

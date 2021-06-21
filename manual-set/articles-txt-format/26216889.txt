@@ -1,0 +1,9 @@
+
+Programming of Influenza Vaccine Broadness and Persistence by Mucoadhesive Polymer-Based Adjuvant Systems.
+
+The development of an anti-influenza vaccine with the potential for cross-protection against seasonal drift variants as well as occasionally emerging reassortant viruses is essential. 
+In this study, we successfully generated a novel anti-influenza vaccine system combining conserved matrix protein 2 (sM2) and stalk domain of hemagglutinin (HA2) fusion protein (sM2HA2) and poly-γ-glutamic acid (γ-PGA)-based vaccine adjuvant systems that can act as a mucoadhesive delivery vehicle of sM2HA2 as well as a robust strategy for the incorporation of hydrophobic immunostimulatory 3-O-desacyl-4'-monophosphoryl lipid A (MPL) and QS21. 
+Intranasal coadministration of sM2HA2 and the combination adjuvant γ-PGA/MPL/QS21 (CA-PMQ) was able to induce a high degree of protective mucosal, systemic, and cell-mediated immune responses. 
+The sM2HA2/CA-PMQ immunization was able to prevent disease symptoms, confering complete protection against lethal infection with divergent influenza subtypes (H5N1, H1N1, H5N2, H7N3, and H9N2) that lasted for at least 6 mo. 
+Therefore, our data suggest that mucosal administration of sM2HA2 in combination with CA-PMQ could be a potent strategy for a broad cross-protective influenza vaccine, and CA-PMQ as a mucosal adjuvant could be used for effective mucosal vaccines.
+

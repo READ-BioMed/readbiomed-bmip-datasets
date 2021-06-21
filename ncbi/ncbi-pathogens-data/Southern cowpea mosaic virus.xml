@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7695315</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7129803</PMCID>
+    <PMCID>7114514</PMCID>
+    <PMCID>5291397</PMCID>
+    <PMCID>5072566</PMCID>
+    <PMCID>4810260</PMCID>
+    <PMCID>4488728</PMCID>
+    <PMCID>3925361</PMCID>
+    <PMCID>3393542</PMCID>
+    <PMCID>3402239</PMCID>
+    <PMCID>3016346</PMCID>
+    <PMCID>2789583</PMCID>
+    <PMCID>2649914</PMCID>
+    <PMCID>2495034</PMCID>
+    <PMCID>1061534</PMCID>
+    <PMCID>371063</PMCID>
+    <PMCID>156155</PMCID>
+    <PMCID>112128</PMCID>
+    <GeneBankPMID>23830075</GeneBankPMID>
+    <GeneBankPMID>2823471</GeneBankPMID>
+    <GeneBankPMID>17115301</GeneBankPMID>
+    <id>196398</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SCPMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Southern bean mosaic virus cowpea strain
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  previously cowpea strain of SBMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Southern cowpea mosaic virus</scientificName>
+</pathogen>

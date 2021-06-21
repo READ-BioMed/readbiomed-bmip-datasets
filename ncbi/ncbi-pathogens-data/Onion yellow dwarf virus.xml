@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>52610</id>
+        <scientificName>Garlic potyvirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7680954</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7313975</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7058106</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6655591</PMCID>
+    <PMCID>6435773</PMCID>
+    <PMCID>6339470</PMCID>
+    <PMCID>6206096</PMCID>
+    <PMCID>6173849</PMCID>
+    <PMCID>6638112</PMCID>
+    <PMCID>5399925</PMCID>
+    <PMCID>5047884</PMCID>
+    <PMCID>4356611</PMCID>
+    <PMCID>4307630</PMCID>
+    <PMCID>4136854</PMCID>
+    <PMCID>4188198</PMCID>
+    <PMCID>6638672</PMCID>
+    <PMCID>3765376</PMCID>
+    <PMCID>3650194</PMCID>
+    <PMCID>3532268</PMCID>
+    <PMCID>3550777</PMCID>
+    <GeneBankPMID>12756621</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>43130</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  OYDV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  onion yellow dwarf potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Onion yellw dwarf virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Onion yellow dwarf virus</scientificName>
+</pathogen>

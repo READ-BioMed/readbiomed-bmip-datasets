@@ -1,0 +1,12 @@
+
+Novel reassortant H5N6 highly pathogenic influenza A viruses in Vietnamese quail outbreaks.
+
+Avian influenza A H5N6 virus is a highly contagious infectious agent that affects domestic poultry and humans in South Asian countries. 
+Vietnam may be an evolutionary hotspot for influenza viruses and therefore could serve as a source of pandemic strains. 
+In 2015, two novel reassortant H5N6 influenza viruses designated as A/quail/Vietnam/CVVI01/2015 and A/quail/Vietnam/CVVI03/2015 were isolated from dead quails during avian influenza outbreaks in central Vietnam, and the whole genome sequences were analyzed. 
+The genetic analysis indicated that hemagglutinin, neuraminidase, and polymerase basic protein 2 genes of the two H5N6 viruses are most closely related to an H5N2 virus (A/chicken/Zhejiang/727079/2014) and H10N6 virus (A/chicken/Jiangxi/12782/2014) from China and an H6N6 virus (A/duck/Yamagata/061004/2014) from Japan. 
+The HA gene of the isolates belongs to clade 2.3.4.4, which caused human fatalities in China during 2014-2016. 
+The five other internal genes showed high identity to an H5N2 virus (A/chicken/Heilongjiang/S7/2014) from China. 
+A whole-genome phylogenetic analysis revealed that these two outbreak strains are novel H6N6-like PB2 gene reassortants that are most closely related to influenza virus strain A/environment/Guangdong/ZS558/2015, which was detected in a live poultry market in China. 
+This report describes the first detection of novel H5N6 reassortants in poultry during an outbreak as well as genetic characterization of these strains to better understand the antigenic evolution of influenza viruses.
+

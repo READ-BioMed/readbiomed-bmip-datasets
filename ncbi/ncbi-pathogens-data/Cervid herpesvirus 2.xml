@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>6933772</PMCID>
+    <PMCID>6370630</PMCID>
+    <PMCID>5771138</PMCID>
+    <PMCID>5404682</PMCID>
+    <PMCID>4828894</PMCID>
+    <PMCID>4620691</PMCID>
+    <PMCID>3274481</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2786388</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>17903260</GeneBankPMID>
+    <id>365327</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CvHV-2
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Cervid herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Reindeer herpesvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cervid herpesvirus 2</scientificName>
+</pathogen>

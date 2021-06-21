@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>117139</id>
+        <scientificName>Brome streak virus (strain German)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>117138</id>
+        <scientificName>Brome streak virus (strain 11-Cal)</scientificName>
+    </subSpecies>
+    <PMCID>7962190</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>6288765</PMCID>
+    <PMCID>6072864</PMCID>
+    <PMCID>4849750</PMCID>
+    <PMCID>3096046</PMCID>
+    <PMCID>2613721</PMCID>
+    <PMCID>2224578</PMCID>
+    <GeneBankPMID>7636484</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>42631</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BStV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Brome streak mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Brome streak mosaic rymovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Brome streak virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Brome streak mosaic virus</scientificName>
+</pathogen>

@@ -1,0 +1,12 @@
+
+Ostrich ( Struthio camelus ) Infected with H5N8 Highly Pathogenic Avian Influenza Virus in South Korea in 2014.
+
+Highly pathogenic avian influenza (HPAI) virus of the H5N8 subtype was isolated from a young ostrich in South Korea in March 2014. 
+Clinical signs characterized by anorexia, depression, and signs of nervousness were observed. 
+The isolated A/ostrich/Korea/H829/2014 (H5N8) virus had a cleavage site motif containing multiple basic amino acids, typical of HPAI virus. 
+The phylogenetic tree of the hemagglutinin gene of the H5 HPAI virus showed that this ostrich H5N8 virus belongs to clade 2.3.4.4 viruses together with H5N8 strains isolated from ducks and wild birds in South Korea in 2014. 
+Pathologically, redness of pancreas, enlargement and hemorrhage of spleen, friability of brain, and hydropericardium were prominently found. 
+Histologic legions were observed in pancreas, spleen, liver, lung, heart, and brain, and influenza A nucleoproteins were detected in the same organs by immunohistochemistry. 
+Other ostriches farmed together in open camps were not infected with HPAI virus based on the serologic and virologic tests. 
+The findings indicate that ostriches are susceptible to H5N8 HPAI virus, but this virus does not spread efficiently among ratites.
+

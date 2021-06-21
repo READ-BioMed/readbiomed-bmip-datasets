@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7648319</PMCID>
+    <PMCID>6783978</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6382863</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>7011695</PMCID>
+    <PMCID>5953397</PMCID>
+    <PMCID>5953381</PMCID>
+    <PMCID>5594662</PMCID>
+    <PMCID>5543164</PMCID>
+    <PMCID>4824219</PMCID>
+    <PMCID>4619601</PMCID>
+    <PMCID>4239342</PMCID>
+    <GeneBankPMID>25414487</GeneBankPMID>
+    <id>35313</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  9-Gamboa virus Group
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Gamboa bunyavirus group
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Gamboa serogroup
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Gamboa virus</scientificName>
+</pathogen>

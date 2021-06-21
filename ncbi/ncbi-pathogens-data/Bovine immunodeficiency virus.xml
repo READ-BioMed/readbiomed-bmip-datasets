@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>417993</id>
+        <scientificName>Bovine immunodeficiency virus FL112</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>417312</id>
+        <scientificName>Bovine immunodeficiency virus OK</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>417297</id>
+        <scientificName>Bovine immunodeficiency virus FL491</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>417303</id>
+            <scientificName>BIV R29-289</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>417302</id>
+            <scientificName>BIV R29-1203</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>417301</id>
+            <scientificName>BIV R29-1078</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>11659</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine immunodeficiency virus (ISOLATE 127)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine immunodeficiency virus R29-127
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>BIV R29-127</scientificName>
+        </subSpecies>
+        <id>417296</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine immunodeficiency virus (isolate R29)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine immunodeficiency virus R29</scientificName>
+    </subSpecies>
+    <PMCID>7835632</PMCID>
+    <PMCID>7232228</PMCID>
+    <PMCID>7148895</PMCID>
+    <PMCID>7134018</PMCID>
+    <PMCID>7117376</PMCID>
+    <PMCID>7150345</PMCID>
+    <PMCID>7121007</PMCID>
+    <PMCID>7117276</PMCID>
+    <PMCID>7114570</PMCID>
+    <PMCID>7060631</PMCID>
+    <PMCID>7072860</PMCID>
+    <PMCID>6814141</PMCID>
+    <PMCID>6428148</PMCID>
+    <PMCID>6391209</PMCID>
+    <PMCID>6023938</PMCID>
+    <PMCID>5588738</PMCID>
+    <PMCID>5237517</PMCID>
+    <PMCID>5072347</PMCID>
+    <PMCID>4822317</PMCID>
+    <PMCID>4422223</PMCID>
+    <PMCID>6941201</PMCID>
+    <PMCID>4172784</PMCID>
+    <PMCID>4022296</PMCID>
+    <PMCID>3835772</PMCID>
+    <PMCID>3833384</PMCID>
+    <PMCID>3832697</PMCID>
+    <PMCID>3630055</PMCID>
+    <PMCID>3511177</PMCID>
+    <PMCID>3347360</PMCID>
+    <PMCID>4875097</PMCID>
+    <PMCID>2786839</PMCID>
+    <PMCID>2597210</PMCID>
+    <PMCID>2238898</PMCID>
+    <PMCID>1829189</PMCID>
+    <PMCID>4305752</PMCID>
+    <PMCID>1370931</PMCID>
+    <PMCID>140932</PMCID>
+    <PMCID>130104</PMCID>
+    <PMCID>99025</PMCID>
+    <PMCID>114130</PMCID>
+    <PMCID>96050</PMCID>
+    <PMCID>1189647</PMCID>
+    <PMCID>112101</PMCID>
+    <PMCID>95913</PMCID>
+    <PMCID>111987</PMCID>
+    <PMCID>103872</PMCID>
+    <PMCID>237213</PMCID>
+    <GeneBankPMID>30160145</GeneBankPMID>
+    <GeneBankPMID>29289827</GeneBankPMID>
+    <GeneBankPMID>25142583</GeneBankPMID>
+    <GeneBankPMID>16631225</GeneBankPMID>
+    <GeneBankPMID>20148896</GeneBankPMID>
+    <GeneBankPMID>2183467</GeneBankPMID>
+    <GeneBankPMID>17976681</GeneBankPMID>
+    <GeneBankPMID>17645750</GeneBankPMID>
+    <GeneBankPMID>28342388</GeneBankPMID>
+    <id>11657</id>
+    <meSHTree>B04.820.650.589.500.400</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  BIV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Bovine immunodeficiency-like virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine immunodeficiency virus</scientificName>
+</pathogen>

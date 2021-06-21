@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>281921</id>
+        <scientificName>Raspberry ringspot virus strain cherry</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>36399</id>
+        <scientificName>Raspberry ringspot virus (strain S)</scientificName>
+    </subSpecies>
+    <PMCID>7395792</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7009144</PMCID>
+    <PMCID>7008910</PMCID>
+    <PMCID>7009162</PMCID>
+    <PMCID>7008834</PMCID>
+    <PMCID>5664137</PMCID>
+    <PMCID>4726821</PMCID>
+    <PMCID>4729743</PMCID>
+    <PMCID>4152289</PMCID>
+    <PMCID>2916547</PMCID>
+    <PMCID>6640236</PMCID>
+    <PMCID>2617849</PMCID>
+    <GeneBankPMID>14602206</GeneBankPMID>
+    <id>12809</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RRV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  raspberry ringspot virus RRV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Raspberry ringspot virus</scientificName>
+</pathogen>

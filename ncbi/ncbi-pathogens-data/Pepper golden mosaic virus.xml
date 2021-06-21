@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>223302</id>
+        <scientificName>Pepper golden mosaic virus-[CR]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2894479</PMCID>
+        <id>47837</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TPV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Texas pepper geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Texas pepper virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pepper golden mosaic virus - [Mexico]</scientificName>
+    </subSpecies>
+    <PMCID>7357562</PMCID>
+    <PMCID>7177692</PMCID>
+    <PMCID>7396689</PMCID>
+    <PMCID>7150747</PMCID>
+    <PMCID>7102708</PMCID>
+    <PMCID>7077291</PMCID>
+    <PMCID>6629631</PMCID>
+    <PMCID>6669703</PMCID>
+    <PMCID>6611054</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6498046</PMCID>
+    <PMCID>6385306</PMCID>
+    <PMCID>5972885</PMCID>
+    <PMCID>5855737</PMCID>
+    <PMCID>5659608</PMCID>
+    <PMCID>5618022</PMCID>
+    <PMCID>5597257</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5048074</PMCID>
+    <PMCID>5086600</PMCID>
+    <PMCID>5219900</PMCID>
+    <PMCID>4552598</PMCID>
+    <PMCID>5014474</PMCID>
+    <PMCID>4419787</PMCID>
+    <PMCID>4331541</PMCID>
+    <PMCID>4253015</PMCID>
+    <PMCID>3938563</PMCID>
+    <PMCID>5634132</PMCID>
+    <PMCID>6638794</PMCID>
+    <PMCID>3967154</PMCID>
+    <PMCID>4174809</PMCID>
+    <PMCID>3720902</PMCID>
+    <PMCID>3546870</PMCID>
+    <PMCID>3390404</PMCID>
+    <PMCID>3233405</PMCID>
+    <PMCID>6638836</PMCID>
+    <PMCID>3061938</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2945956</PMCID>
+    <PMCID>2812408</PMCID>
+    <PMCID>2770057</PMCID>
+    <PMCID>2620903</PMCID>
+    <PMCID>3061584</PMCID>
+    <PMCID>2894479</PMCID>
+    <PMCID>2902183</PMCID>
+    <GeneBankPMID>18944336</GeneBankPMID>
+    <id>223301</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SGMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Pepper golden mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Serrano golden mosaic geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Serrano golden mosaic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pepper golden mosaic virus</scientificName>
+</pathogen>

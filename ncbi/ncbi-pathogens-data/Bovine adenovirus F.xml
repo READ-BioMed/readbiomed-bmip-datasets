@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7086968</PMCID>
+        <PMCID>5383171</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>332259</PMCID>
+        <PMCID>271102</PMCID>
+        <PMCID>1277525</PMCID>
+        <id>10511</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus bos7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 7</scientificName>
+    </subSpecies>
+    <id>346178</id>
+    <scientificName>Bovine adenovirus F</scientificName>
+</pathogen>

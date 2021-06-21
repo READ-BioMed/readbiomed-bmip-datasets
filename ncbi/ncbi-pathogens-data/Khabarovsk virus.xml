@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7106157</PMCID>
+        <PMCID>6544330</PMCID>
+        <PMCID>5653249</PMCID>
+        <PMCID>4871597</PMCID>
+        <PMCID>3798614</PMCID>
+        <PMCID>3647411</PMCID>
+        <PMCID>3310113</PMCID>
+        <PMCID>3298307</PMCID>
+        <PMCID>2863364</PMCID>
+        <PMCID>2798396</PMCID>
+        <PMCID>2702001</PMCID>
+        <PMCID>2248171</PMCID>
+        <PMCID>3373030</PMCID>
+        <PMCID>2732528</PMCID>
+        <PMCID>112616</PMCID>
+        <id>74537</id>
+        <scientificName>Vladivostok virus</scientificName>
+    </subSpecies>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>5758900</PMCID>
+    <PMCID>5443433</PMCID>
+    <PMCID>5450251</PMCID>
+    <PMCID>4507303</PMCID>
+    <PMCID>4871597</PMCID>
+    <PMCID>4014717</PMCID>
+    <PMCID>3647411</PMCID>
+    <PMCID>3630908</PMCID>
+    <PMCID>3298307</PMCID>
+    <PMCID>2979329</PMCID>
+    <PMCID>2863364</PMCID>
+    <PMCID>2880890</PMCID>
+    <PMCID>2798396</PMCID>
+    <PMCID>2702001</PMCID>
+    <PMCID>2727351</PMCID>
+    <PMCID>2248171</PMCID>
+    <PMCID>2253664</PMCID>
+    <PMCID>1578555</PMCID>
+    <PMCID>1563903</PMCID>
+    <PMCID>3373030</PMCID>
+    <PMCID>1181592</PMCID>
+    <PMCID>254384</PMCID>
+    <PMCID>140797</PMCID>
+    <PMCID>2732528</PMCID>
+    <PMCID>88127</PMCID>
+    <PMCID>112616</PMCID>
+    <PMCID>103873</PMCID>
+    <PMCID>84184</PMCID>
+    <PMCID>105155</PMCID>
+    <GeneBankPMID>25087879</GeneBankPMID>
+    <id>1980475</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  KHAV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Khabarovsk hantavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Khabarovsk virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Khabarovsk virus</scientificName>
+</pathogen>

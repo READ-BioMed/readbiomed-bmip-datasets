@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6107796</PMCID>
+        <id>1121386</id>
+        <scientificName>Dendrosporobacter quercicolus DSM 1736</scientificName>
+    </subSpecies>
+    <PMCID>7693217</PMCID>
+    <PMCID>6315149</PMCID>
+    <PMCID>6107796</PMCID>
+    <PMCID>6436544</PMCID>
+    <PMCID>2271084</PMCID>
+    <PMCID>2289825</PMCID>
+    <PMCID>2258623</PMCID>
+    <PMCID>1352240</PMCID>
+    <PMCID>92730</PMCID>
+    <PMCID>91862</PMCID>
+    <PMCID>91680</PMCID>
+    <PMCID>91679</PMCID>
+    <PMCID>91529</PMCID>
+    <id>146817</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium quercicolum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium quercicolum Stankewich et al. 1971 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Dendrosporobacter quercicolus (Stankewich et al. 1971) Strompl et al. 2000
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1736
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1736
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium quercicolum</scientificName>
+</pathogen>

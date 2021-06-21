@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <PMCID>7086785</PMCID>
+            <PMCID>4734002</PMCID>
+            <PMCID>4422223</PMCID>
+            <PMCID>5052812</PMCID>
+            <PMCID>2519028</PMCID>
+            <PMCID>115900</PMCID>
+            <id>509154</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Pig endogenous retrovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine endogenous type C retrovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine endogenous retrovirus C</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>286072</id>
+            <scientificName>Porcine endogenous retrovirus C/A</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>4734002</PMCID>
+            <PMCID>115900</PMCID>
+            <id>194959</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  porcine endogenous retrovirus subclass B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine endogenous retrovirus B</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>7175990</PMCID>
+            <PMCID>7169751</PMCID>
+            <PMCID>4734002</PMCID>
+            <PMCID>4422223</PMCID>
+            <PMCID>3572736</PMCID>
+            <PMCID>2884687</PMCID>
+            <PMCID>115900</PMCID>
+            <id>194958</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  porcine endogenous retrovirus subclass A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine endogenous retrovirus A</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>3296672</PMCID>
+            <id>168238</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine endogenous retrovirus class E
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine endogenous retrovirus E</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>130070</id>
+            <scientificName>Porcine endogenous retrovirus M20</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>130069</id>
+            <scientificName>Porcine endogenous retrovirus M16</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>130068</id>
+            <scientificName>Porcine endogenous retrovirus FPP-1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>130067</id>
+            <scientificName>Porcine endogenous retrovirus M4</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>71581</id>
+            <scientificName>Porcine endogenous retrovirus Tsukuba-1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <PMCID>4734002</PMCID>
+            <id>71579</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  porcine endogenous retrovirus PERV-MSL
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine endogenous retrovirus MSL</scientificName>
+        </subSpecies>
+        <PMCID>7698772</PMCID>
+        <PMCID>7396149</PMCID>
+        <PMCID>7223737</PMCID>
+        <PMCID>7175990</PMCID>
+        <PMCID>7148957</PMCID>
+        <PMCID>7129476</PMCID>
+        <PMCID>7124307</PMCID>
+        <PMCID>7114432</PMCID>
+        <PMCID>7169751</PMCID>
+        <PMCID>7072860</PMCID>
+        <PMCID>6893729</PMCID>
+        <PMCID>6908750</PMCID>
+        <PMCID>6769330</PMCID>
+        <PMCID>6770129</PMCID>
+        <PMCID>6658398</PMCID>
+        <PMCID>6560896</PMCID>
+        <PMCID>6428148</PMCID>
+        <PMCID>6376240</PMCID>
+        <PMCID>6258497</PMCID>
+        <PMCID>6476671</PMCID>
+        <PMCID>6165560</PMCID>
+        <PMCID>6071052</PMCID>
+        <PMCID>6166667</PMCID>
+        <PMCID>6019655</PMCID>
+        <PMCID>5932395</PMCID>
+        <PMCID>5629053</PMCID>
+        <PMCID>5546926</PMCID>
+        <PMCID>5405437</PMCID>
+        <PMCID>5378407</PMCID>
+        <PMCID>5167775</PMCID>
+        <PMCID>4917968</PMCID>
+        <PMCID>4838870</PMCID>
+        <PMCID>4873160</PMCID>
+        <PMCID>4734002</PMCID>
+        <PMCID>5377232</PMCID>
+        <PMCID>4429407</PMCID>
+        <PMCID>4422553</PMCID>
+        <PMCID>4422223</PMCID>
+        <PMCID>4413356</PMCID>
+        <PMCID>4133949</PMCID>
+        <PMCID>4121521</PMCID>
+        <PMCID>4068064</PMCID>
+        <PMCID>4036550</PMCID>
+        <PMCID>3564632</PMCID>
+        <PMCID>3626506</PMCID>
+        <PMCID>3478234</PMCID>
+        <PMCID>3418512</PMCID>
+        <PMCID>3406430</PMCID>
+        <PMCID>3419623</PMCID>
+        <PMCID>3572736</PMCID>
+        <PMCID>3768267</PMCID>
+        <PMCID>3296672</PMCID>
+        <PMCID>3206158</PMCID>
+        <PMCID>3122264</PMCID>
+        <PMCID>3095213</PMCID>
+        <PMCID>3033773</PMCID>
+        <PMCID>2950858</PMCID>
+        <PMCID>2924490</PMCID>
+        <PMCID>3017779</PMCID>
+        <PMCID>2909010</PMCID>
+        <PMCID>2999112</PMCID>
+        <PMCID>2778799</PMCID>
+        <PMCID>2884687</PMCID>
+        <PMCID>2866107</PMCID>
+        <PMCID>2717909</PMCID>
+        <PMCID>3450045</PMCID>
+        <PMCID>2630988</PMCID>
+        <PMCID>2593320</PMCID>
+        <PMCID>2241639</PMCID>
+        <PMCID>2323472</PMCID>
+        <PMCID>1635704</PMCID>
+        <PMCID>1570462</PMCID>
+        <PMCID>1779541</PMCID>
+        <PMCID>1440412</PMCID>
+        <PMCID>4615419</PMCID>
+        <PMCID>514590</PMCID>
+        <PMCID>1356396</PMCID>
+        <PMCID>395764</PMCID>
+        <PMCID>303422</PMCID>
+        <PMCID>293418</PMCID>
+        <PMCID>116122</PMCID>
+        <PMCID>115936</PMCID>
+        <PMCID>115900</PMCID>
+        <PMCID>88959</PMCID>
+        <PMCID>90217</PMCID>
+        <PMCID>1189617</PMCID>
+        <PMCID>116370</PMCID>
+        <PMCID>112294</PMCID>
+        <PMCID>111497</PMCID>
+        <PMCID>111512</PMCID>
+        <id>61673</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PERV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine endogenous retrovirus</scientificName>
+    </subSpecies>
+    <id>369960</id>
+    <scientificName>Porcine type-C oncovirus</scientificName>
+</pathogen>

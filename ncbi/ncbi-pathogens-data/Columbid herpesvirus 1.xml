@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>6787236</PMCID>
+        <PMCID>6051604</PMCID>
+        <PMCID>5640867</PMCID>
+        <PMCID>3280778</PMCID>
+        <PMCID>2995426</PMCID>
+        <PMCID>3552636</PMCID>
+        <PMCID>1563825</PMCID>
+        <GeneBankPMID>24685675</GeneBankPMID>
+        <id>1510155</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  FaHV-1
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Falconid herpesvirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7391395</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6248937</PMCID>
+    <PMCID>6021868</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>4030002</PMCID>
+    <PMCID>3622571</PMCID>
+    <PMCID>3280778</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>1563825</PMCID>
+    <GeneBankPMID>28316016</GeneBankPMID>
+    <id>93386</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Columbid herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Columbid herpesvirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Pigeon herpesvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Columbid herpesvirus 1</scientificName>
+</pathogen>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1051323</id>
+        <scientificName>Simian endogenous retrovirus vero ATCC CCL-81</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7150127</PMCID>
+        <PMCID>7024778</PMCID>
+        <PMCID>4746887</PMCID>
+        <PMCID>4036550</PMCID>
+        <PMCID>3758348</PMCID>
+        <PMCID>111497</PMCID>
+        <id>1048243</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SERV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian endogenous retrovirus type D
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Simian endogenous retrovirus van der Kuyl et al. 1997
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian endogenous retrovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>301864</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SRV/D-T
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian type D retrovirus -Tsukuba</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>53257</id>
+        <scientificName>unidentified simian type D retrovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>73490</id>
+            <scientificName>Simian retrovirus srv-2 (isolate 2R-18B1)</scientificName>
+        </subSpecies>
+        <PMCID>7433209</PMCID>
+        <PMCID>7072860</PMCID>
+        <PMCID>5142408</PMCID>
+        <PMCID>4422223</PMCID>
+        <PMCID>3835772</PMCID>
+        <PMCID>2771606</PMCID>
+        <PMCID>2375028</PMCID>
+        <PMCID>519117</PMCID>
+        <id>39068</id>
+        <meSHTree>B04.613.807.124.520, B04.613.807.805.550, B04.820.650.124.520, B04.820.650.805.550</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SRV-2
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian SRV-2 retrovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian SRV-2 type D retrovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian retrovirus SRV-2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian retrovirus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian retrovirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>36771</id>
+        <scientificName>Simian SRV-like type D retrovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>28329</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human retrovirus type D
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human type D retrovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7343349</PMCID>
+        <PMCID>7149597</PMCID>
+        <PMCID>6526489</PMCID>
+        <PMCID>6265489</PMCID>
+        <PMCID>4422223</PMCID>
+        <PMCID>4271531</PMCID>
+        <PMCID>4252365</PMCID>
+        <PMCID>4036539</PMCID>
+        <PMCID>3925403</PMCID>
+        <PMCID>3835772</PMCID>
+        <PMCID>2873773</PMCID>
+        <PMCID>1242213</PMCID>
+        <PMCID>1149493</PMCID>
+        <PMCID>419593</PMCID>
+        <PMCID>2962592</PMCID>
+        <id>11942</id>
+        <meSHTree>B04.613.807.124.520, B04.613.807.805.550, B04.820.650.124.520, B04.820.650.805.550</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  SRV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian SRV-1 type D retrovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian retrovirus SRV-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian type D virus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Simian retrovirus 1</scientificName>
+    </subSpecies>
+    <GeneBankPMID>14568536</GeneBankPMID>
+    <GeneBankPMID>28458055</GeneBankPMID>
+    <GeneBankPMID>22171253</GeneBankPMID>
+    <GeneBankPMID>31588922</GeneBankPMID>
+    <GeneBankPMID>27725181</GeneBankPMID>
+    <GeneBankPMID>15929014</GeneBankPMID>
+    <GeneBankPMID>16140733</GeneBankPMID>
+    <GeneBankPMID>17596311</GeneBankPMID>
+    <GeneBankPMID>25275119</GeneBankPMID>
+    <GeneBankPMID>32796061</GeneBankPMID>
+    <GeneBankPMID>2421920</GeneBankPMID>
+    <GeneBankPMID>20810738</GeneBankPMID>
+    <GeneBankPMID>19481092</GeneBankPMID>
+    <GeneBankPMID>9636364</GeneBankPMID>
+    <GeneBankPMID>16582495</GeneBankPMID>
+    <GeneBankPMID>24298557</GeneBankPMID>
+    <GeneBankPMID>16257973</GeneBankPMID>
+    <GeneBankPMID>15183067</GeneBankPMID>
+    <GeneBankPMID>17169987</GeneBankPMID>
+    <GeneBankPMID>17140600</GeneBankPMID>
+    <GeneBankPMID>17490704</GeneBankPMID>
+    <GeneBankPMID>24659101</GeneBankPMID>
+    <GeneBankPMID>22863803</GeneBankPMID>
+    <GeneBankPMID>12915562</GeneBankPMID>
+    <GeneBankPMID>24418544</GeneBankPMID>
+    <MeSHPMID>33166472</MeSHPMID>
+    <MeSHPMID>32796061</MeSHPMID>
+    <MeSHPMID>32570695</MeSHPMID>
+    <MeSHPMID>31588922</MeSHPMID>
+    <MeSHPMID>30773097</MeSHPMID>
+    <MeSHPMID>30347798</MeSHPMID>
+    <MeSHPMID>30087395</MeSHPMID>
+    <MeSHPMID>29906704</MeSHPMID>
+    <MeSHPMID>29491167</MeSHPMID>
+    <MeSHPMID>28619602</MeSHPMID>
+    <MeSHPMID>27903772</MeSHPMID>
+    <MeSHPMID>27795446</MeSHPMID>
+    <MeSHPMID>27725181</MeSHPMID>
+    <MeSHPMID>27578150</MeSHPMID>
+    <MeSHPMID>27095024</MeSHPMID>
+    <MeSHPMID>26912613</MeSHPMID>
+    <MeSHPMID>26223638</MeSHPMID>
+    <MeSHPMID>25773138</MeSHPMID>
+    <MeSHPMID>25540373</MeSHPMID>
+    <MeSHPMID>25365920</MeSHPMID>
+    <MeSHPMID>25363765</MeSHPMID>
+    <MeSHPMID>25275119</MeSHPMID>
+    <MeSHPMID>25212909</MeSHPMID>
+    <MeSHPMID>25187981</MeSHPMID>
+    <MeSHPMID>24662511</MeSHPMID>
+    <MeSHPMID>24659101</MeSHPMID>
+    <MeSHPMID>24418544</MeSHPMID>
+    <MeSHPMID>24386297</MeSHPMID>
+    <MeSHPMID>24184468</MeSHPMID>
+    <MeSHPMID>24152551</MeSHPMID>
+    <MeSHPMID>24132720</MeSHPMID>
+    <MeSHPMID>23982515</MeSHPMID>
+    <MeSHPMID>23204319</MeSHPMID>
+    <MeSHPMID>23197576</MeSHPMID>
+    <MeSHPMID>23055934</MeSHPMID>
+    <MeSHPMID>22863803</MeSHPMID>
+    <MeSHPMID>22722831</MeSHPMID>
+    <MeSHPMID>22542615</MeSHPMID>
+    <MeSHPMID>22330582</MeSHPMID>
+    <MeSHPMID>22171253</MeSHPMID>
+    <MeSHPMID>22131312</MeSHPMID>
+    <MeSHPMID>22101816</MeSHPMID>
+    <MeSHPMID>21803791</MeSHPMID>
+    <MeSHPMID>21640189</MeSHPMID>
+    <MeSHPMID>21600288</MeSHPMID>
+    <MeSHPMID>21490096</MeSHPMID>
+    <MeSHPMID>21366213</MeSHPMID>
+    <MeSHPMID>21349567</MeSHPMID>
+    <MeSHPMID>20875467</MeSHPMID>
+    <MeSHPMID>20810738</MeSHPMID>
+    <MeSHPMID>20639537</MeSHPMID>
+    <MeSHPMID>20600114</MeSHPMID>
+    <MeSHPMID>20007269</MeSHPMID>
+    <MeSHPMID>19847204</MeSHPMID>
+    <MeSHPMID>19805055</MeSHPMID>
+    <MeSHPMID>19699504</MeSHPMID>
+    <MeSHPMID>19636921</MeSHPMID>
+    <MeSHPMID>19602292</MeSHPMID>
+    <MeSHPMID>19527730</MeSHPMID>
+    <MeSHPMID>19481092</MeSHPMID>
+    <MeSHPMID>19320800</MeSHPMID>
+    <MeSHPMID>19062065</MeSHPMID>
+    <MeSHPMID>18828835</MeSHPMID>
+    <MeSHPMID>18799582</MeSHPMID>
+    <MeSHPMID>18755489</MeSHPMID>
+    <MeSHPMID>18647839</MeSHPMID>
+    <MeSHPMID>18321968</MeSHPMID>
+    <MeSHPMID>17596311</MeSHPMID>
+    <MeSHPMID>17550606</MeSHPMID>
+    <MeSHPMID>17513303</MeSHPMID>
+    <MeSHPMID>17490704</MeSHPMID>
+    <MeSHPMID>17331558</MeSHPMID>
+    <MeSHPMID>17320392</MeSHPMID>
+    <MeSHPMID>17243200</MeSHPMID>
+    <MeSHPMID>17169987</MeSHPMID>
+    <MeSHPMID>17140600</MeSHPMID>
+    <MeSHPMID>17123565</MeSHPMID>
+    <MeSHPMID>17065090</MeSHPMID>
+    <MeSHPMID>17035335</MeSHPMID>
+    <MeSHPMID>16978406</MeSHPMID>
+    <MeSHPMID>16809314</MeSHPMID>
+    <MeSHPMID>16792898</MeSHPMID>
+    <MeSHPMID>16582495</MeSHPMID>
+    <MeSHPMID>16515713</MeSHPMID>
+    <MeSHPMID>16297423</MeSHPMID>
+    <MeSHPMID>16275753</MeSHPMID>
+    <MeSHPMID>16274484</MeSHPMID>
+    <MeSHPMID>16257973</MeSHPMID>
+    <MeSHPMID>16201587</MeSHPMID>
+    <MeSHPMID>16140734</MeSHPMID>
+    <MeSHPMID>16140733</MeSHPMID>
+    <MeSHPMID>16125747</MeSHPMID>
+    <MeSHPMID>16125122</MeSHPMID>
+    <MeSHPMID>16054668</MeSHPMID>
+    <MeSHPMID>15929014</MeSHPMID>
+    <MeSHPMID>15767422</MeSHPMID>
+    <MeSHPMID>15680431</MeSHPMID>
+    <MeSHPMID>15634344</MeSHPMID>
+    <MeSHPMID>15474050</MeSHPMID>
+    <MeSHPMID>15351494</MeSHPMID>
+    <MeSHPMID>15113883</MeSHPMID>
+    <MeSHPMID>14687949</MeSHPMID>
+    <MeSHPMID>14687944</MeSHPMID>
+    <MeSHPMID>14675633</MeSHPMID>
+    <MeSHPMID>14568536</MeSHPMID>
+    <MeSHPMID>14517067</MeSHPMID>
+    <MeSHPMID>14517060</MeSHPMID>
+    <MeSHPMID>14512525</MeSHPMID>
+    <MeSHPMID>12956870</MeSHPMID>
+    <MeSHPMID>12956869</MeSHPMID>
+    <MeSHPMID>12915562</MeSHPMID>
+    <MeSHPMID>12869552</MeSHPMID>
+    <MeSHPMID>12829817</MeSHPMID>
+    <MeSHPMID>12781718</MeSHPMID>
+    <MeSHPMID>12726736</MeSHPMID>
+    <MeSHPMID>12692221</MeSHPMID>
+    <MeSHPMID>12500538</MeSHPMID>
+    <MeSHPMID>12482964</MeSHPMID>
+    <MeSHPMID>12368324</MeSHPMID>
+    <MeSHPMID>12239296</MeSHPMID>
+    <MeSHPMID>12101095</MeSHPMID>
+    <MeSHPMID>11967285</MeSHPMID>
+    <MeSHPMID>11932398</MeSHPMID>
+    <MeSHPMID>11805336</MeSHPMID>
+    <MeSHPMID>11724937</MeSHPMID>
+    <MeSHPMID>11579093</MeSHPMID>
+    <MeSHPMID>11570848</MeSHPMID>
+    <MeSHPMID>11543660</MeSHPMID>
+    <MeSHPMID>11533218</MeSHPMID>
+    <MeSHPMID>11519753</MeSHPMID>
+    <MeSHPMID>11413370</MeSHPMID>
+    <MeSHPMID>11358864</MeSHPMID>
+    <MeSHPMID>11333894</MeSHPMID>
+    <MeSHPMID>11238447</MeSHPMID>
+    <MeSHPMID>11222675</MeSHPMID>
+    <MeSHPMID>11175321</MeSHPMID>
+    <MeSHPMID>10954545</MeSHPMID>
+    <MeSHPMID>10906176</MeSHPMID>
+    <MeSHPMID>10846066</MeSHPMID>
+    <MeSHPMID>10845700</MeSHPMID>
+    <MeSHPMID>10648781</MeSHPMID>
+    <MeSHPMID>10623740</MeSHPMID>
+    <MeSHPMID>10559369</MeSHPMID>
+    <MeSHPMID>10482556</MeSHPMID>
+    <MeSHPMID>10364290</MeSHPMID>
+    <MeSHPMID>10323864</MeSHPMID>
+    <MeSHPMID>9827993</MeSHPMID>
+    <MeSHPMID>9765402</MeSHPMID>
+    <MeSHPMID>9636364</MeSHPMID>
+    <MeSHPMID>9561206</MeSHPMID>
+    <MeSHPMID>9557699</MeSHPMID>
+    <MeSHPMID>9525635</MeSHPMID>
+    <MeSHPMID>9405378</MeSHPMID>
+    <MeSHPMID>9312040</MeSHPMID>
+    <MeSHPMID>9299624</MeSHPMID>
+    <MeSHPMID>9188638</MeSHPMID>
+    <MeSHPMID>9123840</MeSHPMID>
+    <MeSHPMID>9042947</MeSHPMID>
+    <MeSHPMID>8972193</MeSHPMID>
+    <MeSHPMID>9008337</MeSHPMID>
+    <MeSHPMID>9024985</MeSHPMID>
+    <MeSHPMID>8958587</MeSHPMID>
+    <MeSHPMID>8874512</MeSHPMID>
+    <MeSHPMID>8806531</MeSHPMID>
+    <MeSHPMID>8648705</MeSHPMID>
+    <MeSHPMID>8609647</MeSHPMID>
+    <MeSHPMID>8571550</MeSHPMID>
+    <MeSHPMID>7797487</MeSHPMID>
+    <MeSHPMID>7672366</MeSHPMID>
+    <MeSHPMID>7884866</MeSHPMID>
+    <MeSHPMID>7815488</MeSHPMID>
+    <MeSHPMID>8030233</MeSHPMID>
+    <MeSHPMID>8207836</MeSHPMID>
+    <MeSHPMID>8024782</MeSHPMID>
+    <MeSHPMID>8108397</MeSHPMID>
+    <MeSHPMID>8262054</MeSHPMID>
+    <MeSHPMID>8386872</MeSHPMID>
+    <MeSHPMID>8388591</MeSHPMID>
+    <MeSHPMID>8443601</MeSHPMID>
+    <MeSHPMID>8517023</MeSHPMID>
+    <MeSHPMID>1433505</MeSHPMID>
+    <MeSHPMID>1279197</MeSHPMID>
+    <MeSHPMID>1602542</MeSHPMID>
+    <MeSHPMID>1316462</MeSHPMID>
+    <MeSHPMID>1565636</MeSHPMID>
+    <MeSHPMID>1705884</MeSHPMID>
+    <MeSHPMID>1650766</MeSHPMID>
+    <MeSHPMID>14768704</MeSHPMID>
+    <id>11855</id>
+    <meSHTree>B04.613.807.124.520, B04.613.807.805.550, B04.820.650.124.520, B04.820.650.805.550</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MPMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian Mason-Pfizer type D retrovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian mason-pfizer virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  simian Mason-Pfizer D-type retrovirus SM-PDT
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mason-Pfizer monkey virus</scientificName>
+</pathogen>

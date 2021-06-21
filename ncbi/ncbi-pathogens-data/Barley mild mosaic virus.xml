@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>103901</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Barley mild mosaic virus (strain UK-F) (BaMMV)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Barley mild mosaic virus (strain UK-F)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>103900</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Barley mild mosaic virus (strain Na1) (BaMMV)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Barley mild mosaic virus (strain Na1)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>103899</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Barley mild mosaic virus (strain ASL) (BaMMV)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Barley mild mosaic virus (strain ASL)</scientificName>
+    </subSpecies>
+    <PMCID>7925471</PMCID>
+    <PMCID>7878938</PMCID>
+    <PMCID>7412230</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7127740</PMCID>
+    <PMCID>7114179</PMCID>
+    <PMCID>6987279</PMCID>
+    <PMCID>7020447</PMCID>
+    <PMCID>6164914</PMCID>
+    <PMCID>6125401</PMCID>
+    <PMCID>5705140</PMCID>
+    <PMCID>5344889</PMCID>
+    <PMCID>5216350</PMCID>
+    <PMCID>5263206</PMCID>
+    <PMCID>5080351</PMCID>
+    <PMCID>5043020</PMCID>
+    <PMCID>4973933</PMCID>
+    <PMCID>4103508</PMCID>
+    <PMCID>6638913</PMCID>
+    <PMCID>3926060</PMCID>
+    <PMCID>6638641</PMCID>
+    <PMCID>3025909</PMCID>
+    <PMCID>2861458</PMCID>
+    <PMCID>6640240</PMCID>
+    <PMCID>2613721</PMCID>
+    <PMCID>2493313</PMCID>
+    <PMCID>1851841</PMCID>
+    <PMCID>1800611</PMCID>
+    <PMCID>98959</PMCID>
+    <GeneBankPMID>9282782</GeneBankPMID>
+    <GeneBankPMID>8725111</GeneBankPMID>
+    <id>12466</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  barley mild mosaic virus BaMMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Barley mild mosaic virus</scientificName>
+</pathogen>

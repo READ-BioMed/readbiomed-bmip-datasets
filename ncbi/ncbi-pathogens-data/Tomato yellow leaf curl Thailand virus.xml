@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1313371</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl Thailand virus-B [Thailand:NakhonPathom:2007]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl Thailand virus B-[Thailand:NakhonPathom:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313368</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl Thailand virus-B [Myanmar:Hlegu:2006]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl Thailand virus B-[Myanmar:Hlegu:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>619652</id>
+        <scientificName>Tomato yellow leaf curl Thailand virus [soybean:Chiang Mai:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>619651</id>
+        <scientificName>Tomato yellow leaf curl Thailand virus [pepper:Nakhon Pathom:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221543</id>
+        <scientificName>Tomato yellow leaf curl Thailand virus-[Y72]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221542</id>
+        <scientificName>Tomato yellow leaf curl Thailand virus-[Myanmar]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221541</id>
+        <scientificName>Tomato yellow leaf curl Thailand virus-[1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221540</id>
+        <scientificName>Tomato yellow leaf curl Thailand virus-[2]</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7953161</PMCID>
+    <PMCID>7157939</PMCID>
+    <PMCID>7459587</PMCID>
+    <PMCID>6640737</PMCID>
+    <PMCID>6476845</PMCID>
+    <PMCID>6697862</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4614018</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2922188</PMCID>
+    <PMCID>2858149</PMCID>
+    <PMCID>6640490</PMCID>
+    <PMCID>6640326</PMCID>
+    <PMCID>2268320</PMCID>
+    <PMCID>2170441</PMCID>
+    <PMCID>1242213</PMCID>
+    <PMCID>103986</PMCID>
+    <PMCID>110531</PMCID>
+    <id>85752</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl virus - Thailand
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  tomato yellow leaf curl virus Thailand isolate
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato yellow leaf curl Thailand virus</scientificName>
+</pathogen>

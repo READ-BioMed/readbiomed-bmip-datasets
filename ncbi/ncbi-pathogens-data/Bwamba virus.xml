@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>537994</id>
+        <scientificName>Pongola virus - SAAr1</scientificName>
+    </subSpecies>
+    <PMCID>6586300</PMCID>
+    <PMCID>6641860</PMCID>
+    <PMCID>6581445</PMCID>
+    <PMCID>6382863</PMCID>
+    <PMCID>6701456</PMCID>
+    <PMCID>6286021</PMCID>
+    <PMCID>6169880</PMCID>
+    <PMCID>6143150</PMCID>
+    <PMCID>5977215</PMCID>
+    <PMCID>5759361</PMCID>
+    <PMCID>4840257</PMCID>
+    <PMCID>4861986</PMCID>
+    <PMCID>4570817</PMCID>
+    <PMCID>4106152</PMCID>
+    <PMCID>3675483</PMCID>
+    <PMCID>6535308</PMCID>
+    <PMCID>3541803</PMCID>
+    <PMCID>2725646</PMCID>
+    <PMCID>2708632</PMCID>
+    <PMCID>2141564</PMCID>
+    <PMCID>2141559</PMCID>
+    <GeneBankPMID>25188437</GeneBankPMID>
+    <id>35310</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  5-Bwamba virus Group
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bwamba bunyavirus group
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bwamba serogroup
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bwamba virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bwamba virus</scientificName>
+</pathogen>

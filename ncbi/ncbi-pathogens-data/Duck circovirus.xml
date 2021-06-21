@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7826260</PMCID>
+        <PMCID>6335222</PMCID>
+        <PMCID>3911531</PMCID>
+        <PMCID>3497624</PMCID>
+        <PMCID>2746286</PMCID>
+        <GeneBankPMID>24564937</GeneBankPMID>
+        <GeneBankPMID>16617989</GeneBankPMID>
+        <id>257468</id>
+        <scientificName>Muscovy duck circovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6335222</PMCID>
+        <PMCID>2746286</PMCID>
+        <GeneBankPMID>14648300</GeneBankPMID>
+        <id>232802</id>
+        <scientificName>Mulard duck circovirus</scientificName>
+    </subSpecies>
+    <PMCID>7445919</PMCID>
+    <PMCID>7426261</PMCID>
+    <PMCID>7088580</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>7080049</PMCID>
+    <PMCID>7059369</PMCID>
+    <PMCID>6381646</PMCID>
+    <PMCID>6160883</PMCID>
+    <PMCID>5811957</PMCID>
+    <PMCID>5366187</PMCID>
+    <PMCID>5073273</PMCID>
+    <PMCID>5014484</PMCID>
+    <PMCID>4628294</PMCID>
+    <PMCID>4450480</PMCID>
+    <PMCID>4447918</PMCID>
+    <PMCID>4419787</PMCID>
+    <PMCID>4210486</PMCID>
+    <PMCID>4141843</PMCID>
+    <PMCID>4152055</PMCID>
+    <PMCID>4013541</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>4064150</PMCID>
+    <PMCID>3647419</PMCID>
+    <PMCID>3569302</PMCID>
+    <PMCID>3497624</PMCID>
+    <PMCID>3341187</PMCID>
+    <PMCID>3198713</PMCID>
+    <PMCID>2812408</PMCID>
+    <PMCID>2746286</PMCID>
+    <PMCID>1489033</PMCID>
+    <GeneBankPMID>17461272</GeneBankPMID>
+    <GeneBankPMID>23174505</GeneBankPMID>
+    <GeneBankPMID>26666192</GeneBankPMID>
+    <GeneBankPMID>22537707</GeneBankPMID>
+    <id>324685</id>
+    <scientificName>Duck circovirus</scientificName>
+</pathogen>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7779967</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7372031</PMCID>
+    <PMCID>7064760</PMCID>
+    <PMCID>6294492</PMCID>
+    <PMCID>5891822</PMCID>
+    <PMCID>4863961</PMCID>
+    <PMCID>4737148</PMCID>
+    <PMCID>4178710</PMCID>
+    <PMCID>2905845</PMCID>
+    <PMCID>3185516</PMCID>
+    <PMCID>1948888</PMCID>
+    <PMCID>519117</PMCID>
+    <GeneBankPMID>8862426</GeneBankPMID>
+    <id>47736</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CMoMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  CMoV-A
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Carrot mottle virus A
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  carrot mottle umbravirus strain A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Carrot mottle mimic virus</scientificName>
+</pathogen>

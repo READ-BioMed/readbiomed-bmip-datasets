@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1122216</id>
+        <scientificName>Megamonas hypermegale DSM 1672</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>657316</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Megamonas hypermegale str. ART12/1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Megamonas hypermegale strain ART12/1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Megamonas hypermegale ART12/1</scientificName>
+    </subSpecies>
+    <PMCID>8054369</PMCID>
+    <PMCID>7905567</PMCID>
+    <PMCID>7886245</PMCID>
+    <PMCID>7828549</PMCID>
+    <PMCID>7782433</PMCID>
+    <PMCID>7761281</PMCID>
+    <PMCID>7697210</PMCID>
+    <PMCID>7858087</PMCID>
+    <PMCID>7609407</PMCID>
+    <PMCID>7536225</PMCID>
+    <PMCID>7528071</PMCID>
+    <PMCID>7524328</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7313328</PMCID>
+    <PMCID>7327130</PMCID>
+    <PMCID>7174729</PMCID>
+    <PMCID>7587794</PMCID>
+    <PMCID>7074739</PMCID>
+    <PMCID>7363505</PMCID>
+    <PMCID>7022619</PMCID>
+    <PMCID>7031364</PMCID>
+    <PMCID>6956218</PMCID>
+    <PMCID>6835402</PMCID>
+    <PMCID>6920401</PMCID>
+    <PMCID>6640118</PMCID>
+    <PMCID>6626047</PMCID>
+    <PMCID>6560916</PMCID>
+    <PMCID>6494655</PMCID>
+    <PMCID>6465617</PMCID>
+    <PMCID>6402632</PMCID>
+    <PMCID>6463060</PMCID>
+    <PMCID>6349265</PMCID>
+    <PMCID>6125325</PMCID>
+    <PMCID>6098093</PMCID>
+    <PMCID>6069880</PMCID>
+    <PMCID>5907601</PMCID>
+    <PMCID>5764948</PMCID>
+    <PMCID>5760507</PMCID>
+    <PMCID>5746635</PMCID>
+    <PMCID>5575299</PMCID>
+    <PMCID>5450625</PMCID>
+    <PMCID>5331431</PMCID>
+    <PMCID>5004228</PMCID>
+    <PMCID>7123701</PMCID>
+    <PMCID>4746308</PMCID>
+    <PMCID>4895601</PMCID>
+    <PMCID>4664614</PMCID>
+    <PMCID>5063119</PMCID>
+    <PMCID>4098653</PMCID>
+    <PMCID>3962364</PMCID>
+    <PMCID>4062629</PMCID>
+    <PMCID>3735522</PMCID>
+    <PMCID>4056668</PMCID>
+    <PMCID>3618517</PMCID>
+    <PMCID>3584146</PMCID>
+    <PMCID>3628737</PMCID>
+    <PMCID>3556566</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3535981</PMCID>
+    <PMCID>3109323</PMCID>
+    <PMCID>3008235</PMCID>
+    <PMCID>3815368</PMCID>
+    <PMCID>2817728</PMCID>
+    <PMCID>1169066</PMCID>
+    <PMCID>2130135</PMCID>
+    <id>158847</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacteroides hypermegas
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Megamonas hypermegas
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Sphaerophorus hypermegas
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Sphaerophorus hypermegas" (Harrison and Hansen 1963) Prevot 1966
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides hypermegas Harrison and Hansen 1963 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Megamonas hypermegale corrig. (Harrison and Hansen 1963) Shah and Collins 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25560
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25560
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:3890
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 5856
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:5856
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1672
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1672
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 3890
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:3890
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10570
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10570
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides hypermegas</scientificName>
+</pathogen>

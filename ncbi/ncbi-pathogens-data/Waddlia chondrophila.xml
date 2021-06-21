@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>765953</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Waddlia chondrophila str. 2032/99
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Waddlia chondrophila strain 2032/99
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Waddlia chondrophila 2032/99</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>20531937</GeneBankPMID>
+        <id>716544</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Waddlia chondrophila ATCC VR-1470
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Waddlia chondrophila str. WSU 86-1044
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Waddlia chondrophila strain WSU 86-1044
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Waddlia chondrophila WSU 86-1044</scientificName>
+    </subSpecies>
+    <PMCID>7935935</PMCID>
+    <PMCID>7859336</PMCID>
+    <PMCID>7755916</PMCID>
+    <PMCID>7760296</PMCID>
+    <PMCID>7605392</PMCID>
+    <PMCID>7658264</PMCID>
+    <PMCID>7794043</PMCID>
+    <PMCID>7343800</PMCID>
+    <PMCID>7355871</PMCID>
+    <PMCID>7215967</PMCID>
+    <PMCID>7171251</PMCID>
+    <PMCID>7143554</PMCID>
+    <PMCID>7022716</PMCID>
+    <PMCID>7022674</PMCID>
+    <PMCID>7022761</PMCID>
+    <PMCID>7019082</PMCID>
+    <PMCID>6994710</PMCID>
+    <PMCID>6925127</PMCID>
+    <PMCID>6956297</PMCID>
+    <PMCID>6921213</PMCID>
+    <PMCID>6831567</PMCID>
+    <PMCID>6858067</PMCID>
+    <PMCID>6767994</PMCID>
+    <PMCID>6740158</PMCID>
+    <PMCID>6669855</PMCID>
+    <PMCID>6635528</PMCID>
+    <PMCID>6560421</PMCID>
+    <PMCID>6426960</PMCID>
+    <PMCID>6369208</PMCID>
+    <PMCID>6307092</PMCID>
+    <PMCID>6282198</PMCID>
+    <PMCID>6138880</PMCID>
+    <PMCID>6090853</PMCID>
+    <PMCID>6050620</PMCID>
+    <PMCID>5943520</PMCID>
+    <PMCID>5884828</PMCID>
+    <PMCID>5826181</PMCID>
+    <PMCID>6019428</PMCID>
+    <PMCID>5913364</PMCID>
+    <PMCID>5857372</PMCID>
+    <PMCID>5814848</PMCID>
+    <PMCID>5539593</PMCID>
+    <PMCID>5527614</PMCID>
+    <PMCID>5436083</PMCID>
+    <PMCID>5408671</PMCID>
+    <PMCID>5317141</PMCID>
+    <PMCID>5353995</PMCID>
+    <PMCID>5203614</PMCID>
+    <PMCID>5189123</PMCID>
+    <PMCID>5114312</PMCID>
+    <PMCID>5219624</PMCID>
+    <PMCID>5107887</PMCID>
+    <PMCID>5063344</PMCID>
+    <PMCID>5039588</PMCID>
+    <PMCID>5010888</PMCID>
+    <PMCID>4910669</PMCID>
+    <PMCID>5148204</PMCID>
+    <PMCID>4907117</PMCID>
+    <PMCID>4943182</PMCID>
+    <PMCID>4886739</PMCID>
+    <PMCID>4837252</PMCID>
+    <PMCID>4803198</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>4791399</PMCID>
+    <PMCID>4989314</PMCID>
+    <PMCID>4780729</PMCID>
+    <PMCID>4671022</PMCID>
+    <PMCID>4665321</PMCID>
+    <PMCID>4871649</PMCID>
+    <PMCID>4631992</PMCID>
+    <PMCID>4651074</PMCID>
+    <PMCID>7128729</PMCID>
+    <PMCID>4652624</PMCID>
+    <PMCID>4731428</PMCID>
+    <PMCID>4496594</PMCID>
+    <PMCID>4493481</PMCID>
+    <PMCID>4460556</PMCID>
+    <PMCID>4451638</PMCID>
+    <PMCID>4823013</PMCID>
+    <PMCID>4484541</PMCID>
+    <PMCID>4411163</PMCID>
+    <PMCID>4344269</PMCID>
+    <PMCID>4462956</PMCID>
+    <PMCID>4333871</PMCID>
+    <PMCID>4398506</PMCID>
+    <PMCID>6126934</PMCID>
+    <PMCID>4284306</PMCID>
+    <PMCID>4485377</PMCID>
+    <PMCID>4337939</PMCID>
+    <PMCID>4245917</PMCID>
+    <PMCID>4615782</PMCID>
+    <PMCID>4164004</PMCID>
+    <PMCID>4209131</PMCID>
+    <PMCID>4092135</PMCID>
+    <PMCID>4073861</PMCID>
+    <PMCID>4083446</PMCID>
+    <PMCID>3991601</PMCID>
+    <PMCID>3988822</PMCID>
+    <PMCID>3963856</PMCID>
+    <PMCID>3944840</PMCID>
+    <PMCID>3937554</PMCID>
+    <PMCID>3935232</PMCID>
+    <PMCID>4790414</PMCID>
+    <PMCID>4184618</PMCID>
+    <PMCID>3956076</PMCID>
+    <PMCID>4062629</PMCID>
+    <PMCID>4029402</PMCID>
+    <PMCID>3840858</PMCID>
+    <PMCID>4949044</PMCID>
+    <PMCID>3964206</PMCID>
+    <PMCID>3869019</PMCID>
+    <PMCID>3741330</PMCID>
+    <PMCID>3754561</PMCID>
+    <PMCID>3734048</PMCID>
+    <PMCID>3839093</PMCID>
+    <PMCID>3697640</PMCID>
+    <PMCID>3691252</PMCID>
+    <PMCID>3569409</PMCID>
+    <PMCID>4103567</PMCID>
+    <PMCID>3459881</PMCID>
+    <PMCID>3444138</PMCID>
+    <PMCID>3423634</PMCID>
+    <PMCID>3509893</PMCID>
+    <PMCID>3482391</PMCID>
+    <PMCID>3372251</PMCID>
+    <PMCID>3899948</PMCID>
+    <PMCID>3284432</PMCID>
+    <PMCID>3251552</PMCID>
+    <PMCID>3220658</PMCID>
+    <PMCID>3322049</PMCID>
+    <PMCID>3150448</PMCID>
+    <PMCID>3147821</PMCID>
+    <PMCID>3247790</PMCID>
+    <PMCID>3104491</PMCID>
+    <PMCID>7129368</PMCID>
+    <PMCID>3028825</PMCID>
+    <PMCID>3109402</PMCID>
+    <PMCID>7119992</PMCID>
+    <PMCID>2981336</PMCID>
+    <PMCID>3075073</PMCID>
+    <PMCID>3298316</PMCID>
+    <PMCID>2937724</PMCID>
+    <PMCID>2878342</PMCID>
+    <PMCID>2811131</PMCID>
+    <PMCID>2687219</PMCID>
+    <PMCID>2660709</PMCID>
+    <PMCID>2570282</PMCID>
+    <PMCID>7103133</PMCID>
+    <PMCID>2292907</PMCID>
+    <PMCID>2600176</PMCID>
+    <PMCID>2876764</PMCID>
+    <PMCID>2828094</PMCID>
+    <PMCID>1828948</PMCID>
+    <PMCID>1471994</PMCID>
+    <PMCID>1449017</PMCID>
+    <PMCID>1403754</PMCID>
+    <PMCID>1087515</PMCID>
+    <PMCID>3320453</PMCID>
+    <PMCID>544274</PMCID>
+    <PMCID>93233</PMCID>
+    <PMCID>99005</PMCID>
+    <PMCID>110588</PMCID>
+    <PMCID>93955</PMCID>
+    <PMCID>84475</PMCID>
+    <id>71667</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Waddlia chondrophila Rurangirwa et al. 1999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC VR-1470
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:VR-1470
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:ATCC:VR:1470
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::WSU 86-1044
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain WSU 86-1044
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Waddlia chondrophila</scientificName>
+</pathogen>

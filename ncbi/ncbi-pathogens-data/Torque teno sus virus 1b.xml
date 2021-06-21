@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3911531</PMCID>
+        <id>871765</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine TTV 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine torque teno virus 2</scientificName>
+    </subSpecies>
+    <PMCID>7779081</PMCID>
+    <PMCID>7409514</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6178073</PMCID>
+    <PMCID>5508382</PMCID>
+    <PMCID>4531394</PMCID>
+    <PMCID>4239083</PMCID>
+    <PMCID>4194362</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>3486326</PMCID>
+    <PMCID>3384279</PMCID>
+    <PMCID>3275549</PMCID>
+    <PMCID>3047579</PMCID>
+    <GeneBankPMID>15831945</GeneBankPMID>
+    <id>687387</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TTSV1b
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Torque teno sus virus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Torque teno sus virus 1b</scientificName>
+</pathogen>

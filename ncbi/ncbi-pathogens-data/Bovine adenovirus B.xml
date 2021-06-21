@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7815533</PMCID>
+        <PMCID>7126343</PMCID>
+        <PMCID>7115382</PMCID>
+        <PMCID>7110489</PMCID>
+        <PMCID>7089136</PMCID>
+        <PMCID>7087328</PMCID>
+        <PMCID>7117347</PMCID>
+        <PMCID>7096189</PMCID>
+        <PMCID>7087114</PMCID>
+        <PMCID>6855363</PMCID>
+        <PMCID>6258537</PMCID>
+        <PMCID>5709574</PMCID>
+        <PMCID>5656758</PMCID>
+        <PMCID>5572314</PMCID>
+        <PMCID>5489469</PMCID>
+        <PMCID>5721929</PMCID>
+        <PMCID>5383171</PMCID>
+        <PMCID>5772826</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4780072</PMCID>
+        <PMCID>4442534</PMCID>
+        <PMCID>4252008</PMCID>
+        <PMCID>4096500</PMCID>
+        <PMCID>3998056</PMCID>
+        <PMCID>3317458</PMCID>
+        <PMCID>3265569</PMCID>
+        <PMCID>3187507</PMCID>
+        <PMCID>3061442</PMCID>
+        <PMCID>5054126</PMCID>
+        <PMCID>2951029</PMCID>
+        <PMCID>2945211</PMCID>
+        <PMCID>2822460</PMCID>
+        <PMCID>2771947</PMCID>
+        <PMCID>2647528</PMCID>
+        <PMCID>2655575</PMCID>
+        <PMCID>2570820</PMCID>
+        <PMCID>2700267</PMCID>
+        <PMCID>2748222</PMCID>
+        <PMCID>1552094</PMCID>
+        <PMCID>150671</PMCID>
+        <PMCID>136187</PMCID>
+        <PMCID>1509106</PMCID>
+        <PMCID>64942</PMCID>
+        <PMCID>114934</PMCID>
+        <PMCID>110938</PMCID>
+        <PMCID>111562</PMCID>
+        <PMCID>1189536</PMCID>
+        <PMCID>1189535</PMCID>
+        <PMCID>103964</PMCID>
+        <PMCID>124618</PMCID>
+        <PMCID>332260</PMCID>
+        <PMCID>255507</PMCID>
+        <PMCID>1789871</PMCID>
+        <PMCID>1320077</PMCID>
+        <PMCID>1319894</PMCID>
+        <PMCID>354261</PMCID>
+        <PMCID>354260</PMCID>
+        <PMCID>354711</PMCID>
+        <PMCID>354710</PMCID>
+        <GeneBankPMID>22739443</GeneBankPMID>
+        <GeneBankPMID>9445040</GeneBankPMID>
+        <GeneBankPMID>29543378</GeneBankPMID>
+        <GeneBankPMID>9918888</GeneBankPMID>
+        <GeneBankPMID>24854002</GeneBankPMID>
+        <GeneBankPMID>28086071</GeneBankPMID>
+        <GeneBankPMID>9778793</GeneBankPMID>
+        <GeneBankPMID>24123521</GeneBankPMID>
+        <GeneBankPMID>26033117</GeneBankPMID>
+        <GeneBankPMID>9654686</GeneBankPMID>
+        <GeneBankPMID>30053654</GeneBankPMID>
+        <GeneBankPMID>32452415</GeneBankPMID>
+        <GeneBankPMID>27521148</GeneBankPMID>
+        <id>10510</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BAd3
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  bos3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus bos3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 3 BAd3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 3</scientificName>
+    </subSpecies>
+    <PMCID>6591194</PMCID>
+    <PMCID>5721929</PMCID>
+    <PMCID>5215340</PMCID>
+    <PMCID>2567038</PMCID>
+    <GeneBankPMID>17098968</GeneBankPMID>
+    <id>129950</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine adenovirus B</scientificName>
+</pathogen>

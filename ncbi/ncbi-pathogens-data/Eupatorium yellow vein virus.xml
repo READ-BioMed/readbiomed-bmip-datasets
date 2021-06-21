@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>519350</id>
+        <scientificName>Eupatorium yellow vein virus-[Japan:Kagawa:Tomato:1997]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>18175045</GeneBankPMID>
+        <id>436246</id>
+        <scientificName>Eupatorium yellow vein virus-[Suya]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>15168208</GeneBankPMID>
+        <id>269095</id>
+        <scientificName>Eupatorium yellow vein virus - [Yamaguchi]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>12712190</GeneBankPMID>
+        <id>223276</id>
+        <scientificName>Eupatorium yellow vein virus-[MNS2]</scientificName>
+    </subSpecies>
+    <PMCID>4566980</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>1182626</PMCID>
+    <PMCID>533896</PMCID>
+    <id>2080107</id>
+    <scientificName>Eupatorium yellow vein virus</scientificName>
+</pathogen>

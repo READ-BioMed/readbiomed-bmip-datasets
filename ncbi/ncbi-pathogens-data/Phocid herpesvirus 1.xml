@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7114543</PMCID>
+    <PMCID>6719520</PMCID>
+    <PMCID>6454699</PMCID>
+    <PMCID>6449559</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5888719</PMCID>
+    <PMCID>5605364</PMCID>
+    <PMCID>5527416</PMCID>
+    <PMCID>5366107</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4400785</PMCID>
+    <PMCID>4399069</PMCID>
+    <PMCID>4276944</PMCID>
+    <PMCID>3933542</PMCID>
+    <PMCID>3029194</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <GeneBankPMID>12771410</GeneBankPMID>
+    <id>47418</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  PhoHV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  PhHV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Phocid herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Phocid herpesvirus-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Phocine herpesvirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Phocine herpesvirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Phocid herpesvirus 1</scientificName>
+</pathogen>

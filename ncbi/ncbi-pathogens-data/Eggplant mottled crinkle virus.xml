@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>4752228</PMCID>
+        <PMCID>3688547</PMCID>
+        <PMCID>3234231</PMCID>
+        <PMCID>3229121</PMCID>
+        <PMCID>2746286</PMCID>
+        <id>334425</id>
+        <scientificName>Lisianthus necrosis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7086627</PMCID>
+        <PMCID>4752228</PMCID>
+        <PMCID>3234231</PMCID>
+        <PMCID>3229121</PMCID>
+        <PMCID>2746286</PMCID>
+        <PMCID>1069561</PMCID>
+        <PMCID>516415</PMCID>
+        <PMCID>1370487</PMCID>
+        <id>197112</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pear redleaf-associated virus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   pear readleaf-associated virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pear latent virus</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7009133</PMCID>
+    <PMCID>6638237</PMCID>
+    <PMCID>3889230</PMCID>
+    <id>270256</id>
+    <scientificName>Eggplant mottled crinkle virus</scientificName>
+</pathogen>

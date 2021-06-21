@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2721224</id>
+        <scientificName>Angelfish iridovirus AFIV-16</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2494350</id>
+        <scientificName>Pompano iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1766781</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TGIV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Grouper iridovirus of Taiwan</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1421440</id>
+        <scientificName>Starry flounder iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>1128121</id>
+        <scientificName>Threespine stickleback iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5834888</PMCID>
+        <id>707878</id>
+        <scientificName>Largemouth bass ulcerative syndrome virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>694066</id>
+        <scientificName>Megalocytivirus paradise fish/PF08/2008/KOR</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>694065</id>
+        <scientificName>Megalocytivirus paradise fish/PF06/2006/KOR</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>655341</id>
+        <scientificName>Spotted knifejaw iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>654923</id>
+        <scientificName>Infectious spleen and kidney necrosis virus (isolate Nanhai)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7750215</PMCID>
+        <PMCID>7354458</PMCID>
+        <PMCID>6563503</PMCID>
+        <id>565290</id>
+        <scientificName>Banggai cardinalfish iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>463824</id>
+        <scientificName>King grouper iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>395884</id>
+        <scientificName>Pearl gourami iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>395883</id>
+        <scientificName>Silver gourami iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>322017</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  OSGIV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Epinephelus coioides iridovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Orange-spotted grouper iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>297724</id>
+        <scientificName>Sea perch iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>285956</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Paralichthys olivaceus iridovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Olive flounder iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <PMCID>6261816</PMCID>
+        <PMCID>3163811</PMCID>
+        <id>281717</id>
+        <scientificName>Korean flounder iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>278185</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RSIV-K
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Red sea bream iridovirus-K</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>278183</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SBIV-K
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sea bass iridovirus-K</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7750215</PMCID>
+        <PMCID>7354458</PMCID>
+        <PMCID>6563503</PMCID>
+        <PMCID>6520742</PMCID>
+        <PMCID>5923455</PMCID>
+        <PMCID>5605518</PMCID>
+        <PMCID>2912838</PMCID>
+        <PMCID>2932910</PMCID>
+        <id>273651</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TRBIV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Turbot reddish body iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>266016</id>
+        <scientificName>Turbot iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7750215</PMCID>
+        <PMCID>7354458</PMCID>
+        <PMCID>7111926</PMCID>
+        <PMCID>7084886</PMCID>
+        <PMCID>6563503</PMCID>
+        <PMCID>6450098</PMCID>
+        <PMCID>6410659</PMCID>
+        <PMCID>5992843</PMCID>
+        <PMCID>5923455</PMCID>
+        <PMCID>5769131</PMCID>
+        <PMCID>5623656</PMCID>
+        <PMCID>5282973</PMCID>
+        <PMCID>4433699</PMCID>
+        <PMCID>3878628</PMCID>
+        <PMCID>3749056</PMCID>
+        <PMCID>3113570</PMCID>
+        <PMCID>2779260</PMCID>
+        <PMCID>2689277</PMCID>
+        <PMCID>1783846</PMCID>
+        <PMCID>1472061</PMCID>
+        <PMCID>546595</PMCID>
+        <id>263891</id>
+        <scientificName>Rock bream iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>229402</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  GSDIV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Grouper sleepy disease iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>229401</id>
+        <scientificName>Dwarf gourami iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5923455</PMCID>
+        <PMCID>5671522</PMCID>
+        <id>216928</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  LYCIV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Large yellow croaker iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7750215</PMCID>
+        <PMCID>7354458</PMCID>
+        <PMCID>6563503</PMCID>
+        <id>176655</id>
+        <scientificName>Giant seaperch iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7750215</PMCID>
+        <PMCID>7354458</PMCID>
+        <PMCID>3347321</PMCID>
+        <PMCID>525058</PMCID>
+        <id>127570</id>
+        <scientificName>African lampeye iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <id>127568</id>
+        <scientificName>Sea bass iridovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7354458</PMCID>
+        <PMCID>6811888</PMCID>
+        <PMCID>6727176</PMCID>
+        <PMCID>6545398</PMCID>
+        <PMCID>6563503</PMCID>
+        <PMCID>6626879</PMCID>
+        <PMCID>6163359</PMCID>
+        <PMCID>5992843</PMCID>
+        <PMCID>5923455</PMCID>
+        <PMCID>5605518</PMCID>
+        <PMCID>5623656</PMCID>
+        <PMCID>5266330</PMCID>
+        <PMCID>4690011</PMCID>
+        <PMCID>4433699</PMCID>
+        <PMCID>3878628</PMCID>
+        <PMCID>3347321</PMCID>
+        <PMCID>2878170</PMCID>
+        <PMCID>2689277</PMCID>
+        <PMCID>1316049</PMCID>
+        <id>65424</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  RSIV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Red sea bream iridovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Red seabream iridovirus</scientificName>
+    </subSpecies>
+    <PMCID>7890030</PMCID>
+    <PMCID>7905887</PMCID>
+    <PMCID>7890607</PMCID>
+    <PMCID>7827161</PMCID>
+    <PMCID>7652756</PMCID>
+    <PMCID>7400217</PMCID>
+    <PMCID>7370161</PMCID>
+    <PMCID>7286130</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7354458</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7149611</PMCID>
+    <PMCID>7111926</PMCID>
+    <PMCID>7084886</PMCID>
+    <PMCID>6955699</PMCID>
+    <PMCID>6920890</PMCID>
+    <PMCID>6825229</PMCID>
+    <PMCID>6780522</PMCID>
+    <PMCID>6784137</PMCID>
+    <PMCID>6563503</PMCID>
+    <PMCID>6520742</PMCID>
+    <PMCID>6450098</PMCID>
+    <PMCID>6409350</PMCID>
+    <PMCID>5995976</PMCID>
+    <PMCID>5923455</PMCID>
+    <PMCID>5871332</PMCID>
+    <PMCID>5873915</PMCID>
+    <PMCID>5605518</PMCID>
+    <PMCID>5623656</PMCID>
+    <PMCID>5127864</PMCID>
+    <PMCID>5356810</PMCID>
+    <PMCID>4932782</PMCID>
+    <PMCID>5041017</PMCID>
+    <PMCID>4757878</PMCID>
+    <PMCID>4586845</PMCID>
+    <PMCID>4505662</PMCID>
+    <PMCID>4301147</PMCID>
+    <PMCID>4093846</PMCID>
+    <PMCID>4019130</PMCID>
+    <PMCID>3878628</PMCID>
+    <PMCID>3889245</PMCID>
+    <PMCID>4235937</PMCID>
+    <PMCID>3749056</PMCID>
+    <PMCID>3599308</PMCID>
+    <PMCID>3592132</PMCID>
+    <PMCID>3550759</PMCID>
+    <PMCID>3570343</PMCID>
+    <PMCID>3493329</PMCID>
+    <PMCID>3402483</PMCID>
+    <PMCID>3352826</PMCID>
+    <PMCID>3347321</PMCID>
+    <PMCID>3302275</PMCID>
+    <PMCID>3333181</PMCID>
+    <PMCID>3205390</PMCID>
+    <PMCID>3084725</PMCID>
+    <PMCID>3067969</PMCID>
+    <PMCID>2984142</PMCID>
+    <PMCID>2977902</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>3030977</PMCID>
+    <PMCID>2806865</PMCID>
+    <PMCID>2607284</PMCID>
+    <PMCID>2293046</PMCID>
+    <PMCID>1783846</PMCID>
+    <PMCID>1176014</PMCID>
+    <PMCID>546566</PMCID>
+    <PMCID>525058</PMCID>
+    <GeneBankPMID>23283951</GeneBankPMID>
+    <GeneBankPMID>11878882</GeneBankPMID>
+    <GeneBankPMID>24599992</GeneBankPMID>
+    <GeneBankPMID>31655270</GeneBankPMID>
+    <GeneBankPMID>24862228</GeneBankPMID>
+    <GeneBankPMID>20810728</GeneBankPMID>
+    <GeneBankPMID>18046636</GeneBankPMID>
+    <GeneBankPMID>25355883</GeneBankPMID>
+    <GeneBankPMID>21471317</GeneBankPMID>
+    <id>180170</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  ISKNV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Infectious spleen and kidney necrosis virus</scientificName>
+</pathogen>

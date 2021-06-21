@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7086968</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>5796589</PMCID>
+    <PMCID>3832689</PMCID>
+    <PMCID>3259070</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>4310687</PMCID>
+    <PMCID>1081266</PMCID>
+    <PMCID>141125</PMCID>
+    <GeneBankPMID>24803260</GeneBankPMID>
+    <id>138184</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  AlHV-2
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Alcelaphine herpesvirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Alcelaphine herpesvirus 2</scientificName>
+</pathogen>

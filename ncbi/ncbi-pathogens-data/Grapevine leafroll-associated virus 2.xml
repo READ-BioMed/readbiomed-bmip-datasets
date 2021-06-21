@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <GeneBankPMID>15965606</GeneBankPMID>
+    <GeneBankPMID>31255907</GeneBankPMID>
+    <id>64003</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  grapevine leafroll-associated closterovirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Grapevine leafroll associated virus 2
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Grapevine leafroll-associated virus 2</scientificName>
+</pathogen>

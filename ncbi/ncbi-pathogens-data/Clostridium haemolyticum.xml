@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1443115</id>
+        <scientificName>Clostridium haemolyticum NCTC 8350</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1443114</id>
+        <scientificName>Clostridium haemolyticum NCTC 9693</scientificName>
+    </subSpecies>
+    <PMCID>8074307</PMCID>
+    <PMCID>7808594</PMCID>
+    <PMCID>7824663</PMCID>
+    <PMCID>7643111</PMCID>
+    <PMCID>7348623</PMCID>
+    <PMCID>7227166</PMCID>
+    <PMCID>7203850</PMCID>
+    <PMCID>7169351</PMCID>
+    <PMCID>7169350</PMCID>
+    <PMCID>7200527</PMCID>
+    <PMCID>7020472</PMCID>
+    <PMCID>7020394</PMCID>
+    <PMCID>7081508</PMCID>
+    <PMCID>6529551</PMCID>
+    <PMCID>6417607</PMCID>
+    <PMCID>6156192</PMCID>
+    <PMCID>5959397</PMCID>
+    <PMCID>5818640</PMCID>
+    <PMCID>6505884</PMCID>
+    <PMCID>5767839</PMCID>
+    <PMCID>5595980</PMCID>
+    <PMCID>7114777</PMCID>
+    <PMCID>5447916</PMCID>
+    <PMCID>7158316</PMCID>
+    <PMCID>7158295</PMCID>
+    <PMCID>5395265</PMCID>
+    <PMCID>7149584</PMCID>
+    <PMCID>5036676</PMCID>
+    <PMCID>5138432</PMCID>
+    <PMCID>4981679</PMCID>
+    <PMCID>4810608</PMCID>
+    <PMCID>7149729</PMCID>
+    <PMCID>4607768</PMCID>
+    <PMCID>4405397</PMCID>
+    <PMCID>4177856</PMCID>
+    <PMCID>3911442</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3705781</PMCID>
+    <PMCID>3622972</PMCID>
+    <PMCID>4180417</PMCID>
+    <PMCID>4083624</PMCID>
+    <PMCID>3256201</PMCID>
+    <PMCID>3050848</PMCID>
+    <PMCID>2653026</PMCID>
+    <PMCID>2605760</PMCID>
+    <PMCID>7103122</PMCID>
+    <PMCID>2725973</PMCID>
+    <PMCID>1892883</PMCID>
+    <PMCID>1698353</PMCID>
+    <PMCID>535138</PMCID>
+    <PMCID>340256</PMCID>
+    <PMCID>99745</PMCID>
+    <PMCID>7172659</PMCID>
+    <PMCID>1277718</PMCID>
+    <PMCID>378078</PMCID>
+    <PMCID>1275205</PMCID>
+    <id>84025</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus hemolyticus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium hemolyticus bovis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus hemolyticus" Hall 1929
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Clostridium hemolyticus bovis" Vawter and Records 1927
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium haemolyticum (Hall 1929) Scott et al. 1935
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 9650
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:9650
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 5565
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:5565
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1402
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1402
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 13022
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:13022
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium haemolyticum</scientificName>
+</pathogen>

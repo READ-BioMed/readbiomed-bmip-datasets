@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4361855</PMCID>
+        <id>1434306</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces albus ZpM
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Streptomyces albulus ZPM</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1395572</id>
+        <scientificName>Streptomyces albulus PD-1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1316445</id>
+        <scientificName>Streptomyces albulus CCRC 11814</scientificName>
+    </subSpecies>
+    <PMCID>8117764</PMCID>
+    <PMCID>8038440</PMCID>
+    <PMCID>8044885</PMCID>
+    <PMCID>8036740</PMCID>
+    <PMCID>7830236</PMCID>
+    <PMCID>7958555</PMCID>
+    <PMCID>7823568</PMCID>
+    <PMCID>7697265</PMCID>
+    <PMCID>7677231</PMCID>
+    <PMCID>7487605</PMCID>
+    <PMCID>7407136</PMCID>
+    <PMCID>7369989</PMCID>
+    <PMCID>7348039</PMCID>
+    <PMCID>7369419</PMCID>
+    <PMCID>7327761</PMCID>
+    <PMCID>7317143</PMCID>
+    <PMCID>7362181</PMCID>
+    <PMCID>7256010</PMCID>
+    <PMCID>7188835</PMCID>
+    <PMCID>7151120</PMCID>
+    <PMCID>7179176</PMCID>
+    <PMCID>7013284</PMCID>
+    <PMCID>7044140</PMCID>
+    <PMCID>6971103</PMCID>
+    <PMCID>7024349</PMCID>
+    <PMCID>6907358</PMCID>
+    <PMCID>6882115</PMCID>
+    <PMCID>6805589</PMCID>
+    <PMCID>6963833</PMCID>
+    <PMCID>6780701</PMCID>
+    <PMCID>6783921</PMCID>
+    <PMCID>6579981</PMCID>
+    <PMCID>6547982</PMCID>
+    <PMCID>6521173</PMCID>
+    <PMCID>6471872</PMCID>
+    <PMCID>6408508</PMCID>
+    <PMCID>6346193</PMCID>
+    <PMCID>6332800</PMCID>
+    <PMCID>6207912</PMCID>
+    <PMCID>6257575</PMCID>
+    <PMCID>6528598</PMCID>
+    <PMCID>6170357</PMCID>
+    <PMCID>6113055</PMCID>
+    <PMCID>5997859</PMCID>
+    <PMCID>5968447</PMCID>
+    <PMCID>5905846</PMCID>
+    <PMCID>5894146</PMCID>
+    <PMCID>6414864</PMCID>
+    <PMCID>5725424</PMCID>
+    <PMCID>5648908</PMCID>
+    <PMCID>5508375</PMCID>
+    <PMCID>5811908</PMCID>
+    <PMCID>5357945</PMCID>
+    <PMCID>5353710</PMCID>
+    <PMCID>5391289</PMCID>
+    <PMCID>5408752</PMCID>
+    <PMCID>5373568</PMCID>
+    <PMCID>5597277</PMCID>
+    <PMCID>5148692</PMCID>
+    <PMCID>5107571</PMCID>
+    <PMCID>5067897</PMCID>
+    <PMCID>5456892</PMCID>
+    <PMCID>4930576</PMCID>
+    <PMCID>5267962</PMCID>
+    <PMCID>6273383</PMCID>
+    <PMCID>5384650</PMCID>
+    <PMCID>4779613</PMCID>
+    <PMCID>4711141</PMCID>
+    <PMCID>4676173</PMCID>
+    <PMCID>4668381</PMCID>
+    <PMCID>4771212</PMCID>
+    <PMCID>6054053</PMCID>
+    <PMCID>4475887</PMCID>
+    <PMCID>4421038</PMCID>
+    <PMCID>4361855</PMCID>
+    <PMCID>4569627</PMCID>
+    <PMCID>4341086</PMCID>
+    <PMCID>4257720</PMCID>
+    <PMCID>4249222</PMCID>
+    <PMCID>4249180</PMCID>
+    <PMCID>4464291</PMCID>
+    <PMCID>4229319</PMCID>
+    <PMCID>4135771</PMCID>
+    <PMCID>4056293</PMCID>
+    <PMCID>4046053</PMCID>
+    <PMCID>4051428</PMCID>
+    <PMCID>4035055</PMCID>
+    <PMCID>3990750</PMCID>
+    <PMCID>3937719</PMCID>
+    <PMCID>3911114</PMCID>
+    <PMCID>3929057</PMCID>
+    <PMCID>3858829</PMCID>
+    <PMCID>3764419</PMCID>
+    <PMCID>3728081</PMCID>
+    <PMCID>3595109</PMCID>
+    <PMCID>3588918</PMCID>
+    <PMCID>3226345</PMCID>
+    <PMCID>3138622</PMCID>
+    <PMCID>2992599</PMCID>
+    <PMCID>2935060</PMCID>
+    <PMCID>2786584</PMCID>
+    <PMCID>2812828</PMCID>
+    <PMCID>2701414</PMCID>
+    <PMCID>2908489</PMCID>
+    <PMCID>1448994</PMCID>
+    <PMCID>2907550</PMCID>
+    <PMCID>126757</PMCID>
+    <PMCID>127195</PMCID>
+    <PMCID>92628</PMCID>
+    <PMCID>243713</PMCID>
+    <GeneBankPMID>18997795</GeneBankPMID>
+    <GeneBankPMID>14561734</GeneBankPMID>
+    <GeneBankPMID>26749294</GeneBankPMID>
+    <GeneBankPMID>17611754</GeneBankPMID>
+    <GeneBankPMID>32828313</GeneBankPMID>
+    <GeneBankPMID>24926050</GeneBankPMID>
+    <GeneBankPMID>16641084</GeneBankPMID>
+    <id>68570</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces albulus Routien 1969
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   AS 4.1585
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 12757
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:12757
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 11819
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:11819
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 711.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:711.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 11819
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:11819
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:4.1585
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40492
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40492
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 13410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:13410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5492
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5492
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4718
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4718
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 9668
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:9668
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 13410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:13410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-5386
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5492
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5492
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-5386
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1371
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1371
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:AS:4.1585
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:5386
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::IMC S-0802
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain IMC S-0802
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces albulus</scientificName>
+</pathogen>

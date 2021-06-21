@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>12110158</GeneBankPMID>
+        <id>2773288</id>
+        <scientificName>Psittacus erithacus papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>654917</id>
+        <scientificName>Psittacus erithacus timneh papillomavirus (isolate African grey parrot)</scientificName>
+    </subSpecies>
+    <PMCID>5632515</PMCID>
+    <PMCID>5021401</PMCID>
+    <PMCID>2832751</PMCID>
+    <id>197772</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Psittacus erithacus papillomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Psittacus erithacus timneh papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Thetapapillomavirus 1</scientificName>
+</pathogen>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>223280</id>
+        <scientificName>Hollyhock leaf crumple virus-[Giza]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223279</id>
+        <scientificName>Hollyhock leaf crumple virus-[Cairo]</scientificName>
+    </subSpecies>
+    <PMCID>7086986</PMCID>
+    <PMCID>3102712</PMCID>
+    <PMCID>2839976</PMCID>
+    <PMCID>6640326</PMCID>
+    <id>199587</id>
+    <scientificName>Hollyhock leaf crumple virus</scientificName>
+</pathogen>

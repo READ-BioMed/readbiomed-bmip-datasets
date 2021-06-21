@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>2772502</id>
+            <scientificName>Porcine enterovirus G</scientificName>
+        </subSpecies>
+        <id>2772501</id>
+        <scientificName>unclassified Enterovirus G</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1501435</id>
+        <scientificName>Porcine enterovirus G1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4838371</PMCID>
+        <id>1194444</id>
+        <scientificName>Ovine enterovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1133974</id>
+        <scientificName>Porcine enterovirus 15</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1028489</id>
+        <scientificName>Porcine enterovirus 3H</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>138694</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PEV-J10
+ &lt;/Acronym&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus strain W47H
+ &lt;/Includes&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine enterovirus J10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7308328</PMCID>
+        <id>106967</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PEV-10
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine enterovirus 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7149648</PMCID>
+        <PMCID>5633025</PMCID>
+        <PMCID>5585927</PMCID>
+        <PMCID>3621647</PMCID>
+        <PMCID>3448906</PMCID>
+        <GeneBankPMID>11992011</GeneBankPMID>
+        <id>64141</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PEV-9
+ &lt;/Acronym&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus 9 (strain UKG/410/73)
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus strain UKG/410/73
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Pig enterovirus 9
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  porcine enterovirus serotype 9
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine enterovirus 9</scientificName>
+    </subSpecies>
+    <PMCID>7825084</PMCID>
+    <PMCID>7308328</PMCID>
+    <PMCID>7203355</PMCID>
+    <PMCID>7172746</PMCID>
+    <PMCID>7131559</PMCID>
+    <PMCID>7105976</PMCID>
+    <PMCID>6896758</PMCID>
+    <PMCID>6834195</PMCID>
+    <PMCID>6607526</PMCID>
+    <PMCID>6384098</PMCID>
+    <PMCID>6863196</PMCID>
+    <PMCID>6443042</PMCID>
+    <PMCID>5814063</PMCID>
+    <PMCID>5764308</PMCID>
+    <PMCID>5633025</PMCID>
+    <PMCID>5591953</PMCID>
+    <PMCID>5537671</PMCID>
+    <PMCID>5471348</PMCID>
+    <PMCID>5656790</PMCID>
+    <PMCID>4838371</PMCID>
+    <PMCID>4682392</PMCID>
+    <PMCID>4019603</PMCID>
+    <PMCID>3988102</PMCID>
+    <PMCID>3741315</PMCID>
+    <PMCID>3446592</PMCID>
+    <PMCID>3446573</PMCID>
+    <PMCID>3518274</PMCID>
+    <PMCID>3381551</PMCID>
+    <PMCID>2975644</PMCID>
+    <PMCID>2290972</PMCID>
+    <PMCID>135860</PMCID>
+    <id>106966</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Enterovirus G</scientificName>
+</pathogen>

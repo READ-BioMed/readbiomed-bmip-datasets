@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7902069</PMCID>
+    <PMCID>7672007</PMCID>
+    <PMCID>7449223</PMCID>
+    <PMCID>7406230</PMCID>
+    <PMCID>7412404</PMCID>
+    <PMCID>7283392</PMCID>
+    <PMCID>7161257</PMCID>
+    <PMCID>7232144</PMCID>
+    <PMCID>7067590</PMCID>
+    <PMCID>6856666</PMCID>
+    <PMCID>6813017</PMCID>
+    <PMCID>6687935</PMCID>
+    <PMCID>6750132</PMCID>
+    <PMCID>6586729</PMCID>
+    <PMCID>6544187</PMCID>
+    <PMCID>6365427</PMCID>
+    <PMCID>6431124</PMCID>
+    <PMCID>6336734</PMCID>
+    <PMCID>6097438</PMCID>
+    <PMCID>5940956</PMCID>
+    <PMCID>5808824</PMCID>
+    <PMCID>5306303</PMCID>
+    <PMCID>5220634</PMCID>
+    <PMCID>5024456</PMCID>
+    <PMCID>4662064</PMCID>
+    <PMCID>4649247</PMCID>
+    <PMCID>4727147</PMCID>
+    <PMCID>4576029</PMCID>
+    <PMCID>4484245</PMCID>
+    <PMCID>4319838</PMCID>
+    <PMCID>4249424</PMCID>
+    <PMCID>4108841</PMCID>
+    <PMCID>3970301</PMCID>
+    <PMCID>3679064</PMCID>
+    <PMCID>4070677</PMCID>
+    <PMCID>3165386</PMCID>
+    <PMCID>3058121</PMCID>
+    <PMCID>2988051</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>2914405</PMCID>
+    <PMCID>2515634</PMCID>
+    <PMCID>1169129</PMCID>
+    <PMCID>194928</PMCID>
+    <PMCID>123855</PMCID>
+    <PMCID>93131</PMCID>
+    <PMCID>92097</PMCID>
+    <PMCID>91908</PMCID>
+    <PMCID>85297</PMCID>
+    <PMCID>106586</PMCID>
+    <PMCID>124844</PMCID>
+    <PMCID>267735</PMCID>
+    <PMCID>268805</PMCID>
+    <id>69220</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Enterobacter nimipressuralis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia nimipressuralis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Erwinia nimipressuralis" Carter 1945
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Enterobacter nimipressuralis (Carter 1945) Brenner et al. 1988
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Erwinia nimipressuralis (Carter 1945) Dye 1969 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Lelliottia nimipressuralis (Carter 1945) Brady et al. 2013
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 9912
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:9912
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:10245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 25894
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:25894
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 18955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:18955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP 1577
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP:1577
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6050
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6050
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 10245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:10245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB 2045
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB:2045
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Erwinia nimipressuralis</scientificName>
+</pathogen>

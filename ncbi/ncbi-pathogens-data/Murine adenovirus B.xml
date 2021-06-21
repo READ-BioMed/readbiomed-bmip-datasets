@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7211397</PMCID>
+        <PMCID>7162237</PMCID>
+        <PMCID>7150033</PMCID>
+        <PMCID>6997563</PMCID>
+        <PMCID>6537619</PMCID>
+        <PMCID>5904411</PMCID>
+        <PMCID>5429599</PMCID>
+        <PMCID>4984651</PMCID>
+        <GeneBankPMID>21683742</GeneBankPMID>
+        <GeneBankPMID>30277856</GeneBankPMID>
+        <id>931972</id>
+        <scientificName>Murine adenovirus 2</scientificName>
+    </subSpecies>
+    <PMCID>7150197</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6997563</PMCID>
+    <PMCID>6928396</PMCID>
+    <PMCID>6537619</PMCID>
+    <id>1146873</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Murine adenovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Murine adenovirus B</scientificName>
+</pathogen>

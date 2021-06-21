@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2758976</id>
+        <scientificName>bovine rhinitis A virus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2758975</id>
+        <scientificName>bovine rhinitis A virus 1</scientificName>
+    </subSpecies>
+    <PMCID>7110489</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7019290</PMCID>
+    <PMCID>6957568</PMCID>
+    <PMCID>5383171</PMCID>
+    <PMCID>5772826</PMCID>
+    <PMCID>4854365</PMCID>
+    <PMCID>4442534</PMCID>
+    <GeneBankPMID>25789939</GeneBankPMID>
+    <id>1155188</id>
+    <scientificName>Bovine rhinitis A virus</scientificName>
+</pathogen>

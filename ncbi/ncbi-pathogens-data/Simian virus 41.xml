@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>6548425</PMCID>
+    <GeneBankPMID>8492098</GeneBankPMID>
+    <GeneBankPMID>1328485</GeneBankPMID>
+    <id>2560766</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Simian rubulavirus
+ &lt;/Synonym&gt; 
+ &lt;Acronym&gt;
+  SV-41
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  SV41
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Simian parainfluenza virus 41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian virus 41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  simian paramyxovirus SV41
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  simian virus 41 SV41
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Simian virus 41</scientificName>
+</pathogen>

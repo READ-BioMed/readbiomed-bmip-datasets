@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>19264622</GeneBankPMID>
+        <id>627576</id>
+        <scientificName>Bat astrovirus Tm/Guangxi/LD38/2007</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <id>1239583</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mamastrovirus-19
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mamastrovirus 19</scientificName>
+</pathogen>

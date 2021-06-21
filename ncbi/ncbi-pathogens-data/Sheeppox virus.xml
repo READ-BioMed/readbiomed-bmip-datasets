@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>644154</id>
+            <scientificName>Sheeppox virus RM/65</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632824</id>
+            <scientificName>Sheeppox virus Turkey/98 Van2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632823</id>
+            <scientificName>Sheeppox virus Vaccine Nigeria/99</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632822</id>
+            <scientificName>Sheeppox virus Turkey/98 Sivas</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632821</id>
+            <scientificName>Sheeppox virus Turkey/98 Denizli</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632820</id>
+            <scientificName>Sheeppox virus Turkey/98 Darica</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632819</id>
+            <scientificName>Sheeppox virus Turkey/98 Corum</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632818</id>
+            <scientificName>Sheeppox virus Tunisia/01 9P2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632817</id>
+            <scientificName>Sheeppox virus Tunisia/01 4P2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632816</id>
+            <scientificName>Sheeppox virus Tunisia/01 3P3</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632815</id>
+            <scientificName>Sheeppox virus Tunisia/01 23P2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632814</id>
+            <scientificName>Sheeppox virus Tunisia/01 18P2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632813</id>
+            <scientificName>Sheeppox virus Tunisia/01 17P2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632812</id>
+            <scientificName>Sheeppox virus Tunisia/01 13P2</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632811</id>
+            <scientificName>Sheeppox virus Senegal Sangalcam/88</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632810</id>
+            <scientificName>Sheeppox virus Oman/84</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632809</id>
+            <scientificName>Sheeppox virus Nigeria/77</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632808</id>
+            <scientificName>Sheeppox virus Niger/88</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632807</id>
+            <scientificName>Sheeppox virus Morocco vaccine strain</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632806</id>
+            <scientificName>Sheeppox virus HSL</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632805</id>
+            <scientificName>Sheeppox virus Algeria/93 Djelfa</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632804</id>
+            <scientificName>Sheeppox virus Algeria/05 Illizi</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>453226</id>
+            <scientificName>Sheeppox virus Tamil Nadu/2005</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>198238</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Capripoxvirus strain Ranipet
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Sheeppox virus strain Ranipet</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>10269</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Capripoxvirus (strain KS-1)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Sheeppox virus &amp;lt;strain KS-1&amp;gt;
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Sheeppox virus KS-1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>10268</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Capripoxvirus (strain INS-1)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Sheeppox virus &amp;lt;strain INS-1&amp;gt;
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Sheeppox virus INS-1</scientificName>
+        </subSpecies>
+        <id>1158713</id>
+        <scientificName>unclassified Sheeppox virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>654928</id>
+        <scientificName>Sheeppox virus (strain TU-V02127)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6604310</PMCID>
+        <PMCID>5879731</PMCID>
+        <id>376854</id>
+        <scientificName>Sheeppox virus NISKHI</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6604310</PMCID>
+        <PMCID>5879731</PMCID>
+        <id>376853</id>
+        <scientificName>Sheeppox virus A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>376848</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Sheeppox virus 10700-99
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Sheeppox virus 17077-99</scientificName>
+    </subSpecies>
+    <PMCID>7931584</PMCID>
+    <PMCID>7844896</PMCID>
+    <PMCID>7823800</PMCID>
+    <PMCID>7896545</PMCID>
+    <PMCID>7895312</PMCID>
+    <PMCID>7810815</PMCID>
+    <PMCID>7453672</PMCID>
+    <PMCID>7765277</PMCID>
+    <PMCID>7201124</PMCID>
+    <PMCID>7222904</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7411612</PMCID>
+    <PMCID>7405825</PMCID>
+    <PMCID>7264126</PMCID>
+    <PMCID>7219772</PMCID>
+    <PMCID>7197387</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>7094658</PMCID>
+    <PMCID>7035724</PMCID>
+    <PMCID>7001645</PMCID>
+    <PMCID>6604310</PMCID>
+    <PMCID>6682798</PMCID>
+    <PMCID>6364153</PMCID>
+    <PMCID>6172408</PMCID>
+    <PMCID>6143194</PMCID>
+    <PMCID>6111950</PMCID>
+    <PMCID>6132926</PMCID>
+    <PMCID>5879731</PMCID>
+    <PMCID>5913700</PMCID>
+    <PMCID>5831749</PMCID>
+    <PMCID>5825938</PMCID>
+    <PMCID>5691641</PMCID>
+    <PMCID>5579950</PMCID>
+    <PMCID>5580472</PMCID>
+    <PMCID>5514530</PMCID>
+    <PMCID>5473882</PMCID>
+    <PMCID>5316968</PMCID>
+    <PMCID>5234061</PMCID>
+    <PMCID>5127864</PMCID>
+    <PMCID>5119566</PMCID>
+    <PMCID>4928353</PMCID>
+    <PMCID>4926179</PMCID>
+    <PMCID>4908992</PMCID>
+    <PMCID>4894315</PMCID>
+    <PMCID>4758307</PMCID>
+    <PMCID>5434827</PMCID>
+    <PMCID>4584292</PMCID>
+    <PMCID>4491865</PMCID>
+    <PMCID>4411693</PMCID>
+    <PMCID>4379583</PMCID>
+    <PMCID>4304020</PMCID>
+    <PMCID>4149609</PMCID>
+    <PMCID>4102332</PMCID>
+    <PMCID>4077651</PMCID>
+    <PMCID>3922166</PMCID>
+    <PMCID>3942189</PMCID>
+    <PMCID>3855713</PMCID>
+    <PMCID>3889233</PMCID>
+    <PMCID>3945082</PMCID>
+    <PMCID>3749956</PMCID>
+    <PMCID>3700194</PMCID>
+    <PMCID>3649941</PMCID>
+    <PMCID>4080715</PMCID>
+    <PMCID>3546957</PMCID>
+    <PMCID>3486325</PMCID>
+    <PMCID>3508084</PMCID>
+    <PMCID>3570343</PMCID>
+    <PMCID>3318637</PMCID>
+    <PMCID>3298800</PMCID>
+    <PMCID>3398307</PMCID>
+    <PMCID>3146785</PMCID>
+    <PMCID>3084725</PMCID>
+    <PMCID>3377414</PMCID>
+    <PMCID>3185747</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2866252</PMCID>
+    <PMCID>2884421</PMCID>
+    <PMCID>2907574</PMCID>
+    <PMCID>2806865</PMCID>
+    <PMCID>2812294</PMCID>
+    <PMCID>2764843</PMCID>
+    <PMCID>2818276</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>4310687</PMCID>
+    <PMCID>2268676</PMCID>
+    <PMCID>2441824</PMCID>
+    <PMCID>2238129</PMCID>
+    <PMCID>2189992</PMCID>
+    <PMCID>1933313</PMCID>
+    <PMCID>2045533</PMCID>
+    <PMCID>1079960</PMCID>
+    <PMCID>546595</PMCID>
+    <PMCID>509180</PMCID>
+    <PMCID>434121</PMCID>
+    <PMCID>434103</PMCID>
+    <PMCID>307623</PMCID>
+    <PMCID>296094</PMCID>
+    <PMCID>164831</PMCID>
+    <PMCID>161711</PMCID>
+    <PMCID>136203</PMCID>
+    <PMCID>1680293</PMCID>
+    <GeneBankPMID>25663144</GeneBankPMID>
+    <GeneBankPMID>12021338</GeneBankPMID>
+    <GeneBankPMID>17686843</GeneBankPMID>
+    <GeneBankPMID>22896610</GeneBankPMID>
+    <id>10266</id>
+    <meSHTree>B04.280.650.160.150</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SPPV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  sheep pox virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Sheeppox virus</scientificName>
+</pathogen>

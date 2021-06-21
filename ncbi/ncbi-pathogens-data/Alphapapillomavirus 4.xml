@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>471358</id>
+            <scientificName>Human papillomavirus type 57c</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>186160</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 57b
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human papillomavirus type 57b</scientificName>
+        </subSpecies>
+        <PMCID>4379255</PMCID>
+        <id>333753</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 57
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 57
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>human papillomavirus 57</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>325568</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 27b
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human papillomavirus type 27b</scientificName>
+        </subSpecies>
+        <PMCID>251130</PMCID>
+        <id>333752</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 27
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 27
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>human papillomavirus 27</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5438953</PMCID>
+        <PMCID>442135</PMCID>
+        <PMCID>4611164</PMCID>
+        <id>333751</id>
+        <scientificName>Human papillomavirus type 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10610</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 2c
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human papillomavirus type 2c HPV-2c
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus type 2c</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>10584</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 2a
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus type 2a</scientificName>
+    </subSpecies>
+    <PMCID>7704424</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7063766</PMCID>
+    <PMCID>6993575</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>5117989</PMCID>
+    <GeneBankPMID>22333459</GeneBankPMID>
+    <GeneBankPMID>1964523</GeneBankPMID>
+    <id>337043</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Alphapapillomavirus 4</scientificName>
+</pathogen>

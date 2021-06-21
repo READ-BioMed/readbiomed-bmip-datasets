@@ -1,0 +1,13 @@
+
+A new epitope tag from hepatitis B virus preS1 for immunodetection, localization and affinity purification of recombinant proteins.
+
+Previously, a murine monoclonal antibody (mAb) KR127 (IgG2a/kappa) that binds specifically to the preS1 of hepatitis B virus (HBV) was generated and the fine epitope was mapped to amino acids (aa) 37-45 (NSNNPDWDF). 
+In this current study, the epitope in combination with KR127 was tested for protein tagging. 
+Initially, to evaluate the importance of each residue of the KR127 epitope in antibody binding, alanine substitution mutants of the epitope were constructed and characterized for KR127 binding by immunoblot analysis and competition ELISA. 
+The results showed that substitution of Ser(38) by alanine (S38A) increased the affinity to KR127. 
+The mutated epitope (NANNPDWDF), designated S1 tag, was fused to the amino (N)- or carboxyl (C)-terminus of three human recombinant proteins, soluble B lymphocyte stimulator (sBLyS), the N-terminal domain of thrombopoietin (nTPO), and a mitochondrial ribosomal protein (CGI-113) for expression in mammalian cells, while it was fused to the N- or C-terminus of two proteins, a single-chain antibody fragment (ScFv) and the carboxyl-terminal domain (PAc) of the protective antigen of Bacillus anthracis for expression in Escherichia coli. 
+The immunodetection, immunoprecipitation, and affinity purification of the expressed S1-tagged proteins by KR127 were successfully demonstrated. 
+In addition, a KR127 mutant (AP2) with higher affinity, K(d) (0.9 nM), for the S1 tag compared to that (20 nM) of KR127 was obtained by mutational analysis of the heavy chain CDR3 (HCDR3) of KR127. 
+The AP2 antibody was 4-fold more sensitive in detecting the S1-tagged protein than KR127. 
+The S1 tag-KR127 or AP2 combination could be universally used for monitoring protein expression, localizing proteins, and protein purification, as well as studying protein interactions.
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>417191</id>
+        <scientificName>Honeysuckle yellow vein mosaic virus-[Nara2]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>417190</id>
+        <scientificName>Honeysuckle yellow vein mosaic virus-[Nara1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>226085</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  HYVMV-tobacco [Yamaguchi]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Honeysuckle yellow vein mosaic virus-tobacco [Yamaguchi]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco leaf curl Yamaguchi virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Honeysuckle yellow vein mosaic virus-[Yamaguchi]</scientificName>
+    </subSpecies>
+    <PMCID>3550817</PMCID>
+    <id>180587</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Honeysuckle-infecting geminivirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  honeysuckle infecting geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Honeysuckle yellow vein mosaic virus</scientificName>
+</pathogen>

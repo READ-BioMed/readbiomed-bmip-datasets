@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <id>120509</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2527237</PMCID>
+        <id>111166</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  bovine adenovirus 5 strain 285
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7914820</PMCID>
+        <PMCID>7211397</PMCID>
+        <PMCID>6880561</PMCID>
+        <PMCID>5656758</PMCID>
+        <PMCID>4984651</PMCID>
+        <PMCID>4451742</PMCID>
+        <PMCID>2567038</PMCID>
+        <PMCID>2238904</PMCID>
+        <PMCID>525112</PMCID>
+        <PMCID>180958</PMCID>
+        <id>70333</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 4</scientificName>
+    </subSpecies>
+    <PMCID>5656758</PMCID>
+    <PMCID>5215340</PMCID>
+    <PMCID>4451742</PMCID>
+    <PMCID>2238904</PMCID>
+    <PMCID>525023</PMCID>
+    <GeneBankPMID>10653919</GeneBankPMID>
+    <GeneBankPMID>10993931</GeneBankPMID>
+    <GeneBankPMID>11324754</GeneBankPMID>
+    <GeneBankPMID>9634088</GeneBankPMID>
+    <id>130499</id>
+    <meSHTree>B04.280.030.080</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine adenovirus D
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine adenovirus D</scientificName>
+</pathogen>

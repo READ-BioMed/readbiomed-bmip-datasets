@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>6356274</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>4303641</PMCID>
+    <PMCID>3814600</PMCID>
+    <PMCID>2880111</PMCID>
+    <GeneBankPMID>8336129</GeneBankPMID>
+    <id>29257</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BCV-3
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  BCV3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  beet cryptic virus 3 BCV3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Beet cryptic virus 3</scientificName>
+</pathogen>

@@ -1,0 +1,10 @@
+
+Isolation and genetic characterization of naturally NS-truncated H3N8 equine influenza virus in South Korea.
+
+Equine influenza virus (EIV) causes a highly contagious respiratory disease in equids, with confirmed outbreaks in Europe, America, North Africa, and Asia. 
+Although China, Mongolia, and Japan have reported equine influenza outbreaks, Korea has not. 
+Since 2011, we have conducted a routine surveillance programme to detect EIV at domestic stud farms, and isolated H3N8 EIV from horses showing respiratory disease symptoms. 
+Here, we characterized the genetic and biological properties of this novel Korean H3N8 EIV isolate. 
+This H3N8 EIV isolate belongs to the Florida sublineage clade 1 of the American H3N8 EIV lineage, and surprisingly, possessed a non-structural protein (NS) gene segment, where 23 bases of the NS1-encoding region were naturally truncated. 
+Our preliminary biological data indicated that this truncation did not affect virus replication; its effect on biological and immunological properties of the virus will require further study.
+

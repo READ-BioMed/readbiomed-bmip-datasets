@@ -1,0 +1,10 @@
+
+Microneedle patch delivery to the skin of virus-like particles containing heterologous M2e extracellular domains of influenza virus induces broad heterosubtypic cross-protection.
+
+A broadly cross-protective influenza vaccine that can be administrated by a painless self-immunization method would be a value as a potential universal mass vaccination strategy. 
+This study developed a minimally-invasive microneedle (MN) patch for skin vaccination with virus-like particles containing influenza virus heterologous M2 extracellular (M2e) domains (M2e5x VLPs) as a universal vaccine candidate without adjuvants. 
+The stability of M2e5x VLP-coated microneedles was maintained for 8weeks at room temperature without losing M2e antigenicity and immunogenicity. 
+MN skin immunization induced strong humoral and mucosal M2e antibody responses and conferred cross-protection against heterosubtypic H1N1, H3N2, and H5N1 influenza virus challenges. 
+In addition, M2e5x VLP MN skin vaccination induced T-helper type 1 responses such as IgG2a isotype antibodies and IFN-γ producing cells at higher levels than those by conventional intramuscular injection. 
+These potential immunological and logistic advantages for skin delivery of M2e5x VLP MN vaccines could offer a promising approach to develop an easy-to-administer universal influenza vaccine. 
+

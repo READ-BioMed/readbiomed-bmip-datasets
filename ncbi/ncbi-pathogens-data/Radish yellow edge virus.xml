@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>295020</id>
+        <scientificName>Radish partitivirus JC-2004</scientificName>
+    </subSpecies>
+    <id>319460</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  RYEV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Radish yellow edge virus</scientificName>
+</pathogen>

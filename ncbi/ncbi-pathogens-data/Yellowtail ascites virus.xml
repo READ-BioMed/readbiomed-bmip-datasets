@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>26390814</GeneBankPMID>
+        <GeneBankPMID>18398563</GeneBankPMID>
+        <GeneBankPMID>25893906</GeneBankPMID>
+        <GeneBankPMID>21376131</GeneBankPMID>
+        <GeneBankPMID>19804835</GeneBankPMID>
+        <id>475879</id>
+        <scientificName>Paralichthys olivaceus birnavirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>360001</id>
+        <scientificName>Yellowtail ascites virus - YT-01A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>360000</id>
+        <scientificName>Yellowtail ascites virus - Y-6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>320123</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Marine birnavirus - H-1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Marine birnavirus - H1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>320045</id>
+        <scientificName>Marine birnavirus - AY-98</scientificName>
+    </subSpecies>
+    <PMCID>7695296</PMCID>
+    <PMCID>7159363</PMCID>
+    <PMCID>7112334</PMCID>
+    <PMCID>3642349</PMCID>
+    <GeneBankPMID>12664297</GeneBankPMID>
+    <GeneBankPMID>15509258</GeneBankPMID>
+    <id>59816</id>
+    <scientificName>Yellowtail ascites virus</scientificName>
+</pathogen>

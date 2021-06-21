@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8116480</PMCID>
+    <PMCID>8024497</PMCID>
+    <PMCID>7920986</PMCID>
+    <PMCID>7826519</PMCID>
+    <PMCID>7780072</PMCID>
+    <PMCID>7725574</PMCID>
+    <PMCID>7644825</PMCID>
+    <PMCID>7532584</PMCID>
+    <PMCID>7487108</PMCID>
+    <PMCID>7504791</PMCID>
+    <PMCID>7449042</PMCID>
+    <PMCID>7315012</PMCID>
+    <PMCID>7238234</PMCID>
+    <PMCID>7096528</PMCID>
+    <PMCID>7064751</PMCID>
+    <PMCID>7054507</PMCID>
+    <PMCID>7143818</PMCID>
+    <PMCID>7036856</PMCID>
+    <PMCID>6997914</PMCID>
+    <PMCID>6957449</PMCID>
+    <PMCID>6864650</PMCID>
+    <PMCID>6787565</PMCID>
+    <PMCID>6787268</PMCID>
+    <PMCID>6596283</PMCID>
+    <PMCID>6786007</PMCID>
+    <PMCID>6520785</PMCID>
+    <PMCID>6429771</PMCID>
+    <PMCID>6767909</PMCID>
+    <PMCID>6600303</PMCID>
+    <PMCID>6358914</PMCID>
+    <PMCID>6337254</PMCID>
+    <PMCID>6641897</PMCID>
+    <PMCID>6128263</PMCID>
+    <PMCID>5877718</PMCID>
+    <PMCID>6175699</PMCID>
+    <PMCID>5846135</PMCID>
+    <PMCID>5742565</PMCID>
+    <PMCID>5750613</PMCID>
+    <PMCID>5701567</PMCID>
+    <PMCID>5543550</PMCID>
+    <PMCID>5534479</PMCID>
+    <PMCID>5541800</PMCID>
+    <PMCID>5501967</PMCID>
+    <PMCID>5700020</PMCID>
+    <PMCID>6154679</PMCID>
+    <PMCID>6154557</PMCID>
+    <PMCID>5388818</PMCID>
+    <PMCID>5385174</PMCID>
+    <PMCID>5575885</PMCID>
+    <PMCID>5499249</PMCID>
+    <PMCID>5192459</PMCID>
+    <PMCID>5094769</PMCID>
+    <PMCID>6273086</PMCID>
+    <PMCID>6273667</PMCID>
+    <PMCID>5071727</PMCID>
+    <PMCID>4785625</PMCID>
+    <PMCID>5199003</PMCID>
+    <PMCID>4657100</PMCID>
+    <PMCID>4249243</PMCID>
+    <PMCID>4464291</PMCID>
+    <PMCID>4120994</PMCID>
+    <PMCID>4280026</PMCID>
+    <PMCID>3886669</PMCID>
+    <PMCID>3996833</PMCID>
+    <PMCID>6269876</PMCID>
+    <PMCID>3811609</PMCID>
+    <PMCID>3747212</PMCID>
+    <PMCID>3394748</PMCID>
+    <PMCID>3343347</PMCID>
+    <PMCID>3063114</PMCID>
+    <PMCID>3130908</PMCID>
+    <PMCID>3010692</PMCID>
+    <PMCID>2993809</PMCID>
+    <PMCID>6452112</PMCID>
+    <PMCID>3047983</PMCID>
+    <PMCID>2886142</PMCID>
+    <PMCID>2888003</PMCID>
+    <PMCID>3741595</PMCID>
+    <PMCID>6233898</PMCID>
+    <PMCID>2881668</PMCID>
+    <PMCID>2787780</PMCID>
+    <PMCID>6055226</PMCID>
+    <PMCID>2675041</PMCID>
+    <PMCID>2695850</PMCID>
+    <PMCID>7094699</PMCID>
+    <PMCID>2730799</PMCID>
+    <PMCID>6145169</PMCID>
+    <id>67369</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces toxytricini
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces toxytricini" Preobrazhenskaya and Sveshnikova in Gauze et al. 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptomyces toxytricini (Preobrazhenskaya and Sveshnikova 1957) Pridham et al. 1958
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19813
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19813
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 13472
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:13472
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS 566.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CBS:566.68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 13472
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:13472
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 12823
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:12823
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 12823
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:12823
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 9847
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:9847
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-5426
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP 5178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL-ISP:5178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-5426
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA 1093
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   RIA:1093
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM 200
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM:200
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-1279
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:1279
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:5426
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptomyces toxytricini</scientificName>
+</pathogen>

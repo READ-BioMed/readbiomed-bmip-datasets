@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>36353</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MDV2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Gallid herpesvirus 1 (serotype 2)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Marek's disease virus serotype 2 MDV2</scientificName>
+    </subSpecies>
+    <PMCID>7881644</PMCID>
+    <PMCID>7117531</PMCID>
+    <PMCID>7427429</PMCID>
+    <PMCID>6958383</PMCID>
+    <PMCID>6862082</PMCID>
+    <PMCID>6478013</PMCID>
+    <PMCID>6468363</PMCID>
+    <PMCID>6363996</PMCID>
+    <PMCID>6295993</PMCID>
+    <PMCID>5972151</PMCID>
+    <PMCID>5865735</PMCID>
+    <PMCID>5790959</PMCID>
+    <PMCID>5656797</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>5006142</PMCID>
+    <PMCID>4550065</PMCID>
+    <PMCID>4399834</PMCID>
+    <PMCID>4054454</PMCID>
+    <PMCID>4030002</PMCID>
+    <PMCID>3970156</PMCID>
+    <PMCID>3911700</PMCID>
+    <PMCID>3622571</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3534370</PMCID>
+    <PMCID>3577509</PMCID>
+    <PMCID>3446562</PMCID>
+    <PMCID>3446551</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3295103</PMCID>
+    <PMCID>4310701</PMCID>
+    <PMCID>3018400</PMCID>
+    <PMCID>3023823</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2770495</PMCID>
+    <PMCID>2713539</PMCID>
+    <PMCID>3074184</PMCID>
+    <PMCID>3032949</PMCID>
+    <PMCID>2651794</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>3339847</PMCID>
+    <PMCID>2493317</PMCID>
+    <PMCID>2760384</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>2048532</PMCID>
+    <PMCID>1933296</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1197138</PMCID>
+    <GeneBankPMID>23399034</GeneBankPMID>
+    <GeneBankPMID>11217423</GeneBankPMID>
+    <GeneBankPMID>18338583</GeneBankPMID>
+    <GeneBankPMID>17619133</GeneBankPMID>
+    <id>35250</id>
+    <meSHTree>B04.280.382.100.562.405</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  GaHV-3
+ &lt;/GenbankAcronym&gt; 
+ &lt;GenbankSynonym&gt;
+  Marek's disease virus type 2
+ &lt;/GenbankSynonym&gt; 
+ &lt;EquivalentName&gt;
+  Gallid herpesvirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Gallid herpesvirus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Marek's disease herpesvirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Gallid herpesvirus 3</scientificName>
+</pathogen>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7504660</PMCID>
+    <PMCID>7497999</PMCID>
+    <PMCID>7269391</PMCID>
+    <PMCID>6236141</PMCID>
+    <PMCID>6056841</PMCID>
+    <PMCID>7121989</PMCID>
+    <id>1653833</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Borrelia caucasica (Kandelaki 1945) Davis 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Borrelia caucasica</scientificName>
+</pathogen>

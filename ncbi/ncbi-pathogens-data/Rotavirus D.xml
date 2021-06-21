@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1307506</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Group D rotavirus RVD/Avian/India/PTN 48/2012
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rotavirus D RVD/Avian/India/PTN 48/2012
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rotavirus D RVD/Avian/India/UKD48/2012</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1307505</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Group D rotavirus RVD/Avian/India/PTN 14/2012
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rotavirus D RVD/Avian/India/PTN 14/2012</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1182528</id>
+        <scientificName>Rotavirus D chicken-wt/NLD/10V0133/2010</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1182527</id>
+        <scientificName>Rotavirus D chicken-wt/GBR/06V0274/2006</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1182526</id>
+        <scientificName>Rotavirus D chicken-wt/DEU/06V0064/2006</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1182525</id>
+        <scientificName>Rotavirus D chicken-wt/DEU/06V0047/2006</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1182524</id>
+        <scientificName>Rotavirus D chicken-wt/BGD/MJ-5/2010</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1182523</id>
+        <scientificName>Rotavirus D chicken-wt/BGD/HS-58/2010</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1182522</id>
+        <scientificName>Rotavirus D chicken-wt/BGD/BS-7/2010</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>23426355</GeneBankPMID>
+        <GeneBankPMID>20631147</GeneBankPMID>
+        <id>884200</id>
+        <scientificName>Rotavirus D chicken/05V0049/DEU/2005</scientificName>
+    </subSpecies>
+    <PMCID>7978947</PMCID>
+    <PMCID>7167075</PMCID>
+    <PMCID>7131559</PMCID>
+    <PMCID>7106153</PMCID>
+    <PMCID>6027270</PMCID>
+    <PMCID>4943361</PMCID>
+    <PMCID>4810255</PMCID>
+    <PMCID>3784908</PMCID>
+    <PMCID>2937790</PMCID>
+    <id>335100</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Group D rotavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rotavirus D</scientificName>
+</pathogen>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>11857</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SMRV-H
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Squirrel monkey retrovirus SMRV-H
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Squirrel monkey retrovirus-Human SMRV-H
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Squirrel monkey retrovirus-H</scientificName>
+    </subSpecies>
+    <PMCID>7997422</PMCID>
+    <PMCID>7150127</PMCID>
+    <PMCID>7148957</PMCID>
+    <PMCID>7116005</PMCID>
+    <PMCID>7433209</PMCID>
+    <PMCID>7064479</PMCID>
+    <PMCID>7072860</PMCID>
+    <PMCID>6328144</PMCID>
+    <PMCID>5995163</PMCID>
+    <PMCID>4592258</PMCID>
+    <PMCID>4485632</PMCID>
+    <PMCID>4036550</PMCID>
+    <PMCID>3925403</PMCID>
+    <PMCID>3835772</PMCID>
+    <PMCID>3833384</PMCID>
+    <PMCID>3621094</PMCID>
+    <PMCID>2760500</PMCID>
+    <PMCID>2577329</PMCID>
+    <PMCID>1308863</PMCID>
+    <PMCID>1091674</PMCID>
+    <PMCID>1061562</PMCID>
+    <PMCID>515831</PMCID>
+    <GeneBankPMID>3201749</GeneBankPMID>
+    <id>11856</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SMRV
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Squirrel monkey retrovirus</scientificName>
+</pathogen>

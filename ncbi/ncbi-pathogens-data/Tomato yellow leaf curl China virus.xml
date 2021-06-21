@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>493827</id>
+        <scientificName>Tomato yellow leaf curl China virus-Dali198</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>408092</id>
+        <scientificName>Tomato yellow leaf curl China virus-[YN72]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>382677</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus - [Y264]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus -[Y264]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>366681</id>
+        <scientificName>Tomato yellow leaf curl China virus-[Y322]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329851</id>
+        <scientificName>Tomato yellow leaf curl China virus-[Y193]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329850</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y301]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329849</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y194]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329826</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y286]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329825</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y285]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329824</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y284]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329823</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y255]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329822</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y254]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329821</id>
+        <scientificName>Tomato yellow leaf curl China virus -[Y253]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329400</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y303]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y303]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329399</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y302]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y302]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329398</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y300]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y300]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329397</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y299]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y299]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329396</id>
+        <scientificName>Tomato yellow leaf curl China virus - [Y251]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329395</id>
+        <scientificName>Tomato yellow leaf curl China virus - [Y249]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329394</id>
+        <scientificName>Tomato yellow leaf curl China virus - [Y206]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329393</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y205]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y205]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329392</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y198]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y198]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329391</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y195]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y195]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329390</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl China virus -[Y190]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato yellow leaf curl China virus - [Y190]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329292</id>
+        <scientificName>Tomato yellow leaf curl China virus-[Y194]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>284541</id>
+        <scientificName>Tomato yellow leaf curl China virus-[Y43]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221532</id>
+        <scientificName>Tomato yellow leaf curl China virus-To[Y25]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221531</id>
+        <scientificName>Tomato yellow leaf curl China virus-Tb[Y38]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221530</id>
+        <scientificName>Tomato yellow leaf curl China virus-Tb[Y36]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221529</id>
+        <scientificName>Tomato yellow leaf curl China virus-Tb[Y8]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221528</id>
+        <scientificName>Tomato yellow leaf curl China virus-Tb[Y11]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221527</id>
+        <scientificName>Tomato yellow leaf curl China virus-Tb[Y10]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221526</id>
+        <scientificName>Tomato yellow leaf curl China virus-Tb[Y5]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>221525</id>
+        <scientificName>Tomato yellow leaf curl China virus-[Y64]</scientificName>
+    </subSpecies>
+    <PMCID>7822537</PMCID>
+    <PMCID>7823891</PMCID>
+    <PMCID>7757248</PMCID>
+    <PMCID>7721534</PMCID>
+    <PMCID>7685591</PMCID>
+    <PMCID>7461331</PMCID>
+    <PMCID>7308551</PMCID>
+    <PMCID>7750400</PMCID>
+    <PMCID>7290374</PMCID>
+    <PMCID>7248346</PMCID>
+    <PMCID>7396689</PMCID>
+    <PMCID>7296017</PMCID>
+    <PMCID>7215500</PMCID>
+    <PMCID>7203134</PMCID>
+    <PMCID>7186577</PMCID>
+    <PMCID>7150760</PMCID>
+    <PMCID>7145496</PMCID>
+    <PMCID>7096218</PMCID>
+    <PMCID>7031692</PMCID>
+    <PMCID>7077190</PMCID>
+    <PMCID>6916021</PMCID>
+    <PMCID>6953188</PMCID>
+    <PMCID>6788413</PMCID>
+    <PMCID>6704720</PMCID>
+    <PMCID>6723455</PMCID>
+    <PMCID>6694564</PMCID>
+    <PMCID>6715616</PMCID>
+    <PMCID>6611054</PMCID>
+    <PMCID>6589721</PMCID>
+    <PMCID>6598649</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6546731</PMCID>
+    <PMCID>6563268</PMCID>
+    <PMCID>6514154</PMCID>
+    <PMCID>6498046</PMCID>
+    <PMCID>6499421</PMCID>
+    <PMCID>6521231</PMCID>
+    <PMCID>6457337</PMCID>
+    <PMCID>6401443</PMCID>
+    <PMCID>6384059</PMCID>
+    <PMCID>6660014</PMCID>
+    <PMCID>6367152</PMCID>
+    <PMCID>6697862</PMCID>
+    <PMCID>6324229</PMCID>
+    <PMCID>6133388</PMCID>
+    <PMCID>6121887</PMCID>
+    <PMCID>6089456</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>6019014</PMCID>
+    <PMCID>5855737</PMCID>
+    <PMCID>5800681</PMCID>
+    <PMCID>6517462</PMCID>
+    <PMCID>5771010</PMCID>
+    <PMCID>5705616</PMCID>
+    <PMCID>5663716</PMCID>
+    <PMCID>5717725</PMCID>
+    <PMCID>5618022</PMCID>
+    <PMCID>5533934</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5426028</PMCID>
+    <PMCID>5425365</PMCID>
+    <PMCID>5352662</PMCID>
+    <PMCID>5399926</PMCID>
+    <PMCID>5362266</PMCID>
+    <PMCID>5373046</PMCID>
+    <PMCID>5333915</PMCID>
+    <PMCID>6638253</PMCID>
+    <PMCID>5253358</PMCID>
+    <PMCID>5294973</PMCID>
+    <PMCID>5124967</PMCID>
+    <PMCID>5099147</PMCID>
+    <PMCID>5090245</PMCID>
+    <PMCID>5048074</PMCID>
+    <PMCID>5051556</PMCID>
+    <PMCID>4997587</PMCID>
+    <PMCID>4912122</PMCID>
+    <PMCID>5082773</PMCID>
+    <PMCID>4853101</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4736103</PMCID>
+    <PMCID>4844413</PMCID>
+    <PMCID>4704257</PMCID>
+    <PMCID>4658475</PMCID>
+    <PMCID>4690014</PMCID>
+    <PMCID>4614018</PMCID>
+    <PMCID>4594918</PMCID>
+    <PMCID>4592220</PMCID>
+    <PMCID>4584297</PMCID>
+    <PMCID>4576204</PMCID>
+    <PMCID>4509747</PMCID>
+    <PMCID>4577905</PMCID>
+    <PMCID>4499934</PMCID>
+    <PMCID>4488762</PMCID>
+    <PMCID>4566980</PMCID>
+    <PMCID>4577379</PMCID>
+    <PMCID>4379557</PMCID>
+    <PMCID>4286760</PMCID>
+    <PMCID>4311212</PMCID>
+    <PMCID>4249065</PMCID>
+    <PMCID>4432016</PMCID>
+    <PMCID>3987804</PMCID>
+    <PMCID>4008317</PMCID>
+    <PMCID>3958096</PMCID>
+    <PMCID>3916407</PMCID>
+    <PMCID>3917434</PMCID>
+    <PMCID>3776767</PMCID>
+    <PMCID>3798893</PMCID>
+    <PMCID>3763480</PMCID>
+    <PMCID>3759858</PMCID>
+    <PMCID>3714654</PMCID>
+    <PMCID>3696735</PMCID>
+    <PMCID>3698214</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>3648162</PMCID>
+    <PMCID>3629040</PMCID>
+    <PMCID>3676499</PMCID>
+    <PMCID>3556111</PMCID>
+    <PMCID>3503126</PMCID>
+    <PMCID>3416813</PMCID>
+    <PMCID>3338671</PMCID>
+    <PMCID>3325912</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3228479</PMCID>
+    <PMCID>3197609</PMCID>
+    <PMCID>3166278</PMCID>
+    <PMCID>3097238</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>3036729</PMCID>
+    <PMCID>3030953</PMCID>
+    <PMCID>3067855</PMCID>
+    <PMCID>3006357</PMCID>
+    <PMCID>2922188</PMCID>
+    <PMCID>2911204</PMCID>
+    <PMCID>6640490</PMCID>
+    <PMCID>2816314</PMCID>
+    <PMCID>2801088</PMCID>
+    <PMCID>2793511</PMCID>
+    <PMCID>2719613</PMCID>
+    <PMCID>2713212</PMCID>
+    <PMCID>2725476</PMCID>
+    <PMCID>2699436</PMCID>
+    <PMCID>6640326</PMCID>
+    <PMCID>2630985</PMCID>
+    <PMCID>2585570</PMCID>
+    <PMCID>2572610</PMCID>
+    <PMCID>2546693</PMCID>
+    <PMCID>2268320</PMCID>
+    <PMCID>2246074</PMCID>
+    <PMCID>2224568</PMCID>
+    <PMCID>2170441</PMCID>
+    <PMCID>1838827</PMCID>
+    <PMCID>1900275</PMCID>
+    <PMCID>1773017</PMCID>
+    <PMCID>1182626</PMCID>
+    <PMCID>1061533</PMCID>
+    <PMCID>1389620</PMCID>
+    <PMCID>533896</PMCID>
+    <PMCID>506916</PMCID>
+    <PMCID>434130</PMCID>
+    <GeneBankPMID>21893116</GeneBankPMID>
+    <GeneBankPMID>11682126</GeneBankPMID>
+    <id>185793</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  TYLCCNV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Tomato yellow leaf curl virus - China
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tomato yellow leaf curl China virus</scientificName>
+</pathogen>

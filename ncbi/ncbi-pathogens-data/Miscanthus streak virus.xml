@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>268778</id>
+        <scientificName>Miscanthus streak virus - [Japan 98]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>268777</id>
+        <scientificName>Miscanthus streak virus - [Japan 96]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>1919519</GeneBankPMID>
+        <id>268776</id>
+        <scientificName>Miscanthus streak virus - [91]</scientificName>
+    </subSpecies>
+    <PMCID>7232249</PMCID>
+    <PMCID>3673993</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>2630985</PMCID>
+    <id>10825</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Miscanthus streak virus MiSV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Miscanthus streak virus</scientificName>
+</pathogen>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7332303</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7177692</PMCID>
+    <PMCID>7661389</PMCID>
+    <PMCID>6800982</PMCID>
+    <PMCID>6759674</PMCID>
+    <PMCID>5282660</PMCID>
+    <PMCID>4944287</PMCID>
+    <PMCID>5014485</PMCID>
+    <PMCID>4411691</PMCID>
+    <PMCID>4073217</PMCID>
+    <PMCID>3648121</PMCID>
+    <GeneBankPMID>8376970</GeneBankPMID>
+    <id>31749</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  ObPV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Tobamovirus Ob
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  tomato mosaic virus-Ob
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Obuda pepper virus</scientificName>
+</pathogen>

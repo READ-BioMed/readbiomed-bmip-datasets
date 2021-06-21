@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7759923</PMCID>
+        <PMCID>7114519</PMCID>
+        <PMCID>6849764</PMCID>
+        <PMCID>4376133</PMCID>
+        <PMCID>3931614</PMCID>
+        <PMCID>3503094</PMCID>
+        <PMCID>3541788</PMCID>
+        <PMCID>3255865</PMCID>
+        <PMCID>2698906</PMCID>
+        <GeneBankPMID>11992011</GeneBankPMID>
+        <id>1002921</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PEV-8
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  PEV-J4
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  PEV-J6
+ &lt;/Acronym&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus strain IP1
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus strain SF16
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus strain V15
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 8
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine sapelovirus (strain V13)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine sapelovirus V13
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  porcine enterovirus serotype 8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine sapelovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7979554</PMCID>
+    <PMCID>7409514</PMCID>
+    <PMCID>7352226</PMCID>
+    <PMCID>7203355</PMCID>
+    <PMCID>7087272</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7341194</PMCID>
+    <PMCID>7114519</PMCID>
+    <PMCID>7014746</PMCID>
+    <PMCID>7077239</PMCID>
+    <PMCID>6934677</PMCID>
+    <PMCID>6873589</PMCID>
+    <PMCID>6893673</PMCID>
+    <PMCID>6900713</PMCID>
+    <PMCID>6742800</PMCID>
+    <PMCID>6691886</PMCID>
+    <PMCID>6639612</PMCID>
+    <PMCID>6434631</PMCID>
+    <PMCID>6863196</PMCID>
+    <PMCID>6256667</PMCID>
+    <PMCID>5970503</PMCID>
+    <PMCID>5537671</PMCID>
+    <PMCID>5537669</PMCID>
+    <PMCID>5364608</PMCID>
+    <PMCID>5228260</PMCID>
+    <PMCID>5078829</PMCID>
+    <PMCID>5063349</PMCID>
+    <PMCID>5043563</PMCID>
+    <PMCID>5240775</PMCID>
+    <PMCID>4810533</PMCID>
+    <PMCID>4727389</PMCID>
+    <PMCID>4376133</PMCID>
+    <PMCID>4093777</PMCID>
+    <PMCID>3457332</PMCID>
+    <PMCID>3446573</PMCID>
+    <PMCID>3393563</PMCID>
+    <PMCID>3165794</PMCID>
+    <PMCID>2290972</PMCID>
+    <PMCID>135860</PMCID>
+    <id>686984</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus A
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine sapelovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Porcine sapelovirus</scientificName>
+</pathogen>

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>499177</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sticklandii DSM 519
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Acetoanaerobium sticklandii DSM 519</scientificName>
+    </subSpecies>
+    <PMCID>7924749</PMCID>
+    <PMCID>7926801</PMCID>
+    <PMCID>7939696</PMCID>
+    <PMCID>7918557</PMCID>
+    <PMCID>7835215</PMCID>
+    <PMCID>7796543</PMCID>
+    <PMCID>7781536</PMCID>
+    <PMCID>7730216</PMCID>
+    <PMCID>7705315</PMCID>
+    <PMCID>7515248</PMCID>
+    <PMCID>7483475</PMCID>
+    <PMCID>7481360</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7285349</PMCID>
+    <PMCID>7221253</PMCID>
+    <PMCID>7142414</PMCID>
+    <PMCID>7033184</PMCID>
+    <PMCID>7269680</PMCID>
+    <PMCID>7221429</PMCID>
+    <PMCID>7441489</PMCID>
+    <PMCID>7141153</PMCID>
+    <PMCID>6867894</PMCID>
+    <PMCID>7200564</PMCID>
+    <PMCID>6778437</PMCID>
+    <PMCID>6801102</PMCID>
+    <PMCID>6643230</PMCID>
+    <PMCID>6785585</PMCID>
+    <PMCID>6626643</PMCID>
+    <PMCID>6527227</PMCID>
+    <PMCID>6560426</PMCID>
+    <PMCID>6561804</PMCID>
+    <PMCID>6387971</PMCID>
+    <PMCID>6472184</PMCID>
+    <PMCID>6362596</PMCID>
+    <PMCID>6256501</PMCID>
+    <PMCID>6173566</PMCID>
+    <PMCID>6146663</PMCID>
+    <PMCID>6156526</PMCID>
+    <PMCID>6098093</PMCID>
+    <PMCID>6090026</PMCID>
+    <PMCID>6163223</PMCID>
+    <PMCID>5959977</PMCID>
+    <PMCID>5911377</PMCID>
+    <PMCID>5861303</PMCID>
+    <PMCID>5884228</PMCID>
+    <PMCID>5686429</PMCID>
+    <PMCID>5613163</PMCID>
+    <PMCID>5804439</PMCID>
+    <PMCID>5584792</PMCID>
+    <PMCID>5566628</PMCID>
+    <PMCID>5737214</PMCID>
+    <PMCID>5525254</PMCID>
+    <PMCID>5497025</PMCID>
+    <PMCID>5472720</PMCID>
+    <PMCID>5387927</PMCID>
+    <PMCID>5384747</PMCID>
+    <PMCID>5930277</PMCID>
+    <PMCID>5705181</PMCID>
+    <PMCID>5331431</PMCID>
+    <PMCID>5244501</PMCID>
+    <PMCID>5039349</PMCID>
+    <PMCID>5003875</PMCID>
+    <PMCID>4859166</PMCID>
+    <PMCID>4686187</PMCID>
+    <PMCID>4697335</PMCID>
+    <PMCID>4782675</PMCID>
+    <PMCID>4491405</PMCID>
+    <PMCID>4462011</PMCID>
+    <PMCID>4417235</PMCID>
+    <PMCID>4392294</PMCID>
+    <PMCID>4542688</PMCID>
+    <PMCID>4364671</PMCID>
+    <PMCID>4332921</PMCID>
+    <PMCID>4413051</PMCID>
+    <PMCID>4239067</PMCID>
+    <PMCID>4256349</PMCID>
+    <PMCID>4056300</PMCID>
+    <PMCID>4062602</PMCID>
+    <PMCID>4158999</PMCID>
+    <PMCID>3958899</PMCID>
+    <PMCID>4093290</PMCID>
+    <PMCID>3883804</PMCID>
+    <PMCID>3797734</PMCID>
+    <PMCID>3753936</PMCID>
+    <PMCID>4056668</PMCID>
+    <PMCID>3734579</PMCID>
+    <PMCID>4093324</PMCID>
+    <PMCID>3624599</PMCID>
+    <PMCID>3656294</PMCID>
+    <PMCID>3646986</PMCID>
+    <PMCID>3695663</PMCID>
+    <PMCID>3519856</PMCID>
+    <PMCID>3533761</PMCID>
+    <PMCID>3370521</PMCID>
+    <PMCID>3370288</PMCID>
+    <PMCID>3424549</PMCID>
+    <PMCID>3475369</PMCID>
+    <PMCID>3523193</PMCID>
+    <PMCID>3356609</PMCID>
+    <PMCID>3609279</PMCID>
+    <PMCID>3183007</PMCID>
+    <PMCID>3149608</PMCID>
+    <PMCID>3173103</PMCID>
+    <PMCID>3182833</PMCID>
+    <PMCID>3122728</PMCID>
+    <PMCID>3037491</PMCID>
+    <PMCID>3020560</PMCID>
+    <PMCID>3091704</PMCID>
+    <PMCID>2897892</PMCID>
+    <PMCID>2859556</PMCID>
+    <PMCID>2741331</PMCID>
+    <PMCID>3062201</PMCID>
+    <PMCID>2671064</PMCID>
+    <PMCID>2681807</PMCID>
+    <PMCID>3120101</PMCID>
+    <PMCID>3259882</PMCID>
+    <PMCID>2587053</PMCID>
+    <PMCID>2459174</PMCID>
+    <PMCID>2432076</PMCID>
+    <PMCID>2415752</PMCID>
+    <PMCID>2168041</PMCID>
+    <PMCID>1964878</PMCID>
+    <PMCID>1892958</PMCID>
+    <PMCID>1945111</PMCID>
+    <PMCID>1698225</PMCID>
+    <PMCID>1425842</PMCID>
+    <PMCID>1413642</PMCID>
+    <PMCID>2792033</PMCID>
+    <PMCID>1273633</PMCID>
+    <PMCID>1169039</PMCID>
+    <PMCID>1160521</PMCID>
+    <PMCID>1088965</PMCID>
+    <PMCID>1082793</PMCID>
+    <PMCID>1065124</PMCID>
+    <PMCID>1952386</PMCID>
+    <PMCID>528966</PMCID>
+    <PMCID>528771</PMCID>
+    <PMCID>395905</PMCID>
+    <PMCID>307583</PMCID>
+    <PMCID>1303563</PMCID>
+    <PMCID>1326353</PMCID>
+    <PMCID>169102</PMCID>
+    <PMCID>165783</PMCID>
+    <PMCID>403646</PMCID>
+    <PMCID>150144</PMCID>
+    <PMCID>126441</PMCID>
+    <PMCID>126416</PMCID>
+    <PMCID>117216</PMCID>
+    <PMCID>134920</PMCID>
+    <PMCID>134910</PMCID>
+    <PMCID>134906</PMCID>
+    <PMCID>123762</PMCID>
+    <PMCID>101933</PMCID>
+    <PMCID>91486</PMCID>
+    <PMCID>91459</PMCID>
+    <PMCID>106232</PMCID>
+    <PMCID>106345</PMCID>
+    <PMCID>121377</PMCID>
+    <PMCID>167848</PMCID>
+    <PMCID>42449</PMCID>
+    <PMCID>1134501</PMCID>
+    <PMCID>207396</PMCID>
+    <PMCID>208708</PMCID>
+    <PMCID>209752</PMCID>
+    <PMCID>210718</PMCID>
+    <PMCID>397035</PMCID>
+    <PMCID>345739</PMCID>
+    <PMCID>348503</PMCID>
+    <PMCID>430707</PMCID>
+    <PMCID>248283</PMCID>
+    <PMCID>250453</PMCID>
+    <PMCID>315219</PMCID>
+    <GeneBankPMID>1429431</GeneBankPMID>
+    <GeneBankPMID>15514022</GeneBankPMID>
+    <GeneBankPMID>10617592</GeneBankPMID>
+    <GeneBankPMID>10085076</GeneBankPMID>
+    <GeneBankPMID>20106986</GeneBankPMID>
+    <MeSHPMID>29713722</MeSHPMID>
+    <MeSHPMID>28528213</MeSHPMID>
+    <MeSHPMID>27086547</MeSHPMID>
+    <MeSHPMID>25627283</MeSHPMID>
+    <MeSHPMID>25213862</MeSHPMID>
+    <MeSHPMID>25100213</MeSHPMID>
+    <MeSHPMID>24747583</MeSHPMID>
+    <MeSHPMID>24314397</MeSHPMID>
+    <MeSHPMID>23413564</MeSHPMID>
+    <MeSHPMID>23311430</MeSHPMID>
+    <MeSHPMID>21377710</MeSHPMID>
+    <MeSHPMID>20937090</MeSHPMID>
+    <MeSHPMID>20106986</MeSHPMID>
+    <MeSHPMID>20087740</MeSHPMID>
+    <MeSHPMID>18948256</MeSHPMID>
+    <MeSHPMID>17590222</MeSHPMID>
+    <MeSHPMID>17117976</MeSHPMID>
+    <MeSHPMID>16696673</MeSHPMID>
+    <MeSHPMID>15886196</MeSHPMID>
+    <MeSHPMID>15514022</MeSHPMID>
+    <MeSHPMID>15511235</MeSHPMID>
+    <MeSHPMID>21932466</MeSHPMID>
+    <MeSHPMID>13833575</MeSHPMID>
+    <MeSHPMID>13628592</MeSHPMID>
+    <MeSHPMID>13475375</MeSHPMID>
+    <MeSHPMID>13416172</MeSHPMID>
+    <id>1511</id>
+    <meSHTree>B03.300.390.400.200.710, B03.353.625.375.500.710, B03.510.415.400.200.710</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sticklandii
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Acetoanaerobium sticklandii (Stadtman and McClung 1957) Galperin et al. 2016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium sticklandii Stadtman and McClung 1957 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 12662
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:12662
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 14485
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:14485
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 14485
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:14485
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 9281
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:9281
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 519
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:519
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1433
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1433
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 10654
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:10654
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::StadtmanHF
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain StadtmanHF
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium sticklandii</scientificName>
+</pathogen>

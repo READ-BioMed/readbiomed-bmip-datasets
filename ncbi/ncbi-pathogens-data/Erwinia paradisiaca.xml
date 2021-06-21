@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1224150</id>
+        <scientificName>Dickeya paradisiaca NCPPB 2511</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7938122</PMCID>
+        <PMCID>5031134</PMCID>
+        <PMCID>3533512</PMCID>
+        <PMCID>3927607</PMCID>
+        <id>579405</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Dickeya dadantii Ech703
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Dickeya paradisiaca Ech703</scientificName>
+    </subSpecies>
+    <PMCID>8068253</PMCID>
+    <PMCID>7877592</PMCID>
+    <PMCID>7691439</PMCID>
+    <PMCID>7325237</PMCID>
+    <PMCID>6856320</PMCID>
+    <PMCID>6856664</PMCID>
+    <PMCID>6385640</PMCID>
+    <PMCID>6143709</PMCID>
+    <PMCID>6025938</PMCID>
+    <PMCID>5582154</PMCID>
+    <PMCID>5517453</PMCID>
+    <PMCID>5122149</PMCID>
+    <PMCID>4908373</PMCID>
+    <PMCID>6638492</PMCID>
+    <PMCID>4748488</PMCID>
+    <PMCID>4726635</PMCID>
+    <PMCID>4726272</PMCID>
+    <PMCID>4661320</PMCID>
+    <PMCID>4552970</PMCID>
+    <PMCID>4383940</PMCID>
+    <PMCID>4260167</PMCID>
+    <PMCID>3735067</PMCID>
+    <PMCID>3343043</PMCID>
+    <PMCID>1393189</PMCID>
+    <PMCID>106586</PMCID>
+    <id>69223</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Brenneria paradisiaca
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia paradisiaca
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Dickeya sp. CFBP 4178
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Brenneria paradisiaca (Fernandez-Borrero and Lopez-Duque 1970) Hauben et al. 1999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Dickeya paradisiaca (Fernandez-Borrero and Lopez-Duque 1970) Samson et al. 2005
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Erwinia paradisiaca Fernandez-Borrero and Lopez-Duque 1970 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33242
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33242
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2542
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 4178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:4178
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2542
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2542
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB 2511
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB:2511
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Erwinia paradisiaca</scientificName>
+</pathogen>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>11699958</GeneBankPMID>
+        <GeneBankPMID>26251484</GeneBankPMID>
+        <GeneBankPMID>25122141</GeneBankPMID>
+        <id>1667587</id>
+        <scientificName>Papio ursinus cytomegalovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5833803</PMCID>
+        <id>1654930</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Drill monkey cytomegalovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mandrillus leucophaeus cytomegalovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>172584</id>
+        <scientificName>Vervet cytomegalovirus CSG</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7723282</PMCID>
+        <PMCID>7124307</PMCID>
+        <PMCID>6669855</PMCID>
+        <PMCID>6261887</PMCID>
+        <PMCID>3416160</PMCID>
+        <id>36452</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Stealth Virus: CMV-related
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Stealth virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Stealth virus isolate-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  stealth virus-1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Stealth virus 1</scientificName>
+    </subSpecies>
+    <PMCID>7864422</PMCID>
+    <PMCID>7214618</PMCID>
+    <PMCID>7552982</PMCID>
+    <PMCID>7285053</PMCID>
+    <PMCID>7088580</PMCID>
+    <PMCID>6146696</PMCID>
+    <PMCID>5833803</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>150286</PMCID>
+    <PMCID>114912</PMCID>
+    <PMCID>112992</PMCID>
+    <PMCID>109074</PMCID>
+    <GeneBankPMID>10704336</GeneBankPMID>
+    <id>50292</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CeHV-5
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  African green monkey cytomegalovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cercopithecine herpesvirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian cytomegalovirus (strain Colburn)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cercopithecine herpesvirus 5</scientificName>
+</pathogen>

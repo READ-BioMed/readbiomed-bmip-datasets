@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <GeneBankPMID>19341613</GeneBankPMID>
+    <id>2560318</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Avian avulavirus 8
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Avian Paramyxovirus type 8
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus 8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian paramyxovirus 8</scientificName>
+</pathogen>

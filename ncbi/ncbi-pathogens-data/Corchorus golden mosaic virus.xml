@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1517546</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Sherpur:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517545</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Jamalpur:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517544</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Tangail:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517543</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Sirajganj:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517542</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Bogra:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517541</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Gaibangha:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517540</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Kurigram:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517539</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Kishoreganj:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517538</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Manikganj:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517537</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Shariatpur:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1517536</id>
+        <scientificName>Corchorus golden mosaic virus [Bangladesh:Faridpur:2013]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>655838</id>
+        <scientificName>Corchorus golden mosaic virus [India:Bahraich2:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>627091</id>
+        <scientificName>Corchorus golden mosaic virus [India:Barrackpore2:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>582838</id>
+        <scientificName>Corchorus golden mosaic virus [India:Bahraich:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>574838</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Corchorus golden mosaic India virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Corchorus golden mosaic virus-[India:Barrackpore:2008 ]</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>4758306</PMCID>
+    <PMCID>4178870</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2666655</PMCID>
+    <GeneBankPMID>18089756</GeneBankPMID>
+    <id>390436</id>
+    <scientificName>Corchorus golden mosaic virus</scientificName>
+</pathogen>

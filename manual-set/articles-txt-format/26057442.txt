@@ -1,0 +1,9 @@
+
+A novel nanoprobe for the sensitive detection of Francisella tularensis.
+
+Francisella tularensis is a human zoonotic pathogen and the causative agent of tularemia, a severe infectious disease. 
+Given the extreme infectivity of F. tularensis and its potential to be used as a biological warfare agent, a fast and sensitive detection method is highly desirable. 
+Herein, we construct a novel detection platform composed of two units: (1) Magnetic beads conjugated with multiple capturing antibodies against F. tularensis for its simple and rapid separation and (2) Genetically-engineered apoferritin protein constructs conjugated with multiple quantum dots and a detection antibody against F. tularensis for the amplification of signal. 
+We demonstrate a 10-fold increase in the sensitivity relative to traditional lateral flow devices that utilize enzyme-based detection methods. 
+We ultimately envision the use of our novel nanoprobe detection platform in future applications that require the highly-sensitive on-site detection of high-risk pathogens. 
+

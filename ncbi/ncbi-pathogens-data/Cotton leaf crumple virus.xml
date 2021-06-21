@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>335400</id>
+        <scientificName>Cotton leaf crumple virus - [Mexico : Sonora]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>335399</id>
+        <scientificName>Cotton leaf crumple virus - [California]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>335398</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf crumple virus - [Texas]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf crumple virus - [TX]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>335397</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf crumple virus - [Arizona]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Cotton leaf crumple virus - [AZ]</scientificName>
+    </subSpecies>
+    <PMCID>7968383</PMCID>
+    <PMCID>7890912</PMCID>
+    <PMCID>6931244</PMCID>
+    <PMCID>6819470</PMCID>
+    <PMCID>6292863</PMCID>
+    <PMCID>5462034</PMCID>
+    <PMCID>5335750</PMCID>
+    <PMCID>5373046</PMCID>
+    <PMCID>5210732</PMCID>
+    <PMCID>4738334</PMCID>
+    <PMCID>4488762</PMCID>
+    <PMCID>4669559</PMCID>
+    <PMCID>6638542</PMCID>
+    <PMCID>3759462</PMCID>
+    <PMCID>3705308</PMCID>
+    <PMCID>7030403</PMCID>
+    <PMCID>3441267</PMCID>
+    <PMCID>3461552</PMCID>
+    <PMCID>3356883</PMCID>
+    <PMCID>3352926</PMCID>
+    <PMCID>3102712</PMCID>
+    <PMCID>3081322</PMCID>
+    <PMCID>3078967</PMCID>
+    <PMCID>3030953</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>2858149</PMCID>
+    <PMCID>2761890</PMCID>
+    <PMCID>2528111</PMCID>
+    <PMCID>2258725</PMCID>
+    <GeneBankPMID>18943795</GeneBankPMID>
+    <id>77647</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf crumple geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cotton leaf crumple virus</scientificName>
+</pathogen>

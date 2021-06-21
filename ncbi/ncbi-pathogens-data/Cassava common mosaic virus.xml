@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7915052</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7103407</PMCID>
+    <PMCID>6173849</PMCID>
+    <PMCID>6116962</PMCID>
+    <PMCID>6638855</PMCID>
+    <PMCID>3744397</PMCID>
+    <PMCID>3209275</PMCID>
+    <PMCID>3240119</PMCID>
+    <PMCID>3163225</PMCID>
+    <PMCID>3087015</PMCID>
+    <GeneBankPMID>8601791</GeneBankPMID>
+    <id>39046</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  CsCMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Cassava common mosaic virus (CsCMV)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cassava common mosaic virus</scientificName>
+</pathogen>

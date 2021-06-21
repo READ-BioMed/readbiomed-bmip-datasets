@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4899598</PMCID>
+        <PMCID>4312206</PMCID>
+        <id>262398</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human herpesvirus 7 (strain RK)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human herpesvirus 7 strain RK</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>57279</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Herpes simplex virus (type 7 / strain MUK)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human herpesvirus 7 strain MUK</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7150769</PMCID>
+        <PMCID>3113570</PMCID>
+        <id>57278</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human herpesvirus (type 7 / strain JI)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  herpes simplex virus (type 7 / strain JI)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human herpesvirus 7 strain JI</scientificName>
+    </subSpecies>
+    <PMCID>7837505</PMCID>
+    <PMCID>7079388</PMCID>
+    <PMCID>7303726</PMCID>
+    <PMCID>7114983</PMCID>
+    <PMCID>7110559</PMCID>
+    <PMCID>7001287</PMCID>
+    <PMCID>6833260</PMCID>
+    <PMCID>6963362</PMCID>
+    <PMCID>6780826</PMCID>
+    <PMCID>6770117</PMCID>
+    <PMCID>6470272</PMCID>
+    <PMCID>6428308</PMCID>
+    <PMCID>6397803</PMCID>
+    <PMCID>6502252</PMCID>
+    <PMCID>5955816</PMCID>
+    <PMCID>6594177</PMCID>
+    <PMCID>5823862</PMCID>
+    <PMCID>5605184</PMCID>
+    <PMCID>5848299</PMCID>
+    <PMCID>5535466</PMCID>
+    <PMCID>5445330</PMCID>
+    <PMCID>5511037</PMCID>
+    <PMCID>5425965</PMCID>
+    <PMCID>5378407</PMCID>
+    <PMCID>6251619</PMCID>
+    <PMCID>5040969</PMCID>
+    <PMCID>4499804</PMCID>
+    <PMCID>4351523</PMCID>
+    <PMCID>4570620</PMCID>
+    <PMCID>4081612</PMCID>
+    <PMCID>4036618</PMCID>
+    <PMCID>3911460</PMCID>
+    <PMCID>3809354</PMCID>
+    <PMCID>3717016</PMCID>
+    <PMCID>4745450</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3485865</PMCID>
+    <PMCID>3538396</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3446767</PMCID>
+    <PMCID>4310701</PMCID>
+    <PMCID>4545654</PMCID>
+    <PMCID>3113570</PMCID>
+    <PMCID>3028876</PMCID>
+    <PMCID>2992506</PMCID>
+    <PMCID>3383804</PMCID>
+    <PMCID>2998977</PMCID>
+    <PMCID>2943859</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2923853</PMCID>
+    <PMCID>2845584</PMCID>
+    <PMCID>3084576</PMCID>
+    <PMCID>2736913</PMCID>
+    <PMCID>2636798</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2665163</PMCID>
+    <PMCID>2567038</PMCID>
+    <PMCID>2566554</PMCID>
+    <PMCID>2566619</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>2239238</PMCID>
+    <PMCID>2375028</PMCID>
+    <PMCID>2014757</PMCID>
+    <PMCID>1978541</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1951306</PMCID>
+    <PMCID>1914293</PMCID>
+    <PMCID>1764433</PMCID>
+    <PMCID>1829070</PMCID>
+    <PMCID>2676329</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>1242213</PMCID>
+    <PMCID>1112110</PMCID>
+    <PMCID>4032367</PMCID>
+    <PMCID>161960</PMCID>
+    <PMCID>114589</PMCID>
+    <PMCID>125577</PMCID>
+    <PMCID>114440</PMCID>
+    <PMCID>114883</PMCID>
+    <PMCID>311046</PMCID>
+    <PMCID>87539</PMCID>
+    <PMCID>1312238</PMCID>
+    <PMCID>95963</PMCID>
+    <PMCID>25829</PMCID>
+    <PMCID>111973</PMCID>
+    <PMCID>111679</PMCID>
+    <PMCID>85721</PMCID>
+    <PMCID>112821</PMCID>
+    <PMCID>95690</PMCID>
+    <PMCID>105018</PMCID>
+    <PMCID>110001</PMCID>
+    <PMCID>191464</PMCID>
+    <PMCID>191236</PMCID>
+    <PMCID>190618</PMCID>
+    <PMCID>50377</PMCID>
+    <PMCID>241088</PMCID>
+    <PMCID>250327</PMCID>
+    <GeneBankPMID>31851583</GeneBankPMID>
+    <GeneBankPMID>20106916</GeneBankPMID>
+    <GeneBankPMID>7745696</GeneBankPMID>
+    <GeneBankPMID>17412969</GeneBankPMID>
+    <GeneBankPMID>22102813</GeneBankPMID>
+    <GeneBankPMID>9581785</GeneBankPMID>
+    <GeneBankPMID>24390327</GeneBankPMID>
+    <GeneBankPMID>28314105</GeneBankPMID>
+    <id>10372</id>
+    <meSHTree>B04.280.382.150.750.420</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HHV-7
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Herpes simplex virus 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human herpesvirus 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human herpesvirus type 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human herpesvirus 7 HHV-7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human herpesvirus 7</scientificName>
+</pathogen>

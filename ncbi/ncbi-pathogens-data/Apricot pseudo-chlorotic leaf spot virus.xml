@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>183584</id>
+        <scientificName>Apricot trichovirus</scientificName>
+    </subSpecies>
+    <PMCID>7086627</PMCID>
+    <PMCID>7077234</PMCID>
+    <PMCID>6522780</PMCID>
+    <PMCID>6070981</PMCID>
+    <PMCID>5789896</PMCID>
+    <PMCID>5051563</PMCID>
+    <PMCID>3917434</PMCID>
+    <GeneBankPMID>18943045</GeneBankPMID>
+    <id>307677</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Apricot pseudo chlorotic leaf spot virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Apricot pseudo-chlorotic leaf spot virus</scientificName>
+</pathogen>

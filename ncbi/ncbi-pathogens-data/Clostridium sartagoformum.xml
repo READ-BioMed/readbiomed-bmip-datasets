@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1202534</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sartagoforme AAU1_buffalo
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium sartagoforme isolate AAU1_buffalo
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Clostridium sartagoforme AAU1</scientificName>
+    </subSpecies>
+    <PMCID>8034619</PMCID>
+    <PMCID>7652851</PMCID>
+    <PMCID>7561615</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7256832</PMCID>
+    <PMCID>7049185</PMCID>
+    <PMCID>7000398</PMCID>
+    <PMCID>7807696</PMCID>
+    <PMCID>6801153</PMCID>
+    <PMCID>6631256</PMCID>
+    <PMCID>6389598</PMCID>
+    <PMCID>6041559</PMCID>
+    <PMCID>5733095</PMCID>
+    <PMCID>5767839</PMCID>
+    <PMCID>5647805</PMCID>
+    <PMCID>5118433</PMCID>
+    <PMCID>5018162</PMCID>
+    <PMCID>5017217</PMCID>
+    <PMCID>4722255</PMCID>
+    <PMCID>4442137</PMCID>
+    <PMCID>4334108</PMCID>
+    <PMCID>3911187</PMCID>
+    <PMCID>3508987</PMCID>
+    <PMCID>3195036</PMCID>
+    <PMCID>1183278</PMCID>
+    <PMCID>91833</PMCID>
+    <id>84031</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sartagoformum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium sartagoforme corrig. Partansky and Henry 1935
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25778
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25778
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1292
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1292
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1413
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1413
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium sartagoformum</scientificName>
+</pathogen>

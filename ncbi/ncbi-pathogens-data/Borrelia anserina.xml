@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>265692</PMCID>
+        <id>1365188</id>
+        <scientificName>Borrelia anserina Es</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313293</id>
+        <scientificName>Borrelia anserina BA2</scientificName>
+    </subSpecies>
+    <PMCID>8039128</PMCID>
+    <PMCID>7888641</PMCID>
+    <PMCID>7157729</PMCID>
+    <PMCID>6545822</PMCID>
+    <PMCID>6501397</PMCID>
+    <PMCID>6375133</PMCID>
+    <PMCID>6355528</PMCID>
+    <PMCID>6360175</PMCID>
+    <PMCID>6306154</PMCID>
+    <PMCID>6236141</PMCID>
+    <PMCID>5913367</PMCID>
+    <PMCID>5660903</PMCID>
+    <PMCID>5817193</PMCID>
+    <PMCID>5443079</PMCID>
+    <PMCID>5356049</PMCID>
+    <PMCID>4908759</PMCID>
+    <PMCID>7152007</PMCID>
+    <PMCID>5441348</PMCID>
+    <PMCID>5118283</PMCID>
+    <PMCID>4261524</PMCID>
+    <PMCID>3004910</PMCID>
+    <PMCID>2912600</PMCID>
+    <PMCID>2868591</PMCID>
+    <PMCID>2749103</PMCID>
+    <PMCID>2605162</PMCID>
+    <PMCID>2423095</PMCID>
+    <PMCID>1230938</PMCID>
+    <PMCID>1065187</PMCID>
+    <PMCID>356874</PMCID>
+    <PMCID>169163</PMCID>
+    <PMCID>142843</PMCID>
+    <PMCID>96096</PMCID>
+    <PMCID>87437</PMCID>
+    <PMCID>101806</PMCID>
+    <PMCID>86996</PMCID>
+    <PMCID>103694</PMCID>
+    <PMCID>116016</PMCID>
+    <PMCID>105229</PMCID>
+    <PMCID>107528</PMCID>
+    <PMCID>107070</PMCID>
+    <PMCID>182554</PMCID>
+    <PMCID>265692</PMCID>
+    <PMCID>208357</PMCID>
+    <PMCID>258088</PMCID>
+    <PMCID>269862</PMCID>
+    <PMCID>172012</PMCID>
+    <PMCID>262337</PMCID>
+    <id>143</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Spirochaeta anserina
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Spirochaete gallinarum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Spiroschaudinnia anserina
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Spirochaeta anserina" Sakharoff 1891
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Spirochaete gallinarum" (sic) Stephens and Christophers 1904
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Spiroschaudinnia anserina" (Sakharoff 1891) Sambon 1907
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Borrelia anserina (Sakharoff 1891) Bergey et al. 1925
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Borrelia anserina</scientificName>
+</pathogen>

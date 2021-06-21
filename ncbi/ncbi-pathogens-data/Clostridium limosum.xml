@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8096331</PMCID>
+    <PMCID>8084149</PMCID>
+    <PMCID>7827354</PMCID>
+    <PMCID>7935738</PMCID>
+    <PMCID>7481820</PMCID>
+    <PMCID>6952678</PMCID>
+    <PMCID>6873557</PMCID>
+    <PMCID>6836477</PMCID>
+    <PMCID>6785585</PMCID>
+    <PMCID>7172630</PMCID>
+    <PMCID>7152249</PMCID>
+    <PMCID>6098093</PMCID>
+    <PMCID>6424909</PMCID>
+    <PMCID>6024811</PMCID>
+    <PMCID>5827811</PMCID>
+    <PMCID>5663871</PMCID>
+    <PMCID>5331431</PMCID>
+    <PMCID>5244501</PMCID>
+    <PMCID>5131896</PMCID>
+    <PMCID>7122702</PMCID>
+    <PMCID>5011798</PMCID>
+    <PMCID>4970444</PMCID>
+    <PMCID>4977334</PMCID>
+    <PMCID>4822766</PMCID>
+    <PMCID>4485225</PMCID>
+    <PMCID>4528107</PMCID>
+    <PMCID>4753525</PMCID>
+    <PMCID>7158287</PMCID>
+    <PMCID>4265445</PMCID>
+    <PMCID>4249285</PMCID>
+    <PMCID>7152366</PMCID>
+    <PMCID>4160336</PMCID>
+    <PMCID>3926047</PMCID>
+    <PMCID>3874027</PMCID>
+    <PMCID>3552341</PMCID>
+    <PMCID>3564072</PMCID>
+    <PMCID>3375569</PMCID>
+    <PMCID>3288127</PMCID>
+    <PMCID>3234823</PMCID>
+    <PMCID>3206620</PMCID>
+    <PMCID>3067067</PMCID>
+    <PMCID>4407829</PMCID>
+    <PMCID>2872536</PMCID>
+    <PMCID>7152205</PMCID>
+    <PMCID>2812261</PMCID>
+    <PMCID>2577655</PMCID>
+    <PMCID>2567309</PMCID>
+    <PMCID>2327275</PMCID>
+    <PMCID>2661132</PMCID>
+    <PMCID>1698353</PMCID>
+    <PMCID>1895810</PMCID>
+    <PMCID>1860316</PMCID>
+    <PMCID>7151795</PMCID>
+    <PMCID>7150096</PMCID>
+    <PMCID>1276701</PMCID>
+    <PMCID>556266</PMCID>
+    <PMCID>535136</PMCID>
+    <PMCID>156081</PMCID>
+    <PMCID>149287</PMCID>
+    <PMCID>129894</PMCID>
+    <PMCID>126424</PMCID>
+    <PMCID>1222357</PMCID>
+    <PMCID>98872</PMCID>
+    <PMCID>98844</PMCID>
+    <PMCID>98728</PMCID>
+    <PMCID>93232</PMCID>
+    <PMCID>88973</PMCID>
+    <PMCID>305590</PMCID>
+    <PMCID>2269225</PMCID>
+    <PMCID>96347</PMCID>
+    <PMCID>96305</PMCID>
+    <PMCID>108639</PMCID>
+    <PMCID>108061</PMCID>
+    <PMCID>1138088</PMCID>
+    <id>1536</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium limosum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium limosum André 1948 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Hathewaya limosa (Andre 1948) Lawson and Rainey 2016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25620
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25620
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 14513
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:14513
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 14513
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:14513
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 24037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:24037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT 4329
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT:4329
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1400
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1400
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1427
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1427
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 10638
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:10638
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 2700
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:2700
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium limosum</scientificName>
+</pathogen>

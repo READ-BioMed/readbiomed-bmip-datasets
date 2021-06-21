@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>31710</id>
+        <scientificName>Potato virus M (German isolate)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>12168</id>
+        <scientificName>Potato virus M (strain Russian)</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7877712</PMCID>
+    <PMCID>7680954</PMCID>
+    <PMCID>7330602</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7172551</PMCID>
+    <PMCID>7112309</PMCID>
+    <PMCID>7008812</PMCID>
+    <PMCID>7122378</PMCID>
+    <PMCID>7064807</PMCID>
+    <PMCID>6917686</PMCID>
+    <PMCID>6722529</PMCID>
+    <PMCID>6669575</PMCID>
+    <PMCID>6459814</PMCID>
+    <PMCID>6368714</PMCID>
+    <PMCID>6364481</PMCID>
+    <PMCID>6254090</PMCID>
+    <PMCID>6206096</PMCID>
+    <PMCID>6266667</PMCID>
+    <PMCID>6115964</PMCID>
+    <PMCID>5923438</PMCID>
+    <PMCID>5877723</PMCID>
+    <PMCID>5742290</PMCID>
+    <PMCID>5663686</PMCID>
+    <PMCID>5538442</PMCID>
+    <PMCID>6638135</PMCID>
+    <PMCID>5216350</PMCID>
+    <PMCID>6638324</PMCID>
+    <PMCID>4737148</PMCID>
+    <PMCID>4564147</PMCID>
+    <PMCID>4571596</PMCID>
+    <PMCID>4544503</PMCID>
+    <PMCID>4374565</PMCID>
+    <PMCID>4262293</PMCID>
+    <PMCID>6638403</PMCID>
+    <PMCID>4329803</PMCID>
+    <PMCID>3689765</PMCID>
+    <PMCID>3999073</PMCID>
+    <PMCID>6638639</PMCID>
+    <PMCID>3520053</PMCID>
+    <PMCID>3196401</PMCID>
+    <PMCID>2825510</PMCID>
+    <PMCID>1847782</PMCID>
+    <PMCID>544882</PMCID>
+    <GeneBankPMID>1944258</GeneBankPMID>
+    <GeneBankPMID>21752911</GeneBankPMID>
+    <GeneBankPMID>2738581</GeneBankPMID>
+    <id>12167</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PVM
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Potato virus M</scientificName>
+</pathogen>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2773289</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Puma concolor papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Puma concolor papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2772508</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Panthera leo persica papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Panthera leo persica papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>348686</id>
+        <scientificName>Uncia uncia papillomavirus type 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>323364</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Lynx rufus papillomavirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Lynx rufus papillomavirus type 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>117442</PMCID>
+        <id>188524</id>
+        <scientificName>Felis domesticus papillomavirus type 1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>5606583</PMCID>
+    <PMCID>5014484</PMCID>
+    <PMCID>1896010</PMCID>
+    <id>181667</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Feline papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Lambdapapillomavirus 1</scientificName>
+</pathogen>

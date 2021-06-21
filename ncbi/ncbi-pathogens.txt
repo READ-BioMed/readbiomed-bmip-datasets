@@ -1,0 +1,3490 @@
+Alfalfa mosaic virus
+
+
+Garlic mite-borne filamentous virus
+Garlic virus A
+Garlic virus B
+Garlic virus C
+Garlic virus D
+Garlic virus E
+Garlic virus X
+Shallot virus X
+
+
+Alphacoronavirus 1
+Human coronavirus 229E
+Human coronavirus NL63
+Miniopterus bat coronavirus 1
+Miniopterus bat coronavirus HKU8
+Porcine epidemic diarrhea virus
+Rhinolophus bat coronavirus HKU2
+Scotophilus bat coronavirus 512
+
+
+Alfalfa cryptic virus 1
+Beet cryptic virus 1
+Beet cryptic virus 2
+Beet cryptic virus 3
+Carnation cryptic virus 1
+Carrot temperate virus 1
+Carrot temperate virus 3
+Carrot temperate virus 4
+Hop trefoil cryptic virus 1
+Hop trefoil cryptic virus 3
+Radish yellow edge virus
+Ryegrass cryptic virus
+Spinach temperate virus
+Vicia cryptic virus
+White clover cryptic virus 1
+White clover cryptic virus 3
+
+
+Alphapapillomavirus 1
+Alphapapillomavirus 10
+Alphapapillomavirus 11
+Alphapapillomavirus 12
+Alphapapillomavirus 13
+Alphapapillomavirus 14
+Alphapapillomavirus 2
+Alphapapillomavirus 3
+Alphapapillomavirus 4
+Alphapapillomavirus 5
+Alphapapillomavirus 6
+Alphapapillomavirus 7
+Alphapapillomavirus 8
+Alphapapillomavirus 9
+
+
+Avian carcinoma Mill Hill virus 2
+Avian leukosis virus
+Avian myeloblastosis virus
+Avian myelocytomatosis virus 29
+Avian sarcoma virus CT10
+Fujinami sarcoma virus
+Rous sarcoma virus
+UR2 sarcoma virus
+Y73 sarcoma virus
+
+
+Torque teno virus 1
+Torque teno virus 10
+Torque teno virus 11
+Torque teno virus 12
+Torque teno virus 13
+Torque teno virus 14
+Torque teno virus 15
+Torque teno virus 16
+Torque teno virus 17
+Torque teno virus 18
+Torque teno virus 19
+Torque teno virus 2
+Torque teno virus 20
+Torque teno virus 21
+Torque teno virus 22
+Torque teno virus 23
+Torque teno virus 24
+Torque teno virus 25
+Torque teno virus 26
+Torque teno virus 27
+Torque teno virus 28
+Torque teno virus 29
+Torque teno virus 3
+Torque teno virus 4
+Torque teno virus 5
+Torque teno virus 6
+Torque teno virus 7
+Torque teno virus 8
+Torque teno virus 9
+ 
+
+Aura virus
+Barmah Forest virus
+Bebaru virus
+Cabassou virus
+Chikungunya virus
+Eastern equine encephalitis virus
+Everglades virus
+Fort Morgan virus
+Getah virus
+Highlands J virus
+Mayaro virus
+Middelburg virus
+Mosso das Pedras virus (78V3531)
+Mucambo virus
+Ndumu virus
+O'nyong-nyong virus
+Pixuna virus
+Rio Negro virus
+Ross River virus
+Salmon pancreas disease virus
+Semliki Forest virus
+Sindbis virus
+Sleeping disease virus
+Southern elephant seal virus
+Tonate virus
+Trocara virus
+Una virus
+Venezuelan equine encephalitis virus
+Western equine encephalitis virus
+Whataroa virus
+ 
+
+Grapevine leafroll-associated virus 1
+Grapevine leafroll-associated virus 3
+Grapevine leafroll-associated virus 5
+Little cherry virus 2
+Pineapple mealybug wilt-associated virus 1
+Pineapple mealybug wilt-associated virus 2
+Pineapple mealybug wilt-associated virus 3
+Plum bark necrosis stem pitting-associated virus
+ 
+
+Bovine rhinitis A virus
+Bovine rhinitis B virus
+Equine rhinitis A virus
+Foot-and-mouth disease virus
+ 
+
+Apple dimple fruit viroid
+Apple scar skin viroid
+Australian grapevine viroid
+Citrus bent leaf viroid
+Citrus dwarfing viroid
+Citrus viroid V
+Citrus viroid VI
+Grapevine yellow speckle viroid 1
+Grapevine yellow speckle viroid 2
+Pear blister canker viroid
+ 
+
+Infectious pancreatic necrosis virus
+Tellina virus
+Yellowtail ascites virus
+ 
+
+Allpahuayo virus
+Amapari virus
+Bear Canyon virus
+Chapare virus
+Cupixi virus
+Flexal virus
+Guanarito virus
+Ippy virus
+Junin virus
+Lassa virus
+Latino virus
+Lujo virus
+Luna virus
+Lymphocytic choriomeningitis virus
+Machupo virus
+Mobala virus
+Mopeia virus
+Oliveros virus
+Parana virus
+Pichinde virus
+Pirital virus
+Sabia virus
+Tacaribe virus
+Tamiami virus
+Whitewater Arroyo virus
+ 
+
+Equine arteritis virus
+Lactate dehydrogenase-elevating virus
+Porcine reproductive and respiratory syndrome virus
+Simian hemorrhagic fever virus
+ 
+
+African swine fever virus
+ 
+
+Bovine adenovirus D
+Bovine adenovirus F
+Duck adenovirus 1
+Duck adenovirus A
+Ovine adenovirus D
+Possum adenovirus A
+Snake adenovirus A
+ 
+
+Cucumber leaf spot virus
+Johnsongrass chlorotic stripe mosaic virus
+Maize white line mosaic virus
+Pothos latent virus
+ 
+
+Falcon adenovirus A
+Fowl adenovirus A
+Fowl adenovirus B
+Fowl adenovirus C
+Fowl adenovirus D
+Fowl adenovirus E
+Goose adenovirus A
+Turkey adenovirus B
+ 
+
+Infectious bursal disease virus
+ 
+
+Duck hepatitis B virus
+Heron hepatitis B virus
+ 
+
+Duck hepatitis A virus
+ 
+
+Canarypox virus
+Fowlpox virus
+Juncopox virus
+Mynahpox virus
+Pigeonpox virus
+Psittacinepox virus
+Quailpox virus
+Sparrowpox virus
+Starlingpox virus
+Turkeypox virus
+ 
+
+Avian paramyxovirus 2
+Avian paramyxovirus 3
+Avian paramyxovirus 4
+Avian paramyxovirus 5
+Avian paramyxovirus 6
+Avian paramyxovirus 7
+Avian paramyxovirus 8
+Avian paramyxovirus 9
+Newcastle disease virus
+ 
+
+Aglaonema bacilliform virus
+Banana streak GF virus
+Banana streak MY virus
+Banana streak OL virus
+Banana streak VN virus
+Bougainvillea chlorotic vein banding virus
+Cacao swollen shoot virus
+Canna yellow mottle virus
+Citrus yellow mosaic virus
+Commelina yellow mottle virus
+Dioscorea bacilliform AL virus
+Dioscorea bacilliform SN virus
+Gooseberry vein banding associated virus
+Grapevine vein clearing virus
+Kalanchoë top-spotting virus
+Pineapple bacilliform CO virus
+Pineapple bacilliform ER virus
+Piper yellow mottle virus
+Rubus yellow net virus
+Schefflera ringspot virus
+Spiraea yellow leaf spot virus
+Sugarcane bacilliform IM virus
+Sugarcane bacilliform MO virus
+Sweet potato pakakuy virus
+Taro bacilliform virus
+ 
+
+Ranid herpesvirus 1
+Ranid herpesvirus 2
+ 
+
+Abutilon mosaic virus
+African cassava mosaic virus
+Ageratum enation virus
+Ageratum leaf curl virus
+Ageratum yellow vein Hualian virus
+Ageratum yellow vein Sri Lanka virus
+Ageratum yellow vein virus
+Alternanthera yellow vein virus
+Bean calico mosaic virus
+Bean dwarf mosaic virus
+Bean golden mosaic virus
+Bean golden yellow mosaic virus
+Bhendi yellow vein mosaic virus
+Bitter gourd yellow vein virus
+Boerhavia yellow spot virus
+Cabbage leaf curl Jamaica virus
+Cabbage leaf curl virus
+Chayote yellow mosaic virus
+Chilli leaf curl virus
+Chino del tomate virus
+Clerodendron golden mosaic virus
+Corchorus golden mosaic virus
+Corchorus yellow spot virus
+Corchorus yellow vein virus
+Cotton leaf crumple virus
+Cotton leaf curl Alabad virus
+Cotton leaf curl Bangalore virus
+Cotton leaf curl Gezira virus
+Cotton leaf curl Kokhran virus
+Cotton leaf curl Multan virus
+Cowpea golden mosaic virus
+Croton yellow vein mosaic virus
+Cucurbit leaf crumple virus
+Desmodium leaf distortion virus
+Dicliptera yellow mottle Cuba virus
+Dicliptera yellow mottle virus
+Dolichos yellow mosaic virus
+East African cassava mosaic Cameroon virus
+East African cassava mosaic Kenya virus
+East African cassava mosaic Malawi virus
+East African cassava mosaic Zanzibar virus
+East African cassava mosaic virus
+Erectites yellow mosaic virus
+Eupatorium yellow vein mosaic virus
+Eupatorium yellow vein virus
+Euphorbia leaf curl Guangxi virus
+Euphorbia leaf curl virus
+Euphorbia mosaic virus
+Hollyhock leaf crumple virus
+Honeysuckle yellow vein Kagoshima virus
+Honeysuckle yellow vein mosaic virus
+Honeysuckle yellow vein virus
+Horsegram yellow mosaic virus
+Indian cassava mosaic virus
+Ipomoea yellow vein virus
+Kudzu mosaic virus
+Lindernia anagallis yellow vein virus
+Ludwigia yellow vein Vietnam virus
+Ludwigia yellow vein virus
+Luffa yellow mosaic virus
+Macroptilium mosaic Puerto Rico virus
+Macroptilium yellow mosaic Florida virus
+Macroptilium yellow mosaic virus
+Malvastrum leaf curl Guangdong virus
+Malvastrum leaf curl virus
+Malvastrum yellow leaf curl virus
+Malvastrum yellow mosaic virus
+Malvastrum yellow vein Yunnan virus
+Malvastrum yellow vein virus
+Melon chlorotic leaf curl virus
+Merremia mosaic virus
+Mesta yellow vein mosaic virus
+Mimosa yellow leaf curl virus
+Mungbean yellow mosaic India virus
+Mungbean yellow mosaic virus
+Okra yellow crinkle virus
+Okra yellow mosaic Mexico virus
+Okra yellow mottle Iguala virus
+Okra yellow vein mosaic virus
+Papaya leaf curl China virus
+Papaya leaf curl Guandong virus
+Papaya leaf curl virus
+Pedilenthus leaf curl virus
+Pepper golden mosaic virus
+Pepper huasteco yellow vein virus
+Pepper leaf curl Bangladesh virus
+Pepper leaf curl Lahore virus
+Pepper leaf curl virus
+Pepper yellow leaf curl Indonesia virus
+Pepper yellow vein Mali virus
+Potato yellow mosaic Panama virus
+Potato yellow mosaic virus
+Pumpkin yellow mosaic virus
+Radish leaf curl virus
+Rhynchosia golden mosaic Sinaloa virus
+Rhynchosia golden mosaic virus
+Senecio yellow mosaic virus
+Sida golden mosaic Costa Rica virus
+Sida golden mosaic Florida virus
+Sida golden mosaic Honduras virus
+Sida golden mosaic virus
+Sida golden yellow vein virus
+Sida leaf curl virus
+Sida micrantha mosaic virus
+Sida mottle virus
+Sida yellow mosaic China virus
+Sida yellow mosaic Yucatan virus
+Sida yellow mosaic virus
+Sida yellow vein Madurai virus
+Sida yellow vein Vietnam virus
+Sida yellow vein virus
+Siegesbeckia yellow vein Guangxi virus
+Siegesbeckia yellow vein virus
+South African cassava mosaic virus
+Soybean blistering mosaic virus
+Soybean crinkle leaf virus
+Spilanthes yellow vein virus
+Squash leaf curl China virus
+Squash leaf curl Philippines virus
+Squash leaf curl Yunnan virus
+Squash leaf curl virus
+Squash mild leaf curl virus
+Sri Lankan cassava mosaic virus
+Stachytarpheta leaf curl virus
+Sweet potato leaf curl Canary virus
+Sweet potato leaf curl China virus
+Sweet potato leaf curl Georgia virus
+Sweet potato leaf curl Lanzarote virus
+Sweet potato leaf curl Spain virus
+Sweet potato leaf curl virus
+Tobacco curly shoot virus
+Tobacco leaf curl Cuba virus
+Tobacco leaf curl Japan virus
+Tobacco leaf curl Yunnan virus
+Tobacco leaf curl Zimbabwe virus
+Tomato chino La Paz virus
+Tomato chlorotic mottle virus
+Tomato curly stunt virus
+Tomato golden mosaic virus
+Tomato golden mottle virus
+Tomato leaf curl Arusha virus
+Tomato leaf curl Bangalore virus
+Tomato leaf curl Bangladesh virus
+Tomato leaf curl China virus
+Tomato leaf curl Comoros virus
+Tomato leaf curl Guangdong virus
+Tomato leaf curl Guangxi virus
+Tomato leaf curl Gujarat virus
+Tomato leaf curl Hsinchu virus
+Tomato leaf curl Java virus
+Tomato leaf curl Joydebpur virus
+Tomato leaf curl Karnataka virus
+Tomato leaf curl Kerala virus
+Tomato leaf curl Laos virus
+Tomato leaf curl Madagascar virus
+Tomato leaf curl Malaysia virus
+Tomato leaf curl Mali virus
+Tomato leaf curl Mayotte virus
+Tomato leaf curl New Delhi virus
+Tomato leaf curl Philippines virus
+Tomato leaf curl Pune virus
+Tomato leaf curl Seychelles virus
+Tomato leaf curl Sinaloa virus
+Tomato leaf curl Sri Lanka virus
+Tomato leaf curl Sudan virus
+Tomato leaf curl Taiwan virus
+Tomato leaf curl Uganda virus
+Tomato leaf curl Vietnam virus
+Tomato leaf curl virus
+Tomato mild yellow leaf curl Aragua virus
+Tomato mosaic Havana virus
+Tomato mottle Taino virus
+Tomato mottle virus
+Tomato rugose mosaic virus
+Tomato severe leaf curl virus
+Tomato severe rugose virus
+Tomato yellow leaf curl Axarquia virus
+Tomato yellow leaf curl China virus
+Tomato yellow leaf curl Guangdong virus
+Tomato yellow leaf curl Indonesia virus
+Tomato yellow leaf curl Kanchanaburi virus
+Tomato yellow leaf curl Malaga virus
+Tomato yellow leaf curl Mali virus
+Tomato yellow leaf curl Sardinia virus
+Tomato yellow leaf curl Thailand virus
+Tomato yellow leaf curl Vietnam virus
+Tomato yellow leaf curl virus
+Tomato yellow margin leaf curl virus
+Tomato yellow spot virus
+Tomato yellow vein streak virus
+Vernonia yellow vein virus
+Watermelon chlorotic stunt virus
+ 
+
+Beet necrotic yellow vein virus
+Beet soil-borne mosaic virus
+ 
+
+Betacoronavirus 1
+Human coronavirus HKU1
+Murine coronavirus
+Pipistrellus bat coronavirus HKU5
+Rousettus bat coronavirus HKU9
+Severe acute respiratory syndrome-related coronavirus
+Tylonycteris bat coronavirus HKU4
+ 
+
+Carrot temperate virus 2
+Hop trefoil cryptic virus 2
+Red clover cryptic virus 2
+White clover cryptic virus 2
+ 
+
+Barfin flounder nervous necrosis virus
+Redspotted grouper nervous necrosis virus
+Striped jack nervous necrosis virus
+Tiger puffer nervous necrosis virus
+ 
+
+Betapapillomavirus 1
+Betapapillomavirus 2
+Betapapillomavirus 3
+Betapapillomavirus 4
+Betapapillomavirus 5
+Betapapillomavirus 6
+ 
+
+Jaagsiekte sheep retrovirus
+Langur virus
+Mason-Pfizer monkey virus
+Mouse mammary tumor virus
+Squirrel monkey retrovirus
+ 
+
+Torque teno mini virus 1
+Torque teno mini virus 10
+Torque teno mini virus 11
+Torque teno mini virus 12
+Torque teno mini virus 2
+Torque teno mini virus 3
+Torque teno mini virus 4
+Torque teno mini virus 5
+Torque teno mini virus 6
+Torque teno mini virus 7
+Torque teno mini virus 8
+Torque teno mini virus 9
+ 
+
+Ungulate bocaparvovirus 1
+ 
+
+Canine minute virus
+ 
+
+Borna disease virus
+ 
+
+Barley mild mosaic virus
+Barley yellow mosaic virus
+Oat mosaic virus
+Rice necrosis mosaic virus
+Wheat spindle streak mosaic virus
+Wheat yellow mosaic virus
+ 
+
+Apple stem grooving virus
+Cherry virus A
+ 
+
+Goatpox virus
+Lumpy skin disease virus
+Sheeppox virus
+ 
+
+Encephalomyocarditis virus
+Theilovirus
+ 
+
+Aconitum latent virus
+American hop latent virus
+Blueberry scorch virus
+Cactus virus 2
+Caper latent virus
+Carnation latent virus
+Chrysanthemum virus B
+Cole latent virus
+Coleus vein necrosis virus
+Cowpea mild mottle virus
+Dandelion latent virus
+Daphne virus S
+Elderberry symptomless virus
+Garlic common latent virus
+Helenium virus S
+Helleborus net necrosis virus
+Honeysuckle latent virus
+Hop latent virus
+Hop mosaic virus
+Hydrangea latent virus
+Kalanchoë latent virus
+Ligustrum necrotic ringspot virus
+Lilac mottle virus
+Lily symptomless virus
+Melon yellowing-associated virus
+Mulberry latent virus
+Muskmelon vein necrosis virus
+Narcissus common latent virus
+Narcissus symptomless virus
+Nerine latent virus
+Passiflora latent virus
+Pea streak virus
+Poplar mosaic virus
+Potato latent virus
+Potato virus M
+Potato virus P
+Potato virus S
+Red clover vein mosaic virus
+Shallot latent virus
+Sint-Jan's onion latent virus
+Strawberry pseudo mild yellow edge virus
+Sweet potato chlorotic fleck virus
+Verbena latent virus
+ 
+
+Ahlum waterborne virus
+Angelonia flower break virus
+Bean mild mosaic virus
+Calibrachoa mottle virus
+Cardamine chlorotic fleck virus
+Carnation mottle virus
+Cowpea mottle virus
+Cucumber soil-borne virus
+Galinsoga mosaic virus
+Hibiscus chlorotic ringspot virus
+Honeysuckle ringspot virus
+Japanese iris necrotic ring virus
+Melon necrotic spot virus
+Nootka lupine vein clearing virus
+Pea stem necrosis virus
+Pelargonium flower break virus
+Saguaro cactus virus
+Soybean yellow mottle mosaic virus
+Turnip crinkle virus
+Weddel waterborne virus
+ 
+
+Cassava vein mosaic virus
+Sweet potato collusive virus
+ 
+
+Mule deerpox virus
+ 
+
+Apple latent spherical virus
+Cherry rasp leaf virus
+Stocky prune virus
+ 
+
+Beak and feather disease virus
+Canary circovirus
+Duck circovirus
+Finch circovirus
+Goose circovirus
+Gull circovirus
+Pigeon circovirus
+Porcine circovirus-1
+Porcine circovirus-2
+Starling circovirus
+Swan circovirus
+ 
+
+Beet yellow stunt virus
+Beet yellows virus
+Burdock yellows virus
+Carnation necrotic fleck virus
+Carrot yellow leaf virus
+Citrus tristeza virus
+Grapevine leafroll-associated virus 2
+Mint virus 1
+Raspberry leaf mottle virus
+Strawberry chlorotic fleck-associated virus
+Wheat yellow leaf virus
+ 
+
+Colorado tick fever virus
+Eyach virus
+ 
+
+Andean potato mottle virus
+Bean pod mottle virus
+Bean rugose mosaic virus
+Broad bean stain virus
+Broad bean true mosaic virus
+Cowpea mosaic virus
+Cowpea severe mosaic virus
+Glycine mosaic virus
+Pea green mottle virus
+Pea mild mosaic virus
+Quail pea mosaic virus
+Radish mosaic virus
+Red clover mottle virus
+Squash mosaic virus
+Ullucus virus C
+ 
+
+Abutilon yellows virus
+Bean yellow disorder virus
+Beet pseudoyellows virus
+Blackberry yellow vein-associated virus
+Cucurbit yellow stunting disorder virus
+Lettuce chlorosis virus
+Lettuce infectious yellows virus
+Potato yellow vein virus
+Strawberry pallidosis-associated virus
+Sweet potato chlorotic stunt virus
+Tomato chlorosis virus
+Tomato infectious chlorosis virus
+ 
+
+Nile crocodilepox virus
+ 
+
+Cucumber mosaic virus
+Gayfeather mild mottle virus
+Peanut stunt virus
+Tomato aspermy virus
+ 
+
+Beet curly top Iran virus
+Beet curly top virus
+Beet mild curly top virus
+Beet severe curly top virus
+Horseradish curly top virus
+Pepper curly top virus
+Spinach curly top virus
+ 
+
+Anguillid herpesvirus 1
+Cyprinid herpesvirus 1
+Cyprinid herpesvirus 2
+Cyprinid herpesvirus 3
+ 
+
+Cercopithecine herpesvirus 5
+Human herpesvirus 5
+Macacine herpesvirus 3
+Panine herpesvirus 2
+ 
+
+Barley yellow striate mosaic virus
+Broccoli necrotic yellows virus
+Festuca leaf streak virus
+Lettuce necrotic yellows virus
+Lettuce yellow mottle virus
+Northern cereal mosaic virus
+Sonchus virus
+Strawberry crinkle virus
+Wheat American striate mosaic virus
+ 
+
+Bulbul coronavirus HKU11
+Munia coronavirus HKU13
+Thrush coronavirus HKU12
+ 
+
+Deltapapillomavirus 1
+Deltapapillomavirus 2
+Deltapapillomavirus 3
+Deltapapillomavirus 4
+Deltapapillomavirus 5
+ 
+
+Bovine leukemia virus
+Primate T-lymphotropic virus
+Primate T-lymphotropic virus 1
+Primate T-lymphotropic virus 2
+Primate T-lymphotropic virus 3
+Primate T-lymphotropic virus 4
+Simian T-lymphotropic virus
+ 
+
+Hepatitis delta virus
+ 
+
+Adeno-associated virus-1
+Adeno-associated virus-2
+Adeno-associated virus-3
+Adeno-associated virus-4
+Adeno-associated virus-5
+Avian adeno-associated virus
+Bovine adeno-associated virus
+Canine adeno-associated virus
+Duck parvovirus
+Equine adeno-associated virus
+Goose parvovirus
+Ovine adeno-associated virus
+ 
+
+Bundibugyo ebolavirus
+Reston ebolavirus
+Sudan ebolavirus
+Tai Forest ebolavirus
+Zaire ebolavirus
+ 
+
+Enterovirus A
+Enterovirus B
+Enterovirus C
+Enterovirus D
+Enterovirus E
+Enterovirus F
+Enterovirus G
+Enterovirus H
+EnterovirusJ
+Rhinovirus A
+Rhinovirus B
+Rhinovirus C
+ 
+
+Adelaide River virus
+Berrimah virus
+Bovine ephemeral fever virus
+ 
+
+Epsilonpapillomavirus 1
+ 
+
+Torque teno tamarin virus
+ 
+
+Equine rhinitis B virus
+ 
+
+Primate erythroparvovirus 1
+ 
+
+Human parvovirus B19
+Pig-tailed macaque parvovirus
+Rhesus macaque parvovirus
+Simian parvovirus
+ 
+
+Etapapillomavirus 1
+ 
+
+Apoi virus
+Aroa virus
+Bagaza virus
+Banzi virus
+Bouboui virus
+Bukalasa bat virus
+Cacipacore virus
+Carey Island virus
+Cowbone Ridge virus
+Dakar bat virus
+Dengue virus
+Edge Hill virus
+Entebbe bat virus
+Gadgets Gully virus
+Hanzalova virus
+Ilheus virus
+Israel turkey meningoencephalomyelitis virus
+Japanese encephalitis virus
+Jugra virus
+Jutiapa virus
+Kadam virus
+Kedougou virus
+Kokobera virus
+Koutango virus
+Kyasanur Forest disease virus
+Langat virus
+Louping ill virus
+Meaban virus
+Modoc virus
+Montana myotis leukoencephalitis virus
+Murray Valley encephalitis virus
+Ntaya virus
+Omsk hemorrhagic fever virus
+Phnom Penh bat virus
+Powassan virus
+Rio Bravo virus
+Royal Farm virus
+Saboya virus
+Sal Vieja virus
+San Perlita virus
+Saumarez Reef virus
+Sepik virus
+St. Louis encephalitis virus
+Tembusu virus
+Tick-borne encephalitis virus
+Tyuleniy virus
+Uganda S virus
+Usutu virus
+Wesselsbron virus
+West Nile virus
+Yaounde virus
+Yellow fever virus
+Yokose virus
+Zika virus
+ 
+
+Chinese wheat mosaic virus
+Japanese soil-borne wheat mosaic virus
+Oat golden stripe virus
+Soil-borne cereal mosaic virus
+Soil-borne wheat mosaic virus
+Sorghum chlorotic spot virus
+ 
+
+Avian coronavirus
+Beluga whale coronavirus SW1
+ 
+
+Chick syncytial virus
+Feline leukemia virus
+Finkel-Biskis-Jinkins murine sarcoma virus
+Gardner-Arnstein feline sarcoma virus
+Gibbon ape leukemia virus
+Guinea pig type-C oncovirus
+Hardy-Zuckerman feline sarcoma virus
+Harvey murine sarcoma virus
+Kirsten murine sarcoma virus
+Moloney murine sarcoma virus
+Murine leukemia virus
+Porcine type-C oncovirus
+Reticuloendotheliosis virus
+Snyder-Theilen feline sarcoma virus
+Trager duck spleen necrosis virus
+Viper retrovirus
+Woolly monkey sarcoma virus
+ 
+
+Torque teno midi virus 1
+Torque teno midi virus 10
+Torque teno midi virus 11
+Torque teno midi virus 12
+Torque teno midi virus 13
+Torque teno midi virus 14
+Torque teno midi virus 15
+Torque teno midi virus 2
+Torque teno midi virus 3
+Torque teno midi virus 4
+Torque teno midi virus 5
+Torque teno midi virus 6
+Torque teno midi virus 7
+Torque teno midi virus 8
+Torque teno midi virus 9
+ 
+
+Beilong virus
+Tick-borne Bhanja virus
+ 
+
+Chicken anemia virus
+ 
+
+Andes virus
+Bayou virus
+Black Creek Canal virus
+Cano Delgadito virus
+Dobrava-Belgrade virus
+El Moro Canyon virus
+Hantaan virus
+Huangpi virus
+Isla Vista virus
+Khabarovsk virus
+Laguna Negra virus
+Lianghe virus
+Longquan virus
+Maripa virus
+Muleshoe virus
+New York virus
+Prospect Hill virus
+Puumala virus
+Rio Mamore virus
+Rio Segundo virus
+Saaremaa virus
+Seoul virus
+Sin Nombre virus
+Thailand virus
+Thottapalayam virus
+Topografov virus
+Tula virus
+Yakeshi virus
+ 
+
+Hendra virus
+Nipah virus
+ 
+
+Hepatitis C virus
+ 
+
+Hepatitis A virus
+ 
+
+Hepatitis E virus
+ 
+
+Anthoxanthum latent blanching virus
+Barley stripe mosaic virus
+Lychnis ringspot virus
+Poa semilatent virus
+ 
+
+American plum line pattern virus
+Apple mosaic virus
+Asparagus virus 2
+Blackberry chlorotic ringspot virus
+Blueberry shock virus
+Citrus leaf rugose virus
+Citrus variegation virus
+Elm mottle virus
+Fragaria chiloensis latent virus
+Humulus japonicus latent virus
+Lilac leaf chlorosis virus
+Lilac ring mottle virus
+Parietaria mottle virus
+Prune dwarf virus
+Prunus necrotic ringspot virus
+Spinach latent virus
+Strawberry necrotic shock virus
+Tobacco streak virus
+Tulare apple mosaic virus
+ 
+
+Gallid herpesvirus 1
+Psittacid herpesvirus 1
+ 
+
+
+Iotapapillomavirus 1
+ 
+
+Torque teno sus virus 1a
+Torque teno sus virus 1b
+ 
+
+Cassava brown streak virus
+Cucumber vein yellowing virus
+Squash vein yellowing virus
+Sweet potato mild mottle virus
+Ugandan cassava brown streak virus
+ 
+
+Kappapapillomavirus 1
+Kappapapillomavirus 2
+ 
+
+Torque teno sus virus k2
+ 
+
+Aichi virus
+Bovine kobuvirus
+ 
+
+European brown hare syndrome virus
+Rabbit hemorrhagic disease virus
+ 
+
+Lambdapapillomavirus 1
+Lambdapapillomavirus 2
+Lambdapapillomavirus 3
+Lambdapapillomavirus 4
+ 
+
+Bovine immunodeficiency virus
+Caprine arthritis encephalitis virus
+Equine infectious anemia virus
+Feline immunodeficiency virus
+Puma lentivirus
+Simian immunodeficiency virus
+Visna/maedi virus
+ 
+
+Hare fibroma virus
+Myxoma virus
+Rabbit fibroma virus
+Squirrel fibroma virus
+ 
+
+Barley yellow dwarf virus-MAV
+Barley yellow dwarf virus-PAS
+Barley yellow dwarf virus-PAV
+Bean leafroll virus
+Rose spring dwarf-associated virus
+Soybean dwarf virus
+ 
+
+Callitrichine herpesvirus 3
+Cercopithecine herpesvirus 14
+Gorilline herpesvirus 1
+Human herpesvirus 4
+Macacine herpesvirus 4
+Panine herpesvirus 1
+Papiine herpesvirus 1
+Pongine herpesvirus 2
+ 
+
+Aravan virus
+Australian bat lyssavirus
+Duvenhage virus
+European bat lyssavirus 1
+European bat lyssavirus 2
+Irkut virus
+Khujand virus
+Lagos bat virus
+Mokola virus
+Rabies virus
+Shimoni bat virus
+West Caucasian bat virus
+ 
+
+Alcelaphine herpesvirus 1
+Alcelaphine herpesvirus 2
+Bovine herpesvirus 6
+Caprine herpesvirus 2
+Hippotragine herpesvirus 1
+Ovine herpesvirus 2
+Suid herpesvirus 3
+Suid herpesvirus 4
+Suid herpesvirus 5
+ 
+
+Bovine Herpes Virus 6
+Caprine herpesvirus 2
+Ovine herpesvirus 2
+ 
+
+Maize chlorotic mottle virus
+ 
+
+Mamastrovirus 1
+Mamastrovirus 10
+Mamastrovirus 11
+Mamastrovirus 12
+Mamastrovirus 13
+Mamastrovirus 14
+Mamastrovirus 15
+Mamastrovirus 16
+Mamastrovirus 17
+Mamastrovirus 18
+Mamastrovirus 19
+Mamastrovirus 2
+Mamastrovirus 3
+Mamastrovirus 4
+Mamastrovirus 5
+Mamastrovirus 6
+Mamastrovirus 7
+Mamastrovirus 8
+Mamastrovirus 9
+ 
+
+Marburg virus
+ 
+
+Anatid herpesvirus 1
+Columbid herpesvirus 1
+Gallid herpesvirus 2
+Gallid herpesvirus 3
+Meleagrid herpesvirus 1
+ 
+
+Bat adenovirus A
+Bat adenovirus B
+Bovine adenovirus A
+Bovine adenovirus B
+Bovine adenovirus C
+Canine adenovirus 1
+Canine adenovirus 2
+Canine adenovirus A
+Canine adenovirus spp.
+Equine adenovirus A
+Equine adenovirus B
+Human adenovirus A
+Human adenovirus B
+Human adenovirus C
+Human adenovirus D
+Human adenovirus E
+Human adenovirus F
+Human adenovirus G
+Murine adenovirus A
+Murine adenovirus B
+Murine adenovirus C
+Ovine adenovirus A
+Ovine adenovirus B
+Porcine adenovirus A
+Porcine adenovirus B
+Porcine adenovirus C
+Simian adenovirus A
+Tree shrew adenovirus A
+ 
+
+Bean yellow dwarf virus
+Chloris striate mosaic virus
+Digitaria streak virus
+Eragrostis streak virus
+Maize streak virus
+Miscanthus streak virus
+Panicum streak virus
+Setaria streak virus
+Sugarcane streak Egypt virus
+Sugarcane streak Reunion virus
+Sugarcane streak virus
+Tobacco yellow dwarf virus
+Urochloa streak virus
+Wheat dwarf virus
+ 
+
+Infectious spleen and kidney necrosis virus
+ 
+
+Avian metapneumovirus
+Human metapneumovirus
+ 
+
+Molluscum contagiosum virus
+ 
+
+Canine distemper virus
+Cetacean morbillivirus
+Measles virus
+Peste des Petits Ruminants Virus
+Peste-des-petits-ruminants virus
+Phocine distemper virus
+Rinderpest virus
+ 
+
+Mupapillomavirus 1
+Mupapillomavirus 2
+ 
+
+Murid herpesvirus 1
+Murid herpesvirus 2
+Murid herpesvirus 8
+ 
+
+Crimean-Congo hemorrhagic fever virus
+Dera Ghazi Khan virus
+Dugbe virus
+Hughes virus
+Qalyub virus
+Sakhalin virus
+Thiafora virus
+ 
+
+Newbury-1 virus
+ 
+
+Beet black scorch virus
+Chenopodium necrosis virus
+Leek white stripe virus
+Olive latent virus 1
+Olive mild mosaic virus
+Tobacco necrosis virus A
+Tobacco necrosis virus D
+ 
+
+Apricot latent ringspot virus
+Arabis mosaic virus
+Arracacha virus A
+Artichoke Aegean ringspot virus
+Artichoke Italian latent virus
+Artichoke yellow ringspot virus
+Beet ringspot virus
+Blackcurrant reversion virus
+Blueberry leaf mottle virus
+Cassava American latent virus
+Cassava green mottle virus
+Cherry leaf roll virus
+Chicory yellow mottle virus
+Cocoa necrosis virus
+Crimson clover latent virus
+Cycas necrotic stunt virus
+Grapevine Anatolian ringspot virus
+Grapevine Bulgarian latent virus
+Grapevine Tunisian ringspot virus
+Grapevine chrome mosaic virus
+Grapevine deformation virus
+Grapevine fanleaf virus
+Hibiscus latent ringspot virus
+Lucerne Australian latent virus
+Melon mild mottle virus
+Mulberry ringspot virus
+Myrobalan latent ringspot virus
+Olive latent ringspot virus
+Peach rosette mosaic virus
+Potato black ringspot virus
+Potato virus U
+Raspberry ringspot virus
+Tobacco ringspot virus
+Tomato black ring virus
+Tomato ringspot virus
+ 
+
+ 
+
+Datura yellow vein virus
+Eggplant mottled dwarf virus
+Maize Iranian mosaic virus
+Maize fine streak virus
+Maize mosaic virus
+Potato yellow dwarf virus
+Rice yellow stunt virus
+Sonchus yellow net virus
+Sowthistle yellow vein virus
+Taro vein chlorosis virus
+ 
+
+Nupapillomavirus 1
+ 
+
+African horse sickness virus
+Bluetongue virus
+Changuinola virus
+Chenuda virus
+Chobar Gorge virus
+Corriparta virus
+Epizootic hemorrhagic disease virus
+Equine encephalosis virus
+Eubenangee virus
+Great Island virus
+Ieri virus
+Lebombo virus
+Orungo virus
+Palyam virus
+Peruvian horse sickness virus
+St Croix River virus
+Umatilla virus
+Wad Medani virus
+Wallal virus
+Warrego virus
+Wongorr virus
+Yunnan orbivirus
+ 
+
+Acara virus
+Akabane virus
+Alajuela virus
+Anopheles A virus
+Anopheles B virus
+Bakau virus
+Batai virus
+Batama virus
+Benevides virus
+Bertioga virus
+Bimiti virus
+Botambi virus
+Bunyamwera virus
+Bushbush virus
+Bwamba virus
+California encephalitis virus
+Capim virus
+Caraparu virus
+Catu virus
+Estero Real virus
+Gamboa virus
+Guajara virus
+Guama virus
+Guaroa virus
+Kaeng Khoi virus
+Kairi virus
+Koongol virus
+M'Poko virus
+Madrid virus
+Main Drain virus
+Manzanilla virus
+Marituba virus
+Minatitlan virus
+Nyando virus
+Olifantsvlei virus
+Oriboca virus
+Oropouche virus
+Patois virus
+Sathuperi virus
+Schmallenberg virus
+Shamonda virus
+Shuni virus
+Simbu virus
+Tacaiuma virus
+Tete virus
+Thimiri virus
+Timboteua virus
+Turlock virus
+Wyeomyia virus
+Zegla virus
+ 
+
+Ground squirrel hepatitis virus
+Hepatitis B virus
+Woodchuck hepatitis virus
+Woolly monkey hepatitis B virus
+ 
+
+Orthohepevirus A
+ 
+
+Buffalopox virus
+Camelpox virus
+Cowpox virus
+Ectromelia virus
+Monkeypox virus
+Raccoonpox virus
+Skunkpox virus
+Taterapox virus
+Vaccinia virus
+Variola virus
+Volepox virus
+ 
+
+Avian orthoreovirus
+Baboon orthoreovirus
+Mammalian orthoreovirus
+Melaka virus
+Nelson Bay orthoreovirus
+Reptilian orthoreovirus
+ 
+
+Bovine papular stomatitis virus
+Orf virus
+Parapoxvirus of red deer in New Zealand
+Pseudocowpox virus
+ 
+
+Human parechovirus
+Ljungan virus
+ 
+
+Bovine parvovirus
+Canine parvovirus 2
+Chicken parvovirus
+Feline panleukopenia virus
+H-1 parvovirus
+HB parvovirus
+Kilham rat virus
+Lapine parvovirus
+LuIII virus
+Minute virus of mice
+Mouse parvovirus 1
+Porcine parvovirus
+RT parvovirus
+Tumor virus X
+ 
+
+GB virus
+ 
+
+Equid herpesvirus 2
+Equid herpesvirus 5
+Mustelid herpesvirus 1
+ 
+
+Border disease virus
+Bovine viral diarrhea virus 1
+Bovine viral diarrhea virus 2
+Bovine viral diarrhea virus spp.
+Classical swine fever virus
+ 
+
+Bujaru virus
+Candiru virus
+Chilibre virus
+Frijoles virus
+Punta Toro virus
+Rift Valley fever virus
+Salehabad virus
+Sandfly fever Naples virus
+Severe fever with thrombocytopenia syndrome virus
+Toscana virus
+Uukuniemi virus
+ 
+
+Rice dwarf virus
+Rice gall dwarf virus
+Wound tumor virus
+ 
+
+Human picobirnavirus
+Rabbit picobirnavirus
+ 
+
+ 
+
+Pipapillomavirus 1
+Pipapillomavirus 2
+ 
+
+Bovine respiratory syncytial virus
+Human respiratory syncytial virus
+Murine pneumonia virus
+ 
+
+Sugarcane streak mosaic virus
+Triticum mosaic virus
+ 
+
+Beet chlorosis virus
+Beet mild yellowing virus
+Beet western yellows virus
+Carrot red leaf virus
+Cereal yellow dwarf virus-RPS
+Cereal yellow dwarf virus-RPV
+Chickpea chlorotic stunt virus
+Cucurbit aphid-borne yellows virus
+Melon aphid-borne yellows virus
+Potato leafroll virus
+Sugarcane yellow leaf virus
+Tobacco vein distorting virus
+Turnip yellows virus
+ 
+
+African green monkey polyomavirus
+BK polyomavirus
+Baboon polyomavirus 2
+Bovine polyomavirus
+Budgerigar fledgling disease polyomavirus
+Hamster polyomavirus
+Human polyomavirus
+JC polyomavirus
+Murine pneumotropic virus
+Murine polyomavirus
+Rabbit kidney vacuolating virus
+Simian virus 12
+Simian virus 40
+ 
+
+Beet soil-borne virus
+Beet virus Q
+Broad bean necrosis virus
+Potato mop-top virus
+ 
+
+Chrysanthemum stunt viroid
+Citrus exocortis viroid
+Columnea latent viroid
+Iresine viroid 1
+Mexican papita viroid
+Pepper chat fruit viroid
+Potato spindle tuber viroid
+Tomato apical stunt viroid
+Tomato chlorotic dwarf viroid
+Tomato planta macho viroid
+ 
+
+Alstroemeria virus X
+Alternanthera mosaic virus
+Asparagus virus 3
+Bamboo mosaic virus
+Cactus virus X
+Cassava common mosaic virus
+Cassava virus X
+Clover yellow mosaic virus
+Commelina virus X
+Cymbidium mosaic virus
+Daphne virus X
+Foxtail mosaic virus
+Hosta virus X
+Hydrangea ringspot virus
+Lettuce virus X
+Lily virus X
+Malva mosaic virus
+Mint virus X
+Narcissus mosaic virus
+Nerine virus X
+Opuntia virus X
+Papaya mosaic virus
+Pepino mosaic virus
+Phaius virus X
+Plantago asiatica mosaic virus
+Plantago severe mottle virus
+Plantain virus X
+Potato aucuba mosaic virus
+Potato virus X
+Schlumbergera virus X
+Strawberry mild yellow edge virus
+Tamus red mosaic virus
+Tulip virus X
+White clover mosaic virus
+Zygocactus virus X
+ 
+
+Algerian watermelon mosaic virus
+Alstroemeria mosaic virus
+Alternanthera mild mosaic virus
+Amaranthus leaf mottle virus
+Amazon lily mosaic virus
+Angelica virus Y
+Apium virus Y
+Araujia mosaic virus
+Arracacha mottle virus
+Artichoke latent virus
+Asparagus virus 1
+Banana bract mosaic virus
+Basella rugose mosaic virus
+Bean common mosaic necrosis virus
+Bean common mosaic virus
+Bean yellow mosaic virus
+Beet mosaic virus
+Bidens mottle virus
+Brugmansia suaveolens mottle virus
+Butterfly flower mosaic virus
+Calanthe mild mosaic virus
+Canna yellow streak virus
+Carnation vein mottle virus
+Carrot thin leaf virus
+Carrot virus Y
+Celery mosaic virus
+Ceratobium mosaic virus
+Chilli ringspot virus
+Chilli veinal mottle virus
+Chinese artichoke mosaic virus
+Clitoria virus Y
+Clover yellow vein virus
+Cocksfoot streak virus
+Colombian datura virus
+Commelina mosaic virus
+Cowpea aphid-borne mosaic virus
+Cowpea green vein banding virus
+Cypripedium virus Y
+Daphne mosaic virus
+Dasheen mosaic virus
+Datura shoestring virus
+Diuris virus Y
+East Asian Passiflora virus
+Endive necrotic mosaic virus
+Euphorbia ringspot virus
+Freesia mosaic virus
+Fritillary virus Y
+Gloriosa stripe mosaic virus
+Groundnut eyespot virus
+Guinea grass mosaic virus
+Hardenbergia mosaic virus
+Helenium virus Y
+Henbane mosaic virus
+Hibbertia virus Y
+Hippeastrum mosaic virus
+Hyacinth mosaic virus
+Iris fulva mosaic virus
+Iris mild mosaic virus
+Iris severe mosaic virus
+Japanese yam mosaic virus
+Johnsongrass mosaic virus
+Kalanchoë mosaic virus
+Konjac mosaic virus
+Leek yellow stripe virus
+Lettuce mosaic virus
+Lily mottle virus
+Lycoris mild mottle virus
+Maize dwarf mosaic virus
+Malva vein clearing virus
+Meadow saffron breaking virus
+Moroccan watermelon mosaic virus
+Narcissus degeneration virus
+Narcissus late season yellows virus
+Narcissus yellow stripe virus
+Nerine yellow stripe virus
+Nothoscordum mosaic virus
+Onion yellow dwarf virus
+Ornithogalum mosaic virus
+Ornithogalum virus 2
+Ornithogalum virus 3
+Papaya leaf distortion mosaic virus
+Papaya ringspot virus
+Parsnip mosaic virus
+Passiflora chlorosis virus
+Passion fruit woodiness virus
+Pea seed-borne mosaic virus
+Peanut mottle virus
+Pennisetum mosaic virus
+Pepper mottle virus
+Pepper severe mosaic virus
+Pepper veinal mottle virus
+Pepper yellow mosaic virus
+Peru tomato mosaic virus
+Pfaffia mosaic virus
+Pleione virus Y
+Plum pox virus
+Pokeweed mosaic virus
+Potato virus A
+Potato virus V
+Potato virus Y
+Ranunculus leaf distortion virus
+Ranunculus mild mosaic virus
+Ranunculus mosaic virus
+Rhopalanthe virus Y
+Sarcochilus virus Y
+Scallion mosaic virus
+Shallot yellow stripe virus
+Sorghum mosaic virus
+Soybean mosaic virus
+Spiranthes mosaic virus 3
+Sugarcane mosaic virus
+Sunflower chlorotic mottle virus
+Sunflower mosaic virus
+Sweet potato feathery mottle virus
+Sweet potato latent virus
+Sweet potato mild speckling virus
+Sweet potato virus 2
+Sweet potato virus C
+Sweet potato virus G
+Telfairia mosaic virus
+Telosma mosaic virus
+Thunberg fritillary mosaic virus
+Tobacco etch virus
+Tobacco vein banding mosaic virus
+Tobacco vein mottling virus
+Tradescantia mild mosaic virus
+Tropaeolum mosaic virus
+Tuberose mild mosaic virus
+Tuberose mild mottle virus
+Tulip breaking virus
+Tulip mosaic virus
+Turnip mosaic virus
+Twisted-stalk chlorotic streak virus
+Vallota mosaic virus
+Watermelon leaf mottle virus
+Watermelon mosaic virus
+Wild potato mosaic virus
+Wild tomato mosaic virus
+Wisteria vein mosaic virus
+Yam mild mosaic virus
+Yam mosaic virus
+Yambean mosaic virus
+Zantedeschia mild mosaic virus
+Zea mosaic virus
+Zucchini yellow fleck virus
+Zucchini yellow mosaic virus
+ 
+
+Elephantid herpesvirus 1
+ 
+
+Bovine parainfluenza virus 3
+Human parainfluenza virus 1
+Human parainfluenza virus 3
+Sendai virus
+Simian virus 10
+ 
+
+Alcelaphine herpesvirus 1
+Ateline herpesvirus 2
+Ateline herpesvirus 3
+Bovine herpesvirus 4
+Cricetid herpesvirus 2
+Equid herpesvirus 2
+Equid herpesvirus 5
+Human herpesvirus 8
+Macacine herpesvirus 5
+Murid herpesvirus 4
+Murid herpesvirus 7
+Ovine herpesvirus 2
+Saimiriine herpesvirus 2
+ 
+
+Alcelaphine herpesvirus 1
+ 
+
+Human herpesvirus 6 spp.
+Human herpesvirus 6A
+Human herpesvirus 6B
+Human herpesvirus 7
+ 
+
+Rotavirus A
+Rotavirus B
+Rotavirus C
+Rotavirus D
+Rotavirus E
+ 
+
+Rubella virus
+ 
+
+Human parainfluenza virus 2
+Human parainfluenza virus 4
+Mapuera virus
+Menangle virus
+Mumps virus
+Parainfluenza virus 5
+Porcine rubulavirus
+Simian virus 41
+ 
+
+Avian sapelovirus
+Porcine sapelovirus
+Simian sapelovirus
+ 
+
+Porcine sapovirus
+ 
+
+Banna virus
+Kadipiro virus
+Liao ning virus
+ 
+
+Seneca Valley virus
+ 
+
+Frog adenovirus A
+Great tit adenovirus A
+Raptor adenovirus A
+Turkey adenovirus A
+ 
+
+Ateline herpesvirus 1
+Bovine herpesvirus 2
+Cercopithecine herpesvirus 2
+Herpes simplex virus 1
+Herpes simplex virus 2
+Herpes simplex virus spp.
+Human herpesvirus 1
+Human herpesvirus 2
+Leporid herpesvirus 4
+Macacine herpesvirus 1
+Macropodid herpesvirus 1
+Macropodid herpesvirus 2
+Papiine herpesvirus 2
+Saimiriine herpesvirus 1
+ 
+
+Blueberry shoestring virus
+Cocksfoot mottle virus
+Imperata yellow mottle virus
+Lucerne transient streak virus
+Rice yellow mottle virus
+Ryegrass mottle virus
+Sesbania mosaic virus
+Solanum nodiflorum mottle virus
+Southern bean mosaic virus
+Southern cowpea mosaic virus
+Sowbane mosaic virus
+Subterranean clover mottle virus
+Turnip rosette virus
+Velvet tobacco mottle virus
+ 
+
+Sweet potato vein clearing virus
+Tobacco vein clearing virus
+ 
+
+Blueberry red ringspot virus
+Cestrum yellow leaf curling virus
+Peanut chlorotic streak virus
+Soybean chlorotic mottle virus
+ 
+
+African green monkey simian foamy virus
+Bovine foamy virus
+Equine foamy virus
+Feline foamy virus
+Macaque simian foamy virus
+Simian foamy virus
+ 
+
+Swinepox virus
+ 
+
+Echinochloa hoja blanca virus
+Maize stripe virus
+Rice grassy stunt virus
+Rice hoja blanca virus
+Rice stripe virus
+Urochloa hoja blanca virus
+ 
+
+Potato virus T
+ 
+
+Porcine teschovirus
+ 
+
+Thetapapillomavirus 1
+ 
+
+Torque teno canis virus
+ 
+
+Dhori virus
+Thogoto virus
+ 
+
+Brugmansia mild mottle virus
+Cucumber fruit mottle mosaic virus
+Cucumber green mottle mosaic virus
+Frangipani mosaic virus
+Hibiscus latent Fort Pierce virus
+Hibiscus latent Singapore virus
+Kyuri green mottle mosaic virus
+Obuda pepper virus
+Odontoglossum ringspot virus
+Paprika mild mottle virus
+Pepper mild mottle virus
+Rehmannia mosaic virus
+Ribgrass mosaic virus
+Sammons's Opuntia virus
+Streptocarpus flower break virus
+Sunn-hemp mosaic virus
+Tobacco latent virus
+Tobacco mild green mosaic virus
+Tobacco mosaic virus
+Tomato mosaic virus
+Turnip vein-clearing virus
+Ullucus mild mottle virus
+Wasabi mottle virus
+Youcai mosaic virus
+Zucchini green mottle mosaic virus
+ 
+
+Pea early-browning virus
+Pepper ringspot virus
+Tobacco rattle virus
+ 
+
+Artichoke mottled crinkle virus
+Carnation Italian ringspot virus
+Cucumber Bulgarian virus
+Cucumber necrosis virus
+Cymbidium ringspot virus
+Eggplant mottled crinkle virus
+Grapevine Algerian latent virus
+Havel River virus
+Lato River virus
+Limonium flower distortion virus
+Moroccan pepper virus
+Neckar River virus
+Pelargonium leaf curl virus
+Pelargonium necrotic spot virus
+Petunia asteroid mosaic virus
+Sitke waterborne virus
+Tomato bushy stunt virus
+ 
+
+Bovine torovirus
+Equine torovirus
+Human torovirus
+Porcine torovirus
+ 
+
+Tomato marchitez virus
+Tomato torrado virus
+ 
+
+Groundnut bud necrosis virus
+Groundnut ringspot virus
+Groundnut yellow spot virus
+Impatiens necrotic spot virus
+Tomato chlorotic spot virus
+Tomato spotted wilt virus
+Watermelon silver mottle virus
+Zucchini lethal chlorosis virus
+ 
+
+Avian encephalomyelitis virus
+ 
+
+Apple chlorotic leaf spot virus
+Apricot pseudo-chlorotic leaf spot virus
+Cherry mottle leaf virus
+Grapevine berry inner necrosis virus
+Peach mosaic virus
+ 
+
+Brome streak mosaic virus
+Oat necrotic mottle virus
+Wheat eqlid mosaic virus
+Wheat streak mosaic virus
+ 
+
+Anagyris vein yellowing virus
+Andean potato latent virus
+Belladonna mottle virus
+Cacao yellow mosaic virus
+Calopogonium yellow vein virus
+Chayote mosaic virus
+Chiltepin yellow mosaic virus
+Clitoria yellow vein virus
+Desmodium yellow mottle virus
+Dulcamara mottle virus
+Eggplant mosaic virus
+Erysimum latent virus
+Kennedya yellow mosaic virus
+Melon rugose mosaic virus
+Nemesia ring necrosis virus
+Okra mosaic virus
+Ononis yellow mosaic virus
+Passion fruit yellow mosaic virus
+Peanut yellow mosaic virus
+Petunia vein banding virus
+Physalis mottle virus
+Plantago mottle virus
+Scrophularia mottle virus
+Turnip yellow mosaic virus
+Voandzeia necrotic mosaic virus
+Wild cucumber mosaic virus
+ 
+
+Carrot mottle mimic virus
+Carrot mottle virus
+Groundnut rosette virus
+Lettuce speckles mottle virus
+Pea enation mosaic virus-2
+Tobacco bushy top virus
+Tobacco mottle virus
+ 
+
+Avian hepatitis E virus
+Caviid herpesvirus 2
+Chelonid herpesvirus 6
+Equid herpesvirus 7
+Flanders virus
+Moussa virus
+Ngaingan virus
+Squirrelpox virus
+Wongabel virus
+
+Bovine herpesvirus 1
+Bovine herpesvirus 5
+Bubaline herpesvirus 1
+Canid herpesvirus 1
+Caprine herpesvirus 1
+Cercopithecine herpesvirus 9
+Cervid herpesvirus 1
+Cervid herpesvirus 2
+Duck herpesvirus 1
+Equid herpesvirus 1
+Equid herpesvirus 3
+Equid herpesvirus 4
+Equid herpesvirus 8
+Equid herpesvirus 9
+Felid herpesvirus 1
+Human herpesvirus 3
+Phocid herpesvirus 1
+Suid herpesvirus 1
+ 
+
+Carajas virus
+Chandipura virus
+Cocal virus
+Isfahan virus
+Maraba virus
+Pike fry rhabdovirus
+Piry virus
+Spring viraemia of carp virus
+Spring viremia of carp virus
+Vesicular stomatitis Alagoas virus
+Vesicular stomatitis Indiana virus
+Vesicular stomatitis New Jersey virus
+ 
+
+Feline calicivirus
+Vesicular exanthema of swine virus
+ 
+
+Anthriscus yellows virus
+Maize chlorotic dwarf virus
+Rice tungro spherical virus
+ 
+
+White spot syndrome virus
+ 
+
+Xipapillomavirus 1
+ 
+
+Tanapox virus
+Yaba monkey tumor virus
+ 
+
+Zetapapillomavirus 1
+ 
+
+Torque teno douroucouli virus
+ 
+
+
+Acinetobacter Lwoffii
+Acinetobacter calcoaceticus
+  
+
+Actinobacillus actinomycetemcomitans
+Actinobacillus capsulatus
+Actinobacillus equuli
+Actinobacillus lignieresii
+Actinobacillus suis
+
+
+Actinomyces bovis
+Actinomyces humiferus
+Actinomyces israelii
+Actinomyces naeslundii
+Actinomyces odontolyticus
+Actinomyces viscosus
+
+
+Aeromonas hydrophila
+Aeromonas punctata
+Aeromonas salmonicida
+  
+
+Agrobacterium radiobacter
+Agrobacterium rhizogenes
+Agrobacterium rubi
+Agrobacterium tumefaciens
+
+
+Alcaligenes aestus
+Alcaligenes aquamarinus
+Alcaligenes cupidus
+Alcaligenes eutrophus
+Alcaligenes faecalis
+Alcaligenes latus
+Alcaligenes pacificus
+Alcaligenes paradoxus
+Alcaligenes ruhlandii
+Alcaligenes venustus
+
+
+Anaplasma marginale
+Anaplasma ovis
+Anaplasma phagocytophilum
+Anaplasma platys
+  
+
+Bacillus acidocaldarius
+Bacillus alcalophilus
+Bacillus alvei
+Bacillus anthracis
+Bacillus badius
+Bacillus brevis
+Bacillus cereus
+Bacillus circulans
+Bacillus coagulans
+Bacillus firmus
+Bacillus globisporus
+Bacillus insolitus
+Bacillus larvae
+Bacillus laterosporus
+Bacillus lentimorbus
+Bacillus lentus
+Bacillus licheniformis
+Bacillus macerans
+Bacillus macquariensis
+Bacillus mycoides
+Bacillus pantothenticus
+Bacillus pasteurii
+Bacillus polymyxa
+Bacillus popilliae
+Bacillus pumilus
+Bacillus sphaericus
+Bacillus stearothermophilus
+Bacillus subtilis
+Bacillus thuringiensis
+
+
+Bacteroides amylophilus
+Bacteroides asaccharolyticus
+Bacteroides bivius
+Bacteroides capillosus
+Bacteroides coagulans
+Bacteroides disiens
+Bacteroides distasonis
+Bacteroides eggerthii
+Bacteroides fragilis
+Bacteroides furcosus
+Bacteroides hypermegas
+Bacteroides melaninogenicus
+Bacteroides microfusus
+Bacteroides multiacidus
+Bacteroides nodosus
+Bacteroides ochraceus
+Bacteroides oralis
+Bacteroides ovatus
+Bacteroides pneumosintes
+Bacteroides praeacutus
+Bacteroides putredinis
+Bacteroides ruminicola
+Bacteroides splanchnicus
+Bacteroides succinogenes
+Bacteroides termitidis
+Bacteroides thetaiotaomicron
+Bacteroides uniformis
+Bacteroides ureolyticus
+Bacteroides vulgatus
+
+
+Bartonella bacilliformis
+Bartonella henselae
+  
+
+Bordetella bronchiseptica
+Bordetella parapertussis
+Bordetella pertussis
+  
+
+Borrelia afzelii
+Borrelia anserina
+Borrelia brasiliensis
+Borrelia burgdorferi
+Borrelia caucasica
+Borrelia crocidurae
+Borrelia dugesii
+Borrelia duttonii
+Borrelia garinii
+Borrelia graingeri
+Borrelia harveyi
+Borrelia hermsii
+Borrelia latyschewii
+Borrelia mazzottii
+Borrelia parkeri
+Borrelia persica
+Borrelia recurrentis
+Borrelia theileri
+Borrelia tillae
+Borrelia turicatae
+Borrelia venezuelensis
+
+
+Brucella abortus
+Brucella canis
+Brucella melitensis
+Brucella neotomae
+Brucella ovis
+Brucella suis
+
+
+Burkholderia cepacia
+Burkholderia mallei
+Burkholderia pseudomallei
+Burkholderia thailandensis
+
+
+Campylobacter coli
+Campylobacter fetus
+Campylobacter jejuni
+Campylobacter sputorum
+
+
+
+Capsularis zoogleiformans
+
+Cardiobacterium hominis
+  
+
+Chlamydia pneumonia
+Chlamydia psittaci
+Chlamydia trachomatis
+
+
+Chlamydophila pneumoniae
+Chlamydophila psittaci
+  
+
+Citrobacter diversus
+Citrobacter freundii
+Citrobacter koseri
+  
+
+Clavibacter michiganensis
+  
+
+Clostridium absonum
+Clostridium acetobutylicum
+Clostridium acidiurici
+Clostridium aminovalericum
+Clostridium aurantibutyricum
+Clostridium barati
+Clostridium barkeri
+Clostridium beijerinckii
+Clostridium bifermentans
+Clostridium botulinum
+Clostridium butyricum
+Clostridium cadaveris
+Clostridium carnis
+Clostridium celatum
+Clostridium cellobioparum
+Clostridium chauvoei
+Clostridium clostridiiforme
+Clostridium coccoides
+Clostridium cochlearium
+Clostridium cocleatum
+Clostridium difficile
+Clostridium durum
+Clostridium fallax
+Clostridium felsineum
+Clostridium formicoaceticum
+Clostridium ghoni
+Clostridium glycolicum
+Clostridium haemolyticum
+Clostridium hastiforme
+Clostridium histolyticum
+Clostridium indolis
+Clostridium innocuum
+Clostridium irregularis
+Clostridium kluyveri
+Clostridium lentoputrescens
+Clostridium leptum
+Clostridium limosum
+Clostridium lituseburense
+Clostridium malenominatum
+Clostridium mangenotii
+Clostridium nexile
+Clostridium novyi
+Clostridium oceanicum
+Clostridium oroticum
+Clostridium paraperfringens
+Clostridium paraputrificum
+Clostridium pasteurianum
+Clostridium perenne
+Clostridium perfringens
+Clostridium propionicum
+Clostridium putrefaciens
+Clostridium putrificum
+Clostridium quercicolum
+Clostridium ramosum
+Clostridium rectum
+Clostridium sardiniensis
+Clostridium sartagoformum
+Clostridium scatologenes
+Clostridium septicum
+Clostridium sordellii
+Clostridium sphenoides
+Clostridium spiroforme
+Clostridium sporogenes
+Clostridium sporosphaeroides
+Clostridium sticklandii
+Clostridium subterminale
+Clostridium symbiosum
+Clostridium tertium
+Clostridium tetani
+Clostridium thermoaceticum
+Clostridium thermocellum
+Clostridium thermohydrosulfuricum
+Clostridium thermosaccharolyticum
+Clostridium tyrobutyricum
+Clostridium villosum
+
+
+Corynebacterium aquilae
+Corynebacterium betae
+Corynebacterium beticola
+Corynebacterium bovis
+Corynebacterium callunae
+Corynebacterium cystitidis
+Corynebacterium diphtheriae
+Corynebacterium diptheriae
+Corynebacterium equi
+Corynebacterium fascians
+Corynebacterium flaccumfaciens
+Corynebacterium flavescens
+Corynebacterium glutamicum
+Corynebacterium hoagii
+Corynebacterium ilicis
+Corynebacterium insidiosum
+Corynebacterium kutscheri
+Corynebacterium lilium
+Corynebacterium michiganense
+Corynebacterium nebraskense
+Corynebacterium oortii
+Corynebacterium paurometabolum
+Corynebacterium pilosum
+Corynebacterium poinsettiae
+Corynebacterium pseudodiphtheriticum
+Corynebacterium pseudotuberculosis
+Corynebacterium pyogenes
+Corynebacterium rathayi
+Corynebacterium renale
+Corynebacterium sepedonicum
+Corynebacterium striatum
+Corynebacterium suicordis
+Corynebacterium testudinoris
+Corynebacterium xerosis
+
+
+Coxiella burnetii
+  
+
+Cronobacter sakazakii
+  
+
+Edwardsiella anguillimortifera
+
+Edwardsiella tarda
+
+Ehrlichia canis
+Ehrlichia chaffeensis
+Ehrlichia phagocytophila
+  
+
+Enterobacter aerogenes
+Enterobacter agglomerans
+Enterobacter cloacae
+  
+
+Enterococcus faecalis
+Enterococcus faecium
+  
+
+Erwinia amylovora
+Erwinia ananas
+Erwinia cancerogena
+Erwinia carnegieana
+Erwinia carotovora
+Erwinia chrysanthemi
+Erwinia cypripedii
+Erwinia dissolvens
+Erwinia herbicola
+Erwinia mallotivora
+Erwinia milletiae
+Erwinia nigrifluens
+Erwinia nimipressuralis
+Erwinia paradisiaca
+Erwinia quercina
+Erwinia rhapontici
+Erwinia rubrifaciens
+Erwinia salicis
+Erwinia stewartii
+Erwinia tracheiphila
+Erwinia uredovora
+
+
+Erysipelothrix rhusiopathiae
+  
+
+Escherichia adecarboxylata
+Escherichia blattae
+Escherichia coli
+  
+
+Francisella novicida
+Francisella tularensis
+
+
+Haemophilus aegyptius
+Haemophilus aphrophilus
+Haemophilus avium
+Haemophilus ducreyi
+Haemophilus haemoglobinophilus
+Haemophilus haemolyticus
+Haemophilus influenzae
+Haemophilus paragallinarum
+Haemophilus parahaemolyticus
+Haemophilus parainfluenzae
+Haemophilus paraphrohaemolyticus
+Haemophilus paraphrophilus
+Haemophilus parasuis
+Haemophilus piscium
+Haemophilus pleuropneumoniae
+Haemophilus segnis
+Haemophilus vaginalis
+
+
+Helicobacter pylori
+  
+
+Klebsiella mobilis
+Klebsiella oxytoca
+Klebsiella ozaenae
+Klebsiella pneumoniae
+Klebsiella rhinoscleromatis
+  
+
+Legionella pneumophila
+  
+
+Leptospira biflexa
+Leptospira canicola
+Leptospira interrogans
+  
+
+Listeria denitrificans
+Listeria grayi
+Listeria innocua
+Listeria ivanovii
+Listeria monocytogenes
+Listeria murrayi
+Listeria seeligeri
+Listeria welshimeri
+
+
+Micrococcus agilis
+Micrococcus halobius
+Micrococcus kristinae
+Micrococcus luteus
+Micrococcus lylae
+Micrococcus nishinomiyaensis
+Micrococcus roseus
+Micrococcus sedentarius
+Micrococcus varians
+
+
+Moraxella anatipestifer
+Moraxella atlantae
+Moraxella bovis
+Moraxella catarrhalis
+Moraxella caviae
+Moraxella equi
+Moraxella lacunata
+Moraxella nonliquefaciens
+Moraxella osloensis
+Moraxella ovis
+Moraxella phenylpyruvica
+Moraxella saccharolytica
+Moraxella urethralis
+
+
+Morganella morganii
+  
+
+Mycobacterium abscessus
+Mycobacterium africanum
+Mycobacterium asiaticum
+Mycobacterium aurum
+Mycobacterium avium
+Mycobacterium bovis
+Mycobacterium chelonae
+Mycobacterium chitae
+Mycobacterium duvalii
+Mycobacterium farcinogenes
+Mycobacterium flavescens
+Mycobacterium fortuitum
+Mycobacterium gadium
+Mycobacterium gastri
+Mycobacterium gilvum
+Mycobacterium gordonae
+Mycobacterium haemophilum
+Mycobacterium intracellulare
+Mycobacterium intracullulare
+Mycobacterium kansasii
+Mycobacterium komossense
+Mycobacterium leprae
+Mycobacterium lepraemurium
+Mycobacterium malmoense
+Mycobacterium marinum
+Mycobacterium massiliense
+Mycobacterium microti
+Mycobacterium neoaurum
+Mycobacterium nonchromogenicum
+Mycobacterium parafortuitum
+Mycobacterium paratuberculosis
+Mycobacterium phlei
+Mycobacterium scrofulaceum
+Mycobacterium senegalense
+Mycobacterium simae
+Mycobacterium simiae
+Mycobacterium smegmatis
+Mycobacterium szulgai
+Mycobacterium terrae
+Mycobacterium thermoresistibile
+Mycobacterium triviale
+Mycobacterium tuberculosis
+Mycobacterium ulcerans
+Mycobacterium vaccae
+Mycobacterium xenopi
+
+
+Mycoplasma agalactiae
+Mycoplasma alkalescens
+Mycoplasma alvi
+Mycoplasma anatis
+Mycoplasma arginini
+Mycoplasma arthritidis
+Mycoplasma bovigenitalium
+Mycoplasma bovirhinis
+Mycoplasma bovis
+Mycoplasma bovoculi
+Mycoplasma buccale
+Mycoplasma canadense
+Mycoplasma canis
+Mycoplasma capricolum
+Mycoplasma caviae
+Mycoplasma citelli
+Mycoplasma columbinum
+Mycoplasma columborale
+Mycoplasma conjunctivae
+Mycoplasma cynos
+Mycoplasma dispar
+Mycoplasma edwardii
+Mycoplasma equigenitalium
+Mycoplasma equirhinis
+Mycoplasma faucium
+Mycoplasma feliminutum
+Mycoplasma felis
+Mycoplasma fermentans
+Mycoplasma flocculare
+Mycoplasma gallinarum
+Mycoplasma gallisepticum
+Mycoplasma gateae
+Mycoplasma genitalium
+Mycoplasma hominis
+Mycoplasma hyopneumoniae
+Mycoplasma hyorhinis
+Mycoplasma hyosynoviae
+Mycoplasma iners
+Mycoplasma maculosum
+Mycoplasma meleagridis
+Mycoplasma moatsii
+Mycoplasma molare
+Mycoplasma mycoides
+Mycoplasma neurolyticum
+Mycoplasma opalescens
+Mycoplasma orale
+Mycoplasma ovipneumoniae
+Mycoplasma pneumoniae
+Mycoplasma pulmonis
+Mycoplasma putrefaciens
+Mycoplasma salivarium
+Mycoplasma spumans
+Mycoplasma sualvi
+Mycoplasma subdolum
+Mycoplasma synoviae
+Mycoplasma verecundum
+
+
+Neisseria animalis
+Neisseria canis
+Neisseria caviae
+Neisseria cuniculi
+Neisseria denitrificans
+Neisseria elongata
+Neisseria flava
+Neisseria flavescens
+Neisseria gonorrhoeae
+Neisseria lactamica
+Neisseria meningitidis
+Neisseria mucosa
+Neisseria ovis
+Neisseria perflava
+Neisseria sicca
+Neisseria subflava
+
+
+Nocardia amarae
+Nocardia asteroides
+Nocardia autotrophica
+Nocardia brasiliensis
+Nocardia calcarea
+Nocardia carnea
+Nocardia cellulans
+Nocardia coeliaca
+Nocardia corynebacterioides
+Nocardia farcinica
+Nocardia globerula
+Nocardia hydrocarbonoxydans
+Nocardia mediterranei
+Nocardia orientalis
+Nocardia otitidiscaviarum
+Nocardia petroleophila
+Nocardia restricta
+Nocardia saturnea
+Nocardia transvalensis
+
+
+  
+Orientia tsutsugamushi
+
+Ornithobacterium rhinotracheale
+  
+
+Pasteurella aerogenes
+Pasteurella gallicida
+Pasteurella gallinarum
+Pasteurella haemolytica
+Pasteurella hemolytica
+Pasteurella multocida
+Pasteurella pneumotropica
+Pasteurella septica
+Pasteurella ureae
+
+
+Pasteuria ramosa
+  
+
+Pectinatus cerevisiiphilus
+  
+
+Pectobacterium carnegieana
+Pectobacterium carotovorum
+Pectobacterium chrysanthemi
+Pectobacterium cypripedii
+Pectobacterium rhapontici
+  
+
+Pediococcus acidilactici
+Pediococcus damnosus
+Pediococcus dextrinicus
+Pediococcus halophilus
+Pediococcus parvulus
+Pediococcus pentosaceus
+  
+
+Pedomicrobium ferrugineum
+Pedomicrobium manganicum
+  
+
+Pelodictyon clathratiforme
+Pelodictyon luteolum
+Pelodictyon phaeum
+  
+
+Peptococcus asaccharolyticus
+Peptococcus glycinophilus
+Peptococcus indolicus
+Peptococcus magnus
+Peptococcus niger
+Peptococcus prevotii
+Peptococcus saccharolyticus
+  
+
+Peptostreptococcus anaerobius
+Peptostreptococcus micros
+Peptostreptococcus parvulus
+Peptostreptococcus productus
+  
+
+Photobacterium angustum
+Photobacterium fischeri
+Photobacterium leiognathi
+Photobacterium phosphoreum
+  
+
+Pilimelia anulata
+Pilimelia terevasa
+
+
+Plesiomonas shigelloides
+  
+
+Propionibacterium acidi-propionici
+Propionibacterium acnes
+Propionibacterium avidum
+Propionibacterium freudenreichii
+Propionibacterium granulosum
+Propionibacterium jensenii
+Propionibacterium lymphophilum
+Propionibacterium thoenii
+
+
+Proteus inconstans
+Proteus mirabilis
+Proteus morganii
+Proteus myxofaciens
+Proteus rettgeri
+Proteus vulgaris
+
+
+Providencia rettgeri
+Providencia stuartii
+
+
+Pseudomonas aeruginosa
+Pseudomonas agarici
+Pseudomonas alcaligenes
+Pseudomonas amygdali
+Pseudomonas andropogonis
+Pseudomonas anguilliseptica
+Pseudomonas asplenii
+Pseudomonas aurantiaca
+Pseudomonas aureofaciens
+Pseudomonas avenae
+Pseudomonas azotoformans
+Pseudomonas beijerinckii
+Pseudomonas betle
+Pseudomonas boreopolis
+Pseudomonas caricapapayae
+Pseudomonas caryophylli
+Pseudomonas cattleyae
+Pseudomonas chlororaphis
+Pseudomonas cichorii
+Pseudomonas cissicola
+Pseudomonas citronellolis
+Pseudomonas cocovenenans
+Pseudomonas delafieldii
+Pseudomonas diminuta
+Pseudomonas doudoroffii
+Pseudomonas echinoides
+Pseudomonas elongata
+Pseudomonas facilis
+Pseudomonas flava
+Pseudomonas flectens
+Pseudomonas fluorescens
+Pseudomonas fragi
+Pseudomonas fulva
+Pseudomonas gelidicola
+Pseudomonas geniculata
+Pseudomonas gladioli
+Pseudomonas glathei
+Pseudomonas glumae
+Pseudomonas hibiscicola
+Pseudomonas huttiensis
+Pseudomonas indigofera
+Pseudomonas iners
+Pseudomonas lanceolata
+Pseudomonas mallei
+Pseudomonas marginalis
+Pseudomonas marina
+Pseudomonas mendocina
+Pseudomonas mephitica
+Pseudomonas mesophilica
+Pseudomonas mucidolens
+Pseudomonas nautica
+Pseudomonas nitroreducens
+Pseudomonas oleovorans
+Pseudomonas palleronii
+Pseudomonas paucimobilis
+Pseudomonas pertucinogena
+Pseudomonas phenazinium
+Pseudomonas pickettii
+Pseudomonas pictorum
+Pseudomonas pseudoalcaligenes
+Pseudomonas pseudoflava
+Pseudomonas pseudomallei
+Pseudomonas putida
+Pseudomonas pyrrocinia
+Pseudomonas radiora
+Pseudomonas rhodos
+Pseudomonas rubrilineans
+Pseudomonas rubrisubalbicans
+Pseudomonas saccharophila
+Pseudomonas solanacearum
+Pseudomonas spinosa
+Pseudomonas straminae
+Pseudomonas stutzeri
+Pseudomonas synxantha
+Pseudomonas syringae
+Pseudomonas taetrolens
+Pseudomonas testosteroni
+Pseudomonas tolaasii
+Pseudomonas vesicularis
+Pseudomonas viridiflava
+Pseudomonas woodsii
+
+
+Ralstonia solanacearum
+  
+
+Rathayibacter toxicus
+
+
+Rhodococcus bronchialis
+Rhodococcus coprophilus
+Rhodococcus corallinus
+Rhodococcus equi
+Rhodococcus erythropolis
+Rhodococcus rhodnii
+Rhodococcus rhodochrous
+Rhodococcus ruber
+Rhodococcus rubropertinctus
+Rhodococcus terrae
+
+
+Rickettsia africae
+Rickettsia akari
+Rickettsia anaplasmataceae
+Rickettsia australis
+Rickettsia burnetii
+Rickettsia canada
+Rickettsia conorii
+Rickettsia felis
+Rickettsia hoogstraalii
+Rickettsia japonica
+Rickettsia parkeri
+Rickettsia prowazekii
+Rickettsia rickettsii
+Rickettsia sennetsu
+Rickettsia sibirica
+Rickettsia typhi
+
+
+Riemerella anatipestifer
+  
+
+Salmonella gallinarum
+Salmonella arizonae
+Salmonella bongori
+Salmonella choleraesuis
+Salmonella enterica
+Salmonella enteritidis
+Salmonella gallinarum
+Salmonella pullorum
+Salmonella typhi
+Salmonella typhimurium
+
+
+Serratia fonticola
+Serratia liquefaciens
+Serratia marcescens
+Serratia marinorubra
+Serratia odorifera
+Serratia plymuthica
+Serratia proteamaculans
+Serratia rubidaea
+  
+
+Shigella boydii
+Shigella dysenteriae
+Shigella flexneri
+Shigella sonnei
+  
+
+Staphylococcus aureus
+Staphylococcus capitis
+Staphylococcus cohnii
+Staphylococcus epidermidis
+Staphylococcus haemolyticus
+Staphylococcus hominis
+Staphylococcus hyicus
+Staphylococcus intermedius
+Staphylococcus pyogenes
+Staphylococcus saprophyticus
+Staphylococcus sciuri
+Staphylococcus simulans
+Staphylococcus warneri
+Staphylococcus xylosus
+
+
+Stenotrophomonas maltophilia
+  
+
+Streptococcus acidominimus
+Streptococcus agalactiae
+Streptococcus anginosus
+Streptococcus bovis
+Streptococcus constellatus
+Streptococcus cremoris
+Streptococcus cricetus
+Streptococcus entericus
+Streptococcus equi
+Streptococcus equinus
+Streptococcus faecalis
+Streptococcus faecium
+Streptococcus hansenii
+Streptococcus iniae
+Streptococcus intermedius
+Streptococcus lactis
+Streptococcus mitis
+Streptococcus morbillorum
+Streptococcus mutans
+Streptococcus pleomorphus
+Streptococcus pneumoniae
+Streptococcus pyogenes
+Streptococcus raffinolactis
+Streptococcus rattus
+Streptococcus salivarius
+Streptococcus sanguis
+Streptococcus thermophilus
+Streptococcus uberis
+
+
+Streptomyces aburaviensis
+Streptomyces achromogenes
+Streptomyces acrimycini
+Streptomyces afghaniensis
+Streptomyces alanosinicus
+Streptomyces albaduncus
+Streptomyces albidoflavus
+Streptomyces albofaciens
+Streptomyces alboflavus
+Streptomyces albogriseolus
+Streptomyces albolongus
+Streptomyces alboniger
+Streptomyces albospinus
+Streptomyces albosporeus
+Streptomyces albovinaceus
+Streptomyces alboviridis
+Streptomyces albulus
+Streptomyces albus
+Streptomyces almquistii
+Streptomyces althioticus
+Streptomyces amakusaensis
+Streptomyces ambofaciens
+Streptomyces aminophilus
+Streptomyces anandii
+Streptomyces anthocyanicus
+Streptomyces antibioticus
+Streptomyces antimycoticus
+Streptomyces anulatus
+Streptomyces arabicus
+Streptomyces arenae
+Streptomyces argenteolus
+Streptomyces atratus
+Streptomyces atroolivaceus
+Streptomyces aurantiacus
+Streptomyces aurantiogriseus
+Streptomyces aureocirculatus
+Streptomyces aureofaciens
+Streptomyces aureoverticillatus
+Streptomyces avellaneus
+Streptomyces avidinii
+Streptomyces azureus
+Streptomyces baarnensis
+Streptomyces bacillaris
+Streptomyces badius
+Streptomyces bambergiensis
+Streptomyces bellus
+Streptomyces bikiniensis
+Streptomyces bluensis
+Streptomyces bobili
+Streptomyces bottropensis
+Streptomyces cacaoi
+Streptomyces caeruleus
+Streptomyces californicus
+Streptomyces calvus
+Streptomyces canarius
+Streptomyces canescens
+Streptomyces canus
+Streptomyces capoamus
+Streptomyces catenulae
+Streptomyces cavourensis
+Streptomyces cellostaticus
+Streptomyces celluloflavus
+Streptomyces cellulosae
+Streptomyces champavatii
+Streptomyces chartreusis
+Streptomyces chattanoogensis
+Streptomyces chibaensis
+Streptomyces chrestomyceticus
+Streptomyces chromofuscus
+Streptomyces chryseus
+Streptomyces chrysomallus
+Streptomyces cinereoruber
+Streptomyces cinerochromogenes
+Streptomyces cinnabarinus
+Streptomyces cinnamonensis
+Streptomyces cirratus
+Streptomyces citreofluorescens
+Streptomyces clavifer
+Streptomyces clavuligerus
+Streptomyces coelescens
+Streptomyces coelicolor
+Streptomyces coeruleofuscus
+Streptomyces coeruleorubidus
+Streptomyces coerulescens
+Streptomyces collinus
+Streptomyces colombiensis
+Streptomyces corchorusii
+Streptomyces cremeus
+Streptomyces crystallinus
+Streptomyces curacoi
+Streptomyces cuspidosporus
+Streptomyces cyaneofuscatus
+Streptomyces cyaneus
+Streptomyces cyanoalbus
+Streptomyces daghestanicus
+Streptomyces diastaticus
+Streptomyces diastatochromogenes
+Streptomyces djakartensis
+Streptomyces durhamensis
+Streptomyces echinatus
+Streptomyces ederensis
+Streptomyces endus
+Streptomyces erumpens
+Streptomyces erythraeus
+Streptomyces erythrogriseus
+Streptomyces eurythermus
+Streptomyces exfoliatus
+Streptomyces felleus
+Streptomyces filamentosus
+Streptomyces filipinensis
+Streptomyces fimbriatus
+Streptomyces fimicarius
+Streptomyces finlayi
+Streptomyces flaveolus
+Streptomyces flavidovirens
+Streptomyces flavogriseus
+Streptomyces flavotricini
+Streptomyces flavovirens
+Streptomyces flocculus
+Streptomyces floridae
+Streptomyces fluorescens
+Streptomyces fradiae
+Streptomyces fragilis
+Streptomyces fulvissimus
+Streptomyces fumanus
+Streptomyces galbus
+Streptomyces galilaeus
+Streptomyces gancidicus
+Streptomyces gardneri
+Streptomyces gelaticus
+Streptomyces geysiriensis
+Streptomyces ghanaensis
+Streptomyces gibsonii
+Streptomyces glaucescens
+Streptomyces globisporus
+Streptomyces globosus
+Streptomyces glomeroaurantiacus
+Streptomyces gobitricini
+Streptomyces goshikiensis
+Streptomyces gougerotii
+Streptomyces graminofaciens
+Streptomyces griseinus
+Streptomyces griseoaurantiacus
+Streptomyces griseobrunneus
+Streptomyces griseochromogenes
+Streptomyces griseoflavus
+Streptomyces griseofuscus
+Streptomyces griseoincarnatus
+Streptomyces griseoloalbus
+Streptomyces griseolus
+Streptomyces griseoluteus
+Streptomyces griseomycini
+Streptomyces griseoplanus
+Streptomyces griseorubens
+Streptomyces griseoruber
+Streptomyces griseorubiginosus
+Streptomyces griseosporeus
+Streptomyces griseostramineus
+Streptomyces griseoviridis
+Streptomyces griseus
+Streptomyces halstedii
+Streptomyces hawaiiensis
+Streptomyces helvaticus
+Streptomyces herbaricolor
+Streptomyces hirsutus
+Streptomyces humidus
+Streptomyces hydrogenans
+Streptomyces hygroscopicus
+Streptomyces indigoferus
+Streptomyces intermedius
+Streptomyces inusitatus
+Streptomyces ipomoeae
+Streptomyces janthinus
+Streptomyces kanamyceticus
+Streptomyces katrae
+Streptomyces kurssanovii
+Streptomyces lanatus
+Streptomyces lateritius
+Streptomyces laurentii
+Streptomyces lavendofoliae
+Streptomyces lavendulae
+Streptomyces lavendulocolor
+Streptomyces libani
+Streptomyces limosus
+Streptomyces lincolnensis
+Streptomyces lipmanii
+Streptomyces litmocidini
+Streptomyces lomondensis
+Streptomyces longisporoflavus
+Streptomyces longispororuber
+Streptomyces longisporus
+Streptomyces lucensis
+Streptomyces luridus
+Streptomyces lusitanus
+Streptomyces luteogriseus
+Streptomyces massasporeus
+Streptomyces matensis
+Streptomyces mauvecolor
+Streptomyces mediolani
+Streptomyces melanogenes
+Streptomyces melanosporofaciens
+Streptomyces michiganensis
+Streptomyces microflavus
+Streptomyces minutiscleroticus
+Streptomyces mirabilis
+Streptomyces misakiensis
+Streptomyces misionensis
+Streptomyces murinus
+Streptomyces mutabilis
+Streptomyces naganishii
+Streptomyces narbonensis
+Streptomyces nashvillensis
+Streptomyces neyagawaensis
+Streptomyces nigrescens
+Streptomyces nigrifaciens
+Streptomyces nitrosporeus
+Streptomyces niveoruber
+Streptomyces niveus
+Streptomyces noboritoensis
+Streptomyces nodosus
+Streptomyces nogalater
+Streptomyces nojiriensis
+Streptomyces noursei
+Streptomyces novaecaesareae
+Streptomyces ochraceiscleroticus
+Streptomyces odorifer
+Streptomyces olivaceiscleroticus
+Streptomyces olivaceoviridis
+Streptomyces olivaceus
+Streptomyces olivochromogenes
+Streptomyces olivoviridis
+Streptomyces omiyaensis
+Streptomyces pactum
+Streptomyces parvulus
+Streptomyces parvus
+Streptomyces peucetius
+Streptomyces phaeochromogenes
+Streptomyces phaeofaciens
+Streptomyces phaeoviridis
+Streptomyces pilosus
+Streptomyces platensis
+Streptomyces plicatus
+Streptomyces pluricolorescens
+Streptomyces pnaeopurpureus
+Streptomyces polychromogenes
+Streptomyces poonensis
+Streptomyces praecox
+Streptomyces prasinopilosus
+Streptomyces prasinosporus
+Streptomyces prasinus
+Streptomyces prunicolor
+Streptomyces psammoticus
+Streptomyces pseudogriseolus
+Streptomyces pseudovenezuelae
+Streptomyces pulveraceus
+Streptomyces puniceus
+Streptomyces purpeofuscus
+Streptomyces purpurascens
+Streptomyces purpurogeneiscleroticus
+Streptomyces racemochromogenes
+Streptomyces rameus
+Streptomyces ramulosus
+Streptomyces rangoon
+Streptomyces recifensis
+Streptomyces regensis
+Streptomyces resistomycificus
+Streptomyces rimosus
+Streptomyces rishiriensis
+Streptomyces rochei
+Streptomyces roseiscleroticus
+Streptomyces roseodiastaticus
+Streptomyces roseoflavus
+Streptomyces roseofulvus
+Streptomyces roseolilacinus
+Streptomyces roseolus
+Streptomyces roseosporus
+Streptomyces roseoviolaceus
+Streptomyces roseoviridis
+Streptomyces rubiginosohelvolus
+Streptomyces rubiginosus
+Streptomyces rutgersensis
+Streptomyces sampsonii
+Streptomyces sclerotialus
+Streptomyces setonii
+Streptomyces showdoensis
+Streptomyces sindenensis
+Streptomyces sioyaensis
+Streptomyces somaliensis
+Streptomyces sparsogenes
+Streptomyces spectabilis
+Streptomyces spheroides
+Streptomyces spiroverticillatus
+Streptomyces subrutilus
+Streptomyces sulphureus
+Streptomyces tanashiensis
+Streptomyces tendae
+Streptomyces termitum
+Streptomyces thermodiastaticus
+Streptomyces thermoviolaceus
+Streptomyces thermovulgaris
+Streptomyces torulosus
+Streptomyces toxytricini
+Streptomyces tricolor
+Streptomyces tubercidicus
+Streptomyces tuirus
+Streptomyces umbrinus
+Streptomyces variabilis
+Streptomyces varsoviensis
+Streptomyces vastus
+Streptomyces venezuelae
+Streptomyces vinaceus
+Streptomyces vinaceusdrappus
+Streptomyces violaceochromogenes
+Streptomyces violaceolatus
+Streptomyces violaceorectus
+Streptomyces violaceoruber
+Streptomyces violaceus
+Streptomyces violaceusniger
+Streptomyces violarus
+Streptomyces violascens
+Streptomyces violatus
+Streptomyces virginiae
+Streptomyces viridiviolaceus
+Streptomyces viridochromogenes
+Streptomyces viridodiastaticus
+Streptomyces viridosporus
+Streptomyces werraensis
+Streptomyces willmorei
+Streptomyces xanthochromogenes
+Streptomyces xanthocidicus
+Streptomyces xantholiticus
+Streptomyces xanthophaeus
+Streptomyces yokosukanensis
+Streptomyces zaomyceticus
+
+
+Taylorella equigenitalis
+  
+
+Treponema hyodysenteriae
+Treponema innocens
+Treponema minutum
+Treponema pallidum
+Treponema paraluiscuniculi
+Treponema pertenue
+  
+
+Tropheryma whipplei
+
+
+Ureaplasma parvum
+Ureaplasma urealyticum
+
+
+Vibrio albensis
+Vibrio alginolyticus
+Vibrio anguillarum
+Vibrio cholerae
+Vibrio costicola
+Vibrio fischeri
+Vibrio metschnikovii
+Vibrio parahaemolyticus
+Vibrio succinogenes
+
+
+Waddlia chondrophila
+  
+
+Xanthomonas albilineans
+Xanthomonas ampelina
+Xanthomonas axonopodis
+Xanthomonas campestris
+Xanthomonas fragariae
+  
+
+Xylella fastidiosa
+  
+
+Yersinia enterocolitica
+Yersinia pestis
+Yersinia philomiragia
+Yersinia pseudotuberculosis
+Yersinia ruckeri
+  
+
+Ajellomyces capsulatus
+Ajellomyces crescens
+Ajellomyces dermatitidis
+  
+
+Aspergillus flavus
+Aspergillus fumigatus
+Aspergillus niger
+  
+
+Blastomyces dermatitidis
+Blastomyces dermitidis
+  
+
+Candida albicans
+  
+
+Coccidioides immitis
+Coccidioides posadasii
+  
+
+Cryptococcus gattii
+Cryptococcus neoformans
+  
+
+Fusarium sporotrichioides
+  
+
+Histoplasma capsulatum
+Histoplasma duboisii
+  
+Histoplasma variance
+
+  
+
+Paracoccidioides brasiliensis
+  
+
+Parastagonospora nodorum
+  
+
+Phoma glycinicola
+  
+
+Pneumocystis jirovecii
+  
+
+Spongospora subterranea
+
+
+Stachybotrys chartarum
+  
+
+Synchytrium endobioticum
+  
+
+Trichophyton rubrum
+Trichophyton verrucosum
+
+
+Zymoseptoria tritici
+
+
+
+Acanthamoeba polyphaga
+  
+
+Babesia bovis
+  
+
+Blastocystis hominis
+  
+
+Cryptosporidium parvum
+  
+
+Echinococcus granulosus
+Echinococcus multilocularis
+Echinococcus vogeli
+
+
+Entamoeba coli
+Entamoeba hartmanni
+Entamoeba histolytica
+Entamoeba polecki
+  
+
+Giardia lamblia
+  
+
+Leishmania aethiopica
+Leishmania donovani
+Leishmania garnhami
+Leishmania gerbilli
+Leishmania infantum
+Leishmania major
+Leishmania pifanoi
+Leishmania tropica
+
+
+Naegleria fowleri
+  
+
+Neospora caninum
+  
+
+  
+Onchocerca volvulus
+
+Plasmodium berghei
+Plasmodium falciparum
+Plasmodium malariae
+Plasmodium ovale
+Plasmodium vivax
+
+
+Schistosoma bovis
+Schistosoma haematobium
+Schistosoma mansoni
+  
+
+Taenia solium
+  
+
+Theileria annulata
+Theileria lestoquardi
+Theileria microti
+Theileria parva
+  
+
+Toxoplasma gondii
+  
+
+Trichinella britovi
+Trichinella nativa
+Trichinella spiralis
+  
+
+Trypanosoma brucei
+Trypanosoma congolense
+Trypanosoma cruzi
+Trypanosoma equiperdum
+Trypanosoma evansi
+Trypanosoma rhodesiense
+  
+
+Wuchereria bancrofti
+
+Abrus precatorius
+
+Ricinus communis
+
+Peronosclerospora philipinenesis
+
+Sclerophthora rayssiae
+
+Influenza A virus
+Influenza B virus
+Influenza C virus
+Human immunodeficiency virus 1
+Human immunodeficiency virus 2
+Human immunodeficiency virus spp.
+Norwalk virus
+Sapporo virus
+Acinetobacter baumannii
+Actinobacillus pleuropneumoniae
+
+

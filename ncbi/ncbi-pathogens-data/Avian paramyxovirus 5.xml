@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>5865735</PMCID>
+    <GeneBankPMID>20174645</GeneBankPMID>
+    <GeneBankPMID>27334593</GeneBankPMID>
+    <id>2560315</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Avian avulavirus 5
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian paramyxovirus 5</scientificName>
+</pathogen>

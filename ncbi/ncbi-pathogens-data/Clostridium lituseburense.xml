@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1121325</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium lituseburense DSM 797
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Romboutsia lituseburensis ATCC 25759
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Romboutsia lituseburensis DSM 797</scientificName>
+    </subSpecies>
+    <PMCID>8100229</PMCID>
+    <PMCID>8066279</PMCID>
+    <PMCID>8064328</PMCID>
+    <PMCID>8001938</PMCID>
+    <PMCID>7999503</PMCID>
+    <PMCID>7940352</PMCID>
+    <PMCID>7920475</PMCID>
+    <PMCID>7878856</PMCID>
+    <PMCID>7783417</PMCID>
+    <PMCID>7781536</PMCID>
+    <PMCID>7645788</PMCID>
+    <PMCID>7677487</PMCID>
+    <PMCID>7551848</PMCID>
+    <PMCID>7400182</PMCID>
+    <PMCID>7353361</PMCID>
+    <PMCID>7205886</PMCID>
+    <PMCID>7160772</PMCID>
+    <PMCID>7071260</PMCID>
+    <PMCID>6906742</PMCID>
+    <PMCID>6920951</PMCID>
+    <PMCID>6835875</PMCID>
+    <PMCID>6835969</PMCID>
+    <PMCID>6682593</PMCID>
+    <PMCID>6722942</PMCID>
+    <PMCID>6460951</PMCID>
+    <PMCID>6518016</PMCID>
+    <PMCID>6412789</PMCID>
+    <PMCID>6357014</PMCID>
+    <PMCID>6332540</PMCID>
+    <PMCID>6502712</PMCID>
+    <PMCID>6316269</PMCID>
+    <PMCID>6855251</PMCID>
+    <PMCID>6098093</PMCID>
+    <PMCID>6102370</PMCID>
+    <PMCID>6090026</PMCID>
+    <PMCID>6424909</PMCID>
+    <PMCID>5960956</PMCID>
+    <PMCID>5859043</PMCID>
+    <PMCID>5812936</PMCID>
+    <PMCID>6043449</PMCID>
+    <PMCID>5794710</PMCID>
+    <PMCID>5790465</PMCID>
+    <PMCID>5554123</PMCID>
+    <PMCID>5488402</PMCID>
+    <PMCID>5331058</PMCID>
+    <PMCID>5296205</PMCID>
+    <PMCID>5331431</PMCID>
+    <PMCID>5244294</PMCID>
+    <PMCID>5214690</PMCID>
+    <PMCID>5331780</PMCID>
+    <PMCID>5244501</PMCID>
+    <PMCID>5155555</PMCID>
+    <PMCID>5465812</PMCID>
+    <PMCID>5045619</PMCID>
+    <PMCID>5018162</PMCID>
+    <PMCID>5000553</PMCID>
+    <PMCID>4893468</PMCID>
+    <PMCID>4841035</PMCID>
+    <PMCID>4778674</PMCID>
+    <PMCID>4893116</PMCID>
+    <PMCID>4661816</PMCID>
+    <PMCID>4615878</PMCID>
+    <PMCID>4632417</PMCID>
+    <PMCID>4555153</PMCID>
+    <PMCID>4542552</PMCID>
+    <PMCID>4425030</PMCID>
+    <PMCID>4536058</PMCID>
+    <PMCID>4403768</PMCID>
+    <PMCID>4511933</PMCID>
+    <PMCID>4241516</PMCID>
+    <PMCID>4135898</PMCID>
+    <PMCID>4006720</PMCID>
+    <PMCID>3911030</PMCID>
+    <PMCID>3482503</PMCID>
+    <PMCID>3454415</PMCID>
+    <PMCID>3416433</PMCID>
+    <PMCID>7152181</PMCID>
+    <PMCID>3255753</PMCID>
+    <PMCID>3209155</PMCID>
+    <PMCID>3156250</PMCID>
+    <PMCID>3127721</PMCID>
+    <PMCID>3257638</PMCID>
+    <PMCID>3079304</PMCID>
+    <PMCID>3158294</PMCID>
+    <PMCID>2843610</PMCID>
+    <PMCID>2777007</PMCID>
+    <PMCID>2699007</PMCID>
+    <PMCID>2643592</PMCID>
+    <PMCID>2648627</PMCID>
+    <PMCID>1904277</PMCID>
+    <PMCID>1828836</PMCID>
+    <PMCID>1797099</PMCID>
+    <PMCID>1698302</PMCID>
+    <PMCID>1563651</PMCID>
+    <PMCID>4125629</PMCID>
+    <PMCID>1860565</PMCID>
+    <PMCID>1169142</PMCID>
+    <PMCID>1774423</PMCID>
+    <PMCID>4250702</PMCID>
+    <PMCID>444839</PMCID>
+    <PMCID>444815</PMCID>
+    <PMCID>374397</PMCID>
+    <PMCID>262306</PMCID>
+    <PMCID>165216</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>126585</PMCID>
+    <PMCID>93150</PMCID>
+    <PMCID>92609</PMCID>
+    <PMCID>91833</PMCID>
+    <PMCID>91680</PMCID>
+    <PMCID>106730</PMCID>
+    <PMCID>106424</PMCID>
+    <PMCID>121377</PMCID>
+    <id>1537</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium lituseburense
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Inflabilis litus-eburense
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Inflabilis litus-eburense" Laplanche and Saissac in Prevot 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium lituseburense (Laplanche and Saissac 1948) McClung and McCoy 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Romboutsia lituseburensis (Laplanche and Saissac 1948) Gerritsen et al. 2014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25759
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25759
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 14536
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:14536
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 14536
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:14536
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 18920
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:18920
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 797
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:797
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1404
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1404
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 10637
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:10637
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 2751
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:2751
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VTT E-021853
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VTT:E-021853
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::A25K
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain A25K
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium lituseburense</scientificName>
+</pathogen>

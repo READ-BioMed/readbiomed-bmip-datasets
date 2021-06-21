@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>417189</id>
+        <scientificName>Tobacco leaf curl Japan virus-[Honeysuckle:Ibaraki]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>347952</id>
+        <scientificName>Tobacco leaf curl Japan virus-[Msd]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>347951</id>
+        <scientificName>Tobacco leaf curl Japan virus-[Myz]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>347950</id>
+        <scientificName>Tobacco leaf curl Japan virus-[Fukui]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>226084</id>
+        <scientificName>Tobacco leaf curl Japan virus-[JP3]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223333</id>
+        <scientificName>Tobacco leaf curl Japan virus-[JP2]</scientificName>
+    </subSpecies>
+    <PMCID>5414201</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>3550817</PMCID>
+    <GeneBankPMID>10585147</GeneBankPMID>
+    <id>223332</id>
+    <scientificName>Tobacco leaf curl Japan virus</scientificName>
+</pathogen>

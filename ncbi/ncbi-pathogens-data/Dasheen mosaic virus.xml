@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>3550727</PMCID>
+        <id>186373</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  VanMV
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Vanilla mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Vanilla mosaic virus</scientificName>
+    </subSpecies>
+    <PMCID>7687136</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>6997314</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>6863122</PMCID>
+    <PMCID>6630990</PMCID>
+    <PMCID>6435773</PMCID>
+    <PMCID>6204562</PMCID>
+    <PMCID>6052428</PMCID>
+    <PMCID>5997743</PMCID>
+    <PMCID>5965364</PMCID>
+    <PMCID>4561679</PMCID>
+    <PMCID>4514669</PMCID>
+    <PMCID>4103442</PMCID>
+    <PMCID>3361166</PMCID>
+    <PMCID>3550727</PMCID>
+    <PMCID>2213679</PMCID>
+    <GeneBankPMID>11699967</GeneBankPMID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <id>29271</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  DMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Dasheen mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  dasheen mosaic potyvirus DMV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  dasheen mosaic virus DMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Dasheen mosaic virus</scientificName>
+</pathogen>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4376133</PMCID>
+        <id>1002920</id>
+        <scientificName>Simian sapelovirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5238962</PMCID>
+        <PMCID>3931614</PMCID>
+        <GeneBankPMID>14517081</GeneBankPMID>
+        <id>1002918</id>
+        <scientificName>Simian sapelovirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>544573</id>
+        <scientificName>Simian sapelovirus 2</scientificName>
+    </subSpecies>
+    <PMCID>7979554</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7341194</PMCID>
+    <PMCID>7123037</PMCID>
+    <PMCID>7077239</PMCID>
+    <PMCID>6934677</PMCID>
+    <PMCID>6256667</PMCID>
+    <PMCID>5364608</PMCID>
+    <PMCID>5240211</PMCID>
+    <PMCID>5228260</PMCID>
+    <PMCID>5078829</PMCID>
+    <PMCID>5063349</PMCID>
+    <PMCID>4376133</PMCID>
+    <PMCID>3536375</PMCID>
+    <PMCID>3165794</PMCID>
+    <id>686985</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Simian sapelovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Simian sapelovirus</scientificName>
+</pathogen>

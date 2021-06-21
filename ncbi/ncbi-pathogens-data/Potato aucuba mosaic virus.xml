@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7999175</PMCID>
+    <PMCID>7801954</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>7103407</PMCID>
+    <PMCID>6254090</PMCID>
+    <PMCID>5796751</PMCID>
+    <PMCID>5762828</PMCID>
+    <PMCID>5538442</PMCID>
+    <PMCID>6638112</PMCID>
+    <PMCID>5432563</PMCID>
+    <PMCID>4739775</PMCID>
+    <PMCID>6638794</PMCID>
+    <PMCID>6638855</PMCID>
+    <PMCID>3245411</PMCID>
+    <PMCID>6638836</PMCID>
+    <PMCID>3347606</PMCID>
+    <PMCID>3087015</PMCID>
+    <PMCID>2825510</PMCID>
+    <PMCID>6640333</PMCID>
+    <GeneBankPMID>7979982</GeneBankPMID>
+    <id>12182</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  PAMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  potato aucuba mosaic potexvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  potato aucuba mosaic potexvirus PAMV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  potato aucuba mosaic virus PAMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Potato aucuba mosaic virus</scientificName>
+</pathogen>

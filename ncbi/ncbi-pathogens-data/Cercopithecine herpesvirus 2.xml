@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7318535</PMCID>
+    <PMCID>7459556</PMCID>
+    <PMCID>6893520</PMCID>
+    <PMCID>6787236</PMCID>
+    <PMCID>6466031</PMCID>
+    <PMCID>5640867</PMCID>
+    <PMCID>7041526</PMCID>
+    <PMCID>5165221</PMCID>
+    <PMCID>4877525</PMCID>
+    <PMCID>4801651</PMCID>
+    <PMCID>4499804</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3577509</PMCID>
+    <PMCID>3478243</PMCID>
+    <PMCID>4310701</PMCID>
+    <PMCID>3225334</PMCID>
+    <PMCID>3175936</PMCID>
+    <PMCID>3044317</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2923853</PMCID>
+    <PMCID>2713539</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2702503</PMCID>
+    <PMCID>2703160</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1346941</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>224954</PMCID>
+    <GeneBankPMID>15629785</GeneBankPMID>
+    <id>10317</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CeHV-2
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  SA8
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Cercopithecine herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Herpes virus simian agent 8
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Simian herpesvirus SA8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cercopithecine herpesvirus 2</scientificName>
+</pathogen>

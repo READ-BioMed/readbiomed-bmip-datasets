@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>4983792</PMCID>
+        <id>189819</id>
+        <scientificName>Japanese hornwort mosaic virus</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>6997314</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>4561679</PMCID>
+    <GeneBankPMID>18408156</GeneBankPMID>
+    <GeneBankPMID>16538420</GeneBankPMID>
+    <id>322053</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Konjak mosaic virus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Konnyaku mosaic virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Konjac mosaic virus</scientificName>
+</pathogen>

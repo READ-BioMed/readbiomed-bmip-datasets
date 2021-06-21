@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <GeneBankPMID>19540277</GeneBankPMID>
+    <id>2560317</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  APMV-7
+ &lt;/GenbankAcronym&gt; 
+ &lt;Synonym&gt;
+  Avian avulavirus 7
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus 7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Avian paramyxovirus type 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Avian paramyxovirus 7</scientificName>
+</pathogen>

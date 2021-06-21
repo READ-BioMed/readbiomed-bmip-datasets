@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7497999</PMCID>
+    <PMCID>6224114</PMCID>
+    <PMCID>6193384</PMCID>
+    <PMCID>7108105</PMCID>
+    <PMCID>6236141</PMCID>
+    <PMCID>5606572</PMCID>
+    <PMCID>3719886</PMCID>
+    <id>1653837</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Borrelia mazzottii Davis 1956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Borrelia mazzottii</scientificName>
+</pathogen>

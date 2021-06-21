@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1535267</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi Virus[Okra:India:Ludhiana]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi Virus [Okra:India:Ludhiana]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1397678</id>
+        <scientificName>Tomato leaf curl New Delhi virus-[India:Junagadh:2012]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1397677</id>
+        <scientificName>Tomato leaf curl New Delhi virus-[India:Bhavnagar:2012]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313358</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus [Indonesia:Java:2009]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus-[Indonesia:Java:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1296572</id>
+        <scientificName>Tomato leaf curl New Delhi virus-[potato]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1239416</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi Virus [India:New Delhi: 2012]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi Virus [India:New Delhi:2012]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1000684</id>
+            <scientificName>Tomato leaf curl New Delhi virus-India [India/Tumkur/Chilli/2008]</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1000683</id>
+            <scientificName>Tomato leaf curl New Delhi virus-India [India/New Delhi/Chilli/2009]</scientificName>
+        </subSpecies>
+        <id>1000682</id>
+        <scientificName>Tomato leaf curl New Delhi virus-India</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>935472</id>
+        <scientificName>Tomato leaf curl New Delhi virus-JID17</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>935471</id>
+        <scientificName>Tomato leaf curl New Delhi virus-JID27</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>935287</id>
+        <scientificName>Tomato leaf curl New Delhi virus-JLH13</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>935286</id>
+        <scientificName>Tomato leaf curl New Delhi virus-JLX10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>910427</id>
+        <scientificName>Tomato leaf curl New Delhi virus-Papaya [India:New Delhi:Papaya:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908119</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus [India:Karnal:OY81A: 2004]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus [India:Karnal:OY81A:2004]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908118</id>
+        <scientificName>Tomato leaf curl New Delhi virus [India:Guntur:OY136B:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908117</id>
+        <scientificName>Tomato leaf curl New Delhi virus [India:Bangalore:OY135:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908116</id>
+        <scientificName>Tomato leaf curl New Delhi virus [India:Aurangabad:OY164A:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>665442</id>
+        <scientificName>Tomato leaf curl New Delhi virus [Pakistan:Solanum:2009]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>573915</id>
+        <scientificName>Tomato leaf curl New Delhi virus-[tomato:India:Haldwani]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>530589</id>
+        <scientificName>Tomato leaf curl New Delhi virus - [Ageratum: Northeast India]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>530588</id>
+        <scientificName>Tomato leaf curl New Delhi virus - [Jatropha:Northeast India]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>504808</id>
+        <scientificName>Tomato leaf curl New Delhi virus - Gorakhpur</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>480522</id>
+        <scientificName>Tomato leaf curl New delhi virus - India [Delhi:carrot:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>452661</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus - [Cucumber Thailand]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus-[cucumber:Thailand]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>417895</id>
+        <scientificName>Tomato leaf curl New delhi virus - India [India:Hissar:Cotton:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>407834</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Solanum yellow leaf curl virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus - [Pakistan:Solanum:1997]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus - [Pakistan:Solanum]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus-[Pakistan:Solanum:1997]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus [Pakistan:Solanum:1997]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>400124</id>
+        <scientificName>Tomato leaf curl New Delhi virus [Chilli:Bahraich]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>399384</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus [Multan
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Duranta repens]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus [Multan:Duranta repens]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>394337</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus-[Multan
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Luffa]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus-[Multan:Luffa]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>393597</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus-[Pumpkin:New Delhi]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus [Pumpkin:New Delhi]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>340194</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Tomato leaf curl New Delhi virus- chilli pepper
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus - chili pepper</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>337450</id>
+        <scientificName>Tomato leaf curl New Delhi virus - Bitter Gourd</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>311379</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Chilli leaf curl virus-[India]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus-Chilli pepper</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>270145</id>
+        <scientificName>Tomato leaf curl New Delhi virus - [Potato]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>270144</id>
+        <scientificName>Tomato leaf curl New Delhi virus - [PkT5/6]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>270143</id>
+        <scientificName>Tomato leaf curl New Delhi virus - [PkT1/8]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>309385</id>
+            <scientificName>Tomato leaf curl New Delhi virus-Severe[Jessore]</scientificName>
+        </subSpecies>
+        <id>223351</id>
+        <scientificName>Tomato leaf curl New Delhi virus-Severe</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223350</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus-Mild
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus - Mild</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223349</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus-[Luffa]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus - [Luffa]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223348</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tomato leaf curl New Delhi virus - [Lucknow]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tomato leaf curl New Delhi virus-[Lucknow]</scientificName>
+    </subSpecies>
+    <PMCID>7999175</PMCID>
+    <PMCID>7933694</PMCID>
+    <PMCID>7859126</PMCID>
+    <PMCID>7874048</PMCID>
+    <PMCID>7806619</PMCID>
+    <PMCID>7685591</PMCID>
+    <PMCID>7446811</PMCID>
+    <PMCID>7356032</PMCID>
+    <PMCID>7339215</PMCID>
+    <PMCID>7318802</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7734026</PMCID>
+    <PMCID>7284533</PMCID>
+    <PMCID>7248346</PMCID>
+    <PMCID>7177692</PMCID>
+    <PMCID>7100279</PMCID>
+    <PMCID>7574427</PMCID>
+    <PMCID>7396689</PMCID>
+    <PMCID>7421533</PMCID>
+    <PMCID>7008883</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>7150747</PMCID>
+    <PMCID>7086986</PMCID>
+    <PMCID>7060137</PMCID>
+    <PMCID>6917686</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6917692</PMCID>
+    <PMCID>6800982</PMCID>
+    <PMCID>6745573</PMCID>
+    <PMCID>6745583</PMCID>
+    <PMCID>6696309</PMCID>
+    <PMCID>6610314</PMCID>
+    <PMCID>6648060</PMCID>
+    <PMCID>6546767</PMCID>
+    <PMCID>6547011</PMCID>
+    <PMCID>6498046</PMCID>
+    <PMCID>6589724</PMCID>
+    <PMCID>6460037</PMCID>
+    <PMCID>6391364</PMCID>
+    <PMCID>6344024</PMCID>
+    <PMCID>6697862</PMCID>
+    <PMCID>6153861</PMCID>
+    <PMCID>6116182</PMCID>
+    <PMCID>6042520</PMCID>
+    <PMCID>5940619</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>5877856</PMCID>
+    <PMCID>6019014</PMCID>
+    <PMCID>6517462</PMCID>
+    <PMCID>5834980</PMCID>
+    <PMCID>5744040</PMCID>
+    <PMCID>5727119</PMCID>
+    <PMCID>5785982</PMCID>
+    <PMCID>5681951</PMCID>
+    <PMCID>5747844</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5691625</PMCID>
+    <PMCID>5618022</PMCID>
+    <PMCID>5498505</PMCID>
+    <PMCID>5684993</PMCID>
+    <PMCID>5450371</PMCID>
+    <PMCID>5510628</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5391787</PMCID>
+    <PMCID>5388764</PMCID>
+    <PMCID>5429635</PMCID>
+    <PMCID>5425365</PMCID>
+    <PMCID>6638057</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5127021</PMCID>
+    <PMCID>6638225</PMCID>
+    <PMCID>5086600</PMCID>
+    <PMCID>5586037</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4890432</PMCID>
+    <PMCID>4877078</PMCID>
+    <PMCID>4819903</PMCID>
+    <PMCID>4872795</PMCID>
+    <PMCID>4786119</PMCID>
+    <PMCID>4674566</PMCID>
+    <PMCID>6638354</PMCID>
+    <PMCID>4566980</PMCID>
+    <PMCID>6638530</PMCID>
+    <PMCID>4585057</PMCID>
+    <PMCID>4419787</PMCID>
+    <PMCID>4382981</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>6638473</PMCID>
+    <PMCID>4199772</PMCID>
+    <PMCID>4148390</PMCID>
+    <PMCID>4074936</PMCID>
+    <PMCID>4070032</PMCID>
+    <PMCID>3765727</PMCID>
+    <PMCID>3784915</PMCID>
+    <PMCID>3648162</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3824786</PMCID>
+    <PMCID>3723865</PMCID>
+    <PMCID>3650187</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>6638782</PMCID>
+    <PMCID>3407900</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3305473</PMCID>
+    <PMCID>3550806</PMCID>
+    <PMCID>3217939</PMCID>
+    <PMCID>3213157</PMCID>
+    <PMCID>3125359</PMCID>
+    <PMCID>3166278</PMCID>
+    <PMCID>3120783</PMCID>
+    <PMCID>3072929</PMCID>
+    <PMCID>3550709</PMCID>
+    <PMCID>3061938</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>3002923</PMCID>
+    <PMCID>2972279</PMCID>
+    <PMCID>2974675</PMCID>
+    <PMCID>3550763</PMCID>
+    <PMCID>6640424</PMCID>
+    <PMCID>6640282</PMCID>
+    <PMCID>2725476</PMCID>
+    <PMCID>2170441</PMCID>
+    <PMCID>1796863</PMCID>
+    <PMCID>1061533</PMCID>
+    <GeneBankPMID>7844539</GeneBankPMID>
+    <GeneBankPMID>15767443</GeneBankPMID>
+    <id>223347</id>
+    <scientificName>Tomato leaf curl New Delhi virus</scientificName>
+</pathogen>

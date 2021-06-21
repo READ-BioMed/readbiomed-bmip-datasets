@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7117362</PMCID>
+    <PMCID>6692828</PMCID>
+    <PMCID>6630270</PMCID>
+    <PMCID>6266482</PMCID>
+    <PMCID>5707528</PMCID>
+    <PMCID>5707520</PMCID>
+    <PMCID>4899906</PMCID>
+    <PMCID>4323056</PMCID>
+    <PMCID>3993814</PMCID>
+    <PMCID>3911531</PMCID>
+    <PMCID>4013247</PMCID>
+    <PMCID>3807334</PMCID>
+    <PMCID>3811133</PMCID>
+    <PMCID>3416325</PMCID>
+    <PMCID>2976387</PMCID>
+    <PMCID>3326350</PMCID>
+    <PMCID>1185569</PMCID>
+    <PMCID>546602</PMCID>
+    <PMCID>104303</PMCID>
+    <PMCID>239959</PMCID>
+    <PMCID>251039</PMCID>
+    <PMCID>250879</PMCID>
+    <PMCID>255468</PMCID>
+    <PMCID>515484</PMCID>
+    <GeneBankPMID>8517025</GeneBankPMID>
+    <id>35339</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  LuIIIV
+ &lt;/GenbankAcronym&gt; 
+ &lt;Synonym&gt;
+  Parvovirus LuIII
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Parvovirus LuII
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>LuIII virus</scientificName>
+</pathogen>

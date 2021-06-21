@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>6963609</PMCID>
+        <PMCID>5537671</PMCID>
+        <id>363171</id>
+        <scientificName>Porcine teschovirus 11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>363170</id>
+        <scientificName>Porcine teschovirus 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>363169</id>
+        <scientificName>Porcine teschovirus 9</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>2267166</PMCID>
+        <id>363168</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus strain UKG173/74
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 11
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>138684</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>138683</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J9
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>138682</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <id>138681</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>5678564</PMCID>
+        <id>138680</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>5537671</PMCID>
+        <id>138679</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Porcine enterovirus strain T80
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>650136</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine teschovirus 1 (isolate F65)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Porcine teschovirus 1 isolate F65</scientificName>
+        </subSpecies>
+        <PMCID>7971327</PMCID>
+        <PMCID>7920553</PMCID>
+        <PMCID>7495372</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7654063</PMCID>
+        <PMCID>7326815</PMCID>
+        <PMCID>7114519</PMCID>
+        <PMCID>7008109</PMCID>
+        <PMCID>6951344</PMCID>
+        <PMCID>6804923</PMCID>
+        <PMCID>6682651</PMCID>
+        <PMCID>6591227</PMCID>
+        <PMCID>6414203</PMCID>
+        <PMCID>6337239</PMCID>
+        <PMCID>6205362</PMCID>
+        <PMCID>6161460</PMCID>
+        <PMCID>6082703</PMCID>
+        <PMCID>5788975</PMCID>
+        <PMCID>5570402</PMCID>
+        <PMCID>5214577</PMCID>
+        <PMCID>5164931</PMCID>
+        <PMCID>4603672</PMCID>
+        <PMCID>4376133</PMCID>
+        <PMCID>4216076</PMCID>
+        <PMCID>4198207</PMCID>
+        <PMCID>3628093</PMCID>
+        <PMCID>3878617</PMCID>
+        <PMCID>3503094</PMCID>
+        <PMCID>3541788</PMCID>
+        <PMCID>3446573</PMCID>
+        <PMCID>3321441</PMCID>
+        <PMCID>3255865</PMCID>
+        <PMCID>3244433</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>3165794</PMCID>
+        <PMCID>3002927</PMCID>
+        <PMCID>2857432</PMCID>
+        <PMCID>2783963</PMCID>
+        <PMCID>2760816</PMCID>
+        <PMCID>2889435</PMCID>
+        <PMCID>2651312</PMCID>
+        <PMCID>2553761</PMCID>
+        <PMCID>2267166</PMCID>
+        <PMCID>1933019</PMCID>
+        <PMCID>1489592</PMCID>
+        <PMCID>1346926</PMCID>
+        <PMCID>114071</PMCID>
+        <id>85506</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine enterovirus J1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  porcine enterovirus 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  porcine enterovirus serotype 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Porcine teschovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7971327</PMCID>
+    <PMCID>7999760</PMCID>
+    <PMCID>7759923</PMCID>
+    <PMCID>7203355</PMCID>
+    <PMCID>7127483</PMCID>
+    <PMCID>7123469</PMCID>
+    <PMCID>7223446</PMCID>
+    <PMCID>7114519</PMCID>
+    <PMCID>7014746</PMCID>
+    <PMCID>6933714</PMCID>
+    <PMCID>6963609</PMCID>
+    <PMCID>6893673</PMCID>
+    <PMCID>6893659</PMCID>
+    <PMCID>6804923</PMCID>
+    <PMCID>6682651</PMCID>
+    <PMCID>6591227</PMCID>
+    <PMCID>6630610</PMCID>
+    <PMCID>6414203</PMCID>
+    <PMCID>6667191</PMCID>
+    <PMCID>6863196</PMCID>
+    <PMCID>6205362</PMCID>
+    <PMCID>6161460</PMCID>
+    <PMCID>6033249</PMCID>
+    <PMCID>6082703</PMCID>
+    <PMCID>5870040</PMCID>
+    <PMCID>5788975</PMCID>
+    <PMCID>5654047</PMCID>
+    <PMCID>5613464</PMCID>
+    <PMCID>5570402</PMCID>
+    <PMCID>5537671</PMCID>
+    <PMCID>5558614</PMCID>
+    <PMCID>5228260</PMCID>
+    <PMCID>5214577</PMCID>
+    <PMCID>5164931</PMCID>
+    <PMCID>5063349</PMCID>
+    <PMCID>5240775</PMCID>
+    <PMCID>4407229</PMCID>
+    <PMCID>4376133</PMCID>
+    <PMCID>4194362</PMCID>
+    <PMCID>4093777</PMCID>
+    <PMCID>3628093</PMCID>
+    <PMCID>3878617</PMCID>
+    <PMCID>3446573</PMCID>
+    <PMCID>3416931</PMCID>
+    <PMCID>3506014</PMCID>
+    <PMCID>3518274</PMCID>
+    <PMCID>3244433</PMCID>
+    <PMCID>3165794</PMCID>
+    <PMCID>3147923</PMCID>
+    <PMCID>3002927</PMCID>
+    <PMCID>2783899</PMCID>
+    <PMCID>2760816</PMCID>
+    <PMCID>2698906</PMCID>
+    <PMCID>2889435</PMCID>
+    <PMCID>2798122</PMCID>
+    <PMCID>2651312</PMCID>
+    <PMCID>2615758</PMCID>
+    <PMCID>2553761</PMCID>
+    <PMCID>2715965</PMCID>
+    <PMCID>2267166</PMCID>
+    <PMCID>1489592</PMCID>
+    <PMCID>1472133</PMCID>
+    <PMCID>1346926</PMCID>
+    <PMCID>137026</PMCID>
+    <PMCID>114071</PMCID>
+    <GeneBankPMID>10466788</GeneBankPMID>
+    <id>118140</id>
+    <meSHTree>B04.820.578.750.830</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Porcine teschovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Porcine teschovirus</scientificName>
+</pathogen>

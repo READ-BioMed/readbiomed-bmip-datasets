@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>654934</id>
+        <scientificName>White clover cryptic virus 1 (isolate Boccardo)</scientificName>
+    </subSpecies>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>6908805</PMCID>
+    <PMCID>6356794</PMCID>
+    <PMCID>6316540</PMCID>
+    <PMCID>5537675</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>5086604</PMCID>
+    <PMCID>5119462</PMCID>
+    <PMCID>5517306</PMCID>
+    <PMCID>4054428</PMCID>
+    <PMCID>3814600</PMCID>
+    <PMCID>3002925</PMCID>
+    <PMCID>2977895</PMCID>
+    <PMCID>2880111</PMCID>
+    <GeneBankPMID>15503214</GeneBankPMID>
+    <GeneBankPMID>15503213</GeneBankPMID>
+    <id>292052</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  WCCV-1
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>White clover cryptic virus 1</scientificName>
+</pathogen>

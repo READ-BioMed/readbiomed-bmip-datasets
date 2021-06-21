@@ -1,0 +1,10 @@
+
+Sequence analysis of hemagglutinin and nucleoprotein genes of measles viruses isolated in Korea during the 2000 epidemic.
+
+To characterize the genetic properties of currently circulating measles viruses in Korea, the complete nucleotide sequences of hemagglutinin (H) protein and nucleoprotein (N) genes of Korean viruses were analyzed. 
+The entire genes of H and N were directly amplified by RT-PCR from each clinical specimen and sequenced. 
+Sequence analyses of H and N genes indicated that all Korean viruses had a high degree of homology (&gt;99.8%) when compared with each other. 
+The Korean viruses differed from other wild-type viruses by as much as 6.8% in the H gene and 6.5% in the N gene at the nucleotide level. 
+The deduced amino acid variability was up to 6.4% for the H protein and up to 6.5% for the N protein. 
+Phylogenetic analyses of nucleotide sequences and deduced amino acid sequences of the H and N genes revealed that all Korean viruses were grouped into the clade H1.
+

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8072342</PMCID>
+    <PMCID>7700166</PMCID>
+    <PMCID>7515248</PMCID>
+    <PMCID>7483475</PMCID>
+    <PMCID>7481360</PMCID>
+    <PMCID>7232489</PMCID>
+    <PMCID>6928123</PMCID>
+    <PMCID>6940899</PMCID>
+    <PMCID>7079210</PMCID>
+    <PMCID>6803440</PMCID>
+    <PMCID>6615313</PMCID>
+    <PMCID>6785585</PMCID>
+    <PMCID>6181972</PMCID>
+    <PMCID>6098093</PMCID>
+    <PMCID>6085437</PMCID>
+    <PMCID>6004268</PMCID>
+    <PMCID>6011938</PMCID>
+    <PMCID>5946195</PMCID>
+    <PMCID>5911432</PMCID>
+    <PMCID>5367854</PMCID>
+    <PMCID>5367853</PMCID>
+    <PMCID>5209957</PMCID>
+    <PMCID>4942563</PMCID>
+    <PMCID>5039349</PMCID>
+    <PMCID>4979209</PMCID>
+    <PMCID>4877396</PMCID>
+    <PMCID>4862988</PMCID>
+    <PMCID>4652020</PMCID>
+    <PMCID>4405397</PMCID>
+    <PMCID>4272584</PMCID>
+    <PMCID>4022816</PMCID>
+    <PMCID>4002137</PMCID>
+    <PMCID>3675921</PMCID>
+    <PMCID>3102038</PMCID>
+    <PMCID>2950491</PMCID>
+    <PMCID>3638341</PMCID>
+    <PMCID>2724024</PMCID>
+    <PMCID>2268313</PMCID>
+    <PMCID>93226</PMCID>
+    <PMCID>92730</PMCID>
+    <id>1548</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus scatologenes
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium scatol
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus scatologenes" Weinberg and Ginsbourg 1927
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Clostridium scatol" Fellers and Clough 1925
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium scatologenes (Weinberg and Ginsbourg 1927) Prevot 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25775
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25775
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 9283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:9283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 757
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:757
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1414
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1414
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 8855
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB:8855
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:8855
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 12992
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:12992
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium scatologenes</scientificName>
+</pathogen>

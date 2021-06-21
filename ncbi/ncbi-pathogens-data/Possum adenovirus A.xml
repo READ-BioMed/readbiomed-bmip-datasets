@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5656758</PMCID>
+        <GeneBankPMID>11864751</GeneBankPMID>
+        <id>150098</id>
+        <scientificName>Possum adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>4451742</PMCID>
+    <PMCID>2238904</PMCID>
+    <id>121816</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Possum adenovirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Possum adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Possum adenovirus A</scientificName>
+</pathogen>

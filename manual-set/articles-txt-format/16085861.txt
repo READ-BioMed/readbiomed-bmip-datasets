@@ -1,0 +1,14 @@
+
+Molecular characterization of Korean Bacillus anthracis isolates by amplified fragment length polymorphism analysis and multilocus variable-number tandem repeat analysis.
+
+We analyzed the genetic relationships and molecular characteristics of 34 Bacillus anthracis isolates from soil and clinical samples in various regions of Korea and 17 related Bacillus species, using the amplified fragment length polymorphism (AFLP) and multilocus variable-number tandem repeat (MLVA) approaches. 
+Triplicate AFLP profiles of these strains showed high reproducibility and identified 376 polymorphisms. 
+AFLP phylogenetic analysis of B. anthracis isolates showed a high level of similarity, 0.93, and this monomorphic fragment profile proved to be useful to differentiate B. anthracis strains from other Bacillus species. 
+The B. cereus group was separated from other Bacillus species at a level of similarity of 0.68. 
+Among them, some B. cereus strains showed genetic interspersion with B. thuringiensis strains. 
+The evolutionary pattern of nucleotide differences among B. anthracis strains with the eight MLVA markers showed nine MLVA types. 
+Three MLVA types, M1 to M3, were pathogenic B. anthracis isolates and were assigned as new genotypes belonging to the A4 and B3 clusters, compared with 89 genotypes deduced from previous data. 
+This indicates that differences in cluster prevalence and distribution may be influenced more by MLVA markers on two plasmids loci and human activity. 
+Consequently, we suggest that the novel MLVA type may represent significant evidence for historic adaptation to environmental conditions of the Asian continent, particularly Korea. 
+Therefore, MLVA techniques may be available for molecular monitoring on anthrax-release-related bioterrorism and further study is required for the continuous epidemiological study of variable anthrax collections.
+

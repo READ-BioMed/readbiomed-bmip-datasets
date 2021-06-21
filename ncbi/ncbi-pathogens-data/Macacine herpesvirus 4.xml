@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7989616</PMCID>
+    <PMCID>7574219</PMCID>
+    <PMCID>7167833</PMCID>
+    <PMCID>7150127</PMCID>
+    <PMCID>7386402</PMCID>
+    <PMCID>7149574</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6610787</PMCID>
+    <PMCID>6333680</PMCID>
+    <PMCID>6103422</PMCID>
+    <PMCID>5970954</PMCID>
+    <PMCID>6371634</PMCID>
+    <PMCID>5560746</PMCID>
+    <PMCID>5513955</PMCID>
+    <PMCID>4894315</PMCID>
+    <PMCID>4831753</PMCID>
+    <PMCID>6698855</PMCID>
+    <PMCID>6223015</PMCID>
+    <PMCID>4631372</PMCID>
+    <PMCID>4787757</PMCID>
+    <PMCID>4416013</PMCID>
+    <PMCID>4535165</PMCID>
+    <PMCID>4473578</PMCID>
+    <PMCID>4378190</PMCID>
+    <PMCID>4330743</PMCID>
+    <PMCID>4318489</PMCID>
+    <PMCID>4338891</PMCID>
+    <PMCID>4224276</PMCID>
+    <PMCID>3970156</PMCID>
+    <PMCID>3929418</PMCID>
+    <PMCID>3856408</PMCID>
+    <PMCID>3807397</PMCID>
+    <PMCID>3765807</PMCID>
+    <PMCID>3751371</PMCID>
+    <PMCID>3879080</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3565383</PMCID>
+    <PMCID>3534370</PMCID>
+    <PMCID>3782276</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3343464</PMCID>
+    <PMCID>3303620</PMCID>
+    <PMCID>3264653</PMCID>
+    <PMCID>3501269</PMCID>
+    <PMCID>3197588</PMCID>
+    <PMCID>3171754</PMCID>
+    <PMCID>3154904</PMCID>
+    <PMCID>3084752</PMCID>
+    <PMCID>3110143</PMCID>
+    <PMCID>3079670</PMCID>
+    <PMCID>3052296</PMCID>
+    <PMCID>3044317</PMCID>
+    <PMCID>3063194</PMCID>
+    <PMCID>3012493</PMCID>
+    <PMCID>2981879</PMCID>
+    <PMCID>3023823</PMCID>
+    <PMCID>2942828</PMCID>
+    <PMCID>2898692</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>2863793</PMCID>
+    <PMCID>2745662</PMCID>
+    <PMCID>2718842</PMCID>
+    <PMCID>2695766</PMCID>
+    <PMCID>2603334</PMCID>
+    <PMCID>2651794</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2806684</PMCID>
+    <PMCID>2576354</PMCID>
+    <PMCID>2641032</PMCID>
+    <PMCID>2703162</PMCID>
+    <PMCID>2703161</PMCID>
+    <PMCID>2211322</PMCID>
+    <PMCID>2217556</PMCID>
+    <PMCID>2014757</PMCID>
+    <PMCID>1904460</PMCID>
+    <PMCID>1810304</PMCID>
+    <PMCID>1626483</PMCID>
+    <PMCID>1409806</PMCID>
+    <PMCID>1395385</PMCID>
+    <PMCID>1197138</PMCID>
+    <PMCID>1079958</PMCID>
+    <PMCID>524968</PMCID>
+    <PMCID>167222</PMCID>
+    <PMCID>104440</PMCID>
+    <GeneBankPMID>24089556</GeneBankPMID>
+    <GeneBankPMID>8892903</GeneBankPMID>
+    <GeneBankPMID>10482645</GeneBankPMID>
+    <GeneBankPMID>17428875</GeneBankPMID>
+    <GeneBankPMID>19457993</GeneBankPMID>
+    <GeneBankPMID>10846073</GeneBankPMID>
+    <GeneBankPMID>11739708</GeneBankPMID>
+    <GeneBankPMID>10970361</GeneBankPMID>
+    <id>45455</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankCommonName&gt;
+  Rhesus lymphocryptovirus
+ &lt;/GenbankCommonName&gt; 
+ &lt;EquivalentName&gt;
+  Cercopithecine herpesvirus 15
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Cercopithicine herpesvirus 15
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Macacine herpesvirus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rhesus EBV-llike herpesvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rhesus Epstein Barr virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  rhesus HHV-4-like virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Macacine herpesvirus 4</scientificName>
+</pathogen>

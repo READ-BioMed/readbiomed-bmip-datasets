@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7830215</PMCID>
+    <PMCID>7712989</PMCID>
+    <PMCID>7652803</PMCID>
+    <PMCID>7460454</PMCID>
+    <PMCID>7062639</PMCID>
+    <PMCID>6894827</PMCID>
+    <PMCID>6538751</PMCID>
+    <PMCID>6523354</PMCID>
+    <PMCID>6462784</PMCID>
+    <PMCID>6341036</PMCID>
+    <PMCID>5817276</PMCID>
+    <PMCID>4880948</PMCID>
+    <PMCID>4262072</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3072090</PMCID>
+    <id>118967</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  "Bacillus furcosus" Veillon and Zuber 1898
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Anaerorhabdus furcosus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacteroides furcosus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Fusiformis furcosus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudobacterium furcosum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Ristella furcosa
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Fusiformis furcosus" (Veillon and Zuber 1898) Topley and Wilson 1929
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pseudobacterium furcosum" (Veillon and Zuber 1898) Krasil'nikov 1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Ristella furcosa" (Veillon and Zuber 1898) Prevot 1938
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Anaerorhabdus furcosa corrig. (Veillon and Zuber 1898) Shah and Collins 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Anaerorhabdus furcosus (Veillon and Zuber 1898) Shah and Collins 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacteroides furcosus (Veillon and Zuber 1898) Hauduroy et al. 1937 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25662
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25662
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 3253
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:3253
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacteroides furcosus</scientificName>
+</pathogen>

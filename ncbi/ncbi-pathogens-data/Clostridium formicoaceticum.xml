@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7793690</PMCID>
+    <PMCID>7657615</PMCID>
+    <PMCID>7602568</PMCID>
+    <PMCID>7522397</PMCID>
+    <PMCID>7483475</PMCID>
+    <PMCID>7481360</PMCID>
+    <PMCID>7397103</PMCID>
+    <PMCID>7076986</PMCID>
+    <PMCID>6615313</PMCID>
+    <PMCID>6450187</PMCID>
+    <PMCID>6375959</PMCID>
+    <PMCID>6365974</PMCID>
+    <PMCID>6142821</PMCID>
+    <PMCID>6085454</PMCID>
+    <PMCID>6008375</PMCID>
+    <PMCID>6011938</PMCID>
+    <PMCID>5910564</PMCID>
+    <PMCID>5541230</PMCID>
+    <PMCID>5477410</PMCID>
+    <PMCID>5412455</PMCID>
+    <PMCID>5244501</PMCID>
+    <PMCID>5113046</PMCID>
+    <PMCID>5052610</PMCID>
+    <PMCID>4916380</PMCID>
+    <PMCID>4862988</PMCID>
+    <PMCID>4652020</PMCID>
+    <PMCID>4600107</PMCID>
+    <PMCID>4629871</PMCID>
+    <PMCID>4403655</PMCID>
+    <PMCID>4267397</PMCID>
+    <PMCID>4135698</PMCID>
+    <PMCID>6436544</PMCID>
+    <PMCID>3520005</PMCID>
+    <PMCID>3584212</PMCID>
+    <PMCID>3315566</PMCID>
+    <PMCID>2935046</PMCID>
+    <PMCID>2919952</PMCID>
+    <PMCID>2692627</PMCID>
+    <PMCID>2646786</PMCID>
+    <PMCID>2575129</PMCID>
+    <PMCID>3040112</PMCID>
+    <PMCID>2613313</PMCID>
+    <PMCID>1932707</PMCID>
+    <PMCID>152474</PMCID>
+    <PMCID>93226</PMCID>
+    <PMCID>95040</PMCID>
+    <PMCID>92742</PMCID>
+    <PMCID>92359</PMCID>
+    <PMCID>94422</PMCID>
+    <PMCID>91884</PMCID>
+    <PMCID>91813</PMCID>
+    <PMCID>91689</PMCID>
+    <PMCID>91688</PMCID>
+    <PMCID>91342</PMCID>
+    <PMCID>93538</PMCID>
+    <PMCID>93494</PMCID>
+    <PMCID>93435</PMCID>
+    <PMCID>90930</PMCID>
+    <PMCID>107583</PMCID>
+    <PMCID>106806</PMCID>
+    <PMCID>179666</PMCID>
+    <PMCID>203763</PMCID>
+    <PMCID>215120</PMCID>
+    <PMCID>217820</PMCID>
+    <PMCID>216671</PMCID>
+    <PMCID>218584</PMCID>
+    <PMCID>221972</PMCID>
+    <PMCID>235673</PMCID>
+    <PMCID>285187</PMCID>
+    <PMCID>285186</PMCID>
+    <id>1497</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium formicoaceticum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Clostridium formicoaceticum" Andreesen et al. 1970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium formicaceticum corrig. Andreesen et al. 1970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27076
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27076
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 92
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:92
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium formicoaceticum</scientificName>
+</pathogen>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5760104</PMCID>
+        <GeneBankPMID>19656968</GeneBankPMID>
+        <id>1513269</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Canine papillomavirus - 6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Canine papillomavirus 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Canis familiaris papillomavirus 6</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <id>1175854</id>
+    <scientificName>Lambdapapillomavirus 3</scientificName>
+</pathogen>

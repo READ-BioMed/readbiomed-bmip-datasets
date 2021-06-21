@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7289782</PMCID>
+    <PMCID>7110871</PMCID>
+    <PMCID>7086975</PMCID>
+    <PMCID>7536260</PMCID>
+    <PMCID>7467007</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6930231</PMCID>
+    <PMCID>6723609</PMCID>
+    <PMCID>6248937</PMCID>
+    <PMCID>6213907</PMCID>
+    <PMCID>5671517</PMCID>
+    <PMCID>4692202</PMCID>
+    <PMCID>3850573</PMCID>
+    <PMCID>3571366</PMCID>
+    <PMCID>3219706</PMCID>
+    <PMCID>3230846</PMCID>
+    <PMCID>3125225</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>1393248</PMCID>
+    <GeneBankPMID>23269803</GeneBankPMID>
+    <id>317858</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CyHV-1
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Carp pox herpesvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cyprinid herpesvirus 1</scientificName>
+</pathogen>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7149534</PMCID>
+        <PMCID>4402509</PMCID>
+        <id>1472717</id>
+        <scientificName>Enhydra lutris papillomavirus 1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6423848</PMCID>
+        <PMCID>6005490</PMCID>
+        <PMCID>5021401</PMCID>
+        <GeneBankPMID>15958682</GeneBankPMID>
+        <id>312349</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Procyon lotor papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Racoon papillomavirus type 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Procyon lotor papillomavirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <id>1175855</id>
+    <scientificName>Lambdapapillomavirus 4</scientificName>
+</pathogen>

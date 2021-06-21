@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1415526</id>
+        <scientificName>Caviid herpesvirus 2 str. CIDMTR</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>103920</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Guinea pig cytomegalovirus (strain 22122 / ATCC VR682)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Guinea pig cytomegalovirus (strain 22122 / ATCC VR682) (GPCMV)</scientificName>
+    </subSpecies>
+    <PMCID>7214618</PMCID>
+    <PMCID>6963609</PMCID>
+    <PMCID>5739588</PMCID>
+    <PMCID>5390382</PMCID>
+    <PMCID>5483178</PMCID>
+    <PMCID>4499804</PMCID>
+    <PMCID>4200145</PMCID>
+    <PMCID>3939480</PMCID>
+    <PMCID>3873610</PMCID>
+    <PMCID>3900008</PMCID>
+    <PMCID>3894257</PMCID>
+    <PMCID>3622957</PMCID>
+    <PMCID>3599071</PMCID>
+    <PMCID>3416140</PMCID>
+    <PMCID>3421651</PMCID>
+    <PMCID>3019685</PMCID>
+    <PMCID>2995426</PMCID>
+    <PMCID>3539792</PMCID>
+    <PMCID>3777615</PMCID>
+    <PMCID>3539795</PMCID>
+    <PMCID>3552636</PMCID>
+    <PMCID>2614972</PMCID>
+    <PMCID>2831993</PMCID>
+    <PMCID>2787096</PMCID>
+    <PMCID>1951306</PMCID>
+    <PMCID>135902</PMCID>
+    <PMCID>110914</PMCID>
+    <PMCID>249288</PMCID>
+    <PMCID>172297</PMCID>
+    <GeneBankPMID>30113297</GeneBankPMID>
+    <GeneBankPMID>24659103</GeneBankPMID>
+    <GeneBankPMID>23516193</GeneBankPMID>
+    <GeneBankPMID>24531333</GeneBankPMID>
+    <GeneBankPMID>27307567</GeneBankPMID>
+    <GeneBankPMID>32791352</GeneBankPMID>
+    <GeneBankPMID>19014498</GeneBankPMID>
+    <GeneBankPMID>32915127</GeneBankPMID>
+    <id>33706</id>
+    <meSHTree>B04.280.382.150.750</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Caviid herpesvirus 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Guinea pig cytomegalovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Caviid herpesvirus 2</scientificName>
+</pathogen>

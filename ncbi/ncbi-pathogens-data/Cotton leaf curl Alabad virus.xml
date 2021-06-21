@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>22447131</GeneBankPMID>
+        <id>908137</id>
+        <scientificName>Cotton leaf curl Allahabad virus [India:Karnal:OY77:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>908136</id>
+        <scientificName>Cotton leaf curl Allahabad virus [India:Karnal:OY81B:2005]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222458</id>
+        <scientificName>Cotton leaf curl Alabad virus-[804a]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222457</id>
+        <scientificName>Cotton leaf curl Alabad virus-[802a]</scientificName>
+    </subSpecies>
+    <PMCID>7085495</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>6571856</PMCID>
+    <PMCID>6451280</PMCID>
+    <PMCID>5727119</PMCID>
+    <PMCID>5691632</PMCID>
+    <PMCID>5395620</PMCID>
+    <PMCID>5429635</PMCID>
+    <PMCID>5355441</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5586037</PMCID>
+    <PMCID>4973738</PMCID>
+    <PMCID>4877078</PMCID>
+    <PMCID>4070032</PMCID>
+    <PMCID>3917440</PMCID>
+    <PMCID>3416816</PMCID>
+    <PMCID>3550815</PMCID>
+    <GeneBankPMID>9568988</GeneBankPMID>
+    <id>222456</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Cotton leaf curl Allahabad virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Cotton leaf curl Alabad virus</scientificName>
+</pathogen>

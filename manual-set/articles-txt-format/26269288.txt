@@ -1,0 +1,8 @@
+
+Changes to the dynamic nature of hemagglutinin and the emergence of the 2009 pandemic H1N1 influenza virus.
+
+The virologic factors that limit the transmission of swine influenza viruses between humans are unresolved. 
+While it has been shown that acquisition of the neuraminidase (NA) and matrix (M) gene segments from a Eurasian-lineage swine virus was required for airborne transmission of the 2009 pandemic H1N1 virus (H1N1pdm09), we show here that an arginine to lysine change in the hemagglutinin (HA) was also necessary. 
+This change at position 149 was distal to the receptor binding site but affected virus-receptor affinity and HA dynamics, allowing the virus to replicate more efficiently in nasal turbinate epithelium and subsequently transmit between ferrets. 
+Receptor affinity should be considered as a factor limiting swine virus spread in humans. 
+

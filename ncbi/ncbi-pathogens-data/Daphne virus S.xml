@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7779399</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6638135</PMCID>
+    <PMCID>3689765</PMCID>
+    <GeneBankPMID>16096707</GeneBankPMID>
+    <id>216614</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  DVS
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  daphne leaf distortion S virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Daphne virus S</scientificName>
+</pathogen>

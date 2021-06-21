@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7009187</PMCID>
+    <PMCID>7099661</PMCID>
+    <PMCID>7173617</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6516432</PMCID>
+    <PMCID>4445244</PMCID>
+    <PMCID>6638334</PMCID>
+    <PMCID>3889241</PMCID>
+    <PMCID>3693128</PMCID>
+    <PMCID>3588190</PMCID>
+    <PMCID>1831775</PMCID>
+    <GeneBankPMID>17448559</GeneBankPMID>
+    <id>326941</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  RLMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Raspberry mottle associated virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Raspberry mottle virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Raspberry leaf mottle virus</scientificName>
+</pathogen>

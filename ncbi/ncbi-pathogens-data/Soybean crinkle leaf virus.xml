@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>355235</id>
+        <scientificName>Soybean crinkle leaf virus-[Thailand]</scientificName>
+    </subSpecies>
+    <PMCID>7086986</PMCID>
+    <PMCID>4892816</PMCID>
+    <id>85753</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  SCLV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Soybean Crinkle Leaf Geminivirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Soybean crinkle leaf virus</scientificName>
+</pathogen>

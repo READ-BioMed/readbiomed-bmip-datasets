@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>26559957</GeneBankPMID>
+        <id>1756445</id>
+        <scientificName>Rattus norvegicus papillomavirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1036965</id>
+        <scientificName>Rattus norvegicus papillomavirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>654915</id>
+        <scientificName>Mastomys natalensis papillomavirus (isolate African multimammate rat)</scientificName>
+    </subSpecies>
+    <PMCID>7086667</PMCID>
+    <PMCID>6423848</PMCID>
+    <PMCID>5760104</PMCID>
+    <PMCID>5537679</PMCID>
+    <PMCID>5512245</PMCID>
+    <PMCID>5021401</PMCID>
+    <PMCID>2832751</PMCID>
+    <PMCID>336941</PMCID>
+    <PMCID>250523</PMCID>
+    <GeneBankPMID>8291235</GeneBankPMID>
+    <id>10567</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastomys natalensis papillomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Multimammate rat papillomavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Praomys natalensis papillomavirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Iotapapillomavirus 1</scientificName>
+</pathogen>

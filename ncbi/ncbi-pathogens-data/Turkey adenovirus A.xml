@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>318490</id>
+        <scientificName>Avirulent turkey hemorrhagic enteritis virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7979554</PMCID>
+        <PMCID>7882599</PMCID>
+        <PMCID>7181997</PMCID>
+        <PMCID>7089275</PMCID>
+        <PMCID>6902579</PMCID>
+        <PMCID>6726447</PMCID>
+        <PMCID>5811957</PMCID>
+        <PMCID>6505868</PMCID>
+        <PMCID>4497381</PMCID>
+        <PMCID>3792674</PMCID>
+        <PMCID>2703841</PMCID>
+        <PMCID>1169131</PMCID>
+        <PMCID>387597</PMCID>
+        <PMCID>120600</PMCID>
+        <PMCID>114934</PMCID>
+        <PMCID>112734</PMCID>
+        <PMCID>124599</PMCID>
+        <PMCID>303029</PMCID>
+        <PMCID>1255491</PMCID>
+        <GeneBankPMID>26418008</GeneBankPMID>
+        <GeneBankPMID>9791022</GeneBankPMID>
+        <id>41678</id>
+        <meSHTree>B04.280.030.750</meSHTree>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  TAdV-3
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Marble spleen disease virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Turkey adenovirus serotype 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Turkey haemorrhagic enteritis virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Turkey hemorrhagic enteritis virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  hemorrhagic enteritis virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Turkey adenovirus 3</scientificName>
+    </subSpecies>
+    <PMCID>7914820</PMCID>
+    <PMCID>7211397</PMCID>
+    <PMCID>7165297</PMCID>
+    <PMCID>6021868</PMCID>
+    <PMCID>4587935</PMCID>
+    <PMCID>3792674</PMCID>
+    <id>298333</id>
+    <meSHTree>B04.280.030.750</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Turkey adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Turkey adenovirus A</scientificName>
+</pathogen>

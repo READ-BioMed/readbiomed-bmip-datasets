@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>698948</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Thermoanaerobacterium thermosaccharolyticum str. M0795
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Thermoanaerobacterium thermosaccharolyticum strain M0795
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Thermoanaerobacterium thermosaccharolyticum 59
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Thermoanaerobacterium thermosaccharolyticum M0795</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6451744</PMCID>
+        <PMCID>3171299</PMCID>
+        <GeneBankPMID>2244884</GeneBankPMID>
+        <GeneBankPMID>8163183</GeneBankPMID>
+        <id>580327</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Thermoanaerobacterium thermosaccharolyticum str. DSM 571
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Thermoanaerobacterium thermosaccharolyticum strain DSM 571
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Thermoanaerobacterium thermosaccharolyticum DSM 571</scientificName>
+    </subSpecies>
+    <PMCID>8141877</PMCID>
+    <PMCID>8122632</PMCID>
+    <PMCID>8025525</PMCID>
+    <PMCID>7924749</PMCID>
+    <PMCID>7928332</PMCID>
+    <PMCID>7925390</PMCID>
+    <PMCID>7896129</PMCID>
+    <PMCID>7812874</PMCID>
+    <PMCID>7816434</PMCID>
+    <PMCID>7814735</PMCID>
+    <PMCID>7701477</PMCID>
+    <PMCID>7583248</PMCID>
+    <PMCID>7561615</PMCID>
+    <PMCID>7559272</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7327088</PMCID>
+    <PMCID>7296672</PMCID>
+    <PMCID>7303364</PMCID>
+    <PMCID>7193231</PMCID>
+    <PMCID>7176698</PMCID>
+    <PMCID>7215940</PMCID>
+    <PMCID>7178133</PMCID>
+    <PMCID>7081444</PMCID>
+    <PMCID>7070699</PMCID>
+    <PMCID>6928187</PMCID>
+    <PMCID>6892623</PMCID>
+    <PMCID>6942602</PMCID>
+    <PMCID>6921046</PMCID>
+    <PMCID>6802927</PMCID>
+    <PMCID>6746925</PMCID>
+    <PMCID>6720575</PMCID>
+    <PMCID>6687839</PMCID>
+    <PMCID>6652007</PMCID>
+    <PMCID>6784099</PMCID>
+    <PMCID>6451744</PMCID>
+    <PMCID>6454200</PMCID>
+    <PMCID>6521584</PMCID>
+    <PMCID>6289546</PMCID>
+    <PMCID>6231964</PMCID>
+    <PMCID>6182908</PMCID>
+    <PMCID>6110305</PMCID>
+    <PMCID>6085563</PMCID>
+    <PMCID>6073497</PMCID>
+    <PMCID>6165527</PMCID>
+    <PMCID>6022435</PMCID>
+    <PMCID>6093250</PMCID>
+    <PMCID>5963010</PMCID>
+    <PMCID>5911951</PMCID>
+    <PMCID>5938282</PMCID>
+    <PMCID>5727944</PMCID>
+    <PMCID>5732945</PMCID>
+    <PMCID>5708176</PMCID>
+    <PMCID>5707802</PMCID>
+    <PMCID>5707799</PMCID>
+    <PMCID>5697356</PMCID>
+    <PMCID>5707555</PMCID>
+    <PMCID>5713671</PMCID>
+    <PMCID>7150063</PMCID>
+    <PMCID>5601347</PMCID>
+    <PMCID>5576804</PMCID>
+    <PMCID>5688430</PMCID>
+    <PMCID>5415828</PMCID>
+    <PMCID>5399015</PMCID>
+    <PMCID>5389127</PMCID>
+    <PMCID>5418040</PMCID>
+    <PMCID>5441919</PMCID>
+    <PMCID>5326561</PMCID>
+    <PMCID>5187383</PMCID>
+    <PMCID>5132251</PMCID>
+    <PMCID>5109656</PMCID>
+    <PMCID>5207263</PMCID>
+    <PMCID>5038013</PMCID>
+    <PMCID>5049393</PMCID>
+    <PMCID>5266552</PMCID>
+    <PMCID>4994278</PMCID>
+    <PMCID>4988211</PMCID>
+    <PMCID>4982221</PMCID>
+    <PMCID>5095702</PMCID>
+    <PMCID>6273605</PMCID>
+    <PMCID>4967687</PMCID>
+    <PMCID>4919030</PMCID>
+    <PMCID>4974359</PMCID>
+    <PMCID>4897640</PMCID>
+    <PMCID>4864567</PMCID>
+    <PMCID>4878509</PMCID>
+    <PMCID>5678826</PMCID>
+    <PMCID>4795671</PMCID>
+    <PMCID>4764608</PMCID>
+    <PMCID>4731972</PMCID>
+    <PMCID>4704807</PMCID>
+    <PMCID>4634974</PMCID>
+    <PMCID>4626469</PMCID>
+    <PMCID>4619763</PMCID>
+    <PMCID>4579425</PMCID>
+    <PMCID>4570089</PMCID>
+    <PMCID>4549637</PMCID>
+    <PMCID>4542167</PMCID>
+    <PMCID>4511240</PMCID>
+    <PMCID>4510573</PMCID>
+    <PMCID>5095699</PMCID>
+    <PMCID>4495195</PMCID>
+    <PMCID>4518999</PMCID>
+    <PMCID>4478622</PMCID>
+    <PMCID>4575645</PMCID>
+    <PMCID>4507523</PMCID>
+    <PMCID>4898469</PMCID>
+    <PMCID>4463594</PMCID>
+    <PMCID>4372742</PMCID>
+    <PMCID>4475381</PMCID>
+    <PMCID>4342205</PMCID>
+    <PMCID>4329661</PMCID>
+    <PMCID>4734455</PMCID>
+    <PMCID>4308921</PMCID>
+    <PMCID>4296546</PMCID>
+    <PMCID>4269916</PMCID>
+    <PMCID>4240638</PMCID>
+    <PMCID>4248796</PMCID>
+    <PMCID>4221708</PMCID>
+    <PMCID>4207885</PMCID>
+    <PMCID>4194401</PMCID>
+    <PMCID>4147175</PMCID>
+    <PMCID>4135764</PMCID>
+    <PMCID>4071816</PMCID>
+    <PMCID>4047459</PMCID>
+    <PMCID>4052809</PMCID>
+    <PMCID>4054257</PMCID>
+    <PMCID>4066177</PMCID>
+    <PMCID>3985142</PMCID>
+    <PMCID>4093945</PMCID>
+    <PMCID>4187147</PMCID>
+    <PMCID>4232325</PMCID>
+    <PMCID>3924364</PMCID>
+    <PMCID>3917699</PMCID>
+    <PMCID>4306282</PMCID>
+    <PMCID>3878107</PMCID>
+    <PMCID>3840712</PMCID>
+    <PMCID>3913044</PMCID>
+    <PMCID>4016535</PMCID>
+    <PMCID>3837154</PMCID>
+    <PMCID>3782061</PMCID>
+    <PMCID>3757257</PMCID>
+    <PMCID>3643907</PMCID>
+    <PMCID>3937200</PMCID>
+    <PMCID>3556108</PMCID>
+    <PMCID>4396862</PMCID>
+    <PMCID>3781269</PMCID>
+    <PMCID>4252442</PMCID>
+    <PMCID>4403621</PMCID>
+    <PMCID>3416265</PMCID>
+    <PMCID>3395570</PMCID>
+    <PMCID>3395577</PMCID>
+    <PMCID>3382152</PMCID>
+    <PMCID>3627186</PMCID>
+    <PMCID>3298801</PMCID>
+    <PMCID>3271020</PMCID>
+    <PMCID>3208972</PMCID>
+    <PMCID>3212448</PMCID>
+    <PMCID>3171299</PMCID>
+    <PMCID>3146998</PMCID>
+    <PMCID>3156404</PMCID>
+    <PMCID>3131661</PMCID>
+    <PMCID>3079244</PMCID>
+    <PMCID>3008519</PMCID>
+    <PMCID>4254661</PMCID>
+    <PMCID>2933238</PMCID>
+    <PMCID>3147251</PMCID>
+    <PMCID>2943079</PMCID>
+    <PMCID>2879449</PMCID>
+    <PMCID>2901744</PMCID>
+    <PMCID>4397588</PMCID>
+    <PMCID>2726447</PMCID>
+    <PMCID>2736325</PMCID>
+    <PMCID>2664778</PMCID>
+    <PMCID>2680086</PMCID>
+    <PMCID>2620695</PMCID>
+    <PMCID>4379490</PMCID>
+    <PMCID>4381302</PMCID>
+    <PMCID>2064935</PMCID>
+    <PMCID>1851020</PMCID>
+    <PMCID>1637554</PMCID>
+    <PMCID>1636307</PMCID>
+    <PMCID>1472378</PMCID>
+    <PMCID>1082790</PMCID>
+    <PMCID>1952275</PMCID>
+    <PMCID>516837</PMCID>
+    <PMCID>444828</PMCID>
+    <PMCID>1303563</PMCID>
+    <PMCID>126445</PMCID>
+    <PMCID>134906</PMCID>
+    <PMCID>95408</PMCID>
+    <PMCID>99017</PMCID>
+    <PMCID>94972</PMCID>
+    <PMCID>92625</PMCID>
+    <PMCID>92530</PMCID>
+    <PMCID>92385</PMCID>
+    <PMCID>101949</PMCID>
+    <PMCID>94228</PMCID>
+    <PMCID>94162</PMCID>
+    <PMCID>103745</PMCID>
+    <PMCID>93789</PMCID>
+    <PMCID>98962</PMCID>
+    <PMCID>91161</PMCID>
+    <PMCID>107409</PMCID>
+    <PMCID>107324</PMCID>
+    <PMCID>106395</PMCID>
+    <PMCID>106204</PMCID>
+    <PMCID>34998</PMCID>
+    <PMCID>106996</PMCID>
+    <PMCID>1388397</PMCID>
+    <PMCID>176751</PMCID>
+    <PMCID>204929</PMCID>
+    <PMCID>202197</PMCID>
+    <PMCID>202196</PMCID>
+    <PMCID>195686</PMCID>
+    <PMCID>183570</PMCID>
+    <PMCID>1149642</PMCID>
+    <PMCID>208639</PMCID>
+    <PMCID>204075</PMCID>
+    <PMCID>214410</PMCID>
+    <PMCID>233294</PMCID>
+    <PMCID>251339</PMCID>
+    <PMCID>247560</PMCID>
+    <PMCID>378133</PMCID>
+    <PMCID>249882</PMCID>
+    <PMCID>547806</PMCID>
+    <PMCID>251918</PMCID>
+    <PMCID>547089</PMCID>
+    <PMCID>278526</PMCID>
+    <GeneBankPMID>9003300</GeneBankPMID>
+    <GeneBankPMID>31405215</GeneBankPMID>
+    <GeneBankPMID>26975764</GeneBankPMID>
+    <id>1517</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium tartarivorum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Clostridium thermosaccharolyticum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Therminosporus thermosaccharolyticus
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Thermoanaerobacterium sp. TG57
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Clostridium tartarivorum" Mercer and Vaughn
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Therminosporus thermosaccharolyticus" (McClung 1935) Prevot 1938
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium thermosaccharolyticum McClung 1935 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Thermoanaerobacterium thermosaccharolyticum (McClung 1935) Collins et al. 1994
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 7956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:7956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2811
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT 5852
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CECT:5852
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 571
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:571
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI 2225
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI:2225
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2811
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2811
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCA 3814
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCA:3814
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 9385
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 9385
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:9385
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 13789
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:13789
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::2032
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 2032
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium thermosaccharolyticum</scientificName>
+</pathogen>

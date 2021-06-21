@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1048436</id>
+        <scientificName>Human astrovirus VA2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>493802</id>
+        <scientificName>Human astrovirus Hu/CMH362/01/2001/THA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>493801</id>
+        <scientificName>Human astrovirus Hu/CMH352/02/2002/THA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>493800</id>
+        <scientificName>Human astrovirus Hu/CMH350/02/2002/THA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>493799</id>
+        <scientificName>Human astrovirus Hu/CMH265/00/2000/THA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>493798</id>
+        <scientificName>Human astrovirus Hu/CMH259/01/2001/THA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>493797</id>
+        <scientificName>Human astrovirus Hu/CMH074/01/2001/THA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>493796</id>
+        <scientificName>Human astrovirus Hu/CMH053/01/2001/THA</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>290849</id>
+        <scientificName>Human astrovirus GGH-2004</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7426863</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>6713929</PMCID>
+        <PMCID>5660997</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>3486453</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>2290972</PMCID>
+        <id>43358</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAstV-8
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 8
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 8</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>2290972</PMCID>
+        <id>38950</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAstV-7
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 7</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1274608</id>
+            <scientificName>Human astrovirus 6/ICMH433Astro/2006/BD</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274607</id>
+            <scientificName>Human astrovirus 6/ICMH108Astro/2005/BD</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626198</id>
+            <scientificName>Human astrovirus 6 Beijing/192/2007/CHN</scientificName>
+        </subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>3545029</PMCID>
+        <PMCID>2290972</PMCID>
+        <id>37130</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAstV-6
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1274614</id>
+            <scientificName>Human astrovirus 5/GUP125Astro/2005/TR</scientificName>
+        </subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7149648</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>2290972</PMCID>
+        <id>35741</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAstV-5
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1603563</id>
+            <scientificName>Human astrovirus 3a</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652820</id>
+            <scientificName>Human astrovirus 3 Beijing/124/2007/CHN</scientificName>
+        </subSpecies>
+        <PMCID>7426863</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>4254409</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>3486453</PMCID>
+        <PMCID>3545029</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>2290972</PMCID>
+        <id>35740</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAstV-3
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>2021209</id>
+            <scientificName>Human astrovirus 4c</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1177047</id>
+            <scientificName>Human astrovirus 4a</scientificName>
+        </subSpecies>
+        <PMCID>7426863</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>4703368</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>3486453</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>2290972</PMCID>
+        <id>35300</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAstV-4
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1177046</id>
+            <scientificName>Human astrovirus 2c</scientificName>
+        </subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>4446416</PMCID>
+        <PMCID>5831953</PMCID>
+        <PMCID>3197151</PMCID>
+        <PMCID>2290972</PMCID>
+        <PMCID>112128</PMCID>
+        <id>12701</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  H-Ast2
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus serotype 2 H-Ast2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1603564</id>
+            <scientificName>Human astrovirus 1b</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274615</id>
+            <scientificName>Human astrovirus 1/GUP024Astro/2004/TR</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274613</id>
+            <scientificName>Human astrovirus 1/GUP216Astro/2005/TR</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274611</id>
+            <scientificName>Human astrovirus 1/ICMH469Astro/2006/BD</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274610</id>
+            <scientificName>Human astrovirus 1/ICMH573Astro/2006/BD</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274609</id>
+            <scientificName>Human astrovirus 1/ICMH590Astro/2006/BD</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274606</id>
+            <scientificName>Human astrovirus 1/ICMH666Astro/2006/BD</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1274605</id>
+            <scientificName>Human astrovirus 1/ICMH642Astro/2006/BD</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1177045</id>
+            <scientificName>Human astrovirus 1a</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906913</id>
+            <scientificName>Human astrovirus 1 Tianjin/565/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906912</id>
+            <scientificName>Human astrovirus 1 Tianjin/508/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906911</id>
+            <scientificName>Human astrovirus 1 Tianjin/499/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906910</id>
+            <scientificName>Human astrovirus 1 Tianjin/242/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906909</id>
+            <scientificName>Human astrovirus 1 Tianjin/217/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906908</id>
+            <scientificName>Human astrovirus 1 Tianjin/133/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906907</id>
+            <scientificName>Human astrovirus 1 Tianjin/124/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>906906</id>
+            <scientificName>Human astrovirus 1 Tianjin/114/2008/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652819</id>
+            <scientificName>Human astrovirus 1 Beijing/75/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652818</id>
+            <scientificName>Human astrovirus 1 Beijing/333/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652817</id>
+            <scientificName>Human astrovirus 1 Beijing/33/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652816</id>
+            <scientificName>Human astrovirus 1 Beijing/265/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652815</id>
+            <scientificName>Human astrovirus 1 Beijing/228/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652814</id>
+            <scientificName>Human astrovirus 1 Beijing/131/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652813</id>
+            <scientificName>Human astrovirus 1 Beijing/129/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652812</id>
+            <scientificName>Human astrovirus 1 Beijing/06/2006/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>652811</id>
+            <scientificName>Human astrovirus 1 Beijing/01/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>632743</id>
+            <scientificName>Human astrovirus 1d</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626197</id>
+            <scientificName>Human astrovirus 1 Beijing/82/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626196</id>
+            <scientificName>Human astrovirus 1 Beijing/79/2006/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626195</id>
+            <scientificName>Human astrovirus 1 Beijing/69/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626194</id>
+            <scientificName>Human astrovirus 1 Beijing/60/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626193</id>
+            <scientificName>Human astrovirus 1 Beijing/46/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626192</id>
+            <scientificName>Human astrovirus 1 Beijing/41/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626191</id>
+            <scientificName>Human astrovirus 1 Beijing/377/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626190</id>
+            <scientificName>Human astrovirus 1 Beijing/375/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626189</id>
+            <scientificName>Human astrovirus 1 Beijing/362/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626188</id>
+            <scientificName>Human astrovirus 1 Beijing/352/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626187</id>
+            <scientificName>Human astrovirus 1 Beijing/347/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626186</id>
+            <scientificName>Human astrovirus 1 Beijing/335/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626185</id>
+            <scientificName>Human astrovirus 1 Beijing/330/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626184</id>
+            <scientificName>Human astrovirus 1 Beijing/327/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626183</id>
+            <scientificName>Human astrovirus 1 Beijing/317/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626182</id>
+            <scientificName>Human astrovirus 1 Beijing/309/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626181</id>
+            <scientificName>Human astrovirus 1 Beijing/293/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626180</id>
+            <scientificName>Human astrovirus 1 Beijing/291/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626179</id>
+            <scientificName>Human astrovirus 1 Beijing/287/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626178</id>
+            <scientificName>Human astrovirus 1 Beijing/254/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626177</id>
+            <scientificName>Human astrovirus 1 Beijing/249/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626176</id>
+            <scientificName>Human astrovirus 1 Beijing/239/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626175</id>
+            <scientificName>Human astrovirus 1 Beijing/237/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626174</id>
+            <scientificName>Human astrovirus 1 Beijing/234/2006/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626173</id>
+            <scientificName>Human astrovirus 1 Beijing/234/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626172</id>
+            <scientificName>Human astrovirus 1 Beijing/214/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626171</id>
+            <scientificName>Human astrovirus 1 Beijing/210/2006/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626170</id>
+            <scientificName>Human astrovirus 1 Beijing/204/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626169</id>
+            <scientificName>Human astrovirus 1 Beijing/198/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626168</id>
+            <scientificName>Human astrovirus 1 Beijing/189/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626167</id>
+            <scientificName>Human astrovirus 1 Beijing/189/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626166</id>
+            <scientificName>Human astrovirus 1 Beijing/183/2006/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626165</id>
+            <scientificName>Human astrovirus 1 Beijing/180/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626164</id>
+            <scientificName>Human astrovirus 1 Beijing/176/2006/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626163</id>
+            <scientificName>Human astrovirus 1 Beijing/141/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626162</id>
+            <scientificName>Human astrovirus 1 Beijing/139/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626161</id>
+            <scientificName>Human astrovirus 1 Beijing/134/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626160</id>
+            <scientificName>Human astrovirus 1 Beijing/128/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626159</id>
+            <scientificName>Human astrovirus 1 Beijing/113/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626158</id>
+            <scientificName>Human astrovirus 1 Beijing/110/2007/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626157</id>
+            <scientificName>Human astrovirus 1 Beijing/106/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626156</id>
+            <scientificName>Human astrovirus 1 Beijing/102/2005/CHN</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>626155</id>
+            <scientificName>Human astrovirus 1 Beijing/04/2006/CHN</scientificName>
+        </subSpecies>
+        <PMCID>7426863</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7120587</PMCID>
+        <PMCID>7149719</PMCID>
+        <PMCID>7124590</PMCID>
+        <PMCID>7117330</PMCID>
+        <PMCID>7106402</PMCID>
+        <PMCID>7089313</PMCID>
+        <PMCID>6580942</PMCID>
+        <PMCID>5637349</PMCID>
+        <PMCID>5549297</PMCID>
+        <PMCID>5096721</PMCID>
+        <PMCID>5044835</PMCID>
+        <PMCID>4989881</PMCID>
+        <PMCID>4141160</PMCID>
+        <PMCID>3486453</PMCID>
+        <PMCID>3486451</PMCID>
+        <PMCID>3187576</PMCID>
+        <PMCID>2666294</PMCID>
+        <PMCID>2290972</PMCID>
+        <PMCID>2168760</PMCID>
+        <PMCID>524976</PMCID>
+        <PMCID>135888</PMCID>
+        <PMCID>111659</PMCID>
+        <PMCID>86140</PMCID>
+        <id>12456</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HAstV-1
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human astrovirus type 1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human astrovirus serotype 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human astrovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7831233</PMCID>
+    <PMCID>7697530</PMCID>
+    <PMCID>7764520</PMCID>
+    <PMCID>7448917</PMCID>
+    <PMCID>7173465</PMCID>
+    <PMCID>7120296</PMCID>
+    <PMCID>7088580</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7022343</PMCID>
+    <PMCID>6920511</PMCID>
+    <PMCID>6580942</PMCID>
+    <PMCID>6559012</PMCID>
+    <PMCID>6340763</PMCID>
+    <PMCID>6148189</PMCID>
+    <PMCID>6178101</PMCID>
+    <PMCID>6505883</PMCID>
+    <PMCID>5454415</PMCID>
+    <PMCID>5373406</PMCID>
+    <PMCID>5332953</PMCID>
+    <PMCID>5332952</PMCID>
+    <PMCID>5332948</PMCID>
+    <PMCID>4446416</PMCID>
+    <PMCID>4080910</PMCID>
+    <PMCID>4188187</PMCID>
+    <GeneBankPMID>21325412</GeneBankPMID>
+    <GeneBankPMID>27466429</GeneBankPMID>
+    <GeneBankPMID>10644354</GeneBankPMID>
+    <GeneBankPMID>15564473</GeneBankPMID>
+    <GeneBankPMID>1605739</GeneBankPMID>
+    <GeneBankPMID>8293952</GeneBankPMID>
+    <GeneBankPMID>17959658</GeneBankPMID>
+    <GeneBankPMID>8021608</GeneBankPMID>
+    <GeneBankPMID>11799197</GeneBankPMID>
+    <GeneBankPMID>20347468</GeneBankPMID>
+    <GeneBankPMID>26656707</GeneBankPMID>
+    <id>1239565</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mamastrovirus-1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mamastrovirus 1</scientificName>
+</pathogen>

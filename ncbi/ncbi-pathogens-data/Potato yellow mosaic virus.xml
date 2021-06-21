@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1200669</id>
+        <scientificName>Potato Yellow Mosaic Virus Colombia [Valle del Cauca:Tulua 6: 2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223311</id>
+        <scientificName>Potato yellow mosaic virus-[Guadeloupe]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223310</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Potato yellow mosaic virus (ISOLATE VENEZUELA)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Potato yellow mosaic virus-[Venezuela]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Potato yellow mosaic virus - [Venezuela]</scientificName>
+    </subSpecies>
+    <PMCID>7008886</PMCID>
+    <PMCID>7248346</PMCID>
+    <PMCID>7008883</PMCID>
+    <PMCID>6669537</PMCID>
+    <PMCID>6517450</PMCID>
+    <PMCID>5377872</PMCID>
+    <PMCID>4074936</PMCID>
+    <PMCID>4174809</PMCID>
+    <PMCID>3648196</PMCID>
+    <PMCID>6638828</PMCID>
+    <PMCID>3175178</PMCID>
+    <GeneBankPMID>1856690</GeneBankPMID>
+    <GeneBankPMID>8180499</GeneBankPMID>
+    <GeneBankPMID>8132573</GeneBankPMID>
+    <id>10827</id>
+    <scientificName>Potato yellow mosaic virus</scientificName>
+</pathogen>

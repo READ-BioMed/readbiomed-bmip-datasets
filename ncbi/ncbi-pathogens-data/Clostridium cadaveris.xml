@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1357386</id>
+        <scientificName>Clostridium cadaveris CD1_D5_FAA_12</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1280692</id>
+        <scientificName>Clostridium cadaveris AGR2141</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1073357</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sp. CC88A
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Clostridium cadaveris CC88A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1073356</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sp. CC44_001G
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Clostridium cadaveris CC44_001G</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1073355</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium sp. CC40_001C
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Clostridium cadaveris CC40_001C</scientificName>
+    </subSpecies>
+    <PMCID>7922022</PMCID>
+    <PMCID>7746556</PMCID>
+    <PMCID>7666521</PMCID>
+    <PMCID>7576192</PMCID>
+    <PMCID>7574542</PMCID>
+    <PMCID>7587552</PMCID>
+    <PMCID>7453290</PMCID>
+    <PMCID>7414951</PMCID>
+    <PMCID>7363634</PMCID>
+    <PMCID>7415036</PMCID>
+    <PMCID>7247681</PMCID>
+    <PMCID>7242405</PMCID>
+    <PMCID>7105308</PMCID>
+    <PMCID>7035346</PMCID>
+    <PMCID>7031906</PMCID>
+    <PMCID>7017841</PMCID>
+    <PMCID>7167206</PMCID>
+    <PMCID>7333170</PMCID>
+    <PMCID>6928123</PMCID>
+    <PMCID>6836477</PMCID>
+    <PMCID>6918267</PMCID>
+    <PMCID>6780815</PMCID>
+    <PMCID>6739832</PMCID>
+    <PMCID>6682666</PMCID>
+    <PMCID>6367689</PMCID>
+    <PMCID>6384262</PMCID>
+    <PMCID>6154936</PMCID>
+    <PMCID>6098093</PMCID>
+    <PMCID>5897657</PMCID>
+    <PMCID>5826148</PMCID>
+    <PMCID>7134835</PMCID>
+    <PMCID>5787545</PMCID>
+    <PMCID>5733095</PMCID>
+    <PMCID>5850949</PMCID>
+    <PMCID>5680985</PMCID>
+    <PMCID>5634790</PMCID>
+    <PMCID>5647805</PMCID>
+    <PMCID>5576433</PMCID>
+    <PMCID>5583845</PMCID>
+    <PMCID>5440526</PMCID>
+    <PMCID>5408610</PMCID>
+    <PMCID>7895291</PMCID>
+    <PMCID>5018162</PMCID>
+    <PMCID>5139921</PMCID>
+    <PMCID>5053940</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>4640713</PMCID>
+    <PMCID>4473241</PMCID>
+    <PMCID>4419813</PMCID>
+    <PMCID>4006720</PMCID>
+    <PMCID>4023737</PMCID>
+    <PMCID>3910813</PMCID>
+    <PMCID>3911442</PMCID>
+    <PMCID>3754623</PMCID>
+    <PMCID>3592085</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3486553</PMCID>
+    <PMCID>5755364</PMCID>
+    <PMCID>3482153</PMCID>
+    <PMCID>3232989</PMCID>
+    <PMCID>2832449</PMCID>
+    <PMCID>2708528</PMCID>
+    <PMCID>7087846</PMCID>
+    <PMCID>2691082</PMCID>
+    <PMCID>2681565</PMCID>
+    <PMCID>2612144</PMCID>
+    <PMCID>2223873</PMCID>
+    <PMCID>1635191</PMCID>
+    <PMCID>1610075</PMCID>
+    <PMCID>1538693</PMCID>
+    <PMCID>1426457</PMCID>
+    <PMCID>7129906</PMCID>
+    <PMCID>1360275</PMCID>
+    <PMCID>525447</PMCID>
+    <PMCID>478502</PMCID>
+    <PMCID>7158198</PMCID>
+    <PMCID>161871</PMCID>
+    <PMCID>154750</PMCID>
+    <PMCID>149336</PMCID>
+    <PMCID>148963</PMCID>
+    <PMCID>127089</PMCID>
+    <PMCID>126985</PMCID>
+    <PMCID>88973</PMCID>
+    <PMCID>90331</PMCID>
+    <PMCID>106730</PMCID>
+    <PMCID>105856</PMCID>
+    <PMCID>105488</PMCID>
+    <PMCID>1263544</PMCID>
+    <PMCID>1263527</PMCID>
+    <PMCID>376381</PMCID>
+    <id>1529</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus cadaveris
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Plectridium cadaveris
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus cadaveris" Klein 1899
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Plectridium cadaveris" (Klein 1899) Prevot 1938
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium cadaveris (Klein 1899) McClung and McCoy 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25783
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25783
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 24035
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:24035
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104314
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104314
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1284
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1284
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium cadaveris</scientificName>
+</pathogen>

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7999702</PMCID>
+    <PMCID>7823860</PMCID>
+    <PMCID>7763478</PMCID>
+    <PMCID>7658600</PMCID>
+    <PMCID>7551771</PMCID>
+    <PMCID>7281015</PMCID>
+    <PMCID>7157519</PMCID>
+    <PMCID>7074082</PMCID>
+    <PMCID>7074557</PMCID>
+    <PMCID>6551317</PMCID>
+    <PMCID>7874770</PMCID>
+    <PMCID>7024382</PMCID>
+    <PMCID>6895999</PMCID>
+    <PMCID>6836290</PMCID>
+    <PMCID>6710449</PMCID>
+    <PMCID>6675999</PMCID>
+    <PMCID>6587256</PMCID>
+    <PMCID>6562677</PMCID>
+    <PMCID>6412379</PMCID>
+    <PMCID>6410096</PMCID>
+    <PMCID>6291522</PMCID>
+    <PMCID>6200860</PMCID>
+    <PMCID>6162287</PMCID>
+    <PMCID>6049812</PMCID>
+    <PMCID>6010217</PMCID>
+    <PMCID>6604942</PMCID>
+    <PMCID>5889410</PMCID>
+    <PMCID>5808245</PMCID>
+    <PMCID>5793135</PMCID>
+    <PMCID>5972928</PMCID>
+    <PMCID>5627000</PMCID>
+    <PMCID>5918664</PMCID>
+    <PMCID>5514687</PMCID>
+    <PMCID>5508668</PMCID>
+    <PMCID>5304334</PMCID>
+    <PMCID>4997575</PMCID>
+    <PMCID>4956085</PMCID>
+    <PMCID>4998052</PMCID>
+    <PMCID>4877103</PMCID>
+    <PMCID>4786803</PMCID>
+    <PMCID>5441325</PMCID>
+    <PMCID>4951001</PMCID>
+    <PMCID>4711184</PMCID>
+    <PMCID>4684702</PMCID>
+    <PMCID>4548250</PMCID>
+    <PMCID>4515607</PMCID>
+    <PMCID>4483641</PMCID>
+    <PMCID>4010258</PMCID>
+    <PMCID>3918226</PMCID>
+    <PMCID>3606827</PMCID>
+    <PMCID>3598566</PMCID>
+    <PMCID>3497659</PMCID>
+    <PMCID>3369924</PMCID>
+    <PMCID>3408200</PMCID>
+    <PMCID>3298133</PMCID>
+    <PMCID>3310331</PMCID>
+    <PMCID>3769755</PMCID>
+    <PMCID>2857360</PMCID>
+    <PMCID>3731014</PMCID>
+    <PMCID>2790009</PMCID>
+    <PMCID>2771037</PMCID>
+    <PMCID>2761978</PMCID>
+    <PMCID>2738265</PMCID>
+    <PMCID>7087846</PMCID>
+    <PMCID>2655458</PMCID>
+    <PMCID>2464584</PMCID>
+    <PMCID>2447096</PMCID>
+    <PMCID>2474953</PMCID>
+    <PMCID>3061822</PMCID>
+    <PMCID>535194</PMCID>
+    <PMCID>521913</PMCID>
+    <PMCID>152994</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>93321</PMCID>
+    <PMCID>93132</PMCID>
+    <PMCID>92930</PMCID>
+    <PMCID>92124</PMCID>
+    <PMCID>87208</PMCID>
+    <PMCID>92110</PMCID>
+    <PMCID>101459</PMCID>
+    <PMCID>99706</PMCID>
+    <PMCID>91227</PMCID>
+    <PMCID>106679</PMCID>
+    <PMCID>106102</PMCID>
+    <PMCID>1389201</PMCID>
+    <PMCID>201423</PMCID>
+    <PMCID>202946</PMCID>
+    <PMCID>170044</PMCID>
+    <id>77097</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Achromobacter aquamarinus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Alcaligenes aestus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Alcaligenes aquamarinus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium aquamarinum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Deleya aesta
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Deleya aquamarina
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Deleya aquimarina
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Achromobacter aquamarinus" ZoBell and Upham 1944
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium aquamarinum" (ZoBell and Upham 1944) Krasil'nikov 1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Alcaligenes aestus Baumann et al. 1972
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Alcaligenes aquamarinus (ZoBell and Upham 1944) Hendrie et al. 1974 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Deleya aesta (sic) (Baumann et al. 1972) Baumann et al. 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Deleya aquamarina (ZoBell and Upham 1944) Akagawa and Yamasato 1989
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Halomonas aquamarina (ZoBell and Upham 1944) Dobson and Franzmann 1996
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14400
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14400
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2853
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 16157
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:16157
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105454
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105454
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 30161
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:30161
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IAM 12550
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IAM:12550
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 22193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:22193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2853
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2853
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 557
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:557
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::558
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::ZoBell and Upham 558
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 558
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain ZoBell and Upham 558
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Alcaligenes aquamarinus</scientificName>
+</pathogen>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5923438</PMCID>
+        <PMCID>4977635</PMCID>
+        <id>273525</id>
+        <scientificName>Pear black necrotic leaf spot virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>36402</id>
+        <scientificName>Apple stem grooving virus (strain P-209)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7986492</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>7010111</PMCID>
+        <PMCID>7009904</PMCID>
+        <PMCID>7111999</PMCID>
+        <PMCID>7012572</PMCID>
+        <PMCID>6797102</PMCID>
+        <PMCID>6631394</PMCID>
+        <PMCID>6600777</PMCID>
+        <PMCID>6173849</PMCID>
+        <PMCID>5923438</PMCID>
+        <PMCID>5461049</PMCID>
+        <PMCID>5051563</PMCID>
+        <PMCID>4977635</PMCID>
+        <PMCID>2922190</PMCID>
+        <id>33759</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  citrus tatter leaf virus CTLV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Citrus tatter leaf virus</scientificName>
+    </subSpecies>
+    <PMCID>7868969</PMCID>
+    <PMCID>7874184</PMCID>
+    <PMCID>7785713</PMCID>
+    <PMCID>7774462</PMCID>
+    <PMCID>7682855</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7125799</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7009904</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>7077234</PMCID>
+    <PMCID>7026317</PMCID>
+    <PMCID>6957168</PMCID>
+    <PMCID>7022677</PMCID>
+    <PMCID>6797102</PMCID>
+    <PMCID>6631394</PMCID>
+    <PMCID>6402675</PMCID>
+    <PMCID>6600777</PMCID>
+    <PMCID>6305176</PMCID>
+    <PMCID>6258436</PMCID>
+    <PMCID>6266667</PMCID>
+    <PMCID>6173849</PMCID>
+    <PMCID>6116224</PMCID>
+    <PMCID>6188560</PMCID>
+    <PMCID>6115964</PMCID>
+    <PMCID>6116962</PMCID>
+    <PMCID>5996562</PMCID>
+    <PMCID>5952423</PMCID>
+    <PMCID>5923438</PMCID>
+    <PMCID>5877846</PMCID>
+    <PMCID>5792587</PMCID>
+    <PMCID>5886997</PMCID>
+    <PMCID>5733102</PMCID>
+    <PMCID>5720609</PMCID>
+    <PMCID>5662881</PMCID>
+    <PMCID>5636130</PMCID>
+    <PMCID>5673675</PMCID>
+    <PMCID>5601412</PMCID>
+    <PMCID>5547701</PMCID>
+    <PMCID>5524738</PMCID>
+    <PMCID>5493846</PMCID>
+    <PMCID>5510625</PMCID>
+    <PMCID>5437062</PMCID>
+    <PMCID>5096721</PMCID>
+    <PMCID>5053029</PMCID>
+    <PMCID>5051563</PMCID>
+    <PMCID>4982687</PMCID>
+    <PMCID>4977635</PMCID>
+    <PMCID>4972823</PMCID>
+    <PMCID>6638214</PMCID>
+    <PMCID>4933950</PMCID>
+    <PMCID>4647338</PMCID>
+    <PMCID>4585052</PMCID>
+    <PMCID>4263765</PMCID>
+    <PMCID>6638334</PMCID>
+    <PMCID>4227794</PMCID>
+    <PMCID>4118050</PMCID>
+    <PMCID>4174845</PMCID>
+    <PMCID>3988175</PMCID>
+    <PMCID>4188501</PMCID>
+    <PMCID>3744397</PMCID>
+    <PMCID>3550804</PMCID>
+    <PMCID>3550820</PMCID>
+    <PMCID>3550718</PMCID>
+    <PMCID>1395380</PMCID>
+    <GeneBankPMID>1413530</GeneBankPMID>
+    <GeneBankPMID>20381551</GeneBankPMID>
+    <id>28347</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ASGV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  apple stem grooving virus ASGV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Apple stem grooving virus</scientificName>
+</pathogen>

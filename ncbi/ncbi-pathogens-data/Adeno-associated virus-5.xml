@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <GeneBankPMID>18391209</GeneBankPMID>
+    <GeneBankPMID>9882336</GeneBankPMID>
+    <GeneBankPMID>18523293</GeneBankPMID>
+    <GeneBankPMID>17034827</GeneBankPMID>
+    <GeneBankPMID>19889770</GeneBankPMID>
+    <GeneBankPMID>17287283</GeneBankPMID>
+    <GeneBankPMID>17881437</GeneBankPMID>
+    <GeneBankPMID>23121466</GeneBankPMID>
+    <GeneBankPMID>28978703</GeneBankPMID>
+    <GeneBankPMID>22205752</GeneBankPMID>
+    <GeneBankPMID>19597475</GeneBankPMID>
+    <GeneBankPMID>23926356</GeneBankPMID>
+    <id>82300</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Adeno-associated virus 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Adeno-associated virus-5</scientificName>
+</pathogen>

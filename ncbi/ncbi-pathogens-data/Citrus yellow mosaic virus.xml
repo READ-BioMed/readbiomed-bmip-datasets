@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7814968</PMCID>
+    <PMCID>7693335</PMCID>
+    <PMCID>7238132</PMCID>
+    <PMCID>7198128</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>6991131</PMCID>
+    <PMCID>6631394</PMCID>
+    <PMCID>6630990</PMCID>
+    <PMCID>6291142</PMCID>
+    <PMCID>5833271</PMCID>
+    <PMCID>5746481</PMCID>
+    <PMCID>5649073</PMCID>
+    <PMCID>4974523</PMCID>
+    <PMCID>4926197</PMCID>
+    <PMCID>4514669</PMCID>
+    <PMCID>4188196</PMCID>
+    <PMCID>5432745</PMCID>
+    <GeneBankPMID>11562547</GeneBankPMID>
+    <id>174178</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  CMBV
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  CYMVR
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Citrus mosaic badnavirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Citrus mosaic virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Citrus yellow mosaic virus</scientificName>
+</pathogen>

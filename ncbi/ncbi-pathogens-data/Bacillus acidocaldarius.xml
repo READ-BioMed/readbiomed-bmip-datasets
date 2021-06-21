@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4234253</PMCID>
+        <PMCID>3365582</PMCID>
+        <id>543302</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius str. LAA1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius strain LAA1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Alicyclobacillus acidocaldarius LAA1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>201094</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Alicyclobacillus acidocaldarius subsp. rittmannii Nicolaus et al. 2002
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 11297
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:11297
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::MR1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain MR1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Alicyclobacillus acidocaldarius subsp. rittmannii</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1197885</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius str. HSU9
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius strain HSU9
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Alicyclobacillus acidocaldarius subsp. acidocaldarius HSU9</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <GeneBankPMID>21914900</GeneBankPMID>
+            <id>1048834</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius str. Tc-4-1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius strain Tc-4-1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <GeneBankPMID>21304673</GeneBankPMID>
+            <GeneBankPMID>19508182</GeneBankPMID>
+            <GeneBankPMID>19508183</GeneBankPMID>
+            <id>521098</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius ATCC 27009
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius IFO 15652
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius JCM 5260
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius NBRC 15652
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius NCIB 11725
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius str. DSM 446
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Alicyclobacillus acidocaldarius subsp. acidocaldarius strain DSM 446
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</scientificName>
+        </subSpecies>
+        <id>1388</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Alicyclobacillus acidocaldarius subsp. acidocaldarius (Darland and Brock 1971) Wisotzkey et al. 1992
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Alicyclobacillus acidocaldarius subsp. acidocaldarius</scientificName>
+    </subSpecies>
+    <PMCID>8074230</PMCID>
+    <PMCID>8024496</PMCID>
+    <PMCID>8014015</PMCID>
+    <PMCID>8007014</PMCID>
+    <PMCID>7924749</PMCID>
+    <PMCID>7905190</PMCID>
+    <PMCID>8048572</PMCID>
+    <PMCID>7823827</PMCID>
+    <PMCID>7794910</PMCID>
+    <PMCID>7839719</PMCID>
+    <PMCID>7699850</PMCID>
+    <PMCID>7983917</PMCID>
+    <PMCID>7583984</PMCID>
+    <PMCID>7510303</PMCID>
+    <PMCID>7560446</PMCID>
+    <PMCID>7491741</PMCID>
+    <PMCID>7569967</PMCID>
+    <PMCID>7769238</PMCID>
+    <PMCID>7504586</PMCID>
+    <PMCID>7464639</PMCID>
+    <PMCID>7754297</PMCID>
+    <PMCID>7393678</PMCID>
+    <PMCID>7362650</PMCID>
+    <PMCID>7402345</PMCID>
+    <PMCID>7327088</PMCID>
+    <PMCID>7285479</PMCID>
+    <PMCID>7232578</PMCID>
+    <PMCID>7200985</PMCID>
+    <PMCID>7168599</PMCID>
+    <PMCID>7085774</PMCID>
+    <PMCID>7049217</PMCID>
+    <PMCID>7084875</PMCID>
+    <PMCID>7324872</PMCID>
+    <PMCID>7174410</PMCID>
+    <PMCID>7245361</PMCID>
+    <PMCID>6995580</PMCID>
+    <PMCID>6882738</PMCID>
+    <PMCID>6891394</PMCID>
+    <PMCID>6776573</PMCID>
+    <PMCID>6842371</PMCID>
+    <PMCID>6733898</PMCID>
+    <PMCID>6678101</PMCID>
+    <PMCID>6670109</PMCID>
+    <PMCID>6579802</PMCID>
+    <PMCID>6595409</PMCID>
+    <PMCID>6460317</PMCID>
+    <PMCID>6447707</PMCID>
+    <PMCID>6423090</PMCID>
+    <PMCID>6385246</PMCID>
+    <PMCID>6478033</PMCID>
+    <PMCID>6328773</PMCID>
+    <PMCID>6236696</PMCID>
+    <PMCID>6218600</PMCID>
+    <PMCID>6172347</PMCID>
+    <PMCID>6177205</PMCID>
+    <PMCID>6137069</PMCID>
+    <PMCID>6163972</PMCID>
+    <PMCID>7015495</PMCID>
+    <PMCID>6162514</PMCID>
+    <PMCID>6127371</PMCID>
+    <PMCID>6085001</PMCID>
+    <PMCID>6222715</PMCID>
+    <PMCID>6165527</PMCID>
+    <PMCID>6066303</PMCID>
+    <PMCID>7187728</PMCID>
+    <PMCID>5992423</PMCID>
+    <PMCID>5911959</PMCID>
+    <PMCID>5901876</PMCID>
+    <PMCID>6193494</PMCID>
+    <PMCID>5858142</PMCID>
+    <PMCID>5852612</PMCID>
+    <PMCID>5806127</PMCID>
+    <PMCID>6645578</PMCID>
+    <PMCID>6149694</PMCID>
+    <PMCID>6645472</PMCID>
+    <PMCID>5706412</PMCID>
+    <PMCID>5725671</PMCID>
+    <PMCID>5671617</PMCID>
+    <PMCID>5642901</PMCID>
+    <PMCID>5588734</PMCID>
+    <PMCID>5583491</PMCID>
+    <PMCID>5599884</PMCID>
+    <PMCID>5552659</PMCID>
+    <PMCID>6241538</PMCID>
+    <PMCID>5617955</PMCID>
+    <PMCID>5572905</PMCID>
+    <PMCID>5449189</PMCID>
+    <PMCID>5569891</PMCID>
+    <PMCID>5401905</PMCID>
+    <PMCID>5358736</PMCID>
+    <PMCID>5389931</PMCID>
+    <PMCID>5552909</PMCID>
+    <PMCID>5209329</PMCID>
+    <PMCID>5118845</PMCID>
+    <PMCID>5100339</PMCID>
+    <PMCID>5328820</PMCID>
+    <PMCID>5082319</PMCID>
+    <PMCID>4982691</PMCID>
+    <PMCID>5629010</PMCID>
+    <PMCID>5013971</PMCID>
+    <PMCID>4975031</PMCID>
+    <PMCID>4963412</PMCID>
+    <PMCID>4957871</PMCID>
+    <PMCID>5613637</PMCID>
+    <PMCID>5070724</PMCID>
+    <PMCID>4929945</PMCID>
+    <PMCID>4936090</PMCID>
+    <PMCID>4892530</PMCID>
+    <PMCID>4890807</PMCID>
+    <PMCID>4861933</PMCID>
+    <PMCID>4852416</PMCID>
+    <PMCID>4927647</PMCID>
+    <PMCID>4836435</PMCID>
+    <PMCID>4835899</PMCID>
+    <PMCID>4784054</PMCID>
+    <PMCID>4771734</PMCID>
+    <PMCID>4752780</PMCID>
+    <PMCID>4824993</PMCID>
+    <PMCID>4722774</PMCID>
+    <PMCID>4781653</PMCID>
+    <PMCID>4706650</PMCID>
+    <PMCID>5173270</PMCID>
+    <PMCID>4751793</PMCID>
+    <PMCID>5943684</PMCID>
+    <PMCID>4655241</PMCID>
+    <PMCID>5455348</PMCID>
+    <PMCID>4561341</PMCID>
+    <PMCID>4549789</PMCID>
+    <PMCID>4581316</PMCID>
+    <PMCID>4545795</PMCID>
+    <PMCID>4768214</PMCID>
+    <PMCID>4514002</PMCID>
+    <PMCID>4874178</PMCID>
+    <PMCID>4557962</PMCID>
+    <PMCID>4571864</PMCID>
+    <PMCID>4485178</PMCID>
+    <PMCID>4448039</PMCID>
+    <PMCID>4446572</PMCID>
+    <PMCID>4427659</PMCID>
+    <PMCID>4550535</PMCID>
+    <PMCID>4409275</PMCID>
+    <PMCID>4367393</PMCID>
+    <PMCID>4367298</PMCID>
+    <PMCID>4404643</PMCID>
+    <PMCID>4314829</PMCID>
+    <PMCID>4299520</PMCID>
+    <PMCID>4353366</PMCID>
+    <PMCID>4304743</PMCID>
+    <PMCID>4437465</PMCID>
+    <PMCID>4339782</PMCID>
+    <PMCID>4485377</PMCID>
+    <PMCID>4284732</PMCID>
+    <PMCID>4438317</PMCID>
+    <PMCID>4191084</PMCID>
+    <PMCID>4249001</PMCID>
+    <PMCID>4209456</PMCID>
+    <PMCID>4191879</PMCID>
+    <PMCID>4187703</PMCID>
+    <PMCID>4190135</PMCID>
+    <PMCID>4166261</PMCID>
+    <PMCID>4159043</PMCID>
+    <PMCID>4145135</PMCID>
+    <PMCID>4148875</PMCID>
+    <PMCID>4161255</PMCID>
+    <PMCID>4151996</PMCID>
+    <PMCID>4234253</PMCID>
+    <PMCID>4168791</PMCID>
+    <PMCID>4080748</PMCID>
+    <PMCID>4169322</PMCID>
+    <PMCID>4186928</PMCID>
+    <PMCID>4062416</PMCID>
+    <PMCID>4014320</PMCID>
+    <PMCID>3989265</PMCID>
+    <PMCID>3982409</PMCID>
+    <PMCID>3963902</PMCID>
+    <PMCID>4107629</PMCID>
+    <PMCID>3953072</PMCID>
+    <PMCID>3937722</PMCID>
+    <PMCID>4306282</PMCID>
+    <PMCID>3916645</PMCID>
+    <PMCID>4138987</PMCID>
+    <PMCID>3837760</PMCID>
+    <PMCID>3836704</PMCID>
+    <PMCID>3936750</PMCID>
+    <PMCID>3840746</PMCID>
+    <PMCID>4016535</PMCID>
+    <PMCID>3831482</PMCID>
+    <PMCID>3919608</PMCID>
+    <PMCID>3782759</PMCID>
+    <PMCID>3764408</PMCID>
+    <PMCID>3753955</PMCID>
+    <PMCID>3716932</PMCID>
+    <PMCID>3699629</PMCID>
+    <PMCID>3704004</PMCID>
+    <PMCID>3676073</PMCID>
+    <PMCID>3676068</PMCID>
+    <PMCID>3675924</PMCID>
+    <PMCID>3689974</PMCID>
+    <PMCID>3739172</PMCID>
+    <PMCID>3669789</PMCID>
+    <PMCID>3542313</PMCID>
+    <PMCID>3536085</PMCID>
+    <PMCID>3502938</PMCID>
+    <PMCID>3533761</PMCID>
+    <PMCID>3486414</PMCID>
+    <PMCID>3460867</PMCID>
+    <PMCID>3441461</PMCID>
+    <PMCID>3520711</PMCID>
+    <PMCID>3448952</PMCID>
+    <PMCID>3426160</PMCID>
+    <PMCID>3465195</PMCID>
+    <PMCID>3407170</PMCID>
+    <PMCID>3426897</PMCID>
+    <PMCID>3398204</PMCID>
+    <PMCID>3370433</PMCID>
+    <PMCID>3412718</PMCID>
+    <PMCID>3302616</PMCID>
+    <PMCID>3348966</PMCID>
+    <PMCID>3273027</PMCID>
+    <PMCID>3274465</PMCID>
+    <PMCID>3417381</PMCID>
+    <PMCID>3252269</PMCID>
+    <PMCID>3245006</PMCID>
+    <PMCID>3248863</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>4391026</PMCID>
+    <PMCID>3212470</PMCID>
+    <PMCID>3905082</PMCID>
+    <PMCID>3187405</PMCID>
+    <PMCID>3236047</PMCID>
+    <PMCID>3236038</PMCID>
+    <PMCID>3178493</PMCID>
+    <PMCID>3141018</PMCID>
+    <PMCID>3365582</PMCID>
+    <PMCID>3131620</PMCID>
+    <PMCID>3125826</PMCID>
+    <PMCID>3218505</PMCID>
+    <PMCID>3980945</PMCID>
+    <PMCID>3247762</PMCID>
+    <PMCID>3133055</PMCID>
+    <PMCID>3042613</PMCID>
+    <PMCID>3014700</PMCID>
+    <PMCID>7152040</PMCID>
+    <PMCID>2882719</PMCID>
+    <PMCID>3035294</PMCID>
+    <PMCID>2880286</PMCID>
+    <PMCID>2903629</PMCID>
+    <PMCID>4561533</PMCID>
+    <PMCID>3035248</PMCID>
+    <PMCID>2790560</PMCID>
+    <PMCID>2786409</PMCID>
+    <PMCID>2749021</PMCID>
+    <PMCID>2723119</PMCID>
+    <PMCID>3274141</PMCID>
+    <PMCID>2747905</PMCID>
+    <PMCID>2714717</PMCID>
+    <PMCID>2716334</PMCID>
+    <PMCID>2706381</PMCID>
+    <PMCID>2681792</PMCID>
+    <PMCID>2810362</PMCID>
+    <PMCID>2635876</PMCID>
+    <PMCID>2640207</PMCID>
+    <PMCID>2588453</PMCID>
+    <PMCID>4421138</PMCID>
+    <PMCID>2491437</PMCID>
+    <PMCID>2373358</PMCID>
+    <PMCID>2374155</PMCID>
+    <PMCID>2293144</PMCID>
+    <PMCID>1986619</PMCID>
+    <PMCID>1936996</PMCID>
+    <PMCID>1955699</PMCID>
+    <PMCID>1925248</PMCID>
+    <PMCID>2335126</PMCID>
+    <PMCID>1851960</PMCID>
+    <PMCID>1855884</PMCID>
+    <PMCID>1800775</PMCID>
+    <PMCID>2686388</PMCID>
+    <PMCID>2359841</PMCID>
+    <PMCID>1698245</PMCID>
+    <PMCID>1472309</PMCID>
+    <PMCID>1347283</PMCID>
+    <PMCID>1317467</PMCID>
+    <PMCID>1317409</PMCID>
+    <PMCID>2792347</PMCID>
+    <PMCID>1214631</PMCID>
+    <PMCID>1891636</PMCID>
+    <PMCID>1169505</PMCID>
+    <PMCID>1064059</PMCID>
+    <PMCID>1064052</PMCID>
+    <PMCID>546692</PMCID>
+    <PMCID>545625</PMCID>
+    <PMCID>1952260</PMCID>
+    <PMCID>1134732</PMCID>
+    <PMCID>1134723</PMCID>
+    <PMCID>2253317</PMCID>
+    <PMCID>1134089</PMCID>
+    <PMCID>427776</PMCID>
+    <PMCID>387793</PMCID>
+    <PMCID>387569</PMCID>
+    <PMCID>1223541</PMCID>
+    <PMCID>164891</PMCID>
+    <PMCID>154572</PMCID>
+    <PMCID>1222942</PMCID>
+    <PMCID>124002</PMCID>
+    <PMCID>135060</PMCID>
+    <PMCID>123972</PMCID>
+    <PMCID>3243374</PMCID>
+    <PMCID>60888</PMCID>
+    <PMCID>99688</PMCID>
+    <PMCID>95474</PMCID>
+    <PMCID>92842</PMCID>
+    <PMCID>6905193</PMCID>
+    <PMCID>98001</PMCID>
+    <PMCID>94778</PMCID>
+    <PMCID>94774</PMCID>
+    <PMCID>6880242</PMCID>
+    <PMCID>98990</PMCID>
+    <PMCID>91644</PMCID>
+    <PMCID>2620377</PMCID>
+    <PMCID>2144407</PMCID>
+    <PMCID>103747</PMCID>
+    <PMCID>1220159</PMCID>
+    <PMCID>96457</PMCID>
+    <PMCID>91172</PMCID>
+    <PMCID>98938</PMCID>
+    <PMCID>98917</PMCID>
+    <PMCID>1219469</PMCID>
+    <PMCID>98911</PMCID>
+    <PMCID>106939</PMCID>
+    <PMCID>106070</PMCID>
+    <PMCID>1219045</PMCID>
+    <PMCID>1218918</PMCID>
+    <PMCID>2143666</PMCID>
+    <PMCID>205708</PMCID>
+    <PMCID>202510</PMCID>
+    <PMCID>213750</PMCID>
+    <PMCID>213749</PMCID>
+    <PMCID>218917</PMCID>
+    <PMCID>214861</PMCID>
+    <PMCID>215665</PMCID>
+    <PMCID>326077</PMCID>
+    <PMCID>1154113</PMCID>
+    <PMCID>232785</PMCID>
+    <PMCID>246545</PMCID>
+    <PMCID>1173894</PMCID>
+    <GeneBankPMID>29767960</GeneBankPMID>
+    <GeneBankPMID>26537871</GeneBankPMID>
+    <id>405212</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus acidocaldarius
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Alicyclobacillus acidocaldarius (Darland and Brock 1971) Wisotzkey et al. 1992 emend. Goto et al. 2006
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Bacillus acidocaldarius Darland and Brock 1971 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27009
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27009
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:7119
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC 14685
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCRC:14685
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC 14685
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCRC:14685
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 28521
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:28521
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 106131
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:106131
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 446
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:446
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI 2071
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI 2073
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI:2071
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI:2073
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15652
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15652
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 5260
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:5260
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 1825
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:1825
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 7119
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:7119
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15652
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15652
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB 89167
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB:89167
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 11725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:11725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-14509
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-14509
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:14509
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::104-1A
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 104-1A
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bacillus acidocaldarius</scientificName>
+</pathogen>

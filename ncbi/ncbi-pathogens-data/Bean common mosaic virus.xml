@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>404428</id>
+        <scientificName>Bean common mosaic virus isolate Mysore</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7691756</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>5072566</PMCID>
+        <PMCID>4174850</PMCID>
+        <id>48460</id>
+        <scientificName>Azuki bean mosaic virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7691756</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>1456221</PMCID>
+        <id>39114</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Dendrobium mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Dendrobium mosaic virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5877671</PMCID>
+        <PMCID>4891349</PMCID>
+        <PMCID>4073217</PMCID>
+        <PMCID>4174850</PMCID>
+        <PMCID>3821693</PMCID>
+        <PMCID>3550725</PMCID>
+        <PMCID>2222634</PMCID>
+        <PMCID>1456221</PMCID>
+        <id>29276</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Blackeye cowpea mosaic potyvirus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Blackeye cowpea mosaic virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  blackeye cowpea mosaic virus BlCMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bean common mosaic virus strain Blackeye</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7691756</PMCID>
+        <PMCID>7332303</PMCID>
+        <PMCID>6842968</PMCID>
+        <PMCID>6354002</PMCID>
+        <PMCID>5344889</PMCID>
+        <PMCID>4561679</PMCID>
+        <PMCID>4188198</PMCID>
+        <PMCID>3875471</PMCID>
+        <PMCID>6638794</PMCID>
+        <PMCID>3580887</PMCID>
+        <PMCID>3550725</PMCID>
+        <PMCID>2703745</PMCID>
+        <id>28353</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bean common mosaic virus strain peanut stripe
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  peanut stripe virus PStV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Peanut stripe virus</scientificName>
+    </subSpecies>
+    <PMCID>8027503</PMCID>
+    <PMCID>7999175</PMCID>
+    <PMCID>7957772</PMCID>
+    <PMCID>7779967</PMCID>
+    <PMCID>7757248</PMCID>
+    <PMCID>7691756</PMCID>
+    <PMCID>7698195</PMCID>
+    <PMCID>7695315</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7009187</PMCID>
+    <PMCID>7008886</PMCID>
+    <PMCID>7767818</PMCID>
+    <PMCID>7699591</PMCID>
+    <PMCID>7396523</PMCID>
+    <PMCID>7243915</PMCID>
+    <PMCID>7005857</PMCID>
+    <PMCID>7012578</PMCID>
+    <PMCID>7005137</PMCID>
+    <PMCID>7077269</PMCID>
+    <PMCID>7020010</PMCID>
+    <PMCID>7036369</PMCID>
+    <PMCID>6863122</PMCID>
+    <PMCID>6842968</PMCID>
+    <PMCID>6823229</PMCID>
+    <PMCID>6764979</PMCID>
+    <PMCID>6529424</PMCID>
+    <PMCID>6767064</PMCID>
+    <PMCID>6531552</PMCID>
+    <PMCID>6435773</PMCID>
+    <PMCID>6429036</PMCID>
+    <PMCID>6422016</PMCID>
+    <PMCID>6377593</PMCID>
+    <PMCID>6357046</PMCID>
+    <PMCID>6293961</PMCID>
+    <PMCID>6315957</PMCID>
+    <PMCID>6266362</PMCID>
+    <PMCID>6114847</PMCID>
+    <PMCID>6054865</PMCID>
+    <PMCID>5997968</PMCID>
+    <PMCID>6839041</PMCID>
+    <PMCID>6638002</PMCID>
+    <PMCID>5624490</PMCID>
+    <PMCID>5605523</PMCID>
+    <PMCID>5500643</PMCID>
+    <PMCID>5448757</PMCID>
+    <PMCID>5444779</PMCID>
+    <PMCID>5408669</PMCID>
+    <PMCID>5334335</PMCID>
+    <PMCID>5183638</PMCID>
+    <PMCID>5604577</PMCID>
+    <PMCID>5072566</PMCID>
+    <PMCID>5043561</PMCID>
+    <PMCID>4982238</PMCID>
+    <PMCID>4891349</PMCID>
+    <PMCID>5043468</PMCID>
+    <PMCID>5562474</PMCID>
+    <PMCID>4663705</PMCID>
+    <PMCID>5217379</PMCID>
+    <PMCID>4552492</PMCID>
+    <PMCID>4267316</PMCID>
+    <PMCID>4262307</PMCID>
+    <PMCID>4210609</PMCID>
+    <PMCID>4073217</PMCID>
+    <PMCID>4174850</PMCID>
+    <PMCID>3951315</PMCID>
+    <PMCID>3946452</PMCID>
+    <PMCID>3875471</PMCID>
+    <PMCID>4174816</PMCID>
+    <PMCID>3821693</PMCID>
+    <PMCID>3610679</PMCID>
+    <PMCID>3528291</PMCID>
+    <PMCID>3499829</PMCID>
+    <PMCID>6638641</PMCID>
+    <PMCID>3550725</PMCID>
+    <PMCID>3450056</PMCID>
+    <PMCID>6640476</PMCID>
+    <PMCID>2837241</PMCID>
+    <PMCID>2703745</PMCID>
+    <PMCID>2684537</PMCID>
+    <PMCID>2515857</PMCID>
+    <PMCID>2429970</PMCID>
+    <PMCID>1567666</PMCID>
+    <PMCID>1456221</PMCID>
+    <GeneBankPMID>12111434</GeneBankPMID>
+    <id>12196</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  BCMV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  bean common mosaic virus BCMV
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bean common mosaic virus, BCMV
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bean common mosaic virus</scientificName>
+</pathogen>

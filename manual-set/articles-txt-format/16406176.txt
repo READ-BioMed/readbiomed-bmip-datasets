@@ -1,0 +1,9 @@
+
+Humoral and cellular immune responses to influenza vaccine in patients with advanced cirrhosis.
+
+Influenza vaccine has been shown to successfully reduce influenza- and pneumonia-associated hospitalizations and deaths. 
+Yet in liver cirrhosis, influenza vaccines have received little attention in determining the potential benefits. 
+Thus, we undertook this study to evaluate the humoral and cellular immune responses to vaccination against influenza in patients with advanced cirrhosis. 
+We measured interferon (IFN)-gamma secretion response and hemagglutinin inhibition (HI) of antibody titer from pre- and post-vaccination blood samples in 80 cirrhotic patients (Child-Pugh class B or C) and 80 healthy, age-matched subjects. 
+Although the patients with advanced cirrhosis showed similar humoral immune response against influenza vaccination compared to the healthy controls, cell-mediated immunity showed different results according to the remnant liver function.
+

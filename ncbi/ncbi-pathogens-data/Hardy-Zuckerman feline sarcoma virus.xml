@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>3007997</GeneBankPMID>
+        <id>11777</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Hardy-Zuckermann 4 feline sarcoma oncovirus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 4)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11776</id>
+        <scientificName>Feline sarcoma virus (STRAIN HARDY-ZUCKERMAN 2)</scientificName>
+    </subSpecies>
+    <id>39746</id>
+    <meSHTree>B04.265.590, B04.613.807.375.800, B04.820.650.375.800</meSHTree>
+    <scientificName>Hardy-Zuckerman feline sarcoma virus</scientificName>
+</pathogen>

@@ -1,0 +1,13 @@
+
+Expression of Ras-related C3 botulinum toxin substrate 1 (RAC1) in human cholesteatoma.
+
+Ras-related C3 botulinum toxin substrate 1 (RAC1) is a 21-kDa signaling G protein that functions as a pleiotropic regulator of many cellular processes including epithelial differentiation. 
+RAC1 activates the nicotinamide adenine dinucleotide phosphate oxidase complex which promotes formation of reactive oxygen species and degradation enzymes. 
+RAC1 has been associated with rapid epithelial differentiation and invasive properties in human cholesteatoma. 
+This study aimed to identify the presence of RAC1 in human cholesteatoma and analyze its functional role as a regulator of proteolysis and overgrowth. 
+Tissue samples from human cholesteatoma and normal postaural skin were obtained from patients during otologic surgery for cholesteatoma. 
+The expression of RAC1 mRNA was quantified by real-time RT-PCR, and localization of RAC1 expression was confirmed using immunohistochemical staining. 
+Expression of RAC1 mRNA in the epithelium of cholesteatoma was significantly elevated 2.94 fold on average, compared with normal control skin. 
+RAC1 expression in the suprabasal and basal layer of cholesteatoma epithelium was stronger than normal control skin. 
+Our results suggest that RAC1 can be associated with rapid epithelial differentiation and invasive properties of human cholesteatoma.
+

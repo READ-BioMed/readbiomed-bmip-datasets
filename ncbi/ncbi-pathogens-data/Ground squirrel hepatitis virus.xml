@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>2375028</PMCID>
+        <PMCID>1242213</PMCID>
+        <GeneBankPMID>8676441</GeneBankPMID>
+        <id>41952</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  ASHV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Arctic ground squirrel hepatitis B virus (ASHV)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Arctic squirrel hepatitis virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Arctic squirrel hepatitis virus (ASHV)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Arctic ground squirrel hepatitis B virus</scientificName>
+    </subSpecies>
+    <PMCID>7086886</PMCID>
+    <PMCID>5977262</PMCID>
+    <PMCID>5116127</PMCID>
+    <PMCID>4505817</PMCID>
+    <PMCID>4168079</PMCID>
+    <PMCID>4090289</PMCID>
+    <PMCID>2737686</PMCID>
+    <PMCID>1592461</PMCID>
+    <PMCID>1242213</PMCID>
+    <PMCID>2517704</PMCID>
+    <PMCID>112035</PMCID>
+    <PMCID>256271</PMCID>
+    <PMCID>171165</PMCID>
+    <GeneBankPMID>6086950</GeneBankPMID>
+    <id>10406</id>
+    <meSHTree>B04.280.375.650, B04.450.390.650</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  GSHV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Ground squirrel hepatitis B virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ground squirrel hepatitis virus</scientificName>
+</pathogen>

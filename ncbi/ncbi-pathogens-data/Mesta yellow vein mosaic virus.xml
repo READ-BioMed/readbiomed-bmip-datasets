@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7086986</PMCID>
+        <id>911574</id>
+        <scientificName>Malvastrum yellow vein Changa Manga virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>570535</id>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Haringhata:Leaf Curl:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>570534</id>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Bongaon:leaf curl:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>570533</id>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Barrackpore:Leaf Curl:2007]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562949</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mesta yellow vein mosaic virus [Raigunj:eastern India]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Raigunj:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562948</id>
+        <scientificName>Mesta yellow vein mosaic virus [India:Vizianagaram:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562947</id>
+        <scientificName>Mesta yellow vein mosaic virus [India:Srikakulam:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562946</id>
+        <scientificName>Mesta yellow vein mosaic virus [India:Amadalavalasa:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562945</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mesta yellow vein mosaic virus [Haringhata:eastern India]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Haringhata:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562944</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mesta yellow vein mosaic virus [Coochbehar:eastern India]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Coochbehar:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562943</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mesta yellow vein mosaic virus [Bongaon:eastern India]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Bongaon:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562942</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mesta yellow vein mosaic virus [Balurghat:eastern India]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mesta yellow vein mosaic virus-[India:Balurghat:2008]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>508747</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MeYVMV-[IN:Bar2:06]
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mesta yellow vein mosaic virus - [India:Barackpore2:2006]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>505714</id>
+        <scientificName>Mesta yellow vein mosaic North India virus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>428325</id>
+        <scientificName>Mesta yellow vein mosaic virus [Barrackpore2:eastern India]</scientificName>
+    </subSpecies>
+    <PMCID>7238132</PMCID>
+    <PMCID>7176085</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>6917692</PMCID>
+    <PMCID>6517466</PMCID>
+    <PMCID>6137562</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>3784899</PMCID>
+    <PMCID>3416304</PMCID>
+    <PMCID>3142377</PMCID>
+    <PMCID>3001556</PMCID>
+    <PMCID>2702318</PMCID>
+    <GeneBankPMID>17619113</GeneBankPMID>
+    <id>360579</id>
+    <scientificName>Mesta yellow vein mosaic virus</scientificName>
+</pathogen>

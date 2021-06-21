@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>5894875</PMCID>
+        <GeneBankPMID>25236986</GeneBankPMID>
+        <id>1529392</id>
+        <scientificName>Caprine parainfluenza virus 3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>347959</id>
+        <scientificName>Porcine paramyxovirus strain Texas</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>347958</id>
+        <scientificName>Porcine paramyxovirus strain Frost</scientificName>
+    </subSpecies>
+    <PMCID>7944862</PMCID>
+    <PMCID>7912165</PMCID>
+    <PMCID>7685048</PMCID>
+    <PMCID>7126874</PMCID>
+    <PMCID>7055115</PMCID>
+    <PMCID>6641539</PMCID>
+    <PMCID>6727125</PMCID>
+    <PMCID>6598183</PMCID>
+    <PMCID>6857030</PMCID>
+    <PMCID>6857034</PMCID>
+    <PMCID>6631270</PMCID>
+    <PMCID>6460460</PMCID>
+    <PMCID>6470764</PMCID>
+    <PMCID>6015483</PMCID>
+    <PMCID>6076851</PMCID>
+    <PMCID>6505926</PMCID>
+    <PMCID>5863084</PMCID>
+    <PMCID>5787159</PMCID>
+    <PMCID>5729238</PMCID>
+    <PMCID>5771166</PMCID>
+    <PMCID>6292290</PMCID>
+    <PMCID>5597213</PMCID>
+    <PMCID>6137852</PMCID>
+    <PMCID>5831667</PMCID>
+    <PMCID>5383171</PMCID>
+    <PMCID>5837305</PMCID>
+    <PMCID>5040193</PMCID>
+    <PMCID>5772826</PMCID>
+    <PMCID>4947412</PMCID>
+    <PMCID>4438627</PMCID>
+    <PMCID>4246162</PMCID>
+    <PMCID>3672079</PMCID>
+    <PMCID>3785049</PMCID>
+    <PMCID>3587952</PMCID>
+    <PMCID>3319594</PMCID>
+    <PMCID>3768747</PMCID>
+    <PMCID>3131629</PMCID>
+    <PMCID>2801317</PMCID>
+    <PMCID>2757710</PMCID>
+    <PMCID>2712088</PMCID>
+    <PMCID>2743013</PMCID>
+    <PMCID>2666316</PMCID>
+    <PMCID>1940280</PMCID>
+    <PMCID>1876186</PMCID>
+    <PMCID>1831516</PMCID>
+    <PMCID>151040</PMCID>
+    <PMCID>114626</PMCID>
+    <PMCID>114505</PMCID>
+    <PMCID>114212</PMCID>
+    <PMCID>112444</PMCID>
+    <PMCID>102087</PMCID>
+    <GeneBankPMID>10872880</GeneBankPMID>
+    <id>11215</id>
+    <meSHTree>B04.820.480.937.600.650.700.700</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine parainfluenza 3 virus
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine parainfluenza virus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Bovine parainfluenza virus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine parainfluenza virus 3</scientificName>
+</pathogen>

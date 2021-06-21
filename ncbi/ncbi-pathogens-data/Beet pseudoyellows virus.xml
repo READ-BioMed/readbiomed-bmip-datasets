@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7332303</PMCID>
+        <PMCID>7173617</PMCID>
+        <PMCID>6638334</PMCID>
+        <PMCID>3889241</PMCID>
+        <PMCID>3656352</PMCID>
+        <PMCID>2698906</PMCID>
+        <PMCID>2258980</PMCID>
+        <GeneBankPMID>12655104</GeneBankPMID>
+        <id>32618</id>
+        <scientificName>Cucumber yellows virus</scientificName>
+    </subSpecies>
+    <PMCID>7172929</PMCID>
+    <PMCID>7173617</PMCID>
+    <PMCID>6247084</PMCID>
+    <PMCID>6638120</PMCID>
+    <PMCID>3693128</PMCID>
+    <PMCID>3588190</PMCID>
+    <PMCID>6638723</PMCID>
+    <GeneBankPMID>15266105</GeneBankPMID>
+    <id>72750</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Beet pseudo-yellows virus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   beet pseudo yellows virus
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Beet pseudoyellows virus</scientificName>
+</pathogen>

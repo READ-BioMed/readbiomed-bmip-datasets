@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>694582</id>
+        <scientificName>Tomato leaf curl Sudan virus -[Wad Madani]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>270148</id>
+        <scientificName>Tomato leaf curl Sudan virus - [Shambat]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>270147</id>
+        <scientificName>Tomato leaf curl Sudan virus - [Gezira]</scientificName>
+    </subSpecies>
+    <PMCID>8000510</PMCID>
+    <PMCID>6851148</PMCID>
+    <PMCID>6842478</PMCID>
+    <PMCID>4909005</PMCID>
+    <PMCID>4758306</PMCID>
+    <PMCID>4071017</PMCID>
+    <PMCID>3970147</PMCID>
+    <PMCID>3528285</PMCID>
+    <PMCID>2839976</PMCID>
+    <PMCID>6640326</PMCID>
+    <GeneBankPMID>15703848</GeneBankPMID>
+    <id>270146</id>
+    <scientificName>Tomato leaf curl Sudan virus</scientificName>
+</pathogen>

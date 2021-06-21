@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2777139</id>
+        <scientificName>human rhinovirus B103</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2777138</id>
+        <scientificName>human rhinovirus B102</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2777137</id>
+        <scientificName>human rhinovirus B101</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2777136</id>
+        <scientificName>human rhinovirus B100</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>185945</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 99
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 99
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B99</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>185938</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 86
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 86
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B86</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5441588</PMCID>
+        <id>185936</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 83
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 83
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B83</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>185933</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 79
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 79
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B79</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>185926</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HRV-B70
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 70
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 70
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B70</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>185900</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 27
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 27
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B27</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>185899</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 26
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 26
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B26</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4733204</PMCID>
+        <id>185889</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HRV-B4
+ &lt;/GenbankAcronym&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>167330</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 97
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 97
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B97</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>167329</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 35
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 35
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B35</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>147727</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 317 Finland Aug1996
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 8317 Finland Aug1996</scientificName>
+        </subSpecies>
+        <id>167328</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HRV-B84
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 84
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 84
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B84</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>167327</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 93
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 93
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B93</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7787651</PMCID>
+        <id>167326</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 92
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 92
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B92</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>147721</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 851 Finland Sep1996
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 7851 Finland Sep1996</scientificName>
+        </subSpecies>
+        <id>167325</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 91
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 91
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B91</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3318270</PMCID>
+        <id>150904</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 17
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 17
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B17</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>147714</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 5
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>147683</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 42
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 42
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B42</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>147726</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 425 Finland Dec1995
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 7425 Finland Dec1995</scientificName>
+        </subSpecies>
+        <PMCID>2672259</PMCID>
+        <id>147681</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B6</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>147724</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 166 Finland Sep1995
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 9166 Finland Sep1995</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>147723</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 253 Finland Sep1994
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 6253 Finland Sep1994</scientificName>
+        </subSpecies>
+        <id>147680</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 37
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 37
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B37</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>147722</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 864 Finland Sep1996
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 9864 Finland Sep1996</scientificName>
+        </subSpecies>
+        <id>147679</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 48
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus B48
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 48
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rhinovirus B48</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>147720</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 928 Finland May1995
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 5928 Finland May1995</scientificName>
+        </subSpecies>
+        <id>147678</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 69
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus B69
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 69
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rhinovirus B69</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>2923119</PMCID>
+        <id>147677</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 52
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 52
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B52</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>546595</PMCID>
+        <id>44137</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 72
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 72
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B72</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>147725</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 001 Finland Nov1995
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Human rhinovirus 8001 Finland Nov1995</scientificName>
+        </subSpecies>
+        <PMCID>7887720</PMCID>
+        <PMCID>5693703</PMCID>
+        <PMCID>5883244</PMCID>
+        <PMCID>4733204</PMCID>
+        <PMCID>4728582</PMCID>
+        <PMCID>2572565</PMCID>
+        <PMCID>1143686</PMCID>
+        <PMCID>1500891</PMCID>
+        <PMCID>113991</PMCID>
+        <PMCID>109670</PMCID>
+        <GeneBankPMID>17477878</GeneBankPMID>
+        <id>44130</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus type 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human rhinovirus 3, FEB
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human rhinovirus B3</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7121196</PMCID>
+        <PMCID>7115663</PMCID>
+        <PMCID>7156584</PMCID>
+        <PMCID>7129024</PMCID>
+        <PMCID>7113743</PMCID>
+        <PMCID>6559632</PMCID>
+        <PMCID>6571611</PMCID>
+        <PMCID>6430540</PMCID>
+        <PMCID>6390631</PMCID>
+        <PMCID>6422491</PMCID>
+        <PMCID>6089459</PMCID>
+        <PMCID>6018698</PMCID>
+        <PMCID>5719429</PMCID>
+        <PMCID>5646240</PMCID>
+        <PMCID>4977292</PMCID>
+        <PMCID>4824415</PMCID>
+        <PMCID>4178732</PMCID>
+        <PMCID>4187686</PMCID>
+        <PMCID>3707110</PMCID>
+        <PMCID>3347258</PMCID>
+        <PMCID>3203158</PMCID>
+        <PMCID>3215146</PMCID>
+        <PMCID>2993412</PMCID>
+        <PMCID>2937809</PMCID>
+        <PMCID>2937648</PMCID>
+        <PMCID>2919010</PMCID>
+        <PMCID>2898255</PMCID>
+        <PMCID>4033964</PMCID>
+        <PMCID>2704786</PMCID>
+        <PMCID>2606027</PMCID>
+        <PMCID>2615609</PMCID>
+        <PMCID>1900100</PMCID>
+        <PMCID>521849</PMCID>
+        <PMCID>514980</PMCID>
+        <PMCID>371048</PMCID>
+        <PMCID>353723</PMCID>
+        <PMCID>140777</PMCID>
+        <PMCID>136911</PMCID>
+        <PMCID>136434</PMCID>
+        <PMCID>136386</PMCID>
+        <PMCID>155080</PMCID>
+        <PMCID>135881</PMCID>
+        <PMCID>114636</PMCID>
+        <PMCID>115142</PMCID>
+        <PMCID>1301218</PMCID>
+        <PMCID>110910</PMCID>
+        <PMCID>111905</PMCID>
+        <PMCID>113045</PMCID>
+        <PMCID>2144186</PMCID>
+        <PMCID>112956</PMCID>
+        <PMCID>22181</PMCID>
+        <PMCID>104114</PMCID>
+        <PMCID>109337</PMCID>
+        <PMCID>22631</PMCID>
+        <PMCID>109976</PMCID>
+        <PMCID>124656</PMCID>
+        <PMCID>109419</PMCID>
+        <PMCID>191118</PMCID>
+        <PMCID>145920</PMCID>
+        <PMCID>189727</PMCID>
+        <PMCID>4140090</PMCID>
+        <PMCID>47066</PMCID>
+        <PMCID>4167681</PMCID>
+        <PMCID>254840</PMCID>
+        <GeneBankPMID>25410869</GeneBankPMID>
+        <GeneBankPMID>6093056</GeneBankPMID>
+        <GeneBankPMID>26311873</GeneBankPMID>
+        <GeneBankPMID>2983312</GeneBankPMID>
+        <GeneBankPMID>19403680</GeneBankPMID>
+        <id>12131</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  HRV-14
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus 14
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus B14
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human rhinovirus 14 HRV14
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rhinovirus B14</scientificName>
+    </subSpecies>
+    <PMCID>7999760</PMCID>
+    <PMCID>7894240</PMCID>
+    <PMCID>7695296</PMCID>
+    <PMCID>7430140</PMCID>
+    <PMCID>7316886</PMCID>
+    <PMCID>7172580</PMCID>
+    <PMCID>7166877</PMCID>
+    <PMCID>7129524</PMCID>
+    <PMCID>7124227</PMCID>
+    <PMCID>7106480</PMCID>
+    <PMCID>7232237</PMCID>
+    <PMCID>7157454</PMCID>
+    <PMCID>7114627</PMCID>
+    <PMCID>7106374</PMCID>
+    <PMCID>7106021</PMCID>
+    <PMCID>7089316</PMCID>
+    <PMCID>7086627</PMCID>
+    <PMCID>7024059</PMCID>
+    <PMCID>6834195</PMCID>
+    <PMCID>6779266</PMCID>
+    <PMCID>6815769</PMCID>
+    <PMCID>6700089</PMCID>
+    <PMCID>6691886</PMCID>
+    <PMCID>6607526</PMCID>
+    <PMCID>6600191</PMCID>
+    <PMCID>6842413</PMCID>
+    <PMCID>6547078</PMCID>
+    <PMCID>6441719</PMCID>
+    <PMCID>6386807</PMCID>
+    <PMCID>6443042</PMCID>
+    <PMCID>6089459</PMCID>
+    <PMCID>6662635</PMCID>
+    <PMCID>5633025</PMCID>
+    <PMCID>5693703</PMCID>
+    <PMCID>5519566</PMCID>
+    <PMCID>5471348</PMCID>
+    <PMCID>5441588</PMCID>
+    <PMCID>5407379</PMCID>
+    <PMCID>4966474</PMCID>
+    <PMCID>4958208</PMCID>
+    <PMCID>4752186</PMCID>
+    <PMCID>4728582</PMCID>
+    <PMCID>4728571</PMCID>
+    <PMCID>4772695</PMCID>
+    <PMCID>4682392</PMCID>
+    <PMCID>4744574</PMCID>
+    <PMCID>4552807</PMCID>
+    <PMCID>4463739</PMCID>
+    <PMCID>4844011</PMCID>
+    <PMCID>4431806</PMCID>
+    <PMCID>4801031</PMCID>
+    <PMCID>4276674</PMCID>
+    <PMCID>4239085</PMCID>
+    <PMCID>3988102</PMCID>
+    <PMCID>3973479</PMCID>
+    <PMCID>3968335</PMCID>
+    <PMCID>3929619</PMCID>
+    <PMCID>3811463</PMCID>
+    <PMCID>3749525</PMCID>
+    <PMCID>3648189</PMCID>
+    <PMCID>3670124</PMCID>
+    <PMCID>5855153</PMCID>
+    <PMCID>4219353</PMCID>
+    <PMCID>2998502</PMCID>
+    <PMCID>2975644</PMCID>
+    <PMCID>2290972</PMCID>
+    <PMCID>2375028</PMCID>
+    <PMCID>1929155</PMCID>
+    <PMCID>1797470</PMCID>
+    <PMCID>1242213</PMCID>
+    <PMCID>97546</PMCID>
+    <id>147712</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human rhinovirus B
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rhinovirus B</scientificName>
+</pathogen>

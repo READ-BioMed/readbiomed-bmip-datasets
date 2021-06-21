@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2683027</id>
+        <scientificName>Tobacco curly shoot virus-Myanmar</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1843600</id>
+        <scientificName>Tobacco curly shoot virus-Y3560</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>705074</id>
+        <scientificName>Tobacco curly shoot virus - [SC118]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>500468</id>
+        <scientificName>Tobacco curly shoot virus-[Lucknow]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329848</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curly shoot virus -[Y282]
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curly shoot virus-[Y282]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco curly shoot virus - [Y282]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329847</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curly shoot virus -[Y274]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco curly shoot virus - [Y274]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329846</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curly shoot virus -[Y272]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco curly shoot virus - [Y272]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>329845</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curly shoot virus -[Y271]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco curly shoot virus - [Y271]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223331</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curly shoot virus-[Y1]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco curly shoot virus - [Y1]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223250</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curly shoot virus-[Y41]
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco curly shoot virus - [Y41]</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>222473</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Tobacco curly shoot virus-[Y35]
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Tobacco curl shoot virus-[Y35]
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Tobacco curly shoot virus - [Y35]</scientificName>
+    </subSpecies>
+    <PMCID>7527059</PMCID>
+    <PMCID>7055206</PMCID>
+    <PMCID>6836351</PMCID>
+    <PMCID>6953188</PMCID>
+    <PMCID>6704720</PMCID>
+    <PMCID>6723455</PMCID>
+    <PMCID>6611054</PMCID>
+    <PMCID>6589721</PMCID>
+    <PMCID>6582559</PMCID>
+    <PMCID>6514154</PMCID>
+    <PMCID>6480954</PMCID>
+    <PMCID>6367152</PMCID>
+    <PMCID>6261889</PMCID>
+    <PMCID>6122796</PMCID>
+    <PMCID>5691625</PMCID>
+    <PMCID>5333915</PMCID>
+    <PMCID>5253358</PMCID>
+    <PMCID>5124967</PMCID>
+    <PMCID>5142593</PMCID>
+    <PMCID>5099147</PMCID>
+    <PMCID>5082799</PMCID>
+    <PMCID>4892816</PMCID>
+    <PMCID>4810563</PMCID>
+    <PMCID>4704257</PMCID>
+    <PMCID>4614018</PMCID>
+    <PMCID>4584297</PMCID>
+    <PMCID>4576204</PMCID>
+    <PMCID>4353908</PMCID>
+    <PMCID>4298728</PMCID>
+    <PMCID>3698214</PMCID>
+    <PMCID>3684515</PMCID>
+    <PMCID>3705308</PMCID>
+    <PMCID>3550817</PMCID>
+    <PMCID>3126389</PMCID>
+    <PMCID>3030953</PMCID>
+    <PMCID>3017532</PMCID>
+    <PMCID>2922188</PMCID>
+    <PMCID>2816314</PMCID>
+    <PMCID>2713212</PMCID>
+    <PMCID>2725476</PMCID>
+    <PMCID>6640326</PMCID>
+    <PMCID>2268320</PMCID>
+    <PMCID>1773017</PMCID>
+    <PMCID>1182626</PMCID>
+    <PMCID>533896</PMCID>
+    <GeneBankPMID>15593415</GeneBankPMID>
+    <id>180526</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Tobacco curl shoot virus
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Tobacco curly shoot virus</scientificName>
+</pathogen>

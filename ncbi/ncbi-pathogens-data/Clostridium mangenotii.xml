@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1408823</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium mangenotii TR
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Clostridioides mangenotii TR</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1392497</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium mangenotii LM2
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Clostridioides mangenotii LM2</scientificName>
+    </subSpecies>
+    <PMCID>7842062</PMCID>
+    <PMCID>7677010</PMCID>
+    <PMCID>7694827</PMCID>
+    <PMCID>7599459</PMCID>
+    <PMCID>7356804</PMCID>
+    <PMCID>7035670</PMCID>
+    <PMCID>6864129</PMCID>
+    <PMCID>6611424</PMCID>
+    <PMCID>6355528</PMCID>
+    <PMCID>6101409</PMCID>
+    <PMCID>6064930</PMCID>
+    <PMCID>6021603</PMCID>
+    <PMCID>6005852</PMCID>
+    <PMCID>6132499</PMCID>
+    <PMCID>5717231</PMCID>
+    <PMCID>5607322</PMCID>
+    <PMCID>5244501</PMCID>
+    <PMCID>3886945</PMCID>
+    <PMCID>3910996</PMCID>
+    <PMCID>3648033</PMCID>
+    <PMCID>3511239</PMCID>
+    <PMCID>150113</PMCID>
+    <id>1540</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Clostridium mangenotii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Inflabilis mangenoti
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Inflabilis mangenoti" (sic) Prevot and Zimmes-Chaverou 1947
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridioides mangenotii (McClung and McCoy 1957) Lawson et al. 2016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Clostridium mangenotii (Prevot and Zimmes-Chaverou 1947) McClung and McCoy 1957 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25761
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25761
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1289
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1289
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1428
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1428
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Clostridium mangenotii</scientificName>
+</pathogen>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>415864</id>
+        <scientificName>Teita falcon adenovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>415863</id>
+        <scientificName>Orange-breasted falcon adenovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6784175</PMCID>
+        <id>415853</id>
+        <scientificName>Northern Aplomado falcon adenovirus</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>18065135</GeneBankPMID>
+        <id>380253</id>
+        <scientificName>Falconid adenovirus 1</scientificName>
+    </subSpecies>
+    <PMCID>7086975</PMCID>
+    <PMCID>6394704</PMCID>
+    <PMCID>6021868</PMCID>
+    <PMCID>5387021</PMCID>
+    <id>692069</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Falcon adenovirus A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Falcon adenovirus A</scientificName>
+</pathogen>

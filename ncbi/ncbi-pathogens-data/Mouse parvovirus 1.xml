@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>402802</id>
+        <scientificName>Mouse parvovirus 1e</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3818428</PMCID>
+        <id>344703</id>
+        <scientificName>Mouse parvovirus UT</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>115897</PMCID>
+        <id>42842</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MPV-1c
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Mouse orphan parvovirus 2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mouse parvovirus 1c</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>115897</PMCID>
+        <id>42841</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MPV-1b
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Mouse orphan parvovirus 1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mouse parvovirus 1b</scientificName>
+    </subSpecies>
+    <PMCID>4023972</PMCID>
+    <PMCID>2976387</PMCID>
+    <PMCID>115897</PMCID>
+    <GeneBankPMID>8083985</GeneBankPMID>
+    <id>35340</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  MPV-1
+ &lt;/Acronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mouse parvovirus 1</scientificName>
+</pathogen>

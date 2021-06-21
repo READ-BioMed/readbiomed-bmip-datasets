@@ -1,0 +1,13 @@
+
+Enhancement of the catalytic activity of ferulic acid decarboxylase from Enterobacter sp. 
+Px6-4 through random and site-directed mutagenesis.
+
+The enzyme ferulic acid decarboxylase (FADase) from Enterobacter sp. 
+Px6-4 catalyzes the decarboxylation reaction of lignin monomers and phenolic compounds such as p-coumaric acid, caffeic acid, and ferulic acid into their corresponding 4-vinyl derivatives, that is, 4-vinylphenol, 4-vinylcatechol, and 4-vinylguaiacol, respectively. 
+Among various ferulic acid decarboxylase enzymes, we chose the FADase from Enterobacter sp. 
+Px6-4, whose crystal structure is known, and produced mutants to enhance its catalytic activity by random and site-directed mutagenesis. 
+After three rounds of sequential mutations, FADase(F95L/D112N/V151I) showed approximately 34-fold higher catalytic activity than wild-type for the production of 4-vinylguaiacol from ferulic acid. 
+Docking analyses suggested that the increased activity of FADase(F95L/D112N/V151I) could be due to formation of compact active site compared with that of the wild-type FADase. 
+Considering the amount of phenolic compounds such as lignin monomers in the biomass components, successfully bioengineered FADase(F95L/D112N/V151I) from Enterobacter sp. 
+Px6-4 could provide an ecofriendly biocatalytic tool for producing diverse styrene derivatives from biomass.
+

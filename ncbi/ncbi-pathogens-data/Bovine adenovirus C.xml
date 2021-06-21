@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>4984651</PMCID>
+        <PMCID>150671</PMCID>
+        <GeneBankPMID>21622778</GeneBankPMID>
+        <id>39788</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mastadenovirus bos10
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus 10 strain Belfast1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  bovine adenovirus type 10
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Bovine adenovirus 10</scientificName>
+    </subSpecies>
+    <PMCID>3147386</PMCID>
+    <id>129952</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Bovine adenovirus C
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Bovine adenovirus C</scientificName>
+</pathogen>

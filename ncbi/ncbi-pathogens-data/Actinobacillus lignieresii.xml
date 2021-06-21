@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7298850</PMCID>
+    <PMCID>7153328</PMCID>
+    <PMCID>6963667</PMCID>
+    <PMCID>7036314</PMCID>
+    <PMCID>6849485</PMCID>
+    <PMCID>6727123</PMCID>
+    <PMCID>6785623</PMCID>
+    <PMCID>6608940</PMCID>
+    <PMCID>6335530</PMCID>
+    <PMCID>5960975</PMCID>
+    <PMCID>7152286</PMCID>
+    <PMCID>7152230</PMCID>
+    <PMCID>5731386</PMCID>
+    <PMCID>5731385</PMCID>
+    <PMCID>6505872</PMCID>
+    <PMCID>7158344</PMCID>
+    <PMCID>7895312</PMCID>
+    <PMCID>7895291</PMCID>
+    <PMCID>7186848</PMCID>
+    <PMCID>7158298</PMCID>
+    <PMCID>7158295</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>5289238</PMCID>
+    <PMCID>5006337</PMCID>
+    <PMCID>5039426</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>4763675</PMCID>
+    <PMCID>4873865</PMCID>
+    <PMCID>4572521</PMCID>
+    <PMCID>7149867</PMCID>
+    <PMCID>4363679</PMCID>
+    <PMCID>4196475</PMCID>
+    <PMCID>3993664</PMCID>
+    <PMCID>4108783</PMCID>
+    <PMCID>3880910</PMCID>
+    <PMCID>7152054</PMCID>
+    <PMCID>7152285</PMCID>
+    <PMCID>3622515</PMCID>
+    <PMCID>3614447</PMCID>
+    <PMCID>7125524</PMCID>
+    <PMCID>7150056</PMCID>
+    <PMCID>7150030</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>3041693</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>2705073</PMCID>
+    <PMCID>7158335</PMCID>
+    <PMCID>7152022</PMCID>
+    <PMCID>2238117</PMCID>
+    <PMCID>2238123</PMCID>
+    <PMCID>2168548</PMCID>
+    <PMCID>1914321</PMCID>
+    <PMCID>7152486</PMCID>
+    <PMCID>1949873</PMCID>
+    <PMCID>1410728</PMCID>
+    <PMCID>535277</PMCID>
+    <PMCID>446262</PMCID>
+    <PMCID>7158198</PMCID>
+    <PMCID>262499</PMCID>
+    <PMCID>262496</PMCID>
+    <PMCID>193807</PMCID>
+    <PMCID>7150219</PMCID>
+    <PMCID>2202316</PMCID>
+    <PMCID>87924</PMCID>
+    <PMCID>87852</PMCID>
+    <PMCID>87711</PMCID>
+    <PMCID>87471</PMCID>
+    <PMCID>92192</PMCID>
+    <PMCID>89906</PMCID>
+    <PMCID>91142</PMCID>
+    <PMCID>105212</PMCID>
+    <PMCID>104904</PMCID>
+    <PMCID>104556</PMCID>
+    <PMCID>205807</PMCID>
+    <PMCID>270368</PMCID>
+    <PMCID>269966</PMCID>
+    <PMCID>267570</PMCID>
+    <PMCID>175867</PMCID>
+    <PMCID>265825</PMCID>
+    <PMCID>272733</PMCID>
+    <PMCID>7172659</PMCID>
+    <PMCID>1506955</PMCID>
+    <PMCID>273589</PMCID>
+    <PMCID>1437456</PMCID>
+    <PMCID>1277736</PMCID>
+    <id>720</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinobacillus lignieresi
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium purifaciens
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinobacillus lignieresi" (sic) Brumpt 1910
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium purifaciens" Christiansen 1917
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Actinobacillus lignieresii Brumpt 1910
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 49236
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:49236
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 41384
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:41384
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 53.130
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:53.130
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 22256
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:22256
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 4189
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:4189
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Actinobacillus lignieresii</scientificName>
+</pathogen>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2259332</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 160
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 160</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1288116</id>
+        <scientificName>Human papillomavirus type XS2</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>720708</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 117
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 117</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>673323</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus SIBX9
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 125
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 125</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>1929155</PMCID>
+        <GeneBankPMID>8205838</GeneBankPMID>
+        <GeneBankPMID>28586650</GeneBankPMID>
+        <GeneBankPMID>21911249</GeneBankPMID>
+        <GeneBankPMID>22911850</GeneBankPMID>
+        <GeneBankPMID>31971989</GeneBankPMID>
+        <id>333759</id>
+        <scientificName>Human papillomavirus type 10</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>260717</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 94
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 8-14
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 94
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 94</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>7451061</PMCID>
+        <id>69986</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 77
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 77
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 77</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>251132</PMCID>
+        <id>37112</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Human papillomavirus type 29
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 29
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Human papillomavirus type 29.
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 29</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>251131</PMCID>
+        <id>37111</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 28
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 28
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 28</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5654489</PMCID>
+        <id>10614</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 3
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus type 3
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Human papillomavirus 3</scientificName>
+    </subSpecies>
+    <PMCID>7704424</PMCID>
+    <PMCID>7086667</PMCID>
+    <PMCID>7063766</PMCID>
+    <PMCID>6993575</PMCID>
+    <PMCID>5117989</PMCID>
+    <PMCID>4758438</PMCID>
+    <PMCID>4517131</PMCID>
+    <PMCID>3696016</PMCID>
+    <PMCID>3219706</PMCID>
+    <id>337039</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus - 10
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human papillomavirus 10
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Alphapapillomavirus 2</scientificName>
+</pathogen>

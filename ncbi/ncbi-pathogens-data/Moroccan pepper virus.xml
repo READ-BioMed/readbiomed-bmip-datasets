@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3708502</PMCID>
+        <PMCID>2789080</PMCID>
+        <id>167947</id>
+        <scientificName>Lettuce necrotic stunt virus</scientificName>
+    </subSpecies>
+    <PMCID>7332303</PMCID>
+    <PMCID>7284659</PMCID>
+    <PMCID>5072566</PMCID>
+    <PMCID>6638237</PMCID>
+    <PMCID>110454</PMCID>
+    <GeneBankPMID>23360531</GeneBankPMID>
+    <id>208086</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  MPV
+ &lt;/GenbankAcronym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Moroccan pepper virus</scientificName>
+</pathogen>
