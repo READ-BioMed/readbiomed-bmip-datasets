@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>216943</PMCID>
+        <id>1266999</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma arginini G230
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma arginini ATCC 23838</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1188236</id>
+        <scientificName>Mycoplasma arginini 7264</scientificName>
+    </subSpecies>
+    <PMCID>8221386</PMCID>
+    <PMCID>8173446</PMCID>
+    <PMCID>8052663</PMCID>
+    <PMCID>8081823</PMCID>
+    <PMCID>7750709</PMCID>
+    <PMCID>7692399</PMCID>
+    <PMCID>7668072</PMCID>
+    <PMCID>7565387</PMCID>
+    <PMCID>7671372</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7315024</PMCID>
+    <PMCID>7496122</PMCID>
+    <PMCID>7268655</PMCID>
+    <PMCID>7240078</PMCID>
+    <PMCID>7192632</PMCID>
+    <PMCID>7238135</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>7172927</PMCID>
+    <PMCID>7215346</PMCID>
+    <PMCID>7132130</PMCID>
+    <PMCID>7046295</PMCID>
+    <PMCID>7044503</PMCID>
+    <PMCID>7168178</PMCID>
+    <PMCID>7183375</PMCID>
+    <PMCID>7029115</PMCID>
+    <PMCID>7003218</PMCID>
+    <PMCID>6952905</PMCID>
+    <PMCID>7056928</PMCID>
+    <PMCID>6882279</PMCID>
+    <PMCID>6856322</PMCID>
+    <PMCID>6764269</PMCID>
+    <PMCID>6760946</PMCID>
+    <PMCID>6757406</PMCID>
+    <PMCID>6900124</PMCID>
+    <PMCID>6614638</PMCID>
+    <PMCID>7114723</PMCID>
+    <PMCID>6580951</PMCID>
+    <PMCID>6584854</PMCID>
+    <PMCID>6417145</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>6304983</PMCID>
+    <PMCID>6275423</PMCID>
+    <PMCID>6142326</PMCID>
+    <PMCID>6052353</PMCID>
+    <PMCID>6025922</PMCID>
+    <PMCID>6138188</PMCID>
+    <PMCID>5944442</PMCID>
+    <PMCID>5810851</PMCID>
+    <PMCID>5804061</PMCID>
+    <PMCID>5796030</PMCID>
+    <PMCID>5574734</PMCID>
+    <PMCID>5473847</PMCID>
+    <PMCID>5462392</PMCID>
+    <PMCID>7271179</PMCID>
+    <PMCID>5069959</PMCID>
+    <PMCID>5129939</PMCID>
+    <PMCID>4907131</PMCID>
+    <PMCID>4879279</PMCID>
+    <PMCID>4881476</PMCID>
+    <PMCID>4867070</PMCID>
+    <PMCID>5457742</PMCID>
+    <PMCID>5362887</PMCID>
+    <PMCID>4620444</PMCID>
+    <PMCID>4540935</PMCID>
+    <PMCID>4487231</PMCID>
+    <PMCID>6138128</PMCID>
+    <PMCID>4400428</PMCID>
+    <PMCID>7159829</PMCID>
+    <PMCID>5644610</PMCID>
+    <PMCID>4960155</PMCID>
+    <PMCID>4357728</PMCID>
+    <PMCID>4286197</PMCID>
+    <PMCID>4846639</PMCID>
+    <PMCID>4183875</PMCID>
+    <PMCID>4367946</PMCID>
+    <PMCID>4122191</PMCID>
+    <PMCID>4207559</PMCID>
+    <PMCID>4082846</PMCID>
+    <PMCID>4072490</PMCID>
+    <PMCID>4140868</PMCID>
+    <PMCID>4025299</PMCID>
+    <PMCID>4001302</PMCID>
+    <PMCID>4464442</PMCID>
+    <PMCID>3977478</PMCID>
+    <PMCID>3877641</PMCID>
+    <PMCID>4047483</PMCID>
+    <PMCID>3811644</PMCID>
+    <PMCID>3735194</PMCID>
+    <PMCID>3771393</PMCID>
+    <PMCID>3707579</PMCID>
+    <PMCID>3776281</PMCID>
+    <PMCID>4745450</PMCID>
+    <PMCID>3598641</PMCID>
+    <PMCID>3709564</PMCID>
+    <PMCID>3486055</PMCID>
+    <PMCID>3474736</PMCID>
+    <PMCID>3470117</PMCID>
+    <PMCID>3421897</PMCID>
+    <PMCID>3421792</PMCID>
+    <PMCID>3418781</PMCID>
+    <PMCID>3400620</PMCID>
+    <PMCID>7151794</PMCID>
+    <PMCID>3341502</PMCID>
+    <PMCID>3295179</PMCID>
+    <PMCID>3584481</PMCID>
+    <PMCID>3294146</PMCID>
+    <PMCID>3347616</PMCID>
+    <PMCID>3104694</PMCID>
+    <PMCID>3135644</PMCID>
+    <PMCID>3086703</PMCID>
+    <PMCID>7094402</PMCID>
+    <PMCID>7166665</PMCID>
+    <PMCID>3068705</PMCID>
+    <PMCID>3026898</PMCID>
+    <PMCID>2993648</PMCID>
+    <PMCID>2964429</PMCID>
+    <PMCID>7336479</PMCID>
+    <PMCID>2957031</PMCID>
+    <PMCID>3074183</PMCID>
+    <PMCID>2988611</PMCID>
+    <PMCID>2957240</PMCID>
+    <PMCID>2998341</PMCID>
+    <PMCID>4104755</PMCID>
+    <PMCID>3347570</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>3096550</PMCID>
+    <PMCID>7129662</PMCID>
+    <PMCID>2825298</PMCID>
+    <PMCID>7126194</PMCID>
+    <PMCID>3026423</PMCID>
+    <PMCID>2730529</PMCID>
+    <PMCID>7150115</PMCID>
+    <PMCID>2679726</PMCID>
+    <PMCID>2757113</PMCID>
+    <PMCID>2629384</PMCID>
+    <PMCID>2684937</PMCID>
+    <PMCID>2546712</PMCID>
+    <PMCID>2546620</PMCID>
+    <PMCID>4526267</PMCID>
+    <PMCID>2292954</PMCID>
+    <PMCID>2238132</PMCID>
+    <PMCID>1766361</PMCID>
+    <PMCID>1829110</PMCID>
+    <PMCID>1797358</PMCID>
+    <PMCID>1448649</PMCID>
+    <PMCID>1351941</PMCID>
+    <PMCID>1317073</PMCID>
+    <PMCID>7080164</PMCID>
+    <PMCID>1820987</PMCID>
+    <PMCID>419932</PMCID>
+    <PMCID>1821000</PMCID>
+    <PMCID>368316</PMCID>
+    <PMCID>344445</PMCID>
+    <PMCID>2394481</PMCID>
+    <PMCID>154955</PMCID>
+    <PMCID>2377179</PMCID>
+    <PMCID>149599</PMCID>
+    <PMCID>1782811</PMCID>
+    <PMCID>126430</PMCID>
+    <PMCID>135138</PMCID>
+    <PMCID>93000</PMCID>
+    <PMCID>96015</PMCID>
+    <PMCID>7996431</PMCID>
+    <PMCID>7996426</PMCID>
+    <PMCID>101955</PMCID>
+    <PMCID>95919</PMCID>
+    <PMCID>97444</PMCID>
+    <PMCID>86451</PMCID>
+    <PMCID>86224</PMCID>
+    <PMCID>97033</PMCID>
+    <PMCID>97030</PMCID>
+    <PMCID>85845</PMCID>
+    <PMCID>97020</PMCID>
+    <PMCID>96605</PMCID>
+    <PMCID>84818</PMCID>
+    <PMCID>84475</PMCID>
+    <PMCID>96384</PMCID>
+    <PMCID>98941</PMCID>
+    <PMCID>108593</PMCID>
+    <PMCID>108312</PMCID>
+    <PMCID>104965</PMCID>
+    <PMCID>2196331</PMCID>
+    <PMCID>5920931</PMCID>
+    <PMCID>303169</PMCID>
+    <PMCID>201416</PMCID>
+    <PMCID>5919086</PMCID>
+    <PMCID>302723</PMCID>
+    <PMCID>257979</PMCID>
+    <PMCID>313729</PMCID>
+    <PMCID>313697</PMCID>
+    <PMCID>258848</PMCID>
+    <PMCID>1255160</PMCID>
+    <PMCID>216943</PMCID>
+    <PMCID>551138</PMCID>
+    <PMCID>323998</PMCID>
+    <PMCID>1320011</PMCID>
+    <PMCID>222407</PMCID>
+    <PMCID>421938</PMCID>
+    <PMCID>1277602</PMCID>
+    <PMCID>421364</PMCID>
+    <PMCID>233306</PMCID>
+    <PMCID>1277433</PMCID>
+    <PMCID>422997</PMCID>
+    <PMCID>414866</PMCID>
+    <id>2094</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma leonis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis arginine
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasma leonis" Heyward et al. 1969
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis arginine" (Barile et al. 1968) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma arginini Barile et al. 1968
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis arginine (Barile et al. 1968) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 23838
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:23838
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 71.23
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:71.23
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 14476
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:14476
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   MRL M1240/68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   MRL:M1240/68
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 14476
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:14476
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10129
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10129
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::G230
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain G230
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma argini
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma arginini</scientificName>
+</pathogen>

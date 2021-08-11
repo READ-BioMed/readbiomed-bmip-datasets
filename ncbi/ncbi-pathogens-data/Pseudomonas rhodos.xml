@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1236969</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Methylobacterium rhodinum JCM 2811
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Methylorubrum rhodinum JCM 2811</scientificName>
+    </subSpecies>
+    <PMCID>8026895</PMCID>
+    <PMCID>7928522</PMCID>
+    <PMCID>7352507</PMCID>
+    <PMCID>7175107</PMCID>
+    <PMCID>7054491</PMCID>
+    <PMCID>5884252</PMCID>
+    <PMCID>5072837</PMCID>
+    <PMCID>4890186</PMCID>
+    <PMCID>3993692</PMCID>
+    <PMCID>3967232</PMCID>
+    <PMCID>3579938</PMCID>
+    <PMCID>3457096</PMCID>
+    <PMCID>2936354</PMCID>
+    <PMCID>1287715</PMCID>
+    <PMCID>1151855</PMCID>
+    <PMCID>321275</PMCID>
+    <PMCID>95416</PMCID>
+    <PMCID>94868</PMCID>
+    <PMCID>99007</PMCID>
+    <PMCID>94672</PMCID>
+    <PMCID>103650</PMCID>
+    <PMCID>98932</PMCID>
+    <PMCID>218997</PMCID>
+    <PMCID>236129</PMCID>
+    <PMCID>285582</PMCID>
+    <id>29428</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Methylobacterium rhodinum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Protomonas extorquens (biovar 2)
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas rhodos
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Methylobacterium rhodinum corrig. (Heumann 1962) Green and Bousfield 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas rhodos Heumann 1962 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas rhodos</scientificName>
+</pathogen>

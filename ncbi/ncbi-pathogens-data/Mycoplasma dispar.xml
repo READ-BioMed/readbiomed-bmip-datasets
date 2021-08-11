@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8173446</PMCID>
+    <PMCID>8160460</PMCID>
+    <PMCID>7899846</PMCID>
+    <PMCID>7861559</PMCID>
+    <PMCID>7704319</PMCID>
+    <PMCID>7542862</PMCID>
+    <PMCID>7459706</PMCID>
+    <PMCID>7399803</PMCID>
+    <PMCID>7288481</PMCID>
+    <PMCID>7268655</PMCID>
+    <PMCID>7269393</PMCID>
+    <PMCID>7244442</PMCID>
+    <PMCID>6975039</PMCID>
+    <PMCID>6924913</PMCID>
+    <PMCID>7383803</PMCID>
+    <PMCID>6882279</PMCID>
+    <PMCID>6417145</PMCID>
+    <PMCID>6385981</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>6473168</PMCID>
+    <PMCID>7117154</PMCID>
+    <PMCID>7152286</PMCID>
+    <PMCID>7147640</PMCID>
+    <PMCID>7108556</PMCID>
+    <PMCID>5481913</PMCID>
+    <PMCID>5508364</PMCID>
+    <PMCID>5414144</PMCID>
+    <PMCID>5361731</PMCID>
+    <PMCID>5338856</PMCID>
+    <PMCID>7271179</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>5331495</PMCID>
+    <PMCID>7112533</PMCID>
+    <PMCID>4313372</PMCID>
+    <PMCID>7126404</PMCID>
+    <PMCID>4091120</PMCID>
+    <PMCID>3771393</PMCID>
+    <PMCID>3535568</PMCID>
+    <PMCID>3287114</PMCID>
+    <PMCID>7165533</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>7124580</PMCID>
+    <PMCID>7158335</PMCID>
+    <PMCID>2752295</PMCID>
+    <PMCID>7117372</PMCID>
+    <PMCID>7132380</PMCID>
+    <PMCID>1829085</PMCID>
+    <PMCID>1820993</PMCID>
+    <PMCID>427401</PMCID>
+    <PMCID>419932</PMCID>
+    <PMCID>254308</PMCID>
+    <PMCID>7096860</PMCID>
+    <PMCID>151775</PMCID>
+    <PMCID>7126694</PMCID>
+    <PMCID>7125750</PMCID>
+    <PMCID>2202333</PMCID>
+    <PMCID>111417</PMCID>
+    <PMCID>7119828</PMCID>
+    <PMCID>7119796</PMCID>
+    <PMCID>95906</PMCID>
+    <PMCID>7117456</PMCID>
+    <PMCID>85551</PMCID>
+    <PMCID>1539768</PMCID>
+    <PMCID>98941</PMCID>
+    <PMCID>1263636</PMCID>
+    <PMCID>187660</PMCID>
+    <PMCID>257254</PMCID>
+    <PMCID>258142</PMCID>
+    <PMCID>1255666</PMCID>
+    <PMCID>8185774</PMCID>
+    <PMCID>8185773</PMCID>
+    <PMCID>8185769</PMCID>
+    <PMCID>7117133</PMCID>
+    <PMCID>8185798</PMCID>
+    <PMCID>1255186</PMCID>
+    <PMCID>2130171</PMCID>
+    <PMCID>1320011</PMCID>
+    <PMCID>422089</PMCID>
+    <PMCID>420837</PMCID>
+    <PMCID>420739</PMCID>
+    <PMCID>415380</PMCID>
+    <PMCID>2130467</PMCID>
+    <PMCID>415014</PMCID>
+    <MeSHPMID>17459842</MeSHPMID>
+    <MeSHPMID>15556716</MeSHPMID>
+    <id>86660</id>
+    <meSHTree>B03.440.860.580.553.553.267</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma dispar Gourlay and Leach 1970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27140
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27140
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 19993
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:19993
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10125
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10125
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma dispar</scientificName>
+</pathogen>

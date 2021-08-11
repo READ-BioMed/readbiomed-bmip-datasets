@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>873449</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Streptococcus criceti str. HS-6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Streptococcus criceti strain HS-6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Streptococcus criceti HS-6</scientificName>
+    </subSpecies>
+    <PMCID>8049499</PMCID>
+    <PMCID>7785724</PMCID>
+    <PMCID>7746683</PMCID>
+    <PMCID>7726212</PMCID>
+    <PMCID>7571082</PMCID>
+    <PMCID>7468459</PMCID>
+    <PMCID>7335449</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7355750</PMCID>
+    <PMCID>7296549</PMCID>
+    <PMCID>6952196</PMCID>
+    <PMCID>6858756</PMCID>
+    <PMCID>6920925</PMCID>
+    <PMCID>6818581</PMCID>
+    <PMCID>6864204</PMCID>
+    <PMCID>6069834</PMCID>
+    <PMCID>5884911</PMCID>
+    <PMCID>5708823</PMCID>
+    <PMCID>5519730</PMCID>
+    <PMCID>7123207</PMCID>
+    <PMCID>4959772</PMCID>
+    <PMCID>4851386</PMCID>
+    <PMCID>4835899</PMCID>
+    <PMCID>4529887</PMCID>
+    <PMCID>7152436</PMCID>
+    <PMCID>4224358</PMCID>
+    <PMCID>4147802</PMCID>
+    <PMCID>4038355</PMCID>
+    <PMCID>3970137</PMCID>
+    <PMCID>3913407</PMCID>
+    <PMCID>3703194</PMCID>
+    <PMCID>3697718</PMCID>
+    <PMCID>3586614</PMCID>
+    <PMCID>3465751</PMCID>
+    <PMCID>3399136</PMCID>
+    <PMCID>3346361</PMCID>
+    <PMCID>3302630</PMCID>
+    <PMCID>3264080</PMCID>
+    <PMCID>3476088</PMCID>
+    <PMCID>3173953</PMCID>
+    <PMCID>7079867</PMCID>
+    <PMCID>4129389</PMCID>
+    <PMCID>2937171</PMCID>
+    <PMCID>2786544</PMCID>
+    <PMCID>2772547</PMCID>
+    <PMCID>2776031</PMCID>
+    <PMCID>2446731</PMCID>
+    <PMCID>2258513</PMCID>
+    <PMCID>2820327</PMCID>
+    <PMCID>1855836</PMCID>
+    <PMCID>1539618</PMCID>
+    <PMCID>3146258</PMCID>
+    <PMCID>470626</PMCID>
+    <PMCID>387863</PMCID>
+    <PMCID>321689</PMCID>
+    <PMCID>193837</PMCID>
+    <PMCID>193796</PMCID>
+    <PMCID>130726</PMCID>
+    <PMCID>127646</PMCID>
+    <PMCID>120087</PMCID>
+    <PMCID>88486</PMCID>
+    <PMCID>99487</PMCID>
+    <PMCID>90114</PMCID>
+    <PMCID>97198</PMCID>
+    <PMCID>86132</PMCID>
+    <PMCID>115992</PMCID>
+    <PMCID>106884</PMCID>
+    <PMCID>302703</PMCID>
+    <PMCID>257393</PMCID>
+    <PMCID>210498</PMCID>
+    <PMCID>313819</PMCID>
+    <PMCID>259670</PMCID>
+    <PMCID>259546</PMCID>
+    <PMCID>259494</PMCID>
+    <PMCID>260500</PMCID>
+    <PMCID>214622</PMCID>
+    <PMCID>261552</PMCID>
+    <PMCID>264697</PMCID>
+    <id>1333</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Streptococcus cricetus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptococcus criceti corrig. Coykendall 1977
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19642
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19642
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:14508
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 27300
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:27300
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 102510
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:102510
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20562
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20562
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI 1517
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI:1517
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 14508
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:14508
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 12277
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:12277
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::HS-6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain HS-6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptococcus cricetus</scientificName>
+</pathogen>

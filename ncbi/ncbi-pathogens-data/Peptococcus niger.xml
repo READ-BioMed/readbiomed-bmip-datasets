@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8101409</PMCID>
+    <PMCID>7957789</PMCID>
+    <PMCID>7822442</PMCID>
+    <PMCID>7693886</PMCID>
+    <PMCID>7345846</PMCID>
+    <PMCID>7253024</PMCID>
+    <PMCID>7200728</PMCID>
+    <PMCID>8028096</PMCID>
+    <PMCID>7096256</PMCID>
+    <PMCID>6915778</PMCID>
+    <PMCID>6843426</PMCID>
+    <PMCID>6760872</PMCID>
+    <PMCID>6720875</PMCID>
+    <PMCID>6572185</PMCID>
+    <PMCID>6121494</PMCID>
+    <PMCID>6056523</PMCID>
+    <PMCID>6030191</PMCID>
+    <PMCID>5998164</PMCID>
+    <PMCID>5910564</PMCID>
+    <PMCID>5736563</PMCID>
+    <PMCID>6150324</PMCID>
+    <PMCID>5654903</PMCID>
+    <PMCID>5455763</PMCID>
+    <PMCID>5322305</PMCID>
+    <PMCID>5260789</PMCID>
+    <PMCID>4995337</PMCID>
+    <PMCID>4493656</PMCID>
+    <PMCID>4473228</PMCID>
+    <PMCID>4384745</PMCID>
+    <PMCID>4306693</PMCID>
+    <PMCID>4817712</PMCID>
+    <PMCID>4262072</PMCID>
+    <PMCID>3837799</PMCID>
+    <PMCID>3770567</PMCID>
+    <PMCID>3719496</PMCID>
+    <PMCID>3687592</PMCID>
+    <PMCID>3508456</PMCID>
+    <PMCID>3338629</PMCID>
+    <PMCID>3198091</PMCID>
+    <PMCID>3122686</PMCID>
+    <PMCID>7155554</PMCID>
+    <PMCID>2868947</PMCID>
+    <PMCID>2289825</PMCID>
+    <PMCID>1829041</PMCID>
+    <PMCID>1317365</PMCID>
+    <PMCID>522128</PMCID>
+    <PMCID>308963</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>94815</PMCID>
+    <PMCID>24473</PMCID>
+    <PMCID>121377</PMCID>
+    <PMCID>189254</PMCID>
+    <PMCID>182666</PMCID>
+    <PMCID>202812</PMCID>
+    <PMCID>203926</PMCID>
+    <id>2741</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Micrococcus niger
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Micrococcus niger" Hall 1930
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Peptococcus niger (Hall 1930) Kluyver and van Niel 1936
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27731
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27731
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20475
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20475
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6506
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6506
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11805
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11805
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 7953
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:7953
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Peptococcus niger</scientificName>
+</pathogen>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8066239</PMCID>
+    <PMCID>7862949</PMCID>
+    <PMCID>7116391</PMCID>
+    <PMCID>7382747</PMCID>
+    <PMCID>7397319</PMCID>
+    <PMCID>7347537</PMCID>
+    <PMCID>7266124</PMCID>
+    <PMCID>6606873</PMCID>
+    <PMCID>6459830</PMCID>
+    <PMCID>6300134</PMCID>
+    <PMCID>5827535</PMCID>
+    <PMCID>5479939</PMCID>
+    <PMCID>5024735</PMCID>
+    <PMCID>5014874</PMCID>
+    <PMCID>4993586</PMCID>
+    <PMCID>4829630</PMCID>
+    <PMCID>4529907</PMCID>
+    <PMCID>4500986</PMCID>
+    <PMCID>4306415</PMCID>
+    <PMCID>3993313</PMCID>
+    <PMCID>3728045</PMCID>
+    <PMCID>3416362</PMCID>
+    <PMCID>2953039</PMCID>
+    <PMCID>2935046</PMCID>
+    <PMCID>7419358</PMCID>
+    <PMCID>2094118</PMCID>
+    <PMCID>1352251</PMCID>
+    <PMCID>1233920</PMCID>
+    <PMCID>305346</PMCID>
+    <PMCID>139515</PMCID>
+    <PMCID>88529</PMCID>
+    <PMCID>92419</PMCID>
+    <PMCID>59212</PMCID>
+    <PMCID>222388</PMCID>
+    <PMCID>1185759</PMCID>
+    <PMCID>235402</PMCID>
+    <PMCID>276498</PMCID>
+    <PMCID>315764</PMCID>
+    <PMCID>278049</PMCID>
+    <PMCID>278048</PMCID>
+    <PMCID>277768</PMCID>
+    <id>45465</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus indigoferus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Chromobacterium indigoferum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas indigofera
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus indigoferus" Voges 1893
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas indigofera (Voges 1893) Migula 1900 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Vogesella indigofera (Voges 1893) Grimes et al. 1997
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19706
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19706
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:6867
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 2873
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 32860
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:2873
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:32860
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103306
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103306
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 3303
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:3303
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 6867
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:6867
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas indigofera</scientificName>
+</pathogen>

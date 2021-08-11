@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2832002</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 1,13,23:g,z51:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2734847</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 13:g,z51:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2729103</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 41:z4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2729102</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 56:z4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2691148</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 40:z4,z24:</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2691147</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 13,23:gz51:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577202</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar [1],13,23:g,z51:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577201</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 63:z4,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577200</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 63:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577199</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 63:z36:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577198</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 62:z4,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577190</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 53:z4,z24:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577189</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 53:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577188</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 53:z4,z23,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577182</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 50:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577166</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 44:z4,z23,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577156</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 41:z4,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577150</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 40:z4,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577148</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 40:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2577145</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 38:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2559599</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 35:z4,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2489499</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 40:z36:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2172529</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 51:g,z51:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2034674</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 47:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1974320</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 50:r:z</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1967630</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 56:z4,z23,(z32):-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1967584</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 48:z4,z24:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1967583</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 48:z4,z23,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1967581</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z32:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1965110</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar Ar 10a10b:17,20</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1965108</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar Ar 1,3:1,3,11</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1299295</id>
+        <scientificName>Salmonella enterica subsp. arizonae str. CFSAN000561</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1299294</id>
+        <scientificName>Salmonella enterica subsp. arizonae str. CFSAN000560</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1243608</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 63:g,z51:- str. SA19981204
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 63:g,z51:- str. So 20/20</scientificName>
+        </subSpecies>
+        <id>1243607</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 63:g,z51:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1243606</id>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 53:-:- str. SA20100345</scientificName>
+        </subSpecies>
+        <id>1243605</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 53:-:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1444295</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica ssp. IIIa serovar 18:z4,z23:- str. CVM 43482
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM 43482</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1444294</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica ssp. IIIa serovar 18:z4,z23:- str. CVM 43481
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM 43481</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1444293</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica ssp. IIIa serovar 18:z4,z23:- str. CVM 43480
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM 43480</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1444292</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica ssp. IIIa serovar 18:z4,z23:- str. CVM 43479
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM 43479</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1444291</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica ssp. IIIa serovar 18:z4,z23:- str. CVM 43478
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM 43478</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395122</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N31597
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N31597</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395121</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N29354
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N29354</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395120</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N26928
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N26928</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395119</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N26626
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N26626</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395118</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N26625
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N26625</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395117</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N26624
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N26624</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395116</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N25373
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N25373</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395115</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N23850
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N23850</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395114</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N20028
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N20028</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395113</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N18554
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N18554</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395112</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. N18503
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N18503</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395111</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N18383
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N18383</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395110</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N9135
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N9135</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395109</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. N7307
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N7307</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395108</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N6509
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N6509</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395107</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N4410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N4410</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395106</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N27
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N27</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395105</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. N5
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM N5</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395104</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. 32457
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM 32457</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1395103</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4:z23:- str. 32450
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. CVM 32450</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1192841</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizona serovar 18:z4,z32:- str. 75773
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. 6765
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z32:- str. 75773</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1192840</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizona serovar 18:z4,z23:- str. 91293
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. MH39415
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:- str. 91293</scientificName>
+        </subSpecies>
+        <id>1192839</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 18:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1192838</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizona serovar Untypable str. 73711
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae str. MH87398
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Salmonella enterica subsp. arizonae serovar Untypable str. 73711</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1160727</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 56:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1160726</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 53:g,z51:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1160725</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 17:z29:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1151167</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 48:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1173778</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Salmonella enterica subsp. arizonae serovar 41:z4,z23:- strain 01-0089
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 41:z4,z23:- str. 01-0089</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>523833</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Salmonella enterica subsp. arizonae serovar 41:z4,z23:- strain ATCC BAA-1577
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Salmonella enterica subsp. arizonae str. ATCC BAA-1577
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 41:z4,z23:- str. ATCC BAA-1577</scientificName>
+        </subSpecies>
+        <id>1151166</id>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 41:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1114956</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Salmonella enterica subsp. arizonae strain SARC 5
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Salmonella enterica subsp. arizonae str. SARC 5</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>59243</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica IIIa 51:z4,z23:-
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 51:z4,z23:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1386967</id>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 62:z36:- str. RKS2983</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>1245396</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica subsp. arizonae serovar 62:z36:- str. SA20104390
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 62:z36:- str. 5335/86</scientificName>
+        </subSpecies>
+        <id>41515</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica IIIa 62:z36:-
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica serovar IIIa 62:z36:-
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 62:z36:--
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 62:z36:-</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <GeneBankPMID>19495420</GeneBankPMID>
+            <id>882884</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Salmonella enterica subsp. arizonae serovar 62:z4,z23:- strain RSK2980
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 62:z4,z23:-- str. RSK2980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Salmonella enterica subsp. arizonae serovar 62:z4,z23:- str. RSK2980</scientificName>
+        </subSpecies>
+        <id>41514</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica IIIa 62:z4,z23:-
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica serovar IIIa 62:z4,z23:-
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica IIIa 62:z4,z23:--
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica serovar IIIa 62:z4,z23:--
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae serovar 62:z4,z23:--
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Salmonella enterica subsp. arizonae serovar 62:z4,z23:-</scientificName>
+    </subSpecies>
+    <PMCID>8000949</PMCID>
+    <PMCID>7911546</PMCID>
+    <PMCID>7704999</PMCID>
+    <PMCID>7239889</PMCID>
+    <PMCID>6952724</PMCID>
+    <PMCID>6989312</PMCID>
+    <PMCID>6916216</PMCID>
+    <PMCID>7149466</PMCID>
+    <PMCID>6940930</PMCID>
+    <PMCID>6694378</PMCID>
+    <PMCID>6596283</PMCID>
+    <PMCID>6627525</PMCID>
+    <PMCID>6313829</PMCID>
+    <PMCID>6310278</PMCID>
+    <PMCID>6313929</PMCID>
+    <PMCID>6544609</PMCID>
+    <PMCID>6044272</PMCID>
+    <PMCID>5865699</PMCID>
+    <PMCID>5682812</PMCID>
+    <PMCID>5585637</PMCID>
+    <PMCID>7009822</PMCID>
+    <PMCID>7010140</PMCID>
+    <PMCID>5483936</PMCID>
+    <PMCID>5603207</PMCID>
+    <PMCID>7115761</PMCID>
+    <PMCID>5429938</PMCID>
+    <PMCID>5366191</PMCID>
+    <PMCID>5378307</PMCID>
+    <PMCID>5148916</PMCID>
+    <PMCID>5146876</PMCID>
+    <PMCID>5051356</PMCID>
+    <PMCID>5021763</PMCID>
+    <PMCID>7811793</PMCID>
+    <PMCID>4574458</PMCID>
+    <PMCID>4561355</PMCID>
+    <PMCID>7158332</PMCID>
+    <PMCID>4511000</PMCID>
+    <PMCID>4790687</PMCID>
+    <PMCID>4569048</PMCID>
+    <PMCID>4180312</PMCID>
+    <PMCID>3948747</PMCID>
+    <PMCID>3978493</PMCID>
+    <PMCID>7140293</PMCID>
+    <PMCID>3794984</PMCID>
+    <PMCID>3805878</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3735181</PMCID>
+    <PMCID>3531781</PMCID>
+    <PMCID>3354558</PMCID>
+    <PMCID>3356629</PMCID>
+    <PMCID>3210988</PMCID>
+    <PMCID>3319919</PMCID>
+    <PMCID>3043473</PMCID>
+    <PMCID>4700925</PMCID>
+    <PMCID>7173518</PMCID>
+    <PMCID>2916566</PMCID>
+    <PMCID>2877731</PMCID>
+    <PMCID>3030977</PMCID>
+    <PMCID>2812257</PMCID>
+    <PMCID>2933946</PMCID>
+    <PMCID>3134310</PMCID>
+    <PMCID>2587647</PMCID>
+    <PMCID>6074484</PMCID>
+    <PMCID>7103133</PMCID>
+    <PMCID>7173613</PMCID>
+    <PMCID>1618971</PMCID>
+    <PMCID>7128465</PMCID>
+    <PMCID>154750</PMCID>
+    <PMCID>154679</PMCID>
+    <PMCID>2567559</PMCID>
+    <PMCID>7158355</PMCID>
+    <PMCID>2804543</PMCID>
+    <PMCID>1186972</PMCID>
+    <PMCID>86943</PMCID>
+    <PMCID>97480</PMCID>
+    <PMCID>94084</PMCID>
+    <PMCID>95737</PMCID>
+    <PMCID>85145</PMCID>
+    <PMCID>106047</PMCID>
+    <PMCID>107602</PMCID>
+    <PMCID>104958</PMCID>
+    <PMCID>1717353</PMCID>
+    <PMCID>7147860</PMCID>
+    <PMCID>229470</PMCID>
+    <PMCID>2271684</PMCID>
+    <PMCID>176853</PMCID>
+    <PMCID>2272194</PMCID>
+    <PMCID>1002543</PMCID>
+    <PMCID>269608</PMCID>
+    <PMCID>1480610</PMCID>
+    <PMCID>239586</PMCID>
+    <PMCID>242365</PMCID>
+    <PMCID>272578</PMCID>
+    <PMCID>351288</PMCID>
+    <PMCID>244163</PMCID>
+    <PMCID>273922</PMCID>
+    <PMCID>1146243</PMCID>
+    <PMCID>243507</PMCID>
+    <PMCID>1789459</PMCID>
+    <PMCID>170822</PMCID>
+    <PMCID>170708</PMCID>
+    <PMCID>422892</PMCID>
+    <PMCID>1319781</PMCID>
+    <PMCID>251742</PMCID>
+    <PMCID>380678</PMCID>
+    <PMCID>276241</PMCID>
+    <MeSHPMID>33205175</MeSHPMID>
+    <MeSHPMID>32051382</MeSHPMID>
+    <MeSHPMID>29205848</MeSHPMID>
+    <MeSHPMID>29095293</MeSHPMID>
+    <MeSHPMID>28838777</MeSHPMID>
+    <MeSHPMID>28795464</MeSHPMID>
+    <MeSHPMID>28770174</MeSHPMID>
+    <MeSHPMID>28602385</MeSHPMID>
+    <MeSHPMID>30179410</MeSHPMID>
+    <MeSHPMID>27938338</MeSHPMID>
+    <MeSHPMID>27210431</MeSHPMID>
+    <MeSHPMID>26672452</MeSHPMID>
+    <MeSHPMID>25715871</MeSHPMID>
+    <MeSHPMID>25390050</MeSHPMID>
+    <MeSHPMID>24795986</MeSHPMID>
+    <MeSHPMID>23986302</MeSHPMID>
+    <MeSHPMID>23625251</MeSHPMID>
+    <MeSHPMID>23577627</MeSHPMID>
+    <MeSHPMID>23158072</MeSHPMID>
+    <MeSHPMID>22503800</MeSHPMID>
+    <MeSHPMID>21861361</MeSHPMID>
+    <MeSHPMID>21620993</MeSHPMID>
+    <MeSHPMID>20974465</MeSHPMID>
+    <MeSHPMID>20529326</MeSHPMID>
+    <MeSHPMID>20063610</MeSHPMID>
+    <MeSHPMID>20032253</MeSHPMID>
+    <MeSHPMID>19631101</MeSHPMID>
+    <MeSHPMID>19621572</MeSHPMID>
+    <MeSHPMID>19621060</MeSHPMID>
+    <MeSHPMID>19395336</MeSHPMID>
+    <MeSHPMID>19229335</MeSHPMID>
+    <MeSHPMID>19218378</MeSHPMID>
+    <MeSHPMID>18923008</MeSHPMID>
+    <MeSHPMID>18807981</MeSHPMID>
+    <MeSHPMID>17896960</MeSHPMID>
+    <MeSHPMID>17558841</MeSHPMID>
+    <MeSHPMID>17548482</MeSHPMID>
+    <MeSHPMID>17319129</MeSHPMID>
+    <MeSHPMID>17178162</MeSHPMID>
+    <MeSHPMID>17157391</MeSHPMID>
+    <MeSHPMID>16845603</MeSHPMID>
+    <MeSHPMID>16617998</MeSHPMID>
+    <MeSHPMID>16500793</MeSHPMID>
+    <MeSHPMID>16473412</MeSHPMID>
+    <MeSHPMID>16468338</MeSHPMID>
+    <MeSHPMID>16355860</MeSHPMID>
+    <MeSHPMID>16351033</MeSHPMID>
+    <MeSHPMID>16351025</MeSHPMID>
+    <MeSHPMID>16188871</MeSHPMID>
+    <MeSHPMID>16089070</MeSHPMID>
+    <MeSHPMID>15701053</MeSHPMID>
+    <MeSHPMID>15568792</MeSHPMID>
+    <MeSHPMID>15453123</MeSHPMID>
+    <MeSHPMID>15283421</MeSHPMID>
+    <MeSHPMID>15220915</MeSHPMID>
+    <MeSHPMID>15111836</MeSHPMID>
+    <MeSHPMID>15078598</MeSHPMID>
+    <MeSHPMID>15072243</MeSHPMID>
+    <MeSHPMID>14662995</MeSHPMID>
+    <MeSHPMID>12564525</MeSHPMID>
+    <MeSHPMID>12453217</MeSHPMID>
+    <MeSHPMID>12011028</MeSHPMID>
+    <MeSHPMID>11906499</MeSHPMID>
+    <MeSHPMID>11820989</MeSHPMID>
+    <MeSHPMID>10928566</MeSHPMID>
+    <MeSHPMID>10738434</MeSHPMID>
+    <MeSHPMID>10426450</MeSHPMID>
+    <MeSHPMID>9951310</MeSHPMID>
+    <MeSHPMID>9876856</MeSHPMID>
+    <MeSHPMID>9773579</MeSHPMID>
+    <MeSHPMID>9391983</MeSHPMID>
+    <MeSHPMID>9389242</MeSHPMID>
+    <MeSHPMID>9365948</MeSHPMID>
+    <MeSHPMID>9365944</MeSHPMID>
+    <MeSHPMID>10325636</MeSHPMID>
+    <MeSHPMID>8939035</MeSHPMID>
+    <MeSHPMID>8910746</MeSHPMID>
+    <MeSHPMID>8821392</MeSHPMID>
+    <MeSHPMID>7603817</MeSHPMID>
+    <MeSHPMID>7856034</MeSHPMID>
+    <MeSHPMID>7518746</MeSHPMID>
+    <MeSHPMID>7512444</MeSHPMID>
+    <MeSHPMID>8229147</MeSHPMID>
+    <MeSHPMID>8495432</MeSHPMID>
+    <MeSHPMID>7682473</MeSHPMID>
+    <MeSHPMID>1448906</MeSHPMID>
+    <MeSHPMID>1394306</MeSHPMID>
+    <MeSHPMID>1556431</MeSHPMID>
+    <MeSHPMID>1547841</MeSHPMID>
+    <MeSHPMID>1805305</MeSHPMID>
+    <MeSHPMID>1798864</MeSHPMID>
+    <MeSHPMID>1781188</MeSHPMID>
+    <MeSHPMID>1757933</MeSHPMID>
+    <MeSHPMID>1867778</MeSHPMID>
+    <MeSHPMID>2029255</MeSHPMID>
+    <MeSHPMID>2099864</MeSHPMID>
+    <MeSHPMID>2219898</MeSHPMID>
+    <MeSHPMID>2372004</MeSHPMID>
+    <MeSHPMID>2204653</MeSHPMID>
+    <MeSHPMID>2362612</MeSHPMID>
+    <MeSHPMID>2359909</MeSHPMID>
+    <MeSHPMID>1696169</MeSHPMID>
+    <MeSHPMID>2346566</MeSHPMID>
+    <MeSHPMID>2305906</MeSHPMID>
+    <MeSHPMID>2406020</MeSHPMID>
+    <MeSHPMID>2312681</MeSHPMID>
+    <MeSHPMID>2781696</MeSHPMID>
+    <MeSHPMID>2658711</MeSHPMID>
+    <MeSHPMID>2929568</MeSHPMID>
+    <MeSHPMID>2919944</MeSHPMID>
+    <MeSHPMID>3365088</MeSHPMID>
+    <MeSHPMID>3043409</MeSHPMID>
+    <MeSHPMID>2458736</MeSHPMID>
+    <MeSHPMID>3378242</MeSHPMID>
+    <MeSHPMID>3210998</MeSHPMID>
+    <MeSHPMID>2449220</MeSHPMID>
+    <MeSHPMID>2447898</MeSHPMID>
+    <MeSHPMID>3711296</MeSHPMID>
+    <MeSHPMID>3703777</MeSHPMID>
+    <MeSHPMID>3928238</MeSHPMID>
+    <MeSHPMID>4008308</MeSHPMID>
+    <MeSHPMID>4001074</MeSHPMID>
+    <MeSHPMID>6330037</MeSHPMID>
+    <MeSHPMID>6721487</MeSHPMID>
+    <MeSHPMID>6728711</MeSHPMID>
+    <MeSHPMID>6710803</MeSHPMID>
+    <MeSHPMID>6675986</MeSHPMID>
+    <MeSHPMID>6350450</MeSHPMID>
+    <MeSHPMID>6639554</MeSHPMID>
+    <MeSHPMID>6357185</MeSHPMID>
+    <MeSHPMID>6682646</MeSHPMID>
+    <MeSHPMID>6763026</MeSHPMID>
+    <MeSHPMID>6924821</MeSHPMID>
+    <MeSHPMID>7136351</MeSHPMID>
+    <MeSHPMID>6757129</MeSHPMID>
+    <MeSHPMID>6756370</MeSHPMID>
+    <MeSHPMID>7103485</MeSHPMID>
+    <MeSHPMID>7103473</MeSHPMID>
+    <MeSHPMID>7044975</MeSHPMID>
+    <MeSHPMID>7076307</MeSHPMID>
+    <MeSHPMID>6895801</MeSHPMID>
+    <MeSHPMID>7185270</MeSHPMID>
+    <MeSHPMID>6815861</MeSHPMID>
+    <MeSHPMID>6751222</MeSHPMID>
+    <MeSHPMID>6215839</MeSHPMID>
+    <MeSHPMID>7034372</MeSHPMID>
+    <MeSHPMID>7034371</MeSHPMID>
+    <MeSHPMID>7239142</MeSHPMID>
+    <MeSHPMID>7259156</MeSHPMID>
+    <MeSHPMID>7332118</MeSHPMID>
+    <MeSHPMID>7212900</MeSHPMID>
+    <MeSHPMID>7257117</MeSHPMID>
+    <MeSHPMID>7451315</MeSHPMID>
+    <MeSHPMID>7252481</MeSHPMID>
+    <MeSHPMID>7430397</MeSHPMID>
+    <MeSHPMID>7447834</MeSHPMID>
+    <MeSHPMID>7195690</MeSHPMID>
+    <MeSHPMID>7235689</MeSHPMID>
+    <MeSHPMID>6947295</MeSHPMID>
+    <MeSHPMID>6160372</MeSHPMID>
+    <MeSHPMID>387875</MeSHPMID>
+    <MeSHPMID>119002</MeSHPMID>
+    <MeSHPMID>114994</MeSHPMID>
+    <MeSHPMID>506539</MeSHPMID>
+    <MeSHPMID>39499</MeSHPMID>
+    <MeSHPMID>452764</MeSHPMID>
+    <MeSHPMID>298930</MeSHPMID>
+    <MeSHPMID>735550</MeSHPMID>
+    <MeSHPMID>735549</MeSHPMID>
+    <MeSHPMID>747789</MeSHPMID>
+    <MeSHPMID>709505</MeSHPMID>
+    <MeSHPMID>100055</MeSHPMID>
+    <MeSHPMID>675342</MeSHPMID>
+    <MeSHPMID>637401</MeSHPMID>
+    <MeSHPMID>646763</MeSHPMID>
+    <MeSHPMID>415087</MeSHPMID>
+    <MeSHPMID>287112</MeSHPMID>
+    <MeSHPMID>610247</MeSHPMID>
+    <MeSHPMID>919721</MeSHPMID>
+    <MeSHPMID>343779</MeSHPMID>
+    <MeSHPMID>286364</MeSHPMID>
+    <MeSHPMID>1078086</MeSHPMID>
+    <MeSHPMID>14279076</MeSHPMID>
+    <MeSHPMID>14293400</MeSHPMID>
+    <MeSHPMID>13681966</MeSHPMID>
+    <MeSHPMID>13534080</MeSHPMID>
+    <MeSHPMID>13509329</MeSHPMID>
+    <id>59203</id>
+    <meSHTree>B03.440.450.425.800.100, B03.660.250.150.710.050</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  "Salmonella arizona" (sic) Kauffmann 1940
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Arizona arizonae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Arizona hinshawii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Paracolobactrum arizonae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella arizonae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella cholerae-suis subsp. arizonae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella choleraesuis subsp. arizonae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica IIIa
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica serovar IIIa
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica subsp. IIIa
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Salmonella enterica subsp. Subsp. IIIa
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Arizona arizonae" Kauffmann and Edwards 1952
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Arizona hinshawii" Ewing 1969
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Paracolobactrum arizonae" (Kauffmann 1940) Borman 1957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella arizonae (Borman 1957) Kauffmann 1964 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella choleraesuis subsp. arizonae corrig. (Borman 1957) Le Minor et al. 1985
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. arizonae (Borman 1957) Le Minor and Popoff 1987
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 13314
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:13314
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 6322
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:6322
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 82.30
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:82.30
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 9386
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:9386
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 8297
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:8297
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. enterica serovar Arizona
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. enterica serovar Arizonae
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Salmonella enterica subsp. enterica serovar Salmonella Arizonae
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Salmonella arizonae</scientificName>
+</pathogen>

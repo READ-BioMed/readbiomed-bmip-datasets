@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8231600</PMCID>
+    <PMCID>8229158</PMCID>
+    <PMCID>7814305</PMCID>
+    <PMCID>7561682</PMCID>
+    <PMCID>7563409</PMCID>
+    <PMCID>7378592</PMCID>
+    <PMCID>7225977</PMCID>
+    <PMCID>6842582</PMCID>
+    <PMCID>6594735</PMCID>
+    <PMCID>6371555</PMCID>
+    <PMCID>6360774</PMCID>
+    <PMCID>6337347</PMCID>
+    <PMCID>6130232</PMCID>
+    <PMCID>6116057</PMCID>
+    <PMCID>6042781</PMCID>
+    <PMCID>6009182</PMCID>
+    <PMCID>5483467</PMCID>
+    <PMCID>5462960</PMCID>
+    <PMCID>5451362</PMCID>
+    <PMCID>5376589</PMCID>
+    <PMCID>5209427</PMCID>
+    <PMCID>4959188</PMCID>
+    <PMCID>4896955</PMCID>
+    <PMCID>4746483</PMCID>
+    <PMCID>6638420</PMCID>
+    <PMCID>4513152</PMCID>
+    <PMCID>4457076</PMCID>
+    <PMCID>4681855</PMCID>
+    <PMCID>4271702</PMCID>
+    <PMCID>4047727</PMCID>
+    <PMCID>4103521</PMCID>
+    <PMCID>4059291</PMCID>
+    <PMCID>3961207</PMCID>
+    <PMCID>3820709</PMCID>
+    <PMCID>3859060</PMCID>
+    <PMCID>3753942</PMCID>
+    <PMCID>3318831</PMCID>
+    <PMCID>3232736</PMCID>
+    <PMCID>3927606</PMCID>
+    <PMCID>3168474</PMCID>
+    <PMCID>3000323</PMCID>
+    <PMCID>2901739</PMCID>
+    <PMCID>2901721</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>1892860</PMCID>
+    <PMCID>1762331</PMCID>
+    <PMCID>1392890</PMCID>
+    <PMCID>1169057</PMCID>
+    <PMCID>1082574</PMCID>
+    <PMCID>548051</PMCID>
+    <PMCID>444804</PMCID>
+    <PMCID>427751</PMCID>
+    <PMCID>419931</PMCID>
+    <PMCID>419928</PMCID>
+    <PMCID>154808</PMCID>
+    <PMCID>153513</PMCID>
+    <PMCID>135171</PMCID>
+    <PMCID>123827</PMCID>
+    <PMCID>88367</PMCID>
+    <PMCID>92923</PMCID>
+    <PMCID>92809</PMCID>
+    <PMCID>92185</PMCID>
+    <PMCID>92162</PMCID>
+    <PMCID>92063</PMCID>
+    <PMCID>84982</PMCID>
+    <PMCID>105173</PMCID>
+    <id>60547</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Burkholderia glathei
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Paraburkholderia glathei
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas glathei
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Burkholderia glathei (Zolg and Ottow 1975) Viallard et al. 1998
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Caballeronia glathei (Zolg and Ottow 1975) Dobritsa and Samadpour 2016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Paraburkholderia glathei (Zolg and Ottow 1975) Sawana et al. 2015
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas glathei Zolg and Ottow 1975 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:14190
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 4791
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:4791
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105421
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 50014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:50014
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 10563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:10563
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 14190
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:14190
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::N15
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain N 15
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain N15
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas glathei</scientificName>
+</pathogen>

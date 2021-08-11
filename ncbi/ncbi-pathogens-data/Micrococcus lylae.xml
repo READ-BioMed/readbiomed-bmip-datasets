@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1349773</id>
+        <scientificName>Micrococcus lylae NBRC 15355</scientificName>
+    </subSpecies>
+    <PMCID>8205218</PMCID>
+    <PMCID>8131684</PMCID>
+    <PMCID>8055484</PMCID>
+    <PMCID>7968533</PMCID>
+    <PMCID>7790484</PMCID>
+    <PMCID>7607144</PMCID>
+    <PMCID>7570121</PMCID>
+    <PMCID>7405170</PMCID>
+    <PMCID>7194312</PMCID>
+    <PMCID>7237851</PMCID>
+    <PMCID>7098771</PMCID>
+    <PMCID>7153326</PMCID>
+    <PMCID>6996683</PMCID>
+    <PMCID>6964806</PMCID>
+    <PMCID>6843434</PMCID>
+    <PMCID>7105215</PMCID>
+    <PMCID>6462969</PMCID>
+    <PMCID>6328416</PMCID>
+    <PMCID>6348703</PMCID>
+    <PMCID>6562133</PMCID>
+    <PMCID>6321868</PMCID>
+    <PMCID>6502721</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6111453</PMCID>
+    <PMCID>5771138</PMCID>
+    <PMCID>5691115</PMCID>
+    <PMCID>5574912</PMCID>
+    <PMCID>5440526</PMCID>
+    <PMCID>5439730</PMCID>
+    <PMCID>5117858</PMCID>
+    <PMCID>5041547</PMCID>
+    <PMCID>7115340</PMCID>
+    <PMCID>4788660</PMCID>
+    <PMCID>4873843</PMCID>
+    <PMCID>4692301</PMCID>
+    <PMCID>4607249</PMCID>
+    <PMCID>5198925</PMCID>
+    <PMCID>4415217</PMCID>
+    <PMCID>4241516</PMCID>
+    <PMCID>4226521</PMCID>
+    <PMCID>4042771</PMCID>
+    <PMCID>3997747</PMCID>
+    <PMCID>4218971</PMCID>
+    <PMCID>3957746</PMCID>
+    <PMCID>3957745</PMCID>
+    <PMCID>3877890</PMCID>
+    <PMCID>3843677</PMCID>
+    <PMCID>3755302</PMCID>
+    <PMCID>3719611</PMCID>
+    <PMCID>3728593</PMCID>
+    <PMCID>3701599</PMCID>
+    <PMCID>3697712</PMCID>
+    <PMCID>3646745</PMCID>
+    <PMCID>7086686</PMCID>
+    <PMCID>3424549</PMCID>
+    <PMCID>6268508</PMCID>
+    <PMCID>3147777</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>7079867</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>3062520</PMCID>
+    <PMCID>3056131</PMCID>
+    <PMCID>2832357</PMCID>
+    <PMCID>5868336</PMCID>
+    <PMCID>2753319</PMCID>
+    <PMCID>1829132</PMCID>
+    <PMCID>1479175</PMCID>
+    <PMCID>1393139</PMCID>
+    <PMCID>1287636</PMCID>
+    <PMCID>1181815</PMCID>
+    <PMCID>1065155</PMCID>
+    <PMCID>525259</PMCID>
+    <PMCID>525113</PMCID>
+    <PMCID>520913</PMCID>
+    <PMCID>443551</PMCID>
+    <PMCID>193837</PMCID>
+    <PMCID>55753</PMCID>
+    <PMCID>86826</PMCID>
+    <PMCID>106835</PMCID>
+    <PMCID>104596</PMCID>
+    <PMCID>106097</PMCID>
+    <id>1273</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Micrococcus lylae Kloos et al. 1974 (Approved Lists 1980) emend Wieser et al. 2002
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Micrococcus lylae Kloos et al. 1974 emend. Wieser et al. 2002 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27566
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27566
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:14218
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 33027
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:33027
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 81.70
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:81.70
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20315
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20315
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IEGM 392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IEGM:392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 11572
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:11572
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 14218
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:14218
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM B-1815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:B-1815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:VKM:B:1815
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Micrococcus lylae</scientificName>
+</pathogen>

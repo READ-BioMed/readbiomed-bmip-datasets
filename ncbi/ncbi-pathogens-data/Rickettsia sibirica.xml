@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>1130827</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Rickettsia sibirica BJ-90
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia sibirica sibirica BJ-90
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia sibirica subsp. sibirica str. BJ-90
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia sibirica subsp. sibirica strain BJ-90
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Rickettsia sibirica subsp. sibirica BJ-90</scientificName>
+        </subSpecies>
+        <id>1144281</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Rickettsia sibirica subsp. sibirica" Zdrodovskii 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rickettsia sibirica subsp. sibirica</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3415449</PMCID>
+        <PMCID>262239</PMCID>
+        <id>272951</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia sibirica str. 246
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia sibirica strain 246
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rickettsia sibirica 246</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>1144280</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Rickettsia sibirica subsp. mongolitimonae ATCC VR-1526
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rickettsia sp. HA-91
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia sibirica subsp. mongolitimonae str. HA-91
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia sibirica subsp. mongolitimonae strain HA-91
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rickettsia HA-91
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>Rickettsia sibirica subsp. mongolitimonae HA-91</scientificName>
+        </subSpecies>
+        <PMCID>7566270</PMCID>
+        <PMCID>7496946</PMCID>
+        <PMCID>6032028</PMCID>
+        <PMCID>5954086</PMCID>
+        <PMCID>5850440</PMCID>
+        <PMCID>4540899</PMCID>
+        <PMCID>3524767</PMCID>
+        <PMCID>3415449</PMCID>
+        <PMCID>4001510</PMCID>
+        <PMCID>3205642</PMCID>
+        <PMCID>2570842</PMCID>
+        <PMCID>2570837</PMCID>
+        <PMCID>2570829</PMCID>
+        <PMCID>2870710</PMCID>
+        <PMCID>1563606</PMCID>
+        <PMCID>1435909</PMCID>
+        <PMCID>1265907</PMCID>
+        <PMCID>1169122</PMCID>
+        <PMCID>440600</PMCID>
+        <PMCID>425577</PMCID>
+        <PMCID>3031104</PMCID>
+        <PMCID>308961</PMCID>
+        <PMCID>153861</PMCID>
+        <PMCID>130794</PMCID>
+        <PMCID>3369584</PMCID>
+        <PMCID>87418</PMCID>
+        <PMCID>2640873</PMCID>
+        <PMCID>105641</PMCID>
+        <PMCID>104656</PMCID>
+        <id>45261</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Rickettsia mongolotimonae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rickettsia sibirica mongolotimonae
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Rickettsia mongolotimonae" Yu et al. 1993
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Rickettsia sibirica mongolotimonae" Fournier and Raoult 2004
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Rickettsia sibirica subsp. mongolitimonae" Fournier et al. 2006
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC VR-1526
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:VR-1526
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:ATCC:VR:1526
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::HA-91
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain HA-91
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rickettsia sibirica subsp. mongolitimonae</scientificName>
+    </subSpecies>
+    <PMCID>8233880</PMCID>
+    <PMCID>8209862</PMCID>
+    <PMCID>8084477</PMCID>
+    <PMCID>8054388</PMCID>
+    <PMCID>7994328</PMCID>
+    <PMCID>7938463</PMCID>
+    <PMCID>7960665</PMCID>
+    <PMCID>7888606</PMCID>
+    <PMCID>7820535</PMCID>
+    <PMCID>7760173</PMCID>
+    <PMCID>7780643</PMCID>
+    <PMCID>7502793</PMCID>
+    <PMCID>7485464</PMCID>
+    <PMCID>7471206</PMCID>
+    <PMCID>7303988</PMCID>
+    <PMCID>7296240</PMCID>
+    <PMCID>7179689</PMCID>
+    <PMCID>7238049</PMCID>
+    <PMCID>7093127</PMCID>
+    <PMCID>6986838</PMCID>
+    <PMCID>6983917</PMCID>
+    <PMCID>6935940</PMCID>
+    <PMCID>7168670</PMCID>
+    <PMCID>6711524</PMCID>
+    <PMCID>6676935</PMCID>
+    <PMCID>6500025</PMCID>
+    <PMCID>6440996</PMCID>
+    <PMCID>7151788</PMCID>
+    <PMCID>7148598</PMCID>
+    <PMCID>6293579</PMCID>
+    <PMCID>6257923</PMCID>
+    <PMCID>7140251</PMCID>
+    <PMCID>6160203</PMCID>
+    <PMCID>7094594</PMCID>
+    <PMCID>6161089</PMCID>
+    <PMCID>6033388</PMCID>
+    <PMCID>6047601</PMCID>
+    <PMCID>6032028</PMCID>
+    <PMCID>6085799</PMCID>
+    <PMCID>5975566</PMCID>
+    <PMCID>5954086</PMCID>
+    <PMCID>5937841</PMCID>
+    <PMCID>5925019</PMCID>
+    <PMCID>5916866</PMCID>
+    <PMCID>5881050</PMCID>
+    <PMCID>5789838</PMCID>
+    <PMCID>5857161</PMCID>
+    <PMCID>5708254</PMCID>
+    <PMCID>5717096</PMCID>
+    <PMCID>6238707</PMCID>
+    <PMCID>5660903</PMCID>
+    <PMCID>5817765</PMCID>
+    <PMCID>5512508</PMCID>
+    <PMCID>5850440</PMCID>
+    <PMCID>5404514</PMCID>
+    <PMCID>5394329</PMCID>
+    <PMCID>5344524</PMCID>
+    <PMCID>6238814</PMCID>
+    <PMCID>5298912</PMCID>
+    <PMCID>7152229</PMCID>
+    <PMCID>5062770</PMCID>
+    <PMCID>5022169</PMCID>
+    <PMCID>5014257</PMCID>
+    <PMCID>4888597</PMCID>
+    <PMCID>4861502</PMCID>
+    <PMCID>4740946</PMCID>
+    <PMCID>4714870</PMCID>
+    <PMCID>4700674</PMCID>
+    <PMCID>4870934</PMCID>
+    <PMCID>4574146</PMCID>
+    <PMCID>4540899</PMCID>
+    <PMCID>4813395</PMCID>
+    <PMCID>4469589</PMCID>
+    <PMCID>4404102</PMCID>
+    <PMCID>4365196</PMCID>
+    <PMCID>4350562</PMCID>
+    <PMCID>4342797</PMCID>
+    <PMCID>4322220</PMCID>
+    <PMCID>4261526</PMCID>
+    <PMCID>4230250</PMCID>
+    <PMCID>4165615</PMCID>
+    <PMCID>4065002</PMCID>
+    <PMCID>4568984</PMCID>
+    <PMCID>4015588</PMCID>
+    <PMCID>3966388</PMCID>
+    <PMCID>4004163</PMCID>
+    <PMCID>3962967</PMCID>
+    <PMCID>3911462</PMCID>
+    <PMCID>3910909</PMCID>
+    <PMCID>3946858</PMCID>
+    <PMCID>3923375</PMCID>
+    <PMCID>3811236</PMCID>
+    <PMCID>4232316</PMCID>
+    <PMCID>3688537</PMCID>
+    <PMCID>3640964</PMCID>
+    <PMCID>3660460</PMCID>
+    <PMCID>3621693</PMCID>
+    <PMCID>4328014</PMCID>
+    <PMCID>3559049</PMCID>
+    <PMCID>3559030</PMCID>
+    <PMCID>3557878</PMCID>
+    <PMCID>3524767</PMCID>
+    <PMCID>3569577</PMCID>
+    <PMCID>3415449</PMCID>
+    <PMCID>3398393</PMCID>
+    <PMCID>3376802</PMCID>
+    <PMCID>4001937</PMCID>
+    <PMCID>3348046</PMCID>
+    <PMCID>3387800</PMCID>
+    <PMCID>3347047</PMCID>
+    <PMCID>3347044</PMCID>
+    <PMCID>3295807</PMCID>
+    <PMCID>4001510</PMCID>
+    <PMCID>3232955</PMCID>
+    <PMCID>3333180</PMCID>
+    <PMCID>3205642</PMCID>
+    <PMCID>3426327</PMCID>
+    <PMCID>3163874</PMCID>
+    <PMCID>3147491</PMCID>
+    <PMCID>3129645</PMCID>
+    <PMCID>3043474</PMCID>
+    <PMCID>7332235</PMCID>
+    <PMCID>7121989</PMCID>
+    <PMCID>7119992</PMCID>
+    <PMCID>2939048</PMCID>
+    <PMCID>3294977</PMCID>
+    <PMCID>2966063</PMCID>
+    <PMCID>2914405</PMCID>
+    <PMCID>2815030</PMCID>
+    <PMCID>3429864</PMCID>
+    <PMCID>2775711</PMCID>
+    <PMCID>2928835</PMCID>
+    <PMCID>3076330</PMCID>
+    <PMCID>2614375</PMCID>
+    <PMCID>7115677</PMCID>
+    <PMCID>2635572</PMCID>
+    <PMCID>2570939</PMCID>
+    <PMCID>2570842</PMCID>
+    <PMCID>2570837</PMCID>
+    <PMCID>2570829</PMCID>
+    <PMCID>2374718</PMCID>
+    <PMCID>2045148</PMCID>
+    <PMCID>1950309</PMCID>
+    <PMCID>2526304</PMCID>
+    <PMCID>1951237</PMCID>
+    <PMCID>2870710</PMCID>
+    <PMCID>1594856</PMCID>
+    <PMCID>1563606</PMCID>
+    <PMCID>3291052</PMCID>
+    <PMCID>1489477</PMCID>
+    <PMCID>1482910</PMCID>
+    <PMCID>1475646</PMCID>
+    <PMCID>1403754</PMCID>
+    <PMCID>7128322</PMCID>
+    <PMCID>1414084</PMCID>
+    <PMCID>1265907</PMCID>
+    <PMCID>1248519</PMCID>
+    <PMCID>1166351</PMCID>
+    <PMCID>1169122</PMCID>
+    <PMCID>3320442</PMCID>
+    <PMCID>548371</PMCID>
+    <PMCID>3921681</PMCID>
+    <PMCID>525201</PMCID>
+    <PMCID>440600</PMCID>
+    <PMCID>3323216</PMCID>
+    <PMCID>404608</PMCID>
+    <PMCID>387402</PMCID>
+    <PMCID>373392</PMCID>
+    <PMCID>7130065</PMCID>
+    <PMCID>7129790</PMCID>
+    <PMCID>321730</PMCID>
+    <PMCID>308961</PMCID>
+    <PMCID>165774</PMCID>
+    <PMCID>153861</PMCID>
+    <PMCID>130794</PMCID>
+    <PMCID>96144</PMCID>
+    <PMCID>87418</PMCID>
+    <PMCID>87030</PMCID>
+    <PMCID>2640811</PMCID>
+    <PMCID>91004</PMCID>
+    <PMCID>104819</PMCID>
+    <PMCID>104656</PMCID>
+    <PMCID>2271560</PMCID>
+    <PMCID>265951</PMCID>
+    <PMCID>262626</PMCID>
+    <PMCID>262239</PMCID>
+    <PMCID>263401</PMCID>
+    <id>35793</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rickettsia sibirica Zdrodovskii 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rickettsia sibirica Zdrodovskii 1949 (sic)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC VR-151
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:VR-151
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:ATCC:VR:151
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::2-4-6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::246
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 2-4-6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 246
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rickettsia sibirica</scientificName>
+</pathogen>

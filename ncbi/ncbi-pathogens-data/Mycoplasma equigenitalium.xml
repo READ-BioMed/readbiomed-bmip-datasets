@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1408460</id>
+        <scientificName>Mycoplasma equigenitalium ATCC 29869</scientificName>
+    </subSpecies>
+    <PMCID>7593612</PMCID>
+    <PMCID>7277243</PMCID>
+    <PMCID>7003260</PMCID>
+    <PMCID>5155555</PMCID>
+    <PMCID>4701468</PMCID>
+    <PMCID>4827683</PMCID>
+    <PMCID>3811981</PMCID>
+    <PMCID>3272993</PMCID>
+    <PMCID>1393118</PMCID>
+    <PMCID>1263565</PMCID>
+    <PMCID>1255414</PMCID>
+    <PMCID>1680594</PMCID>
+    <id>114883</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis equigenitalium
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis equigenitalium" (Kirchhoff 1978) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis equigenitalium (Kirchhoff 1978) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma equigenitalium</scientificName>
+</pathogen>

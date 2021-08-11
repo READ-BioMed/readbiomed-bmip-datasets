@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8241107</PMCID>
+    <PMCID>8024317</PMCID>
+    <PMCID>7940357</PMCID>
+    <PMCID>7843640</PMCID>
+    <PMCID>7874004</PMCID>
+    <PMCID>7795093</PMCID>
+    <PMCID>7814964</PMCID>
+    <PMCID>7762179</PMCID>
+    <PMCID>7524391</PMCID>
+    <PMCID>7326993</PMCID>
+    <PMCID>7374468</PMCID>
+    <PMCID>7101465</PMCID>
+    <PMCID>7107015</PMCID>
+    <PMCID>7018652</PMCID>
+    <PMCID>6980539</PMCID>
+    <PMCID>6942587</PMCID>
+    <PMCID>6843303</PMCID>
+    <PMCID>6529760</PMCID>
+    <PMCID>6494805</PMCID>
+    <PMCID>7256699</PMCID>
+    <PMCID>6521584</PMCID>
+    <PMCID>6409603</PMCID>
+    <PMCID>6351737</PMCID>
+    <PMCID>6343587</PMCID>
+    <PMCID>6383446</PMCID>
+    <PMCID>6189184</PMCID>
+    <PMCID>6097822</PMCID>
+    <PMCID>5811566</PMCID>
+    <PMCID>5756443</PMCID>
+    <PMCID>5610236</PMCID>
+    <PMCID>5503224</PMCID>
+    <PMCID>5469791</PMCID>
+    <PMCID>5347038</PMCID>
+    <PMCID>5243800</PMCID>
+    <PMCID>5093618</PMCID>
+    <PMCID>4935709</PMCID>
+    <PMCID>4644646</PMCID>
+    <PMCID>4661625</PMCID>
+    <PMCID>5023258</PMCID>
+    <PMCID>4592850</PMCID>
+    <PMCID>4345388</PMCID>
+    <PMCID>4345380</PMCID>
+    <PMCID>4357207</PMCID>
+    <PMCID>4055539</PMCID>
+    <PMCID>3779574</PMCID>
+    <PMCID>3683743</PMCID>
+    <PMCID>3666980</PMCID>
+    <PMCID>3683749</PMCID>
+    <PMCID>3601261</PMCID>
+    <PMCID>4070681</PMCID>
+    <PMCID>3526185</PMCID>
+    <PMCID>3434740</PMCID>
+    <PMCID>3353274</PMCID>
+    <PMCID>3210952</PMCID>
+    <PMCID>3144851</PMCID>
+    <PMCID>3147374</PMCID>
+    <PMCID>2947603</PMCID>
+    <PMCID>2955665</PMCID>
+    <PMCID>3836582</PMCID>
+    <PMCID>2745777</PMCID>
+    <PMCID>2643568</PMCID>
+    <PMCID>2493168</PMCID>
+    <PMCID>2327212</PMCID>
+    <PMCID>7099242</PMCID>
+    <PMCID>1393179</PMCID>
+    <PMCID>1317317</PMCID>
+    <PMCID>1198933</PMCID>
+    <PMCID>3810630</PMCID>
+    <PMCID>348887</PMCID>
+    <PMCID>309048</PMCID>
+    <PMCID>201051</PMCID>
+    <PMCID>152442</PMCID>
+    <PMCID>123900</PMCID>
+    <PMCID>126675</PMCID>
+    <PMCID>93302</PMCID>
+    <PMCID>92848</PMCID>
+    <PMCID>95181</PMCID>
+    <PMCID>101433</PMCID>
+    <PMCID>91620</PMCID>
+    <PMCID>91483</PMCID>
+    <PMCID>93388</PMCID>
+    <PMCID>107313</PMCID>
+    <PMCID>107090</PMCID>
+    <PMCID>19363</PMCID>
+    <PMCID>201602</PMCID>
+    <PMCID>203246</PMCID>
+    <PMCID>285217</PMCID>
+    <PMCID>315371</PMCID>
+    <PMCID>249875</PMCID>
+    <PMCID>276524</PMCID>
+    <PMCID>315782</PMCID>
+    <PMCID>315581</PMCID>
+    <PMCID>277210</PMCID>
+    <PMCID>283649</PMCID>
+    <PMCID>279261</PMCID>
+    <PMCID>518010</PMCID>
+    <id>304</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas saccharophila
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pelomonas saccharophila (Doudoroff 1940) Xie and Yokota 2005
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas saccharophila Doudoroff 1940 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 15946
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:15946
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2256
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 32988
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:32988
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 2433
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:2433
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 59.18
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:59.18
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 654
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:654
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI 373
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   HAMBI:373
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IAM 14368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IAM:14368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 21181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:21181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2256
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2256
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 103037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:103037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB 46053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCCB:46053
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM B-902
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:B-902
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:VKM:B:902
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas saccharophilia
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas saccharophila</scientificName>
+</pathogen>

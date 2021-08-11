@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1273125</id>
+        <scientificName>Rhodococcus rhodnii LMG 5362</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1219023</id>
+        <scientificName>Rhodococcus rhodnii NBRC 100604</scientificName>
+    </subSpecies>
+    <PMCID>8209734</PMCID>
+    <PMCID>8119515</PMCID>
+    <PMCID>8056039</PMCID>
+    <PMCID>7962003</PMCID>
+    <PMCID>7947236</PMCID>
+    <PMCID>7926433</PMCID>
+    <PMCID>7848085</PMCID>
+    <PMCID>7758234</PMCID>
+    <PMCID>7691439</PMCID>
+    <PMCID>7692377</PMCID>
+    <PMCID>7601444</PMCID>
+    <PMCID>7549230</PMCID>
+    <PMCID>7556092</PMCID>
+    <PMCID>7565714</PMCID>
+    <PMCID>7492717</PMCID>
+    <PMCID>7333248</PMCID>
+    <PMCID>7476999</PMCID>
+    <PMCID>7225584</PMCID>
+    <PMCID>7395624</PMCID>
+    <PMCID>7170479</PMCID>
+    <PMCID>7076131</PMCID>
+    <PMCID>6795462</PMCID>
+    <PMCID>6832604</PMCID>
+    <PMCID>6990399</PMCID>
+    <PMCID>6522061</PMCID>
+    <PMCID>6525022</PMCID>
+    <PMCID>6447187</PMCID>
+    <PMCID>6444547</PMCID>
+    <PMCID>6353840</PMCID>
+    <PMCID>6336832</PMCID>
+    <PMCID>6315101</PMCID>
+    <PMCID>6315137</PMCID>
+    <PMCID>6276417</PMCID>
+    <PMCID>6136693</PMCID>
+    <PMCID>6128222</PMCID>
+    <PMCID>6138416</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6065412</PMCID>
+    <PMCID>6064930</PMCID>
+    <PMCID>6008411</PMCID>
+    <PMCID>5845000</PMCID>
+    <PMCID>5889321</PMCID>
+    <PMCID>5736985</PMCID>
+    <PMCID>5402938</PMCID>
+    <PMCID>5316886</PMCID>
+    <PMCID>5293117</PMCID>
+    <PMCID>5177651</PMCID>
+    <PMCID>5141411</PMCID>
+    <PMCID>5174736</PMCID>
+    <PMCID>5703056</PMCID>
+    <PMCID>4959298</PMCID>
+    <PMCID>6273383</PMCID>
+    <PMCID>7123701</PMCID>
+    <PMCID>4774030</PMCID>
+    <PMCID>4810840</PMCID>
+    <PMCID>4737797</PMCID>
+    <PMCID>4670117</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4672799</PMCID>
+    <PMCID>4640220</PMCID>
+    <PMCID>4619730</PMCID>
+    <PMCID>4618771</PMCID>
+    <PMCID>4415217</PMCID>
+    <PMCID>4375872</PMCID>
+    <PMCID>4368190</PMCID>
+    <PMCID>4350287</PMCID>
+    <PMCID>4326462</PMCID>
+    <PMCID>4307889</PMCID>
+    <PMCID>4465791</PMCID>
+    <PMCID>4258481</PMCID>
+    <PMCID>4154481</PMCID>
+    <PMCID>4126787</PMCID>
+    <PMCID>4032158</PMCID>
+    <PMCID>3935856</PMCID>
+    <PMCID>3886914</PMCID>
+    <PMCID>4091385</PMCID>
+    <PMCID>3821655</PMCID>
+    <PMCID>4001610</PMCID>
+    <PMCID>3707589</PMCID>
+    <PMCID>3681923</PMCID>
+    <PMCID>3606369</PMCID>
+    <PMCID>3593784</PMCID>
+    <PMCID>3899984</PMCID>
+    <PMCID>4001619</PMCID>
+    <PMCID>3457511</PMCID>
+    <PMCID>3454415</PMCID>
+    <PMCID>3438088</PMCID>
+    <PMCID>3358311</PMCID>
+    <PMCID>3344921</PMCID>
+    <PMCID>3403447</PMCID>
+    <PMCID>3318788</PMCID>
+    <PMCID>3221369</PMCID>
+    <PMCID>3462649</PMCID>
+    <PMCID>3282395</PMCID>
+    <PMCID>3117810</PMCID>
+    <PMCID>3064445</PMCID>
+    <PMCID>3006067</PMCID>
+    <PMCID>2875304</PMCID>
+    <PMCID>3768595</PMCID>
+    <PMCID>2824031</PMCID>
+    <PMCID>2695024</PMCID>
+    <PMCID>2635415</PMCID>
+    <PMCID>1852332</PMCID>
+    <PMCID>1287614</PMCID>
+    <PMCID>545729</PMCID>
+    <PMCID>497575</PMCID>
+    <PMCID>126591</PMCID>
+    <PMCID>92421</PMCID>
+    <PMCID>88954</PMCID>
+    <PMCID>98988</PMCID>
+    <PMCID>106808</PMCID>
+    <PMCID>20359</PMCID>
+    <id>38312</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Nocardia rhodnii
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus rhodnii Goodfellow and Alderson 1979
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus rhodnii Goodfellow and Alderson 1979 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 35071
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:35071
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5363
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43336
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43336
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IEGM 555
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IEGM:555
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3203
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3203
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCC A-0203
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCC:A-0203
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5363
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5363
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 100604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:100604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 11279
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB:11279
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 11279
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:11279
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-16535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-16535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-1187
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:1187
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:16535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::N445
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain N445
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rhodococcus rhodnii</scientificName>
+</pathogen>

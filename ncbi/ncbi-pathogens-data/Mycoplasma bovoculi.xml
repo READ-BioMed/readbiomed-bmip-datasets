@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>743966</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma bovoculi ATCC 29104
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma bovoculi str. M165/69
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma bovoculi strain M165/69
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma bovoculi M165/69</scientificName>
+    </subSpecies>
+    <PMCID>7861559</PMCID>
+    <PMCID>7847012</PMCID>
+    <PMCID>7459460</PMCID>
+    <PMCID>7268655</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>6975039</PMCID>
+    <PMCID>7114150</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>5338856</PMCID>
+    <PMCID>7158325</PMCID>
+    <PMCID>3931370</PMCID>
+    <PMCID>3098098</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>2839830</PMCID>
+    <PMCID>1393100</PMCID>
+    <PMCID>1317073</PMCID>
+    <PMCID>1821000</PMCID>
+    <PMCID>126430</PMCID>
+    <PMCID>85820</PMCID>
+    <PMCID>98941</PMCID>
+    <PMCID>1277410</PMCID>
+    <id>45362</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma bovoculi Langford and Leach 1973
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29104
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 21484
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:21484
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10141
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10141
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::M165/69
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain M165/69
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma bovoculi</scientificName>
+</pathogen>

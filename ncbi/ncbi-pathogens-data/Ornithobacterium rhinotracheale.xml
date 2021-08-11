@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1401326</id>
+        <scientificName>Ornithobacterium rhinotracheale H06-030791</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1401325</id>
+        <scientificName>Ornithobacterium rhinotracheale ORT-UMN 88</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1112206</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ornithobacterium rhinotracheale str. BAC-96-8334
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ornithobacterium rhinotracheale strain BAC-96-8334
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ornithobacterium rhinotracheale BAC-96-8334</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1112205</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Ornithobacterium rhinotracheale str. B3263/91
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ornithobacterium rhinotracheale strain B3263/91
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ornithobacterium rhinotracheale B3263/91</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>867902</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Ornithobacterium rhinotracheale LMG 9086
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Ornithobacterium rhinotracheale str. DSM 15997
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Ornithobacterium rhinotracheale strain DSM 15997
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Ornithobacterium rhinotracheale DSM 15997</scientificName>
+    </subSpecies>
+    <PMCID>8232623</PMCID>
+    <PMCID>8173446</PMCID>
+    <PMCID>8160460</PMCID>
+    <PMCID>8151311</PMCID>
+    <PMCID>8096840</PMCID>
+    <PMCID>8072874</PMCID>
+    <PMCID>8071849</PMCID>
+    <PMCID>8006106</PMCID>
+    <PMCID>7970425</PMCID>
+    <PMCID>8010699</PMCID>
+    <PMCID>8009584</PMCID>
+    <PMCID>7843632</PMCID>
+    <PMCID>7768545</PMCID>
+    <PMCID>7991361</PMCID>
+    <PMCID>7763822</PMCID>
+    <PMCID>7761591</PMCID>
+    <PMCID>7704954</PMCID>
+    <PMCID>7453376</PMCID>
+    <PMCID>7479178</PMCID>
+    <PMCID>7460290</PMCID>
+    <PMCID>7598332</PMCID>
+    <PMCID>7341515</PMCID>
+    <PMCID>7267191</PMCID>
+    <PMCID>7298543</PMCID>
+    <PMCID>7237767</PMCID>
+    <PMCID>7232570</PMCID>
+    <PMCID>7222846</PMCID>
+    <PMCID>7245729</PMCID>
+    <PMCID>7223244</PMCID>
+    <PMCID>7006735</PMCID>
+    <PMCID>7157751</PMCID>
+    <PMCID>7587710</PMCID>
+    <PMCID>6971353</PMCID>
+    <PMCID>6989313</PMCID>
+    <PMCID>7107161</PMCID>
+    <PMCID>6925043</PMCID>
+    <PMCID>6882717</PMCID>
+    <PMCID>6823944</PMCID>
+    <PMCID>6812644</PMCID>
+    <PMCID>7149748</PMCID>
+    <PMCID>6738582</PMCID>
+    <PMCID>6721224</PMCID>
+    <PMCID>6702565</PMCID>
+    <PMCID>6727126</PMCID>
+    <PMCID>6864143</PMCID>
+    <PMCID>6585117</PMCID>
+    <PMCID>6510747</PMCID>
+    <PMCID>6491836</PMCID>
+    <PMCID>6495750</PMCID>
+    <PMCID>6838712</PMCID>
+    <PMCID>6838710</PMCID>
+    <PMCID>6411716</PMCID>
+    <PMCID>6397504</PMCID>
+    <PMCID>6483310</PMCID>
+    <PMCID>6364391</PMCID>
+    <PMCID>6421346</PMCID>
+    <PMCID>6300026</PMCID>
+    <PMCID>6296110</PMCID>
+    <PMCID>6377436</PMCID>
+    <PMCID>6245631</PMCID>
+    <PMCID>7149998</PMCID>
+    <PMCID>7185438</PMCID>
+    <PMCID>6116506</PMCID>
+    <PMCID>6505790</PMCID>
+    <PMCID>6066917</PMCID>
+    <PMCID>6029760</PMCID>
+    <PMCID>5981067</PMCID>
+    <PMCID>5993000</PMCID>
+    <PMCID>6021875</PMCID>
+    <PMCID>5884550</PMCID>
+    <PMCID>5876583</PMCID>
+    <PMCID>7149579</PMCID>
+    <PMCID>5704556</PMCID>
+    <PMCID>7151815</PMCID>
+    <PMCID>5656626</PMCID>
+    <PMCID>5637372</PMCID>
+    <PMCID>5638608</PMCID>
+    <PMCID>5554362</PMCID>
+    <PMCID>7172277</PMCID>
+    <PMCID>7477123</PMCID>
+    <PMCID>5534249</PMCID>
+    <PMCID>7010070</PMCID>
+    <PMCID>5266830</PMCID>
+    <PMCID>5322305</PMCID>
+    <PMCID>5251358</PMCID>
+    <PMCID>7386687</PMCID>
+    <PMCID>5192522</PMCID>
+    <PMCID>5024982</PMCID>
+    <PMCID>4941526</PMCID>
+    <PMCID>4936249</PMCID>
+    <PMCID>4864072</PMCID>
+    <PMCID>7127230</PMCID>
+    <PMCID>7158187</PMCID>
+    <PMCID>7442301</PMCID>
+    <PMCID>4904561</PMCID>
+    <PMCID>4734695</PMCID>
+    <PMCID>4706602</PMCID>
+    <PMCID>4644262</PMCID>
+    <PMCID>4542343</PMCID>
+    <PMCID>6281309</PMCID>
+    <PMCID>4326515</PMCID>
+    <PMCID>4777797</PMCID>
+    <PMCID>7111884</PMCID>
+    <PMCID>4334941</PMCID>
+    <PMCID>4334632</PMCID>
+    <PMCID>7152037</PMCID>
+    <PMCID>3998004</PMCID>
+    <PMCID>4188208</PMCID>
+    <PMCID>3811500</PMCID>
+    <PMCID>3801280</PMCID>
+    <PMCID>3811667</PMCID>
+    <PMCID>7135448</PMCID>
+    <PMCID>3739173</PMCID>
+    <PMCID>3570806</PMCID>
+    <PMCID>3424113</PMCID>
+    <PMCID>7087803</PMCID>
+    <PMCID>3187146</PMCID>
+    <PMCID>7169724</PMCID>
+    <PMCID>7152417</PMCID>
+    <PMCID>7086820</PMCID>
+    <PMCID>2772419</PMCID>
+    <PMCID>2687352</PMCID>
+    <PMCID>2667520</PMCID>
+    <PMCID>2533406</PMCID>
+    <PMCID>2442682</PMCID>
+    <PMCID>2224303</PMCID>
+    <PMCID>1287781</PMCID>
+    <PMCID>1230975</PMCID>
+    <PMCID>1261267</PMCID>
+    <PMCID>522087</PMCID>
+    <PMCID>262499</PMCID>
+    <PMCID>88928</PMCID>
+    <PMCID>85499</PMCID>
+    <PMCID>1539784</PMCID>
+    <PMCID>230082</PMCID>
+    <PMCID>229592</PMCID>
+    <GeneBankPMID>15466524</GeneBankPMID>
+    <id>28251</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Ornithobacterium rhinotracheale Vandamme et al. 1994
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 51463
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:51463
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:9086
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 23171
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:23171
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104009
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104009
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 15997
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:15997
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 9086
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:9086
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   MCCM 01774
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   MCCM:01774
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Ornithobacterium rhinotracheale</scientificName>
+</pathogen>

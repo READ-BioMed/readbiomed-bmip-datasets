@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8229229</PMCID>
+    <PMCID>8124663</PMCID>
+    <PMCID>8019927</PMCID>
+    <PMCID>7960681</PMCID>
+    <PMCID>7662318</PMCID>
+    <PMCID>7645040</PMCID>
+    <PMCID>7482728</PMCID>
+    <PMCID>7341620</PMCID>
+    <PMCID>7295135</PMCID>
+    <PMCID>7281526</PMCID>
+    <PMCID>7462698</PMCID>
+    <PMCID>6834574</PMCID>
+    <PMCID>6722423</PMCID>
+    <PMCID>6627275</PMCID>
+    <PMCID>6472183</PMCID>
+    <PMCID>6290158</PMCID>
+    <PMCID>6164196</PMCID>
+    <PMCID>6003391</PMCID>
+    <PMCID>5826002</PMCID>
+    <PMCID>5789370</PMCID>
+    <PMCID>5799964</PMCID>
+    <PMCID>5654903</PMCID>
+    <PMCID>5520424</PMCID>
+    <PMCID>5451082</PMCID>
+    <PMCID>5440702</PMCID>
+    <PMCID>5327414</PMCID>
+    <PMCID>5628068</PMCID>
+    <PMCID>4957419</PMCID>
+    <PMCID>4818471</PMCID>
+    <PMCID>4784052</PMCID>
+    <PMCID>4609058</PMCID>
+    <PMCID>4590409</PMCID>
+    <PMCID>4547314</PMCID>
+    <PMCID>4511745</PMCID>
+    <PMCID>4290442</PMCID>
+    <PMCID>4110683</PMCID>
+    <PMCID>3647902</PMCID>
+    <PMCID>3522697</PMCID>
+    <PMCID>3472979</PMCID>
+    <PMCID>3541776</PMCID>
+    <PMCID>3232959</PMCID>
+    <PMCID>3350722</PMCID>
+    <PMCID>3187337</PMCID>
+    <PMCID>3122860</PMCID>
+    <PMCID>3028055</PMCID>
+    <PMCID>3105771</PMCID>
+    <PMCID>3020839</PMCID>
+    <PMCID>2902681</PMCID>
+    <PMCID>2848598</PMCID>
+    <PMCID>2849566</PMCID>
+    <PMCID>2788039</PMCID>
+    <PMCID>3968273</PMCID>
+    <PMCID>2453759</PMCID>
+    <PMCID>1865865</PMCID>
+    <PMCID>1594675</PMCID>
+    <PMCID>1449052</PMCID>
+    <PMCID>446275</PMCID>
+    <PMCID>87853</PMCID>
+    <PMCID>111422</PMCID>
+    <PMCID>115985</PMCID>
+    <PMCID>107353</PMCID>
+    <PMCID>121359</PMCID>
+    <PMCID>107023</PMCID>
+    <PMCID>351191</PMCID>
+    <PMCID>1527131</PMCID>
+    <id>34026</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Neisseria flava Bergey et al. 1923
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::NRL 30,008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::NRL 30,008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::NRL 30008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain NRL 30,008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Neisseria flava</scientificName>
+</pathogen>

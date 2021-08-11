@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1408458</id>
+        <scientificName>Mycoplasmopsis columborale ATCC 29258</scientificName>
+    </subSpecies>
+    <PMCID>7933220</PMCID>
+    <PMCID>7320173</PMCID>
+    <id>171282</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis columboralis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis columboralis" (Shimizu et al. 1978) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis columboralis (Shimizu et al. 1978) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma columborale</scientificName>
+</pathogen>

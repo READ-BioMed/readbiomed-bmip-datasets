@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1408462</id>
+        <scientificName>Mycoplasma felis ATCC 23391</scientificName>
+    </subSpecies>
+    <PMCID>8189514</PMCID>
+    <PMCID>8100872</PMCID>
+    <PMCID>8044568</PMCID>
+    <PMCID>8014115</PMCID>
+    <PMCID>7656879</PMCID>
+    <PMCID>7694800</PMCID>
+    <PMCID>7554670</PMCID>
+    <PMCID>7552613</PMCID>
+    <PMCID>7348621</PMCID>
+    <PMCID>7301681</PMCID>
+    <PMCID>7313338</PMCID>
+    <PMCID>7315787</PMCID>
+    <PMCID>7251313</PMCID>
+    <PMCID>7139133</PMCID>
+    <PMCID>7046814</PMCID>
+    <PMCID>7055399</PMCID>
+    <PMCID>6832521</PMCID>
+    <PMCID>6783500</PMCID>
+    <PMCID>6766498</PMCID>
+    <PMCID>6766487</PMCID>
+    <PMCID>6524112</PMCID>
+    <PMCID>6398920</PMCID>
+    <PMCID>7115762</PMCID>
+    <PMCID>5749746</PMCID>
+    <PMCID>7152260</PMCID>
+    <PMCID>5723937</PMCID>
+    <PMCID>7169279</PMCID>
+    <PMCID>6504138</PMCID>
+    <PMCID>5512277</PMCID>
+    <PMCID>5606602</PMCID>
+    <PMCID>7271179</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>5260423</PMCID>
+    <PMCID>4827739</PMCID>
+    <PMCID>7110768</PMCID>
+    <PMCID>7895636</PMCID>
+    <PMCID>4644299</PMCID>
+    <PMCID>7149628</PMCID>
+    <PMCID>4466829</PMCID>
+    <PMCID>4298262</PMCID>
+    <PMCID>4858066</PMCID>
+    <PMCID>4231282</PMCID>
+    <PMCID>4095960</PMCID>
+    <PMCID>7110739</PMCID>
+    <PMCID>3988868</PMCID>
+    <PMCID>7152206</PMCID>
+    <PMCID>3552587</PMCID>
+    <PMCID>7167033</PMCID>
+    <PMCID>3147833</PMCID>
+    <PMCID>7129726</PMCID>
+    <PMCID>3008206</PMCID>
+    <PMCID>3322044</PMCID>
+    <PMCID>7126194</PMCID>
+    <PMCID>7104979</PMCID>
+    <PMCID>2708392</PMCID>
+    <PMCID>7150115</PMCID>
+    <PMCID>2684937</PMCID>
+    <PMCID>2692247</PMCID>
+    <PMCID>2507593</PMCID>
+    <PMCID>2216435</PMCID>
+    <PMCID>7129911</PMCID>
+    <PMCID>7127756</PMCID>
+    <PMCID>7167030</PMCID>
+    <PMCID>1602191</PMCID>
+    <PMCID>1169116</PMCID>
+    <PMCID>1177949</PMCID>
+    <PMCID>540098</PMCID>
+    <PMCID>419932</PMCID>
+    <PMCID>7173479</PMCID>
+    <PMCID>7170195</PMCID>
+    <PMCID>126430</PMCID>
+    <PMCID>1263478</PMCID>
+    <PMCID>269942</PMCID>
+    <PMCID>268064</PMCID>
+    <PMCID>1789736</PMCID>
+    <PMCID>250477</PMCID>
+    <id>33923</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis felis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis felis" (Cole et al. 1967) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis felis (Cole et al. 1967) Gupta et al. 2019
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma felis</scientificName>
+</pathogen>

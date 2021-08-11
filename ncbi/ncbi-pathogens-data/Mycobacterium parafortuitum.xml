@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7679659</PMCID>
+    <PMCID>7938859</PMCID>
+    <PMCID>7558314</PMCID>
+    <PMCID>7872997</PMCID>
+    <PMCID>6959594</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>6213340</PMCID>
+    <PMCID>6256513</PMCID>
+    <PMCID>6006331</PMCID>
+    <PMCID>5960168</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>5857167</PMCID>
+    <PMCID>5817190</PMCID>
+    <PMCID>5488153</PMCID>
+    <PMCID>5078649</PMCID>
+    <PMCID>4753486</PMCID>
+    <PMCID>4585250</PMCID>
+    <PMCID>4595666</PMCID>
+    <PMCID>4524478</PMCID>
+    <PMCID>4507637</PMCID>
+    <PMCID>4275054</PMCID>
+    <PMCID>4183392</PMCID>
+    <PMCID>4255156</PMCID>
+    <PMCID>3990752</PMCID>
+    <PMCID>7127731</PMCID>
+    <PMCID>4671489</PMCID>
+    <PMCID>3875516</PMCID>
+    <PMCID>3633573</PMCID>
+    <PMCID>3437488</PMCID>
+    <PMCID>3448104</PMCID>
+    <PMCID>3122772</PMCID>
+    <PMCID>7185562</PMCID>
+    <PMCID>3008439</PMCID>
+    <PMCID>3020660</PMCID>
+    <PMCID>7126052</PMCID>
+    <PMCID>2849267</PMCID>
+    <PMCID>2812265</PMCID>
+    <PMCID>7176239</PMCID>
+    <PMCID>2566177</PMCID>
+    <PMCID>2678029</PMCID>
+    <PMCID>1868029</PMCID>
+    <PMCID>7109704</PMCID>
+    <PMCID>3382390</PMCID>
+    <PMCID>1248482</PMCID>
+    <PMCID>1082502</PMCID>
+    <PMCID>201156</PMCID>
+    <PMCID>152489</PMCID>
+    <PMCID>2094902</PMCID>
+    <PMCID>141938</PMCID>
+    <PMCID>127541</PMCID>
+    <PMCID>88994</PMCID>
+    <PMCID>93151</PMCID>
+    <PMCID>86348</PMCID>
+    <id>39692</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium parafortuitum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium parafortuitum Tsukamura 1966 (sic)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium parafortuitum Tsukamura et al. 1965 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycolicibacterium parafortuitum (Tsukamura et al. 1965) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19686
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19686
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 20999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:20999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 106802
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:106802
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43528
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43528
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10411
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10411
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-4035
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-4035
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:4035
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium parafortuitum</scientificName>
+</pathogen>

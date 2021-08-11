@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>908290</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Methylobacterium mesophilicum str. SR1.6/6
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Methylobacterium mesophilicum strain SR1.6/6
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Methylobacterium mesophilicum SR1.6/6</scientificName>
+    </subSpecies>
+    <PMCID>8151188</PMCID>
+    <PMCID>8103880</PMCID>
+    <PMCID>8146977</PMCID>
+    <PMCID>8069042</PMCID>
+    <PMCID>8077375</PMCID>
+    <PMCID>8060476</PMCID>
+    <PMCID>8026895</PMCID>
+    <PMCID>7912845</PMCID>
+    <PMCID>7908345</PMCID>
+    <PMCID>7736829</PMCID>
+    <PMCID>7646528</PMCID>
+    <PMCID>7558191</PMCID>
+    <PMCID>7554958</PMCID>
+    <PMCID>7378190</PMCID>
+    <PMCID>7414295</PMCID>
+    <PMCID>7357558</PMCID>
+    <PMCID>7298401</PMCID>
+    <PMCID>7272071</PMCID>
+    <PMCID>6992175</PMCID>
+    <PMCID>8075983</PMCID>
+    <PMCID>6630032</PMCID>
+    <PMCID>6523138</PMCID>
+    <PMCID>6514359</PMCID>
+    <PMCID>6412055</PMCID>
+    <PMCID>6288578</PMCID>
+    <PMCID>6132541</PMCID>
+    <PMCID>5664910</PMCID>
+    <PMCID>5430944</PMCID>
+    <PMCID>5156507</PMCID>
+    <PMCID>5127157</PMCID>
+    <PMCID>5290255</PMCID>
+    <PMCID>4857413</PMCID>
+    <PMCID>4826381</PMCID>
+    <PMCID>4756147</PMCID>
+    <PMCID>4754770</PMCID>
+    <PMCID>6864300</PMCID>
+    <PMCID>4742697</PMCID>
+    <PMCID>4702737</PMCID>
+    <PMCID>4683558</PMCID>
+    <PMCID>4883942</PMCID>
+    <PMCID>4561692</PMCID>
+    <PMCID>4883947</PMCID>
+    <PMCID>4537859</PMCID>
+    <PMCID>4554517</PMCID>
+    <PMCID>4493479</PMCID>
+    <PMCID>4365232</PMCID>
+    <PMCID>4312627</PMCID>
+    <PMCID>4285865</PMCID>
+    <PMCID>7099662</PMCID>
+    <PMCID>4163721</PMCID>
+    <PMCID>4129608</PMCID>
+    <PMCID>4013037</PMCID>
+    <PMCID>3993692</PMCID>
+    <PMCID>4218971</PMCID>
+    <PMCID>3911314</PMCID>
+    <PMCID>3827621</PMCID>
+    <PMCID>3754723</PMCID>
+    <PMCID>3707593</PMCID>
+    <PMCID>3623380</PMCID>
+    <PMCID>3579938</PMCID>
+    <PMCID>4070686</PMCID>
+    <PMCID>3486232</PMCID>
+    <PMCID>3768801</PMCID>
+    <PMCID>3377417</PMCID>
+    <PMCID>2916611</PMCID>
+    <PMCID>2852599</PMCID>
+    <PMCID>2847171</PMCID>
+    <PMCID>3768544</PMCID>
+    <PMCID>2687292</PMCID>
+    <PMCID>2681828</PMCID>
+    <PMCID>2565970</PMCID>
+    <PMCID>2292606</PMCID>
+    <PMCID>2167968</PMCID>
+    <PMCID>3243579</PMCID>
+    <PMCID>2633902</PMCID>
+    <PMCID>1265930</PMCID>
+    <PMCID>7094662</PMCID>
+    <PMCID>525113</PMCID>
+    <PMCID>446255</PMCID>
+    <PMCID>444822</PMCID>
+    <PMCID>404397</PMCID>
+    <PMCID>321306</PMCID>
+    <PMCID>321275</PMCID>
+    <PMCID>165181</PMCID>
+    <PMCID>154750</PMCID>
+    <PMCID>130740</PMCID>
+    <PMCID>92941</PMCID>
+    <PMCID>88082</PMCID>
+    <PMCID>94868</PMCID>
+    <PMCID>87591</PMCID>
+    <PMCID>87447</PMCID>
+    <PMCID>99007</PMCID>
+    <PMCID>91645</PMCID>
+    <PMCID>84226</PMCID>
+    <PMCID>106148</PMCID>
+    <PMCID>168213</PMCID>
+    <PMCID>1080291</PMCID>
+    <PMCID>267778</PMCID>
+    <PMCID>266913</PMCID>
+    <PMCID>1268158</PMCID>
+    <PMCID>268792</PMCID>
+    <PMCID>271654</PMCID>
+    <PMCID>271398</PMCID>
+    <id>39956</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas mesophilica
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Methylobacterium mesophilicum (Austin and Goodfellow 1979) Green and Bousfield 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas mesophilica Austin and Goodfellow 1979 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5275
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 16482
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:16482
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 101129
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:101129
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 1708
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:1708
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICPB 4095
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICPB:4095
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 2829
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:2829
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5275
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5275
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 11561
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB:11561
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 11561
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:11561
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-14246
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-14246
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:14246
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::A47
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain A47
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Methylobacterium mesophilum
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas mesophilica</scientificName>
+</pathogen>

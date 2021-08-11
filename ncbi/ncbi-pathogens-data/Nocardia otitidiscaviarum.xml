@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1406858</id>
+        <scientificName>Nocardia otitidiscaviarum IFM 11049</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1206732</id>
+        <scientificName>Nocardia otitidiscaviarum NBRC 14405</scientificName>
+    </subSpecies>
+    <PMCID>8183679</PMCID>
+    <PMCID>8144606</PMCID>
+    <PMCID>8105746</PMCID>
+    <PMCID>8034244</PMCID>
+    <PMCID>8026832</PMCID>
+    <PMCID>8054793</PMCID>
+    <PMCID>7825236</PMCID>
+    <PMCID>8105525</PMCID>
+    <PMCID>7652912</PMCID>
+    <PMCID>7664795</PMCID>
+    <PMCID>7593125</PMCID>
+    <PMCID>7607419</PMCID>
+    <PMCID>7576717</PMCID>
+    <PMCID>7424670</PMCID>
+    <PMCID>7289788</PMCID>
+    <PMCID>7284007</PMCID>
+    <PMCID>7038297</PMCID>
+    <PMCID>7040243</PMCID>
+    <PMCID>7044388</PMCID>
+    <PMCID>7197909</PMCID>
+    <PMCID>6928123</PMCID>
+    <PMCID>6898847</PMCID>
+    <PMCID>6813649</PMCID>
+    <PMCID>6958412</PMCID>
+    <PMCID>6750607</PMCID>
+    <PMCID>6421342</PMCID>
+    <PMCID>6338870</PMCID>
+    <PMCID>6313336</PMCID>
+    <PMCID>6200467</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6129924</PMCID>
+    <PMCID>5994559</PMCID>
+    <PMCID>5971555</PMCID>
+    <PMCID>5987364</PMCID>
+    <PMCID>5826065</PMCID>
+    <PMCID>5781055</PMCID>
+    <PMCID>6957946</PMCID>
+    <PMCID>5744224</PMCID>
+    <PMCID>5700301</PMCID>
+    <PMCID>5571298</PMCID>
+    <PMCID>5620765</PMCID>
+    <PMCID>5521952</PMCID>
+    <PMCID>5535660</PMCID>
+    <PMCID>5462571</PMCID>
+    <PMCID>5388335</PMCID>
+    <PMCID>5380297</PMCID>
+    <PMCID>5366288</PMCID>
+    <PMCID>5396282</PMCID>
+    <PMCID>5336304</PMCID>
+    <PMCID>5144655</PMCID>
+    <PMCID>5052740</PMCID>
+    <PMCID>5046686</PMCID>
+    <PMCID>5103790</PMCID>
+    <PMCID>4970814</PMCID>
+    <PMCID>4905934</PMCID>
+    <PMCID>4934723</PMCID>
+    <PMCID>4927671</PMCID>
+    <PMCID>4733196</PMCID>
+    <PMCID>4726625</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4609714</PMCID>
+    <PMCID>4572548</PMCID>
+    <PMCID>4808715</PMCID>
+    <PMCID>4505474</PMCID>
+    <PMCID>4391106</PMCID>
+    <PMCID>4386696</PMCID>
+    <PMCID>4283927</PMCID>
+    <PMCID>4291361</PMCID>
+    <PMCID>4290442</PMCID>
+    <PMCID>4176176</PMCID>
+    <PMCID>4140667</PMCID>
+    <PMCID>4162071</PMCID>
+    <PMCID>4129933</PMCID>
+    <PMCID>4080999</PMCID>
+    <PMCID>4035055</PMCID>
+    <PMCID>3952898</PMCID>
+    <PMCID>3961935</PMCID>
+    <PMCID>3952339</PMCID>
+    <PMCID>3820768</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3736524</PMCID>
+    <PMCID>3697724</PMCID>
+    <PMCID>3720011</PMCID>
+    <PMCID>3748649</PMCID>
+    <PMCID>3645792</PMCID>
+    <PMCID>4745450</PMCID>
+    <PMCID>3538047</PMCID>
+    <PMCID>3528425</PMCID>
+    <PMCID>7122413</PMCID>
+    <PMCID>3609322</PMCID>
+    <PMCID>3366519</PMCID>
+    <PMCID>3498414</PMCID>
+    <PMCID>7161403</PMCID>
+    <PMCID>3240985</PMCID>
+    <PMCID>3131622</PMCID>
+    <PMCID>3069002</PMCID>
+    <PMCID>3421035</PMCID>
+    <PMCID>3020850</PMCID>
+    <PMCID>2953089</PMCID>
+    <PMCID>2937484</PMCID>
+    <PMCID>3768688</PMCID>
+    <PMCID>2815619</PMCID>
+    <PMCID>2812286</PMCID>
+    <PMCID>2714554</PMCID>
+    <PMCID>3065112</PMCID>
+    <PMCID>2672068</PMCID>
+    <PMCID>1803140</PMCID>
+    <PMCID>1803121</PMCID>
+    <PMCID>1831872</PMCID>
+    <PMCID>1563594</PMCID>
+    <PMCID>1594632</PMCID>
+    <PMCID>1471991</PMCID>
+    <PMCID>1351931</PMCID>
+    <PMCID>1351930</PMCID>
+    <PMCID>7129516</PMCID>
+    <PMCID>7128915</PMCID>
+    <PMCID>525194</PMCID>
+    <PMCID>497575</PMCID>
+    <PMCID>427831</PMCID>
+    <PMCID>387585</PMCID>
+    <PMCID>356837</PMCID>
+    <PMCID>193817</PMCID>
+    <PMCID>156558</PMCID>
+    <PMCID>156477</PMCID>
+    <PMCID>152489</PMCID>
+    <PMCID>149340</PMCID>
+    <PMCID>88194</PMCID>
+    <PMCID>90460</PMCID>
+    <PMCID>87788</PMCID>
+    <PMCID>94871</PMCID>
+    <PMCID>2094785</PMCID>
+    <PMCID>91957</PMCID>
+    <PMCID>86045</PMCID>
+    <PMCID>85148</PMCID>
+    <PMCID>85142</PMCID>
+    <PMCID>89236</PMCID>
+    <PMCID>89045</PMCID>
+    <PMCID>84177</PMCID>
+    <PMCID>106220</PMCID>
+    <PMCID>3250904</PMCID>
+    <PMCID>232721</PMCID>
+    <PMCID>229682</PMCID>
+    <PMCID>1004599</PMCID>
+    <PMCID>461569</PMCID>
+    <PMCID>172347</PMCID>
+    <PMCID>1492107</PMCID>
+    <PMCID>350795</PMCID>
+    <PMCID>551328</PMCID>
+    <PMCID>551102</PMCID>
+    <PMCID>550910</PMCID>
+    <PMCID>186685</PMCID>
+    <PMCID>315732</PMCID>
+    <id>1823</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces caviae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia caviae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia otitidis-caviarum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces caviae" Erikson 1935
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Nocardia caviae" (Erikson 1935) Erikson 1935
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia otitidiscaviarum Snijders 1924 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia otitidiscaviarum corrig. Snijders 1924
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14629
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14629
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 10075
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:10075
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104514
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104514
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43242
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43242
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 14405
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:14405
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3377
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3393
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3377
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3393
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 14405
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:14405
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 1934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:1934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-869
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:869
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia otitidicaviarum
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Nocardia otitidiscaviarum</scientificName>
+</pathogen>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1237860</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium farcinogenes DSM 43637
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium farcinogenes DSMZ 43637
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycolicibacterium farcinogenes DSM 43637</scientificName>
+    </subSpecies>
+    <PMCID>7684985</PMCID>
+    <PMCID>7576717</PMCID>
+    <PMCID>7532137</PMCID>
+    <PMCID>7396536</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>6536806</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>5857167</PMCID>
+    <PMCID>5415667</PMCID>
+    <PMCID>4816395</PMCID>
+    <PMCID>7895636</PMCID>
+    <PMCID>4652114</PMCID>
+    <PMCID>4645216</PMCID>
+    <PMCID>4645198</PMCID>
+    <PMCID>4589961</PMCID>
+    <PMCID>4388118</PMCID>
+    <PMCID>4038893</PMCID>
+    <PMCID>4021744</PMCID>
+    <PMCID>3952898</PMCID>
+    <PMCID>3200373</PMCID>
+    <PMCID>1800771</PMCID>
+    <PMCID>1594754</PMCID>
+    <PMCID>1392669</PMCID>
+    <PMCID>1314895</PMCID>
+    <PMCID>535245</PMCID>
+    <PMCID>153362</PMCID>
+    <PMCID>134815</PMCID>
+    <PMCID>88994</PMCID>
+    <PMCID>92325</PMCID>
+    <PMCID>92135</PMCID>
+    <PMCID>86348</PMCID>
+    <id>1802</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium farcinigenes
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium farcinogenes
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium farcinogenes subsp. farcinogenes
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium farcinogenes subsp. tchadense
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycobacterium farcinogenes subsp. farcinogenes" Chamoiseau 1973 corrig. Chamoiseau 1979
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium farcinogenes Chamoiseau 1973
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycolicibacterium farcinogenes (Chamoiseau 1973) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 35753
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:35753
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCM 6181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCM:6181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 21047
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:21047
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43637
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43637
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 15463
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:15463
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::IEMVT 75
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain IEMVT 75
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium farcinogenes</scientificName>
+</pathogen>

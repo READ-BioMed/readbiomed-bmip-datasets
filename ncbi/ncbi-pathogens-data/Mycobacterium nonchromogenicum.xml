@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7872997</PMCID>
+    <PMCID>7407723</PMCID>
+    <PMCID>6863732</PMCID>
+    <PMCID>6671966</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>6452893</PMCID>
+    <PMCID>6261039</PMCID>
+    <PMCID>6664266</PMCID>
+    <PMCID>6251690</PMCID>
+    <PMCID>5899368</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>5815749</PMCID>
+    <PMCID>5635548</PMCID>
+    <PMCID>5415667</PMCID>
+    <PMCID>5328470</PMCID>
+    <PMCID>5276850</PMCID>
+    <PMCID>5154436</PMCID>
+    <PMCID>4894912</PMCID>
+    <PMCID>4882952</PMCID>
+    <PMCID>4844723</PMCID>
+    <PMCID>4998741</PMCID>
+    <PMCID>5562452</PMCID>
+    <PMCID>4463991</PMCID>
+    <PMCID>4418336</PMCID>
+    <PMCID>5096734</PMCID>
+    <PMCID>4183392</PMCID>
+    <PMCID>4084507</PMCID>
+    <PMCID>3740907</PMCID>
+    <PMCID>3715504</PMCID>
+    <PMCID>3654946</PMCID>
+    <PMCID>3804217</PMCID>
+    <PMCID>3416486</PMCID>
+    <PMCID>3464140</PMCID>
+    <PMCID>3187315</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3122647</PMCID>
+    <PMCID>3020660</PMCID>
+    <PMCID>2954866</PMCID>
+    <PMCID>2953089</PMCID>
+    <PMCID>2681580</PMCID>
+    <PMCID>2336800</PMCID>
+    <PMCID>1609169</PMCID>
+    <PMCID>1392669</PMCID>
+    <PMCID>7109704</PMCID>
+    <PMCID>1082502</PMCID>
+    <PMCID>525196</PMCID>
+    <PMCID>497647</PMCID>
+    <PMCID>154750</PMCID>
+    <PMCID>153870</PMCID>
+    <PMCID>129932</PMCID>
+    <PMCID>130668</PMCID>
+    <PMCID>140401</PMCID>
+    <PMCID>88994</PMCID>
+    <PMCID>87858</PMCID>
+    <PMCID>87801</PMCID>
+    <PMCID>86348</PMCID>
+    <PMCID>86036</PMCID>
+    <PMCID>85048</PMCID>
+    <PMCID>105204</PMCID>
+    <PMCID>104827</PMCID>
+    <PMCID>104567</PMCID>
+    <PMCID>2627668</PMCID>
+    <PMCID>124825</PMCID>
+    <PMCID>192220</PMCID>
+    <PMCID>1554959</PMCID>
+    <PMCID>414442</PMCID>
+    <id>1782</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium nonchromogenicum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium nonchromogenicum Tsukamura 1965 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycolicibacter nonchromogenicus (Tsukamura 1965) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19530
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19530
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 28009
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:28009
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 106811
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:106811
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 44164
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:44164
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6364
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6364
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10424
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10424
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium nonchromogenicum</scientificName>
+</pathogen>

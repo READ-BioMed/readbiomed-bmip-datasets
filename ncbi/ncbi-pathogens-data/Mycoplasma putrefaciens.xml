@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1292033</id>
+        <scientificName>Mycoplasma putrefaciens Mput9231</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1081942</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma putrefaciens Abomsa-Mput
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma putrefaciens strain Abomsa-Mput
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma putrefaciens str. Abomsa-Mput</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>4706650</PMCID>
+        <GeneBankPMID>21994925</GeneBankPMID>
+        <id>743965</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma putrefaciens str. KS1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma putrefaciens strain KS1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma putrefaciens KS1</scientificName>
+    </subSpecies>
+    <PMCID>8232315</PMCID>
+    <PMCID>8025503</PMCID>
+    <PMCID>7861559</PMCID>
+    <PMCID>7523139</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7290036</PMCID>
+    <PMCID>6856322</PMCID>
+    <PMCID>6462265</PMCID>
+    <PMCID>5578122</PMCID>
+    <PMCID>5359490</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>5109750</PMCID>
+    <PMCID>5041484</PMCID>
+    <PMCID>4706650</PMCID>
+    <PMCID>4574384</PMCID>
+    <PMCID>4540935</PMCID>
+    <PMCID>4444185</PMCID>
+    <PMCID>4408338</PMCID>
+    <PMCID>4109668</PMCID>
+    <PMCID>4082846</PMCID>
+    <PMCID>3811644</PMCID>
+    <PMCID>3707581</PMCID>
+    <PMCID>3610235</PMCID>
+    <PMCID>3514313</PMCID>
+    <PMCID>3370481</PMCID>
+    <PMCID>3310297</PMCID>
+    <PMCID>3235512</PMCID>
+    <PMCID>3194915</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>2292954</PMCID>
+    <PMCID>2043204</PMCID>
+    <PMCID>1888814</PMCID>
+    <PMCID>1538642</PMCID>
+    <PMCID>1177949</PMCID>
+    <PMCID>254308</PMCID>
+    <PMCID>135138</PMCID>
+    <PMCID>95919</PMCID>
+    <PMCID>97030</PMCID>
+    <PMCID>85820</PMCID>
+    <PMCID>107175</PMCID>
+    <PMCID>222407</PMCID>
+    <id>2123</id>
+    <meSHTree>B03.440.860.580.553.553</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma putrefaciens Tully et al. 1974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 15718
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:15718
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10155
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10155
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::KS1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain KS1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma putrefaciens</scientificName>
+</pathogen>

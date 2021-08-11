@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8173509</PMCID>
+    <PMCID>8173446</PMCID>
+    <PMCID>7933220</PMCID>
+    <PMCID>7739479</PMCID>
+    <PMCID>7685885</PMCID>
+    <PMCID>7469352</PMCID>
+    <PMCID>7549910</PMCID>
+    <PMCID>7329402</PMCID>
+    <PMCID>7277696</PMCID>
+    <PMCID>7031952</PMCID>
+    <PMCID>7041981</PMCID>
+    <PMCID>7153328</PMCID>
+    <PMCID>6882279</PMCID>
+    <PMCID>7222993</PMCID>
+    <PMCID>6779295</PMCID>
+    <PMCID>6694577</PMCID>
+    <PMCID>6682650</PMCID>
+    <PMCID>6704405</PMCID>
+    <PMCID>6317828</PMCID>
+    <PMCID>6283559</PMCID>
+    <PMCID>7169735</PMCID>
+    <PMCID>7200445</PMCID>
+    <PMCID>6505780</PMCID>
+    <PMCID>6068303</PMCID>
+    <PMCID>5939627</PMCID>
+    <PMCID>7737622</PMCID>
+    <PMCID>5764040</PMCID>
+    <PMCID>5797878</PMCID>
+    <PMCID>5394603</PMCID>
+    <PMCID>5447974</PMCID>
+    <PMCID>7010070</PMCID>
+    <PMCID>5278710</PMCID>
+    <PMCID>5204026</PMCID>
+    <PMCID>5105309</PMCID>
+    <PMCID>4866288</PMCID>
+    <PMCID>4680736</PMCID>
+    <PMCID>4583762</PMCID>
+    <PMCID>4483503</PMCID>
+    <PMCID>5375123</PMCID>
+    <PMCID>4398514</PMCID>
+    <PMCID>7152483</PMCID>
+    <PMCID>4047456</PMCID>
+    <PMCID>3993664</PMCID>
+    <PMCID>3911030</PMCID>
+    <PMCID>3769822</PMCID>
+    <PMCID>3122671</PMCID>
+    <PMCID>3072945</PMCID>
+    <PMCID>3768421</PMCID>
+    <PMCID>2519509</PMCID>
+    <PMCID>2238117</PMCID>
+    <PMCID>1410728</PMCID>
+    <PMCID>1177949</PMCID>
+    <PMCID>525426</PMCID>
+    <PMCID>446262</PMCID>
+    <PMCID>1821000</PMCID>
+    <PMCID>1831552</PMCID>
+    <PMCID>154955</PMCID>
+    <PMCID>7117428</PMCID>
+    <PMCID>86451</PMCID>
+    <PMCID>85551</PMCID>
+    <PMCID>104965</PMCID>
+    <PMCID>106080</PMCID>
+    <PMCID>124813</PMCID>
+    <PMCID>8095410</PMCID>
+    <PMCID>228013</PMCID>
+    <PMCID>8117871</PMCID>
+    <PMCID>1481337</PMCID>
+    <PMCID>8127903</PMCID>
+    <PMCID>1277409</PMCID>
+    <PMCID>186765</PMCID>
+    <PMCID>1319634</PMCID>
+    <PMCID>248148</PMCID>
+    <MeSHPMID>32883288</MeSHPMID>
+    <MeSHPMID>31767090</MeSHPMID>
+    <MeSHPMID>31589633</MeSHPMID>
+    <MeSHPMID>30605453</MeSHPMID>
+    <MeSHPMID>28063473</MeSHPMID>
+    <MeSHPMID>27297416</MeSHPMID>
+    <MeSHPMID>25643803</MeSHPMID>
+    <MeSHPMID>22397937</MeSHPMID>
+    <MeSHPMID>21414190</MeSHPMID>
+    <MeSHPMID>20237449</MeSHPMID>
+    <MeSHPMID>18534787</MeSHPMID>
+    <MeSHPMID>16171955</MeSHPMID>
+    <id>29559</id>
+    <meSHTree>B03.440.860.580.553.553.430</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma hyosynoviae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma hyosynoviae (Ross and Karmon 1970) Gupta et al. 2018
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma suidaniae
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasma suidaniae" Friis 1970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma hyosynoviae Ross and Karmon 1970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10167
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10167
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::S-16
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain S-16
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma hyosynoviae</scientificName>
+</pathogen>

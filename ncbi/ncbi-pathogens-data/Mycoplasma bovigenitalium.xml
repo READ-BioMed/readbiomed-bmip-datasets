@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1188235</id>
+        <scientificName>Mycoplasma bovigenitalium 51080</scientificName>
+    </subSpecies>
+    <PMCID>8173446</PMCID>
+    <PMCID>7861559</PMCID>
+    <PMCID>7542862</PMCID>
+    <PMCID>7508640</PMCID>
+    <PMCID>7459460</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>7226160</PMCID>
+    <PMCID>6924913</PMCID>
+    <PMCID>7234040</PMCID>
+    <PMCID>6581182</PMCID>
+    <PMCID>6417145</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>7152286</PMCID>
+    <PMCID>6505816</PMCID>
+    <PMCID>7122547</PMCID>
+    <PMCID>7009924</PMCID>
+    <PMCID>5569371</PMCID>
+    <PMCID>5338856</PMCID>
+    <PMCID>5331495</PMCID>
+    <PMCID>4907131</PMCID>
+    <PMCID>7271154</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>7169873</PMCID>
+    <PMCID>4540935</PMCID>
+    <PMCID>6138128</PMCID>
+    <PMCID>5644610</PMCID>
+    <PMCID>4266059</PMCID>
+    <PMCID>4110761</PMCID>
+    <PMCID>4081997</PMCID>
+    <PMCID>3919759</PMCID>
+    <PMCID>3896433</PMCID>
+    <PMCID>3811644</PMCID>
+    <PMCID>3707579</PMCID>
+    <PMCID>3370481</PMCID>
+    <PMCID>3341502</PMCID>
+    <PMCID>7094402</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>7158335</PMCID>
+    <PMCID>2684937</PMCID>
+    <PMCID>7117372</PMCID>
+    <PMCID>2572096</PMCID>
+    <PMCID>7103133</PMCID>
+    <PMCID>1766361</PMCID>
+    <PMCID>1142138</PMCID>
+    <PMCID>419932</PMCID>
+    <PMCID>254308</PMCID>
+    <PMCID>135138</PMCID>
+    <PMCID>339206</PMCID>
+    <PMCID>7150219</PMCID>
+    <PMCID>85820</PMCID>
+    <PMCID>84475</PMCID>
+    <PMCID>1789999</PMCID>
+    <PMCID>1277608</PMCID>
+    <PMCID>1277514</PMCID>
+    <PMCID>1277433</PMCID>
+    <PMCID>422313</PMCID>
+    <PMCID>2130669</PMCID>
+    <MeSHPMID>22192198</MeSHPMID>
+    <MeSHPMID>20053506</MeSHPMID>
+    <MeSHPMID>18312568</MeSHPMID>
+    <MeSHPMID>18175727</MeSHPMID>
+    <MeSHPMID>17569564</MeSHPMID>
+    <id>2112</id>
+    <meSHTree>B03.440.860.580.553.553.195</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Asterococcus bovigenitalium
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Borrelomyces bovigenitalium
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma ovine/caprine serogroup 11
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis bovigenitalium
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pleuropneumonia bovigenitalis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Asterococcus bovigenitalium" (Freundt 1955) Prevot 1961
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Borrelomyces bovigenitalium" (Freundt) Freundt 1955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis bovigenitalium" (Freundt 1955) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pleuropneumonia bovigenitalis" Tulasne and Brisou 1955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma bovigenitalium Freundt 1955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis bovigenitalium (Freundt 1955) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19852
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19852
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 14862
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:14862
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 14862
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:14862
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10122
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10122
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::PG11
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain PG11
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma bovigenitalium</scientificName>
+</pathogen>

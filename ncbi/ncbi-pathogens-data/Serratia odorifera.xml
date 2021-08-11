@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>667129</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Serratia odorifera str. DSM 4582
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Serratia odorifera strain DSM 4582
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Serratia odorifera DSM 4582</scientificName>
+    </subSpecies>
+    <PMCID>8182925</PMCID>
+    <PMCID>8186429</PMCID>
+    <PMCID>8160901</PMCID>
+    <PMCID>8069735</PMCID>
+    <PMCID>8056039</PMCID>
+    <PMCID>8000542</PMCID>
+    <PMCID>8011034</PMCID>
+    <PMCID>7850723</PMCID>
+    <PMCID>7841894</PMCID>
+    <PMCID>7745743</PMCID>
+    <PMCID>7762609</PMCID>
+    <PMCID>7733989</PMCID>
+    <PMCID>7667259</PMCID>
+    <PMCID>7655237</PMCID>
+    <PMCID>7557082</PMCID>
+    <PMCID>7675452</PMCID>
+    <PMCID>7498281</PMCID>
+    <PMCID>7556043</PMCID>
+    <PMCID>7461348</PMCID>
+    <PMCID>7437451</PMCID>
+    <PMCID>7427108</PMCID>
+    <PMCID>7381873</PMCID>
+    <PMCID>7573113</PMCID>
+    <PMCID>7347518</PMCID>
+    <PMCID>7476999</PMCID>
+    <PMCID>7281626</PMCID>
+    <PMCID>7221414</PMCID>
+    <PMCID>7153883</PMCID>
+    <PMCID>7035672</PMCID>
+    <PMCID>7072446</PMCID>
+    <PMCID>7018646</PMCID>
+    <PMCID>7018762</PMCID>
+    <PMCID>7022296</PMCID>
+    <PMCID>7048956</PMCID>
+    <PMCID>6875036</PMCID>
+    <PMCID>6976574</PMCID>
+    <PMCID>6794716</PMCID>
+    <PMCID>6800958</PMCID>
+    <PMCID>6753664</PMCID>
+    <PMCID>6730880</PMCID>
+    <PMCID>6738348</PMCID>
+    <PMCID>6716069</PMCID>
+    <PMCID>6679468</PMCID>
+    <PMCID>6603156</PMCID>
+    <PMCID>6768729</PMCID>
+    <PMCID>6580034</PMCID>
+    <PMCID>6530831</PMCID>
+    <PMCID>6560429</PMCID>
+    <PMCID>6537005</PMCID>
+    <PMCID>6489255</PMCID>
+    <PMCID>6467098</PMCID>
+    <PMCID>6444424</PMCID>
+    <PMCID>6594737</PMCID>
+    <PMCID>7152249</PMCID>
+    <PMCID>6395624</PMCID>
+    <PMCID>6370290</PMCID>
+    <PMCID>6366047</PMCID>
+    <PMCID>6346155</PMCID>
+    <PMCID>6330813</PMCID>
+    <PMCID>6283546</PMCID>
+    <PMCID>6341129</PMCID>
+    <PMCID>6215977</PMCID>
+    <PMCID>6218600</PMCID>
+    <PMCID>6162895</PMCID>
+    <PMCID>6437764</PMCID>
+    <PMCID>6126054</PMCID>
+    <PMCID>5924556</PMCID>
+    <PMCID>6017557</PMCID>
+    <PMCID>5913935</PMCID>
+    <PMCID>5866103</PMCID>
+    <PMCID>5859429</PMCID>
+    <PMCID>5869511</PMCID>
+    <PMCID>5989234</PMCID>
+    <PMCID>6049764</PMCID>
+    <PMCID>5640888</PMCID>
+    <PMCID>5571285</PMCID>
+    <PMCID>5541443</PMCID>
+    <PMCID>5549995</PMCID>
+    <PMCID>5464644</PMCID>
+    <PMCID>5468619</PMCID>
+    <PMCID>6130762</PMCID>
+    <PMCID>5373426</PMCID>
+    <PMCID>5486822</PMCID>
+    <PMCID>5331058</PMCID>
+    <PMCID>5293117</PMCID>
+    <PMCID>5286510</PMCID>
+    <PMCID>5391508</PMCID>
+    <PMCID>5278729</PMCID>
+    <PMCID>5522970</PMCID>
+    <PMCID>5156394</PMCID>
+    <PMCID>5152811</PMCID>
+    <PMCID>6273486</PMCID>
+    <PMCID>5511731</PMCID>
+    <PMCID>4990431</PMCID>
+    <PMCID>5221461</PMCID>
+    <PMCID>5645847</PMCID>
+    <PMCID>4862516</PMCID>
+    <PMCID>4862475</PMCID>
+    <PMCID>4792166</PMCID>
+    <PMCID>4772236</PMCID>
+    <PMCID>4743204</PMCID>
+    <PMCID>4709262</PMCID>
+    <PMCID>4683861</PMCID>
+    <PMCID>4644931</PMCID>
+    <PMCID>4631478</PMCID>
+    <PMCID>4747444</PMCID>
+    <PMCID>4588215</PMCID>
+    <PMCID>5731638</PMCID>
+    <PMCID>6327945</PMCID>
+    <PMCID>4515624</PMCID>
+    <PMCID>4453288</PMCID>
+    <PMCID>4565032</PMCID>
+    <PMCID>4432112</PMCID>
+    <PMCID>4358370</PMCID>
+    <PMCID>4357753</PMCID>
+    <PMCID>4323301</PMCID>
+    <PMCID>4389663</PMCID>
+    <PMCID>4345817</PMCID>
+    <PMCID>4370057</PMCID>
+    <PMCID>4246241</PMCID>
+    <PMCID>4246223</PMCID>
+    <PMCID>4662229</PMCID>
+    <PMCID>4194575</PMCID>
+    <PMCID>4172278</PMCID>
+    <PMCID>4163721</PMCID>
+    <PMCID>4253069</PMCID>
+    <PMCID>4178577</PMCID>
+    <PMCID>4106860</PMCID>
+    <PMCID>4106082</PMCID>
+    <PMCID>4068683</PMCID>
+    <PMCID>4022802</PMCID>
+    <PMCID>4140042</PMCID>
+    <PMCID>4028081</PMCID>
+    <PMCID>3957607</PMCID>
+    <PMCID>4080430</PMCID>
+    <PMCID>3945841</PMCID>
+    <PMCID>3837887</PMCID>
+    <PMCID>3835674</PMCID>
+    <PMCID>3852654</PMCID>
+    <PMCID>3828316</PMCID>
+    <PMCID>3787610</PMCID>
+    <PMCID>3809369</PMCID>
+    <PMCID>3788059</PMCID>
+    <PMCID>3655192</PMCID>
+    <PMCID>4053930</PMCID>
+    <PMCID>3717176</PMCID>
+    <PMCID>3553842</PMCID>
+    <PMCID>3601411</PMCID>
+    <PMCID>3471834</PMCID>
+    <PMCID>4005134</PMCID>
+    <PMCID>4103553</PMCID>
+    <PMCID>3476324</PMCID>
+    <PMCID>3407224</PMCID>
+    <PMCID>3419637</PMCID>
+    <PMCID>3318502</PMCID>
+    <PMCID>3334298</PMCID>
+    <PMCID>3276575</PMCID>
+    <PMCID>3273981</PMCID>
+    <PMCID>3357376</PMCID>
+    <PMCID>3417381</PMCID>
+    <PMCID>3768714</PMCID>
+    <PMCID>4012514</PMCID>
+    <PMCID>3226654</PMCID>
+    <PMCID>3351600</PMCID>
+    <PMCID>3165386</PMCID>
+    <PMCID>3144213</PMCID>
+    <PMCID>3116507</PMCID>
+    <PMCID>3121031</PMCID>
+    <PMCID>3126477</PMCID>
+    <PMCID>3133024</PMCID>
+    <PMCID>3081544</PMCID>
+    <PMCID>3028698</PMCID>
+    <PMCID>3284277</PMCID>
+    <PMCID>7080412</PMCID>
+    <PMCID>2863927</PMCID>
+    <PMCID>2872295</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>7152205</PMCID>
+    <PMCID>3768522</PMCID>
+    <PMCID>2729845</PMCID>
+    <PMCID>2654854</PMCID>
+    <PMCID>2634437</PMCID>
+    <PMCID>2384003</PMCID>
+    <PMCID>2042089</PMCID>
+    <PMCID>1914277</PMCID>
+    <PMCID>1610329</PMCID>
+    <PMCID>1698323</PMCID>
+    <PMCID>1594602</PMCID>
+    <PMCID>1393087</PMCID>
+    <PMCID>1393076</PMCID>
+    <PMCID>7150096</PMCID>
+    <PMCID>1287782</PMCID>
+    <PMCID>1287614</PMCID>
+    <PMCID>1214652</PMCID>
+    <PMCID>1151799</PMCID>
+    <PMCID>1082561</PMCID>
+    <PMCID>535252</PMCID>
+    <PMCID>516312</PMCID>
+    <PMCID>404622</PMCID>
+    <PMCID>344443</PMCID>
+    <PMCID>321681</PMCID>
+    <PMCID>182628</PMCID>
+    <PMCID>154679</PMCID>
+    <PMCID>152403</PMCID>
+    <PMCID>126805</PMCID>
+    <PMCID>92496</PMCID>
+    <PMCID>87439</PMCID>
+    <PMCID>87399</PMCID>
+    <PMCID>105261</PMCID>
+    <PMCID>104958</PMCID>
+    <PMCID>4723465</PMCID>
+    <PMCID>263165</PMCID>
+    <PMCID>270317</PMCID>
+    <PMCID>266576</PMCID>
+    <id>618</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Serratia odorifera Grimont et al. 1978
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33077
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33077
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 14508
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:14508
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CDC 1979-77
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CDC:1979-77
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 79.01
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 79.1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 7901
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:79.1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 4582
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:4582
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICPB 3995
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICPB:3995
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 1243
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:1243
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 102598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:102598
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11214
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11214
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Serratia odorifora
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Serratia odorifera</scientificName>
+</pathogen>

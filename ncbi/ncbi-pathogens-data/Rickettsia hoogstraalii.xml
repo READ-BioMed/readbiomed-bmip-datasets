@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1359197</id>
+        <scientificName>Rickettsia hoogstraalii str. RCCE3</scientificName>
+    </subSpecies>
+    <PMCID>8258102</PMCID>
+    <PMCID>8121771</PMCID>
+    <PMCID>8005979</PMCID>
+    <PMCID>7822119</PMCID>
+    <PMCID>7568392</PMCID>
+    <PMCID>7582818</PMCID>
+    <PMCID>7301703</PMCID>
+    <PMCID>7179689</PMCID>
+    <PMCID>7135895</PMCID>
+    <PMCID>7272484</PMCID>
+    <PMCID>6956140</PMCID>
+    <PMCID>6446187</PMCID>
+    <PMCID>6343265</PMCID>
+    <PMCID>6329055</PMCID>
+    <PMCID>6280431</PMCID>
+    <PMCID>6133264</PMCID>
+    <PMCID>6031890</PMCID>
+    <PMCID>5916866</PMCID>
+    <PMCID>5481936</PMCID>
+    <PMCID>5442613</PMCID>
+    <PMCID>7122411</PMCID>
+    <PMCID>7128210</PMCID>
+    <PMCID>4514593</PMCID>
+    <PMCID>4774835</PMCID>
+    <PMCID>4435010</PMCID>
+    <PMCID>4337942</PMCID>
+    <PMCID>4223470</PMCID>
+    <PMCID>4125308</PMCID>
+    <PMCID>4230250</PMCID>
+    <PMCID>4012800</PMCID>
+    <PMCID>3811236</PMCID>
+    <PMCID>3431536</PMCID>
+    <PMCID>7130089</PMCID>
+    <PMCID>2838022</PMCID>
+    <PMCID>2227743</PMCID>
+    <id>467174</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Candidatus Rickettsia hoogstraalii
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Candidatus Rickettsia hoogstraalii" Mattila et al. 2007
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rickettsia hoogstraalii Duh et al. 2010
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 22243
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:22243
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UTMB 00003
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UTMB:00003
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::Croatica
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain Croatica
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Candidatus Rickettsia hoogstraali
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rickettsia hoogstraalii</scientificName>
+</pathogen>

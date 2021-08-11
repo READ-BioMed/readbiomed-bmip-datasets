@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1436723</id>
+        <scientificName>Mycobacterium gastri 'Wayne'</scientificName>
+    </subSpecies>
+    <PMCID>8093194</PMCID>
+    <PMCID>8103404</PMCID>
+    <PMCID>8066798</PMCID>
+    <PMCID>8174722</PMCID>
+    <PMCID>7916490</PMCID>
+    <PMCID>7820667</PMCID>
+    <PMCID>7872997</PMCID>
+    <PMCID>7424262</PMCID>
+    <PMCID>6985275</PMCID>
+    <PMCID>6974680</PMCID>
+    <PMCID>6918578</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>6362051</PMCID>
+    <PMCID>6205491</PMCID>
+    <PMCID>6142028</PMCID>
+    <PMCID>6089878</PMCID>
+    <PMCID>6088160</PMCID>
+    <PMCID>5967691</PMCID>
+    <PMCID>5857167</PMCID>
+    <PMCID>5815749</PMCID>
+    <PMCID>5706390</PMCID>
+    <PMCID>5532450</PMCID>
+    <PMCID>6445210</PMCID>
+    <PMCID>5276850</PMCID>
+    <PMCID>5154436</PMCID>
+    <PMCID>5124224</PMCID>
+    <PMCID>5111641</PMCID>
+    <PMCID>4944228</PMCID>
+    <PMCID>4894912</PMCID>
+    <PMCID>5562452</PMCID>
+    <PMCID>4733196</PMCID>
+    <PMCID>4658479</PMCID>
+    <PMCID>4589961</PMCID>
+    <PMCID>4547236</PMCID>
+    <PMCID>4345391</PMCID>
+    <PMCID>5322544</PMCID>
+    <PMCID>4248857</PMCID>
+    <PMCID>4097680</PMCID>
+    <PMCID>3957730</PMCID>
+    <PMCID>3838092</PMCID>
+    <PMCID>3879545</PMCID>
+    <PMCID>3763247</PMCID>
+    <PMCID>3754586</PMCID>
+    <PMCID>3654946</PMCID>
+    <PMCID>3685249</PMCID>
+    <PMCID>3463544</PMCID>
+    <PMCID>3424866</PMCID>
+    <PMCID>3464140</PMCID>
+    <PMCID>3370222</PMCID>
+    <PMCID>3293907</PMCID>
+    <PMCID>3256201</PMCID>
+    <PMCID>3190887</PMCID>
+    <PMCID>3090231</PMCID>
+    <PMCID>3122647</PMCID>
+    <PMCID>3008439</PMCID>
+    <PMCID>2953089</PMCID>
+    <PMCID>2757992</PMCID>
+    <PMCID>2742863</PMCID>
+    <PMCID>2713449</PMCID>
+    <PMCID>2684350</PMCID>
+    <PMCID>2323382</PMCID>
+    <PMCID>2292675</PMCID>
+    <PMCID>2276623</PMCID>
+    <PMCID>3864449</PMCID>
+    <PMCID>2045210</PMCID>
+    <PMCID>2045247</PMCID>
+    <PMCID>7148720</PMCID>
+    <PMCID>1538760</PMCID>
+    <PMCID>2964916</PMCID>
+    <PMCID>7109704</PMCID>
+    <PMCID>535245</PMCID>
+    <PMCID>497647</PMCID>
+    <PMCID>446295</PMCID>
+    <PMCID>427828</PMCID>
+    <PMCID>344432</PMCID>
+    <PMCID>308974</PMCID>
+    <PMCID>201235</PMCID>
+    <PMCID>165270</PMCID>
+    <PMCID>153870</PMCID>
+    <PMCID>150297</PMCID>
+    <PMCID>141938</PMCID>
+    <PMCID>135353</PMCID>
+    <PMCID>130730</PMCID>
+    <PMCID>120251</PMCID>
+    <PMCID>88487</PMCID>
+    <PMCID>60189</PMCID>
+    <PMCID>88994</PMCID>
+    <PMCID>88096</PMCID>
+    <PMCID>87876</PMCID>
+    <PMCID>87858</PMCID>
+    <PMCID>87801</PMCID>
+    <PMCID>111405</PMCID>
+    <PMCID>86348</PMCID>
+    <PMCID>94368</PMCID>
+    <PMCID>103674</PMCID>
+    <PMCID>88633</PMCID>
+    <PMCID>84345</PMCID>
+    <PMCID>104827</PMCID>
+    <PMCID>124824</PMCID>
+    <PMCID>177678</PMCID>
+    <PMCID>203978</PMCID>
+    <PMCID>416103</PMCID>
+    <id>1777</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium gastri Wayne 1966
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 15754
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:15754
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 20995
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:20995
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104530
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104530
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43505
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43505
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 12407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:12407
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium gastri</scientificName>
+</pathogen>

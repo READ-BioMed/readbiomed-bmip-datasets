@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>887324</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinobacillus ureae CCUG 2139
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Actinobacillus ureae CIP 62.8
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Actinobacillus ureae NCTC 10219
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Actinobacillus ureae strain Henriksen 3520/59
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Actinobacillus ureae str. ATCC 25976
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Actinobacillus ureae strain ATCC 25976
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Actinobacillus ureae ATCC 25976</scientificName>
+    </subSpecies>
+    <PMCID>6803334</PMCID>
+    <PMCID>6456427</PMCID>
+    <PMCID>6295460</PMCID>
+    <PMCID>6293376</PMCID>
+    <PMCID>5328458</PMCID>
+    <PMCID>5061073</PMCID>
+    <PMCID>5330222</PMCID>
+    <PMCID>4806964</PMCID>
+    <PMCID>4809551</PMCID>
+    <PMCID>4767947</PMCID>
+    <PMCID>4644294</PMCID>
+    <PMCID>4363679</PMCID>
+    <PMCID>3993153</PMCID>
+    <PMCID>3993099</PMCID>
+    <PMCID>3928620</PMCID>
+    <PMCID>3936711</PMCID>
+    <PMCID>3889783</PMCID>
+    <PMCID>3775264</PMCID>
+    <PMCID>3717280</PMCID>
+    <PMCID>3715291</PMCID>
+    <PMCID>3401426</PMCID>
+    <PMCID>3607967</PMCID>
+    <PMCID>3067728</PMCID>
+    <PMCID>3043276</PMCID>
+    <PMCID>2725679</PMCID>
+    <PMCID>2519493</PMCID>
+    <PMCID>1489591</PMCID>
+    <PMCID>1233907</PMCID>
+    <PMCID>1153776</PMCID>
+    <PMCID>535277</PMCID>
+    <PMCID>348848</PMCID>
+    <PMCID>154679</PMCID>
+    <PMCID>130902</PMCID>
+    <PMCID>153383</PMCID>
+    <PMCID>87852</PMCID>
+    <PMCID>87711</PMCID>
+    <PMCID>86355</PMCID>
+    <PMCID>94140</PMCID>
+    <PMCID>84211</PMCID>
+    <PMCID>104556</PMCID>
+    <PMCID>257669</PMCID>
+    <PMCID>1480606</PMCID>
+    <PMCID>267320</PMCID>
+    <PMCID>269489</PMCID>
+    <PMCID>265921</PMCID>
+    <PMCID>268481</PMCID>
+    <PMCID>273948</PMCID>
+    <id>723</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pasterella haemolytica var. ureae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pasteurella ureae
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pasterella haemolytica var. ureae" Henriksen and Jyssum 1960
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Actinobacillus ureae (Jones 1962) Mutters et al. 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pasteurella ureae Jones 1962 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25976
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25976
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 2139
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:2139
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 62.8
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:62.8
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 5568
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:5568
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10219
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10219
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::Henriksen 3520/59
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain Henriksen 3520/59
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pasteurella ureae</scientificName>
+</pathogen>

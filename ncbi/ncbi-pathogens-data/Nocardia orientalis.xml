@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1337958</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Amycolatopsis orientalis subsp. orientalis DSM 46075
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Amycolatopsis orientalis DSM 46075</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1337957</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Amycolatopsis orientalis subsp. orientalis DSM 43388
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Amycolatopsis orientalis DSM 43388</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>24884615</GeneBankPMID>
+        <GeneBankPMID>23627759</GeneBankPMID>
+        <id>1156913</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Amycolatopsis orientalis str. HCCB10007
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Amycolatopsis orientalis strain HCCB10007
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Amycolatopsis orientalis HCCB10007</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1125971</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Amycolatopsis orientalis DSM 40040
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Amycolatopsis orientalis KCTC 9412
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Amycolatopsis orientalis KCTC 9412 = DSM 40040
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Amycolatopsis orientalis DSM 40040 = KCTC 9412</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>797057</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Amycolatopsis orientalis subsp. vinearia" Okabe et al. 1990
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Amycolatopsis orientalis subsp. vinearia</scientificName>
+    </subSpecies>
+    <PMCID>8226744</PMCID>
+    <PMCID>8193235</PMCID>
+    <PMCID>8199854</PMCID>
+    <PMCID>8179733</PMCID>
+    <PMCID>8144205</PMCID>
+    <PMCID>8123917</PMCID>
+    <PMCID>8147462</PMCID>
+    <PMCID>8143475</PMCID>
+    <PMCID>8037709</PMCID>
+    <PMCID>7962016</PMCID>
+    <PMCID>7947799</PMCID>
+    <PMCID>7852140</PMCID>
+    <PMCID>7817352</PMCID>
+    <PMCID>7851449</PMCID>
+    <PMCID>7890094</PMCID>
+    <PMCID>7803631</PMCID>
+    <PMCID>7927836</PMCID>
+    <PMCID>7752772</PMCID>
+    <PMCID>7744477</PMCID>
+    <PMCID>7652993</PMCID>
+    <PMCID>7601869</PMCID>
+    <PMCID>7581861</PMCID>
+    <PMCID>7573825</PMCID>
+    <PMCID>7582481</PMCID>
+    <PMCID>7505358</PMCID>
+    <PMCID>7570522</PMCID>
+    <PMCID>7575658</PMCID>
+    <PMCID>7468451</PMCID>
+    <PMCID>7642979</PMCID>
+    <PMCID>7400182</PMCID>
+    <PMCID>7358464</PMCID>
+    <PMCID>7225752</PMCID>
+    <PMCID>7399985</PMCID>
+    <PMCID>7305304</PMCID>
+    <PMCID>7325946</PMCID>
+    <PMCID>7316871</PMCID>
+    <PMCID>7373188</PMCID>
+    <PMCID>7323452</PMCID>
+    <PMCID>7275178</PMCID>
+    <PMCID>7540600</PMCID>
+    <PMCID>7345083</PMCID>
+    <PMCID>7314388</PMCID>
+    <PMCID>7269393</PMCID>
+    <PMCID>7256010</PMCID>
+    <PMCID>7290329</PMCID>
+    <PMCID>7214760</PMCID>
+    <PMCID>7331087</PMCID>
+    <PMCID>7252249</PMCID>
+    <PMCID>7232178</PMCID>
+    <PMCID>7148340</PMCID>
+    <PMCID>7038283</PMCID>
+    <PMCID>7888548</PMCID>
+    <PMCID>7089894</PMCID>
+    <PMCID>7020976</PMCID>
+    <PMCID>7168295</PMCID>
+    <PMCID>6936845</PMCID>
+    <PMCID>6930877</PMCID>
+    <PMCID>6930155</PMCID>
+    <PMCID>6940889</PMCID>
+    <PMCID>6970918</PMCID>
+    <PMCID>6857408</PMCID>
+    <PMCID>6799966</PMCID>
+    <PMCID>6833023</PMCID>
+    <PMCID>7015472</PMCID>
+    <PMCID>6778850</PMCID>
+    <PMCID>6804068</PMCID>
+    <PMCID>7120529</PMCID>
+    <PMCID>6769897</PMCID>
+    <PMCID>6695689</PMCID>
+    <PMCID>6677016</PMCID>
+    <PMCID>6792134</PMCID>
+    <PMCID>7351849</PMCID>
+    <PMCID>6609889</PMCID>
+    <PMCID>6588590</PMCID>
+    <PMCID>6596283</PMCID>
+    <PMCID>6549336</PMCID>
+    <PMCID>6566704</PMCID>
+    <PMCID>6813488</PMCID>
+    <PMCID>6562664</PMCID>
+    <PMCID>6627412</PMCID>
+    <PMCID>6627899</PMCID>
+    <PMCID>6470534</PMCID>
+    <PMCID>6449301</PMCID>
+    <PMCID>6401478</PMCID>
+    <PMCID>6706711</PMCID>
+    <PMCID>6390333</PMCID>
+    <PMCID>6391851</PMCID>
+    <PMCID>6779422</PMCID>
+    <PMCID>6358914</PMCID>
+    <PMCID>6335563</PMCID>
+    <PMCID>6328957</PMCID>
+    <PMCID>6299022</PMCID>
+    <PMCID>6335575</PMCID>
+    <PMCID>6283892</PMCID>
+    <PMCID>6430714</PMCID>
+    <PMCID>6242944</PMCID>
+    <PMCID>6225789</PMCID>
+    <PMCID>6232825</PMCID>
+    <PMCID>6171478</PMCID>
+    <PMCID>6145203</PMCID>
+    <PMCID>6135043</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6222632</PMCID>
+    <PMCID>6200594</PMCID>
+    <PMCID>6033941</PMCID>
+    <PMCID>6097792</PMCID>
+    <PMCID>6100412</PMCID>
+    <PMCID>6001138</PMCID>
+    <PMCID>5984834</PMCID>
+    <PMCID>5962900</PMCID>
+    <PMCID>6205514</PMCID>
+    <PMCID>6008215</PMCID>
+    <PMCID>6022936</PMCID>
+    <PMCID>6625345</PMCID>
+    <PMCID>5879953</PMCID>
+    <PMCID>6093814</PMCID>
+    <PMCID>5797228</PMCID>
+    <PMCID>5790920</PMCID>
+    <PMCID>5952257</PMCID>
+    <PMCID>5793038</PMCID>
+    <PMCID>5741622</PMCID>
+    <PMCID>6324189</PMCID>
+    <PMCID>5700366</PMCID>
+    <PMCID>5660069</PMCID>
+    <PMCID>5651670</PMCID>
+    <PMCID>5617736</PMCID>
+    <PMCID>5584589</PMCID>
+    <PMCID>5505250</PMCID>
+    <PMCID>5466765</PMCID>
+    <PMCID>6033044</PMCID>
+    <PMCID>5617763</PMCID>
+    <PMCID>5489871</PMCID>
+    <PMCID>6154692</PMCID>
+    <PMCID>5428655</PMCID>
+    <PMCID>5334620</PMCID>
+    <PMCID>5477795</PMCID>
+    <PMCID>5300972</PMCID>
+    <PMCID>5546316</PMCID>
+    <PMCID>5377812</PMCID>
+    <PMCID>5575885</PMCID>
+    <PMCID>5266830</PMCID>
+    <PMCID>5234552</PMCID>
+    <PMCID>5238595</PMCID>
+    <PMCID>5168438</PMCID>
+    <PMCID>5219032</PMCID>
+    <PMCID>5180439</PMCID>
+    <PMCID>5131748</PMCID>
+    <PMCID>5078478</PMCID>
+    <PMCID>5075577</PMCID>
+    <PMCID>5062060</PMCID>
+    <PMCID>5031334</PMCID>
+    <PMCID>5640789</PMCID>
+    <PMCID>5118856</PMCID>
+    <PMCID>5007783</PMCID>
+    <PMCID>5096955</PMCID>
+    <PMCID>6020039</PMCID>
+    <PMCID>4961565</PMCID>
+    <PMCID>4884394</PMCID>
+    <PMCID>4920768</PMCID>
+    <PMCID>4813638</PMCID>
+    <PMCID>6432605</PMCID>
+    <PMCID>4784017</PMCID>
+    <PMCID>5014122</PMCID>
+    <PMCID>4748050</PMCID>
+    <PMCID>4724715</PMCID>
+    <PMCID>4711919</PMCID>
+    <PMCID>4711283</PMCID>
+    <PMCID>4760355</PMCID>
+    <PMCID>4687605</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4597204</PMCID>
+    <PMCID>4580463</PMCID>
+    <PMCID>4573997</PMCID>
+    <PMCID>4569737</PMCID>
+    <PMCID>4575294</PMCID>
+    <PMCID>4646281</PMCID>
+    <PMCID>4753101</PMCID>
+    <PMCID>4542535</PMCID>
+    <PMCID>4531251</PMCID>
+    <PMCID>4525017</PMCID>
+    <PMCID>4635501</PMCID>
+    <PMCID>4464133</PMCID>
+    <PMCID>4627957</PMCID>
+    <PMCID>4432322</PMCID>
+    <PMCID>4510016</PMCID>
+    <PMCID>4406830</PMCID>
+    <PMCID>4352836</PMCID>
+    <PMCID>4339716</PMCID>
+    <PMCID>7414797</PMCID>
+    <PMCID>4342453</PMCID>
+    <PMCID>4790382</PMCID>
+    <PMCID>4249007</PMCID>
+    <PMCID>4215627</PMCID>
+    <PMCID>4245534</PMCID>
+    <PMCID>4200158</PMCID>
+    <PMCID>4187939</PMCID>
+    <PMCID>4187901</PMCID>
+    <PMCID>4171686</PMCID>
+    <PMCID>4135873</PMCID>
+    <PMCID>4136957</PMCID>
+    <PMCID>4384341</PMCID>
+    <PMCID>4048454</PMCID>
+    <PMCID>4082789</PMCID>
+    <PMCID>4684099</PMCID>
+    <PMCID>4002110</PMCID>
+    <PMCID>4004084</PMCID>
+    <PMCID>3968100</PMCID>
+    <PMCID>3945318</PMCID>
+    <PMCID>3914573</PMCID>
+    <PMCID>5321655</PMCID>
+    <PMCID>4018441</PMCID>
+    <PMCID>3834196</PMCID>
+    <PMCID>3946952</PMCID>
+    <PMCID>3789131</PMCID>
+    <PMCID>3765361</PMCID>
+    <PMCID>3798473</PMCID>
+    <PMCID>4720989</PMCID>
+    <PMCID>3731842</PMCID>
+    <PMCID>3720870</PMCID>
+    <PMCID>3697537</PMCID>
+    <PMCID>3695432</PMCID>
+    <PMCID>3749784</PMCID>
+    <PMCID>3651407</PMCID>
+    <PMCID>3591878</PMCID>
+    <PMCID>3606576</PMCID>
+    <PMCID>3672862</PMCID>
+    <PMCID>3641179</PMCID>
+    <PMCID>3541169</PMCID>
+    <PMCID>4384835</PMCID>
+    <PMCID>3716841</PMCID>
+    <PMCID>3457401</PMCID>
+    <PMCID>3441486</PMCID>
+    <PMCID>3481010</PMCID>
+    <PMCID>3420335</PMCID>
+    <PMCID>3454455</PMCID>
+    <PMCID>3627186</PMCID>
+    <PMCID>3370786</PMCID>
+    <PMCID>3346383</PMCID>
+    <PMCID>3567848</PMCID>
+    <PMCID>3445963</PMCID>
+    <PMCID>3342439</PMCID>
+    <PMCID>3426332</PMCID>
+    <PMCID>3901206</PMCID>
+    <PMCID>3403422</PMCID>
+    <PMCID>3370177</PMCID>
+    <PMCID>3270590</PMCID>
+    <PMCID>3302012</PMCID>
+    <PMCID>3266646</PMCID>
+    <PMCID>3274592</PMCID>
+    <PMCID>3296970</PMCID>
+    <PMCID>3250949</PMCID>
+    <PMCID>3202223</PMCID>
+    <PMCID>3192532</PMCID>
+    <PMCID>3182895</PMCID>
+    <PMCID>3768770</PMCID>
+    <PMCID>3165397</PMCID>
+    <PMCID>3188330</PMCID>
+    <PMCID>3375484</PMCID>
+    <PMCID>3121061</PMCID>
+    <PMCID>3037626</PMCID>
+    <PMCID>3004843</PMCID>
+    <PMCID>2975028</PMCID>
+    <PMCID>2964426</PMCID>
+    <PMCID>3108743</PMCID>
+    <PMCID>2916296</PMCID>
+    <PMCID>2881590</PMCID>
+    <PMCID>2915692</PMCID>
+    <PMCID>2885081</PMCID>
+    <PMCID>2893496</PMCID>
+    <PMCID>2888486</PMCID>
+    <PMCID>2879781</PMCID>
+    <PMCID>2876364</PMCID>
+    <PMCID>2833044</PMCID>
+    <PMCID>2806658</PMCID>
+    <PMCID>3063060</PMCID>
+    <PMCID>2740234</PMCID>
+    <PMCID>2714720</PMCID>
+    <PMCID>2708417</PMCID>
+    <PMCID>2704641</PMCID>
+    <PMCID>3815839</PMCID>
+    <PMCID>2651348</PMCID>
+    <PMCID>2630845</PMCID>
+    <PMCID>2602762</PMCID>
+    <PMCID>2577238</PMCID>
+    <PMCID>2965851</PMCID>
+    <PMCID>2516978</PMCID>
+    <PMCID>2746118</PMCID>
+    <PMCID>2613859</PMCID>
+    <PMCID>2390916</PMCID>
+    <PMCID>3131160</PMCID>
+    <PMCID>2515274</PMCID>
+    <PMCID>1976428</PMCID>
+    <PMCID>1932546</PMCID>
+    <PMCID>1913409</PMCID>
+    <PMCID>2515277</PMCID>
+    <PMCID>1687195</PMCID>
+    <PMCID>1383717</PMCID>
+    <PMCID>1366884</PMCID>
+    <PMCID>1287740</PMCID>
+    <PMCID>1276034</PMCID>
+    <PMCID>1255986</PMCID>
+    <PMCID>3774874</PMCID>
+    <PMCID>1168687</PMCID>
+    <PMCID>1112041</PMCID>
+    <PMCID>1173090</PMCID>
+    <PMCID>543527</PMCID>
+    <PMCID>538901</PMCID>
+    <PMCID>535184</PMCID>
+    <PMCID>529237</PMCID>
+    <PMCID>523326</PMCID>
+    <PMCID>515157</PMCID>
+    <PMCID>514772</PMCID>
+    <PMCID>492396</PMCID>
+    <PMCID>478514</PMCID>
+    <PMCID>514916</PMCID>
+    <PMCID>415764</PMCID>
+    <PMCID>3323079</PMCID>
+    <PMCID>384757</PMCID>
+    <PMCID>348904</PMCID>
+    <PMCID>218695</PMCID>
+    <PMCID>2366918</PMCID>
+    <PMCID>181003</PMCID>
+    <PMCID>170902</PMCID>
+    <PMCID>135353</PMCID>
+    <PMCID>124406</PMCID>
+    <PMCID>127163</PMCID>
+    <PMCID>139508</PMCID>
+    <PMCID>64956</PMCID>
+    <PMCID>89006</PMCID>
+    <PMCID>92589</PMCID>
+    <PMCID>101600</PMCID>
+    <PMCID>17274</PMCID>
+    <PMCID>111365</PMCID>
+    <PMCID>89847</PMCID>
+    <PMCID>7147881</PMCID>
+    <PMCID>89581</PMCID>
+    <PMCID>34236</PMCID>
+    <PMCID>89325</PMCID>
+    <PMCID>93629</PMCID>
+    <PMCID>107646</PMCID>
+    <PMCID>107449</PMCID>
+    <PMCID>105782</PMCID>
+    <PMCID>107179</PMCID>
+    <PMCID>106342</PMCID>
+    <PMCID>21075</PMCID>
+    <PMCID>172013</PMCID>
+    <PMCID>171957</PMCID>
+    <PMCID>212162</PMCID>
+    <PMCID>239229</PMCID>
+    <GeneBankPMID>29164655</GeneBankPMID>
+    <GeneBankPMID>28696669</GeneBankPMID>
+    <id>31958</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Nocardia orientalis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces orientalis
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  Actinoplanes sp. ATCC 53771
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  Amycolatopsis orientalis subsp. orientalis
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Amycolatopsis orientalis orientalis
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Streptomyces orientalis" Pittenger and Brigham 1956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Amycolatopsis orientalis (Pittenger and Brigham 1956) Lechevalier et al. 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Amycolatopsis orientalis (Pittenger and Brigham 1956) Lechevalier et al. 1986 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Amycolatopsis orientalis subsp. orientalis (Pittenger and Brigham 1956) Lechevalier et al. 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia orientalis (Pittenger and Brigham 1956) Pridham and Lyons 1969 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19795
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19795
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 107113
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:107113
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 40040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:40040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 12806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:12806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMSNU 20058
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMSNU:20058
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP 5040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ISP:5040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4235
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4600
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4235
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4600
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 9412
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:9412
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 12806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:12806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL 2450
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:2450
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM 181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   UNIQEM:181
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-866
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:866
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Nocardia orientalis</scientificName>
+</pathogen>

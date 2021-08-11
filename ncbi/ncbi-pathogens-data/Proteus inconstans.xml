@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7460005</PMCID>
+    <PMCID>6378274</PMCID>
+    <PMCID>88947</PMCID>
+    <PMCID>181952</PMCID>
+    <PMCID>181821</PMCID>
+    <PMCID>273501</PMCID>
+    <PMCID>274777</PMCID>
+    <id>84631</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Anaerogenic paracolon type 29911
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Providencia inconstans
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Anaerogenic paracolon type 29911" Stuart et al. 1943
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Providencia inconstans" (Ornstein 1920) Ewing 1958
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Proteus inconstans (Orstein (sic) 1920) Shaw and Clarke 1955
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Proteus inconstans</scientificName>
+</pathogen>

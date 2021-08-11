@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>19534756</GeneBankPMID>
+        <id>572263</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma conjunctivae str. HRC/581
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma conjunctivae strain HRC/581
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma conjunctivae HRC/581</scientificName>
+    </subSpecies>
+    <PMCID>8173446</PMCID>
+    <PMCID>8005166</PMCID>
+    <PMCID>7909091</PMCID>
+    <PMCID>7938122</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7191817</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>7169350</PMCID>
+    <PMCID>7046627</PMCID>
+    <PMCID>6952115</PMCID>
+    <PMCID>7183375</PMCID>
+    <PMCID>7153328</PMCID>
+    <PMCID>6912786</PMCID>
+    <PMCID>6802982</PMCID>
+    <PMCID>6813432</PMCID>
+    <PMCID>6370630</PMCID>
+    <PMCID>6064930</PMCID>
+    <PMCID>5771138</PMCID>
+    <PMCID>5768926</PMCID>
+    <PMCID>5979623</PMCID>
+    <PMCID>5633175</PMCID>
+    <PMCID>5738590</PMCID>
+    <PMCID>5578122</PMCID>
+    <PMCID>5514678</PMCID>
+    <PMCID>5336646</PMCID>
+    <PMCID>5331495</PMCID>
+    <PMCID>5109750</PMCID>
+    <PMCID>4706650</PMCID>
+    <PMCID>4683209</PMCID>
+    <PMCID>7158325</PMCID>
+    <PMCID>4507549</PMCID>
+    <PMCID>4444185</PMCID>
+    <PMCID>4082846</PMCID>
+    <PMCID>7123293</PMCID>
+    <PMCID>3931370</PMCID>
+    <PMCID>3943196</PMCID>
+    <PMCID>3883482</PMCID>
+    <PMCID>4228302</PMCID>
+    <PMCID>4235703</PMCID>
+    <PMCID>3794579</PMCID>
+    <PMCID>3711424</PMCID>
+    <PMCID>3634822</PMCID>
+    <PMCID>3718333</PMCID>
+    <PMCID>3610235</PMCID>
+    <PMCID>3626624</PMCID>
+    <PMCID>4629580</PMCID>
+    <PMCID>3575796</PMCID>
+    <PMCID>3370481</PMCID>
+    <PMCID>3365025</PMCID>
+    <PMCID>3322551</PMCID>
+    <PMCID>3248442</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3308835</PMCID>
+    <PMCID>3216540</PMCID>
+    <PMCID>3133210</PMCID>
+    <PMCID>2972280</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>2897346</PMCID>
+    <PMCID>2846718</PMCID>
+    <PMCID>2772613</PMCID>
+    <PMCID>2697654</PMCID>
+    <PMCID>2697632</PMCID>
+    <PMCID>7150115</PMCID>
+    <PMCID>2292954</PMCID>
+    <PMCID>7202242</PMCID>
+    <PMCID>2140093</PMCID>
+    <PMCID>1196056</PMCID>
+    <PMCID>1821000</PMCID>
+    <PMCID>154764</PMCID>
+    <PMCID>135138</PMCID>
+    <PMCID>7150219</PMCID>
+    <PMCID>116522</PMCID>
+    <PMCID>2271505</PMCID>
+    <PMCID>421306</PMCID>
+    <PMCID>421305</PMCID>
+    <PMCID>422323</PMCID>
+    <MeSHPMID>31833817</MeSHPMID>
+    <MeSHPMID>30593383</MeSHPMID>
+    <MeSHPMID>29254726</MeSHPMID>
+    <MeSHPMID>29016676</MeSHPMID>
+    <MeSHPMID>28765500</MeSHPMID>
+    <MeSHPMID>28526790</MeSHPMID>
+    <MeSHPMID>24330682</MeSHPMID>
+    <MeSHPMID>23637923</MeSHPMID>
+    <MeSHPMID>23135981</MeSHPMID>
+    <MeSHPMID>22740528</MeSHPMID>
+    <MeSHPMID>22291920</MeSHPMID>
+    <MeSHPMID>21398458</MeSHPMID>
+    <MeSHPMID>20494988</MeSHPMID>
+    <MeSHPMID>19534756</MeSHPMID>
+    <MeSHPMID>19204357</MeSHPMID>
+    <MeSHPMID>18834681</MeSHPMID>
+    <MeSHPMID>17570547</MeSHPMID>
+    <id>45361</id>
+    <meSHTree>B03.440.860.580.553.553.220</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mesomycoplasma conjunctivae
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mesomycoplasma conjunctivae (Barile et al. 1972) Gupta et al. 2018
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma conjunctivae Barile et al. 1972
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25834
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25834
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10147
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10147
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::HRC/583
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain HRC/583
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma conjunctivae</scientificName>
+</pathogen>

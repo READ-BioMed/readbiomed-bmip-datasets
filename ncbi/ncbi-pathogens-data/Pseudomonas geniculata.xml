@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1336242</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas geniculata ATCC 19374
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  [Pseudomonas] geniculata ATCC 19374
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  [Pseudomonas] geniculata JCM 13324 = ATCC 19374
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>[Pseudomonas] geniculata ATCC 19374 = JCM 13324</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1167641</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas geniculata N1
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>[Pseudomonas] geniculata N1</scientificName>
+    </subSpecies>
+    <PMCID>8193672</PMCID>
+    <PMCID>8141131</PMCID>
+    <PMCID>8175618</PMCID>
+    <PMCID>8016971</PMCID>
+    <PMCID>7952914</PMCID>
+    <PMCID>7762179</PMCID>
+    <PMCID>7666580</PMCID>
+    <PMCID>7688666</PMCID>
+    <PMCID>7499033</PMCID>
+    <PMCID>7490335</PMCID>
+    <PMCID>7688752</PMCID>
+    <PMCID>7261865</PMCID>
+    <PMCID>7117939</PMCID>
+    <PMCID>7077637</PMCID>
+    <PMCID>6981434</PMCID>
+    <PMCID>6924646</PMCID>
+    <PMCID>6799920</PMCID>
+    <PMCID>6861864</PMCID>
+    <PMCID>6831922</PMCID>
+    <PMCID>6536674</PMCID>
+    <PMCID>6466764</PMCID>
+    <PMCID>6466462</PMCID>
+    <PMCID>6346607</PMCID>
+    <PMCID>6168607</PMCID>
+    <PMCID>6117260</PMCID>
+    <PMCID>6460273</PMCID>
+    <PMCID>5829267</PMCID>
+    <PMCID>5806266</PMCID>
+    <PMCID>5770638</PMCID>
+    <PMCID>5695115</PMCID>
+    <PMCID>5691412</PMCID>
+    <PMCID>5686198</PMCID>
+    <PMCID>5635879</PMCID>
+    <PMCID>5817250</PMCID>
+    <PMCID>5541920</PMCID>
+    <PMCID>5484106</PMCID>
+    <PMCID>5359493</PMCID>
+    <PMCID>5345205</PMCID>
+    <PMCID>5204007</PMCID>
+    <PMCID>5152811</PMCID>
+    <PMCID>5040645</PMCID>
+    <PMCID>4916776</PMCID>
+    <PMCID>4725281</PMCID>
+    <PMCID>4767282</PMCID>
+    <PMCID>4683861</PMCID>
+    <PMCID>4567643</PMCID>
+    <PMCID>4598422</PMCID>
+    <PMCID>4540132</PMCID>
+    <PMCID>4561078</PMCID>
+    <PMCID>4349931</PMCID>
+    <PMCID>4329651</PMCID>
+    <PMCID>4290442</PMCID>
+    <PMCID>4569637</PMCID>
+    <PMCID>4110227</PMCID>
+    <PMCID>3938422</PMCID>
+    <PMCID>3885553</PMCID>
+    <PMCID>3891541</PMCID>
+    <PMCID>3838028</PMCID>
+    <PMCID>3742262</PMCID>
+    <PMCID>3806255</PMCID>
+    <PMCID>3686654</PMCID>
+    <PMCID>3494691</PMCID>
+    <PMCID>3558956</PMCID>
+    <PMCID>3434753</PMCID>
+    <PMCID>3339054</PMCID>
+    <PMCID>3147730</PMCID>
+    <PMCID>3067728</PMCID>
+    <PMCID>2849612</PMCID>
+    <PMCID>2832429</PMCID>
+    <PMCID>383098</PMCID>
+    <PMCID>218437</PMCID>
+    <PMCID>1164675</PMCID>
+    <PMCID>1058430</PMCID>
+    <PMCID>1058115</PMCID>
+    <PMCID>277767</PMCID>
+    <PMCID>1057781</PMCID>
+    <id>86188</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus geniculatus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas geniculata
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  bacterium NSDSUAM
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus geniculatus" Wright 1895
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas geniculata (Wright 1895) Chester 1901
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19374
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19374
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 13324
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:13324
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 9428
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB:9428
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 9428
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:9428
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   unpublished name
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Stenotrophomonas geniculata
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas geniculata</scientificName>
+</pathogen>

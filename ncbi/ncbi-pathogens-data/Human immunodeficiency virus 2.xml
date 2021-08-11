@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <subSpecies>
+            <id>31681</id>
+            <scientificName>Human immunodeficiency virus type 2 (isolate ST/24.1C#2)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>11721</id>
+            <scientificName>Human immunodeficiency virus type 2 (ISOLATE ST)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>11720</id>
+            <scientificName>Human immunodeficiency virus type 2 (ISOLATE ROD)</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>11714</id>
+            <scientificName>Human immunodeficiency virus type 2 (ISOLATE BEN)</scientificName>
+        </subSpecies>
+        <id>388908</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  HIV-2 clade A
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>HIV-2 subtype A</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <subSpecies>
+            <id>388822</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  HIV2 subtype B isolate UC1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>HIV-2 B_UC1</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <id>388821</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  HIV2 subtype B isolate EHO
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>HIV-2 B_EHO</scientificName>
+        </subSpecies>
+        <subSpecies>
+            <subSpecies>
+                <id>11716</id>
+                <scientificName>Human immunodeficiency virus type 2 (ISOLATE D205,7)</scientificName>
+            </subSpecies>
+            <id>69155</id>
+            <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  HIV-2 D205
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human immunodeficiency virus type 2 (isolate D205)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human immunodeficiency virus type 2 D205
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+            <scientificName>HIV-2.D205</scientificName>
+        </subSpecies>
+        <id>388820</id>
+        <scientificName>HIV-2 subtype B</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>362652</id>
+        <scientificName>Human immunodeficiency virus type 2 (isolate 7312A)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>73484</id>
+        <scientificName>Human immunodeficiency virus type 2 (isolate KR)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11719</id>
+        <scientificName>Human immunodeficiency virus type 2 (ISOLATE NIH-Z)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11718</id>
+        <scientificName>Human immunodeficiency virus type 2 (ISOLATE SBLISY)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11717</id>
+        <scientificName>Human immunodeficiency virus type 2 (ISOLATE GHANA-1)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11715</id>
+        <scientificName>Human immunodeficiency virus type 2 (ISOLATE CAM2)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11713</id>
+        <scientificName>Human immunodeficiency virus type 2 (ISOLATE D194)</scientificName>
+    </subSpecies>
+    <PMCID>8156722</PMCID>
+    <PMCID>8008004</PMCID>
+    <PMCID>7967035</PMCID>
+    <PMCID>7932079</PMCID>
+    <PMCID>7927399</PMCID>
+    <PMCID>7923639</PMCID>
+    <PMCID>7900240</PMCID>
+    <PMCID>7887720</PMCID>
+    <PMCID>7845492</PMCID>
+    <PMCID>7671827</PMCID>
+    <PMCID>7352989</PMCID>
+    <PMCID>7267182</PMCID>
+    <PMCID>7049754</PMCID>
+    <PMCID>7289557</PMCID>
+    <PMCID>6933616</PMCID>
+    <PMCID>6910871</PMCID>
+    <PMCID>6521635</PMCID>
+    <PMCID>6428148</PMCID>
+    <PMCID>6367519</PMCID>
+    <PMCID>7147077</PMCID>
+    <PMCID>5733787</PMCID>
+    <PMCID>7087039</PMCID>
+    <PMCID>5615520</PMCID>
+    <PMCID>5336689</PMCID>
+    <PMCID>4797288</PMCID>
+    <PMCID>4719082</PMCID>
+    <PMCID>4155101</PMCID>
+    <PMCID>4120652</PMCID>
+    <PMCID>4015915</PMCID>
+    <PMCID>7122735</PMCID>
+    <PMCID>3835772</PMCID>
+    <PMCID>3833384</PMCID>
+    <PMCID>7123310</PMCID>
+    <PMCID>3708502</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3321441</PMCID>
+    <PMCID>7121007</PMCID>
+    <PMCID>7127788</PMCID>
+    <PMCID>7115663</PMCID>
+    <PMCID>2329782</PMCID>
+    <PMCID>3367654</PMCID>
+    <PMCID>535215</PMCID>
+    <PMCID>441557</PMCID>
+    <PMCID>46479</PMCID>
+    <GeneBankPMID>28228523</GeneBankPMID>
+    <GeneBankPMID>19200444</GeneBankPMID>
+    <GeneBankPMID>18495778</GeneBankPMID>
+    <GeneBankPMID>29275329</GeneBankPMID>
+    <GeneBankPMID>15452250</GeneBankPMID>
+    <GeneBankPMID>20529266</GeneBankPMID>
+    <GeneBankPMID>31913756</GeneBankPMID>
+    <GeneBankPMID>23874202</GeneBankPMID>
+    <GeneBankPMID>32753492</GeneBankPMID>
+    <GeneBankPMID>18400243</GeneBankPMID>
+    <GeneBankPMID>31659299</GeneBankPMID>
+    <GeneBankPMID>25936766</GeneBankPMID>
+    <GeneBankPMID>21114823</GeneBankPMID>
+    <GeneBankPMID>24336198</GeneBankPMID>
+    <GeneBankPMID>26248668</GeneBankPMID>
+    <GeneBankPMID>20594957</GeneBankPMID>
+    <GeneBankPMID>26987314</GeneBankPMID>
+    <GeneBankPMID>31015445</GeneBankPMID>
+    <GeneBankPMID>22140264</GeneBankPMID>
+    <GeneBankPMID>25965791</GeneBankPMID>
+    <GeneBankPMID>22973040</GeneBankPMID>
+    <GeneBankPMID>16457868</GeneBankPMID>
+    <GeneBankPMID>22386056</GeneBankPMID>
+    <GeneBankPMID>27936595</GeneBankPMID>
+    <GeneBankPMID>27681141</GeneBankPMID>
+    <GeneBankPMID>29891865</GeneBankPMID>
+    <GeneBankPMID>24223892</GeneBankPMID>
+    <GeneBankPMID>30619335</GeneBankPMID>
+    <GeneBankPMID>20558198</GeneBankPMID>
+    <GeneBankPMID>16953064</GeneBankPMID>
+    <GeneBankPMID>22069334</GeneBankPMID>
+    <GeneBankPMID>27754450</GeneBankPMID>
+    <GeneBankPMID>18625228</GeneBankPMID>
+    <GeneBankPMID>22345473</GeneBankPMID>
+    <GeneBankPMID>19798742</GeneBankPMID>
+    <GeneBankPMID>19559029</GeneBankPMID>
+    <GeneBankPMID>27624129</GeneBankPMID>
+    <GeneBankPMID>22776683</GeneBankPMID>
+    <GeneBankPMID>25421818</GeneBankPMID>
+    <GeneBankPMID>10079180</GeneBankPMID>
+    <GeneBankPMID>28284276</GeneBankPMID>
+    <GeneBankPMID>16153874</GeneBankPMID>
+    <GeneBankPMID>32553018</GeneBankPMID>
+    <GeneBankPMID>19223581</GeneBankPMID>
+    <GeneBankPMID>24942576</GeneBankPMID>
+    <GeneBankPMID>23497283</GeneBankPMID>
+    <GeneBankPMID>27392064</GeneBankPMID>
+    <GeneBankPMID>16325220</GeneBankPMID>
+    <GeneBankPMID>18000954</GeneBankPMID>
+    <GeneBankPMID>2353457</GeneBankPMID>
+    <GeneBankPMID>9079663</GeneBankPMID>
+    <GeneBankPMID>22879995</GeneBankPMID>
+    <GeneBankPMID>21765953</GeneBankPMID>
+    <GeneBankPMID>24735396</GeneBankPMID>
+    <GeneBankPMID>21813615</GeneBankPMID>
+    <GeneBankPMID>18829761</GeneBankPMID>
+    <GeneBankPMID>23677995</GeneBankPMID>
+    <GeneBankPMID>21814863</GeneBankPMID>
+    <GeneBankPMID>17511966</GeneBankPMID>
+    <GeneBankPMID>32980676</GeneBankPMID>
+    <GeneBankPMID>31806704</GeneBankPMID>
+    <GeneBankPMID>20147394</GeneBankPMID>
+    <GeneBankPMID>9094689</GeneBankPMID>
+    <GeneBankPMID>24712655</GeneBankPMID>
+    <GeneBankPMID>29028477</GeneBankPMID>
+    <GeneBankPMID>22419802</GeneBankPMID>
+    <GeneBankPMID>16857594</GeneBankPMID>
+    <GeneBankPMID>7778269</GeneBankPMID>
+    <GeneBankPMID>24114794</GeneBankPMID>
+    <GeneBankPMID>25355888</GeneBankPMID>
+    <GeneBankPMID>9557739</GeneBankPMID>
+    <GeneBankPMID>19264781</GeneBankPMID>
+    <GeneBankPMID>23076149</GeneBankPMID>
+    <GeneBankPMID>15613310</GeneBankPMID>
+    <GeneBankPMID>31578293</GeneBankPMID>
+    <GeneBankPMID>23647667</GeneBankPMID>
+    <GeneBankPMID>19740980</GeneBankPMID>
+    <GeneBankPMID>24719410</GeneBankPMID>
+    <GeneBankPMID>29936340</GeneBankPMID>
+    <GeneBankPMID>24532789</GeneBankPMID>
+    <GeneBankPMID>18653457</GeneBankPMID>
+    <GeneBankPMID>16501101</GeneBankPMID>
+    <GeneBankPMID>12388682</GeneBankPMID>
+    <GeneBankPMID>31016584</GeneBankPMID>
+    <GeneBankPMID>10776788</GeneBankPMID>
+    <id>11709</id>
+    <meSHTree>B04.820.650.589.650.350.410</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankAcronym&gt;
+  HIV-2
+ &lt;/GenbankAcronym&gt; 
+ &lt;Acronym&gt;
+  HIV
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  HIV2
+ &lt;/Acronym&gt; 
+ &lt;Acronym&gt;
+  LAV-2
+ &lt;/Acronym&gt; 
+ &lt;Inpart&gt;
+  AIDS virus
+ &lt;/Inpart&gt; 
+ &lt;EquivalentName&gt;
+  HIV type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human immunodeficiency virus type 2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Human immunodeficiency virus-2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human immunodeficiency virus type 2 HIV-2
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  human immunodeficiency virus type 2, HIV-2
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Human immunodeficiency virus 2</scientificName>
+</pathogen>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8038783</PMCID>
+    <PMCID>7823429</PMCID>
+    <PMCID>7767503</PMCID>
+    <PMCID>7760394</PMCID>
+    <PMCID>7602849</PMCID>
+    <PMCID>7433167</PMCID>
+    <PMCID>7221986</PMCID>
+    <PMCID>7496859</PMCID>
+    <PMCID>7053764</PMCID>
+    <PMCID>6873876</PMCID>
+    <PMCID>6471099</PMCID>
+    <PMCID>6417139</PMCID>
+    <PMCID>6318354</PMCID>
+    <PMCID>5986129</PMCID>
+    <PMCID>5840241</PMCID>
+    <PMCID>5703816</PMCID>
+    <PMCID>5670356</PMCID>
+    <PMCID>5168858</PMCID>
+    <PMCID>4928461</PMCID>
+    <PMCID>4805592</PMCID>
+    <PMCID>4757035</PMCID>
+    <PMCID>4772400</PMCID>
+    <PMCID>4661320</PMCID>
+    <PMCID>4628387</PMCID>
+    <PMCID>4632850</PMCID>
+    <PMCID>4569023</PMCID>
+    <PMCID>4325144</PMCID>
+    <PMCID>4144093</PMCID>
+    <PMCID>4336449</PMCID>
+    <PMCID>3904150</PMCID>
+    <PMCID>3777934</PMCID>
+    <PMCID>3754603</PMCID>
+    <PMCID>3846632</PMCID>
+    <PMCID>3784633</PMCID>
+    <PMCID>3138044</PMCID>
+    <PMCID>3004854</PMCID>
+    <PMCID>2767093</PMCID>
+    <PMCID>2643558</PMCID>
+    <PMCID>2628235</PMCID>
+    <PMCID>3815248</PMCID>
+    <PMCID>2519274</PMCID>
+    <PMCID>1393189</PMCID>
+    <PMCID>2150920</PMCID>
+    <PMCID>1065169</PMCID>
+    <PMCID>1952383</PMCID>
+    <PMCID>348922</PMCID>
+    <PMCID>151500</PMCID>
+    <PMCID>134437</PMCID>
+    <PMCID>128777</PMCID>
+    <PMCID>130600</PMCID>
+    <PMCID>123955</PMCID>
+    <PMCID>123855</PMCID>
+    <PMCID>93131</PMCID>
+    <PMCID>95157</PMCID>
+    <PMCID>31148</PMCID>
+    <PMCID>92626</PMCID>
+    <PMCID>99756</PMCID>
+    <PMCID>106586</PMCID>
+    <PMCID>105162</PMCID>
+    <PMCID>107332</PMCID>
+    <PMCID>124844</PMCID>
+    <PMCID>209137</PMCID>
+    <PMCID>212154</PMCID>
+    <PMCID>1153612</PMCID>
+    <id>55212</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Aplanobacter rhaponticum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Bacterium rhaponticum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia carotovora var. rhapontici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pectobacterium rhapontici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Phytomonas rhapontica
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudobacterium rhapontici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Xanthomonas rhapontica
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Aplanobacter rhaponticum" (sic) (Millard 1924) White 1936
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium rhaponticum" (sic) Millard 1924
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Erwinia carotovora var. rhapontici" (Millard 1924) Dye 1969
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Phytomonas rhapontica" (sic) Millard 1924
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pseudobacterium rhapontici" (Millard 1924) Krasil'nikov 1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Xanthomonas rhapontica" (sic) (Millard 1924) Savulescu 1947
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Erwinia rhapontici (Millard 1924) Burkholder 1948 (Approved Lists 1980) emend. Hauben et al. 1998
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pectobacterium rhapontici (Millard 1924) Patel and Kulkarni 1951 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29283
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 3163
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:3163
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105202
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105202
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 4484
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:4484
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP 1582
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP:1582
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2688
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB 1578
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB:1578
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pectobacterium rhapontici</scientificName>
+</pathogen>

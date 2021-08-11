@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>7938122</PMCID>
+        <PMCID>3927607</PMCID>
+        <PMCID>3089676</PMCID>
+        <PMCID>2974642</PMCID>
+        <PMCID>2963123</PMCID>
+        <id>319225</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Chlorobium luteolum DSM 273
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Chlorobium luteolum str. DSM 273
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Chlorobium luteolum strain DSM 273
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pelodictyon luteolum DSM 273</scientificName>
+    </subSpecies>
+    <PMCID>8238504</PMCID>
+    <PMCID>8232776</PMCID>
+    <PMCID>7938122</PMCID>
+    <PMCID>7762298</PMCID>
+    <PMCID>8066431</PMCID>
+    <PMCID>7099522</PMCID>
+    <PMCID>6770048</PMCID>
+    <PMCID>6498223</PMCID>
+    <PMCID>6282198</PMCID>
+    <PMCID>5986947</PMCID>
+    <PMCID>5934491</PMCID>
+    <PMCID>6017379</PMCID>
+    <PMCID>5821090</PMCID>
+    <PMCID>5797777</PMCID>
+    <PMCID>5498476</PMCID>
+    <PMCID>5270479</PMCID>
+    <PMCID>4968741</PMCID>
+    <PMCID>5315485</PMCID>
+    <PMCID>4771319</PMCID>
+    <PMCID>5421131</PMCID>
+    <PMCID>4720306</PMCID>
+    <PMCID>4592883</PMCID>
+    <PMCID>4478705</PMCID>
+    <PMCID>4154653</PMCID>
+    <PMCID>4175335</PMCID>
+    <PMCID>3996686</PMCID>
+    <PMCID>4053972</PMCID>
+    <PMCID>3906813</PMCID>
+    <PMCID>3724816</PMCID>
+    <PMCID>3595025</PMCID>
+    <PMCID>3603403</PMCID>
+    <PMCID>3440028</PMCID>
+    <PMCID>3424549</PMCID>
+    <PMCID>3368242</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3342813</PMCID>
+    <PMCID>3180692</PMCID>
+    <PMCID>3157347</PMCID>
+    <PMCID>3132602</PMCID>
+    <PMCID>3150298</PMCID>
+    <PMCID>3144371</PMCID>
+    <PMCID>3283191</PMCID>
+    <PMCID>3048729</PMCID>
+    <PMCID>3008723</PMCID>
+    <PMCID>3089676</PMCID>
+    <PMCID>2974642</PMCID>
+    <PMCID>2963123</PMCID>
+    <PMCID>2922197</PMCID>
+    <PMCID>2887384</PMCID>
+    <PMCID>3268129</PMCID>
+    <PMCID>2772486</PMCID>
+    <PMCID>2762598</PMCID>
+    <PMCID>2702494</PMCID>
+    <PMCID>2605481</PMCID>
+    <PMCID>2330069</PMCID>
+    <PMCID>2425481</PMCID>
+    <PMCID>2643941</PMCID>
+    <PMCID>2227738</PMCID>
+    <PMCID>1892571</PMCID>
+    <PMCID>1887533</PMCID>
+    <PMCID>1913459</PMCID>
+    <PMCID>1847822</PMCID>
+    <PMCID>1636498</PMCID>
+    <PMCID>1815386</PMCID>
+    <PMCID>1569441</PMCID>
+    <PMCID>1489667</PMCID>
+    <PMCID>1166624</PMCID>
+    <PMCID>492321</PMCID>
+    <PMCID>368376</PMCID>
+    <PMCID>321305</PMCID>
+    <PMCID>92956</PMCID>
+    <id>1100</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Aphanothece luteola
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Chlorobium luteolum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pelodictyon aggregatum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Schmidlea luteola
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Aphanothece luteola" Schmidle 1901
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pelodictyon aggregatum" Perfil'ev 1914
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Schmidlea luteola" (Schmidle) Lauterborn 1913
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Chlorobium luteolum (Schmidle 1901) Imhoff 2003
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pelodictyon luteolum (Schmidle 1901) Pfennig and Truper 1971
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 273
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:273
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pelodictyon luteolum</scientificName>
+</pathogen>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1408457</id>
+        <scientificName>Mycoplasmopsis columbinum ATCC 29257</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1037410</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma columbinum str. SF7
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma columbinum strain SF7
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasmopsis columbinum SF7</scientificName>
+    </subSpecies>
+    <PMCID>7320173</PMCID>
+    <PMCID>7240078</PMCID>
+    <PMCID>5939627</PMCID>
+    <PMCID>3910936</PMCID>
+    <PMCID>3630406</PMCID>
+    <id>114881</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis columbina
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis columbina" (Shimizu et al. 1978) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis columbina (Shimizu et al. 1978) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma columbinum</scientificName>
+</pathogen>

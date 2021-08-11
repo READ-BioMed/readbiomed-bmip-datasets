@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1255661</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium acidipropinici LSPAc1
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Propionibacterium acidipropinicii LSPAc1
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Acidipropionibacterium acidipropinici LSPAc1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>23083487</GeneBankPMID>
+        <id>1171373</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Acidipropionibacterium acidipropionici DSM 20272
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Acidipropionibacterium acidipropionici JCM 6432
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium acidipropionici ATCC 4875
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium acidipropionici DSM 20272
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium acidipropionici JCM 6432
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Acidipropionibacterium acidipropionici ATCC 4875</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1111734</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium acidipropionici DSM 4900
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Acidipropionibacterium acidipropionici DSM 4900</scientificName>
+    </subSpecies>
+    <PMCID>8242345</PMCID>
+    <PMCID>8182284</PMCID>
+    <PMCID>8187901</PMCID>
+    <PMCID>8145445</PMCID>
+    <PMCID>8149966</PMCID>
+    <PMCID>8123684</PMCID>
+    <PMCID>8175145</PMCID>
+    <PMCID>8024496</PMCID>
+    <PMCID>7913060</PMCID>
+    <PMCID>7852298</PMCID>
+    <PMCID>7863920</PMCID>
+    <PMCID>7808144</PMCID>
+    <PMCID>7602066</PMCID>
+    <PMCID>7536434</PMCID>
+    <PMCID>7650540</PMCID>
+    <PMCID>7438477</PMCID>
+    <PMCID>7414198</PMCID>
+    <PMCID>7404733</PMCID>
+    <PMCID>7396987</PMCID>
+    <PMCID>7409220</PMCID>
+    <PMCID>7344326</PMCID>
+    <PMCID>7416123</PMCID>
+    <PMCID>7936288</PMCID>
+    <PMCID>7250430</PMCID>
+    <PMCID>7176942</PMCID>
+    <PMCID>7196089</PMCID>
+    <PMCID>7074790</PMCID>
+    <PMCID>6977692</PMCID>
+    <PMCID>6943790</PMCID>
+    <PMCID>6920887</PMCID>
+    <PMCID>6824284</PMCID>
+    <PMCID>6938788</PMCID>
+    <PMCID>6970964</PMCID>
+    <PMCID>6787063</PMCID>
+    <PMCID>6781651</PMCID>
+    <PMCID>6759758</PMCID>
+    <PMCID>6722170</PMCID>
+    <PMCID>7009089</PMCID>
+    <PMCID>6668860</PMCID>
+    <PMCID>6551904</PMCID>
+    <PMCID>6495644</PMCID>
+    <PMCID>6491719</PMCID>
+    <PMCID>6462784</PMCID>
+    <PMCID>7328880</PMCID>
+    <PMCID>6160142</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6090647</PMCID>
+    <PMCID>6090892</PMCID>
+    <PMCID>7009647</PMCID>
+    <PMCID>5984348</PMCID>
+    <PMCID>6056840</PMCID>
+    <PMCID>6095438</PMCID>
+    <PMCID>5928016</PMCID>
+    <PMCID>6043440</PMCID>
+    <PMCID>5902329</PMCID>
+    <PMCID>7328878</PMCID>
+    <PMCID>5730648</PMCID>
+    <PMCID>5945763</PMCID>
+    <PMCID>5756557</PMCID>
+    <PMCID>5644110</PMCID>
+    <PMCID>5627003</PMCID>
+    <PMCID>5591498</PMCID>
+    <PMCID>5561626</PMCID>
+    <PMCID>5553037</PMCID>
+    <PMCID>7009974</PMCID>
+    <PMCID>5512728</PMCID>
+    <PMCID>5620628</PMCID>
+    <PMCID>5488095</PMCID>
+    <PMCID>5391575</PMCID>
+    <PMCID>7328882</PMCID>
+    <PMCID>7010101</PMCID>
+    <PMCID>5146858</PMCID>
+    <PMCID>5328818</PMCID>
+    <PMCID>4966446</PMCID>
+    <PMCID>4949924</PMCID>
+    <PMCID>4984292</PMCID>
+    <PMCID>4888987</PMCID>
+    <PMCID>4844621</PMCID>
+    <PMCID>4751266</PMCID>
+    <PMCID>4684579</PMCID>
+    <PMCID>5360980</PMCID>
+    <PMCID>4619572</PMCID>
+    <PMCID>4471392</PMCID>
+    <PMCID>4437456</PMCID>
+    <PMCID>4396176</PMCID>
+    <PMCID>4368199</PMCID>
+    <PMCID>4357950</PMCID>
+    <PMCID>4385012</PMCID>
+    <PMCID>4252912</PMCID>
+    <PMCID>4248687</PMCID>
+    <PMCID>4223659</PMCID>
+    <PMCID>4210710</PMCID>
+    <PMCID>4444853</PMCID>
+    <PMCID>4023409</PMCID>
+    <PMCID>3772855</PMCID>
+    <PMCID>3719524</PMCID>
+    <PMCID>3650464</PMCID>
+    <PMCID>3734821</PMCID>
+    <PMCID>3534718</PMCID>
+    <PMCID>3434354</PMCID>
+    <PMCID>7106765</PMCID>
+    <PMCID>3127586</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>3038612</PMCID>
+    <PMCID>3019728</PMCID>
+    <PMCID>3008228</PMCID>
+    <PMCID>4420487</PMCID>
+    <PMCID>3005122</PMCID>
+    <PMCID>2773005</PMCID>
+    <PMCID>3062942</PMCID>
+    <PMCID>2807008</PMCID>
+    <PMCID>2773329</PMCID>
+    <PMCID>2900183</PMCID>
+    <PMCID>3815394</PMCID>
+    <PMCID>2908489</PMCID>
+    <PMCID>2042088</PMCID>
+    <PMCID>1940265</PMCID>
+    <PMCID>1828670</PMCID>
+    <PMCID>1779624</PMCID>
+    <PMCID>1563649</PMCID>
+    <PMCID>1482995</PMCID>
+    <PMCID>1317351</PMCID>
+    <PMCID>520913</PMCID>
+    <PMCID>520874</PMCID>
+    <PMCID>383175</PMCID>
+    <PMCID>134371</PMCID>
+    <PMCID>135130</PMCID>
+    <PMCID>126760</PMCID>
+    <PMCID>92861</PMCID>
+    <PMCID>92832</PMCID>
+    <PMCID>92689</PMCID>
+    <PMCID>92553</PMCID>
+    <PMCID>92367</PMCID>
+    <PMCID>92290</PMCID>
+    <PMCID>101448</PMCID>
+    <PMCID>91984</PMCID>
+    <PMCID>90930</PMCID>
+    <PMCID>106677</PMCID>
+    <PMCID>189254</PMCID>
+    <PMCID>183881</PMCID>
+    <PMCID>1204328</PMCID>
+    <PMCID>518655</PMCID>
+    <PMCID>1265238</PMCID>
+    <PMCID>1264489</PMCID>
+    <GeneBankPMID>11055911</GeneBankPMID>
+    <id>1748</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus acidi propionici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium acidi-propionici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium acidipropionici
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium arabinosum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium pentosaceum
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Propionicibacterium acidipropionici
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus acidi propionici" von Freudenreich and Orla-Jensen 1907
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Propionibacterium arabinosum" Hitchner 1932
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Propionibacterium pentosaceum" van Niel 1928
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Acidipropionibacterium acidipropionici (Orla-Jensen 1909) Scholz and Kilian 2016 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Propionibacterium acidipropionici corrig. Orla-Jensen 1909
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25562
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25562
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC 1.2230
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CGMCC:1.2230
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103025
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103025
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 4900
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:4900
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 5020
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:5020
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 11858
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB:11858
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 11858
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:11858
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 399
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:399
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Propionibacterium acidi-propionici</scientificName>
+</pathogen>

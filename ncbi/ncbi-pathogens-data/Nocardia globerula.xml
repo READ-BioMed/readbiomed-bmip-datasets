@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8116480</PMCID>
+    <PMCID>7782822</PMCID>
+    <PMCID>7721850</PMCID>
+    <PMCID>7170479</PMCID>
+    <PMCID>7074793</PMCID>
+    <PMCID>6696727</PMCID>
+    <PMCID>6850023</PMCID>
+    <PMCID>6387938</PMCID>
+    <PMCID>6222795</PMCID>
+    <PMCID>5843161</PMCID>
+    <PMCID>5599449</PMCID>
+    <PMCID>5446835</PMCID>
+    <PMCID>5477795</PMCID>
+    <PMCID>5266735</PMCID>
+    <PMCID>5258724</PMCID>
+    <PMCID>5492247</PMCID>
+    <PMCID>4538370</PMCID>
+    <PMCID>4310348</PMCID>
+    <PMCID>3983371</PMCID>
+    <PMCID>4070671</PMCID>
+    <PMCID>3510604</PMCID>
+    <PMCID>3403844</PMCID>
+    <PMCID>1698245</PMCID>
+    <PMCID>523219</PMCID>
+    <PMCID>356837</PMCID>
+    <PMCID>92642</PMCID>
+    <PMCID>111394</PMCID>
+    <PMCID>101927</PMCID>
+    <PMCID>91322</PMCID>
+    <PMCID>91303</PMCID>
+    <PMCID>219197</PMCID>
+    <PMCID>1174381</PMCID>
+    <PMCID>1176582</PMCID>
+    <PMCID>1200396</PMCID>
+    <PMCID>1200329</PMCID>
+    <id>1818</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  "Proactinomyces globerulus" (Gray 1928) Reed 1939
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium globerulum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia globea
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia globosa
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycobacterium globerulum" Gray 1928
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia globerula (Gray 1928) Waksman and Henrici 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19370
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19370
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 44596
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:44596
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 7475
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:7475
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Nocardia globerula</scientificName>
+</pathogen>

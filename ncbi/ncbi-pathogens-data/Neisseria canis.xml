@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8130298</PMCID>
+    <PMCID>7923279</PMCID>
+    <PMCID>7650674</PMCID>
+    <PMCID>7643975</PMCID>
+    <PMCID>7058167</PMCID>
+    <PMCID>6546665</PMCID>
+    <PMCID>6174289</PMCID>
+    <PMCID>6202450</PMCID>
+    <PMCID>5775901</PMCID>
+    <PMCID>5261608</PMCID>
+    <PMCID>5105111</PMCID>
+    <PMCID>4957419</PMCID>
+    <PMCID>4947113</PMCID>
+    <PMCID>4853492</PMCID>
+    <PMCID>4742810</PMCID>
+    <PMCID>5362016</PMCID>
+    <PMCID>4510155</PMCID>
+    <PMCID>4505124</PMCID>
+    <PMCID>4356944</PMCID>
+    <PMCID>3993661</PMCID>
+    <PMCID>3862762</PMCID>
+    <PMCID>3799226</PMCID>
+    <PMCID>3564156</PMCID>
+    <PMCID>3541776</PMCID>
+    <PMCID>3309591</PMCID>
+    <PMCID>3308716</PMCID>
+    <PMCID>3164381</PMCID>
+    <PMCID>3122672</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>1829145</PMCID>
+    <PMCID>1698390</PMCID>
+    <PMCID>1538737</PMCID>
+    <PMCID>1287777</PMCID>
+    <PMCID>1233907</PMCID>
+    <PMCID>321248</PMCID>
+    <PMCID>87853</PMCID>
+    <PMCID>94961</PMCID>
+    <PMCID>89300</PMCID>
+    <PMCID>89299</PMCID>
+    <PMCID>115985</PMCID>
+    <PMCID>106348</PMCID>
+    <PMCID>265778</PMCID>
+    <PMCID>267640</PMCID>
+    <id>493</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Neisseria canis Berger 1962
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14687
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14687
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:8383
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103347
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103347
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 8383
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:8383
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10296
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10296
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::H 6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain H 6
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Neisseria canis</scientificName>
+</pathogen>

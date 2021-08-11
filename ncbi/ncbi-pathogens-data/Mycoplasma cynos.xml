@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1246955</id>
+        <scientificName>Mycoplasma cynos C142</scientificName>
+    </subSpecies>
+    <PMCID>8173446</PMCID>
+    <PMCID>8160460</PMCID>
+    <PMCID>8069365</PMCID>
+    <PMCID>7883760</PMCID>
+    <PMCID>7888339</PMCID>
+    <PMCID>8014115</PMCID>
+    <PMCID>7826649</PMCID>
+    <PMCID>7848350</PMCID>
+    <PMCID>7694800</PMCID>
+    <PMCID>7554670</PMCID>
+    <PMCID>7968404</PMCID>
+    <PMCID>7517846</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7313338</PMCID>
+    <PMCID>7280450</PMCID>
+    <PMCID>7324815</PMCID>
+    <PMCID>7092585</PMCID>
+    <PMCID>7102562</PMCID>
+    <PMCID>7103302</PMCID>
+    <PMCID>7132485</PMCID>
+    <PMCID>7114575</PMCID>
+    <PMCID>7206559</PMCID>
+    <PMCID>6882279</PMCID>
+    <PMCID>6808433</PMCID>
+    <PMCID>7149329</PMCID>
+    <PMCID>7094254</PMCID>
+    <PMCID>6766487</PMCID>
+    <PMCID>6593217</PMCID>
+    <PMCID>6537462</PMCID>
+    <PMCID>6483346</PMCID>
+    <PMCID>6430921</PMCID>
+    <PMCID>6505754</PMCID>
+    <PMCID>7094580</PMCID>
+    <PMCID>7088604</PMCID>
+    <PMCID>6430903</PMCID>
+    <PMCID>6190180</PMCID>
+    <PMCID>6128882</PMCID>
+    <PMCID>6004837</PMCID>
+    <PMCID>5787162</PMCID>
+    <PMCID>7117498</PMCID>
+    <PMCID>5522929</PMCID>
+    <PMCID>7119622</PMCID>
+    <PMCID>5259643</PMCID>
+    <PMCID>5226323</PMCID>
+    <PMCID>5066355</PMCID>
+    <PMCID>5108481</PMCID>
+    <PMCID>7131703</PMCID>
+    <PMCID>5260423</PMCID>
+    <PMCID>4907131</PMCID>
+    <PMCID>4677608</PMCID>
+    <PMCID>7166506</PMCID>
+    <PMCID>7111718</PMCID>
+    <PMCID>4895374</PMCID>
+    <PMCID>7166679</PMCID>
+    <PMCID>4354915</PMCID>
+    <PMCID>4858066</PMCID>
+    <PMCID>3882280</PMCID>
+    <PMCID>3838075</PMCID>
+    <PMCID>7114586</PMCID>
+    <PMCID>7152206</PMCID>
+    <PMCID>7152112</PMCID>
+    <PMCID>3885942</PMCID>
+    <PMCID>3569279</PMCID>
+    <PMCID>6065594</PMCID>
+    <PMCID>3315197</PMCID>
+    <PMCID>2976090</PMCID>
+    <PMCID>7110628</PMCID>
+    <PMCID>2684937</PMCID>
+    <PMCID>7126931</PMCID>
+    <PMCID>7114852</PMCID>
+    <PMCID>7127756</PMCID>
+    <id>171284</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis cynos
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis cynos" (Rosendal 1973) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis cynos (Rosendal 1973) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma cynos</scientificName>
+</pathogen>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8237559</PMCID>
+    <PMCID>8149680</PMCID>
+    <PMCID>7876543</PMCID>
+    <PMCID>7915205</PMCID>
+    <PMCID>7752053</PMCID>
+    <PMCID>7761106</PMCID>
+    <PMCID>7666580</PMCID>
+    <PMCID>7658918</PMCID>
+    <PMCID>7590337</PMCID>
+    <PMCID>7559022</PMCID>
+    <PMCID>7447315</PMCID>
+    <PMCID>7285081</PMCID>
+    <PMCID>7242734</PMCID>
+    <PMCID>7127828</PMCID>
+    <PMCID>6924646</PMCID>
+    <PMCID>6466764</PMCID>
+    <PMCID>6379878</PMCID>
+    <PMCID>6159740</PMCID>
+    <PMCID>6159553</PMCID>
+    <PMCID>6175736</PMCID>
+    <PMCID>5985648</PMCID>
+    <PMCID>5938378</PMCID>
+    <PMCID>5864213</PMCID>
+    <PMCID>5712882</PMCID>
+    <PMCID>5648900</PMCID>
+    <PMCID>5817250</PMCID>
+    <PMCID>5503224</PMCID>
+    <PMCID>5086047</PMCID>
+    <PMCID>4776162</PMCID>
+    <PMCID>4696672</PMCID>
+    <PMCID>4678208</PMCID>
+    <PMCID>4307884</PMCID>
+    <PMCID>4290442</PMCID>
+    <PMCID>4113282</PMCID>
+    <PMCID>4049484</PMCID>
+    <PMCID>3719498</PMCID>
+    <PMCID>3697718</PMCID>
+    <PMCID>3666980</PMCID>
+    <PMCID>3502975</PMCID>
+    <PMCID>3372130</PMCID>
+    <PMCID>3255966</PMCID>
+    <PMCID>3147730</PMCID>
+    <PMCID>3067728</PMCID>
+    <PMCID>2863943</PMCID>
+    <PMCID>2849612</PMCID>
+    <PMCID>2832429</PMCID>
+    <PMCID>7099242</PMCID>
+    <PMCID>1287614</PMCID>
+    <id>86189</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas hibiscicola
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas hibiscicola Moniz 1963
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19867
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19867
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP 3945
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP:3945
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 13361
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:13361
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB 1683
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB:1683
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas hibiscicola</scientificName>
+</pathogen>

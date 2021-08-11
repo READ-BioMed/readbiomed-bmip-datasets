@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8226905</PMCID>
+    <PMCID>7352111</PMCID>
+    <PMCID>7199884</PMCID>
+    <PMCID>7232296</PMCID>
+    <PMCID>6950323</PMCID>
+    <PMCID>6904459</PMCID>
+    <PMCID>6580579</PMCID>
+    <PMCID>6857031</PMCID>
+    <PMCID>6309461</PMCID>
+    <PMCID>6069171</PMCID>
+    <PMCID>5960975</PMCID>
+    <PMCID>5571180</PMCID>
+    <PMCID>5508684</PMCID>
+    <PMCID>5385097</PMCID>
+    <PMCID>5337627</PMCID>
+    <PMCID>5853545</PMCID>
+    <PMCID>7150337</PMCID>
+    <PMCID>4910497</PMCID>
+    <PMCID>4809877</PMCID>
+    <PMCID>4474639</PMCID>
+    <PMCID>4500777</PMCID>
+    <PMCID>4181694</PMCID>
+    <PMCID>4128751</PMCID>
+    <PMCID>4109914</PMCID>
+    <PMCID>3910918</PMCID>
+    <PMCID>3880873</PMCID>
+    <PMCID>3747393</PMCID>
+    <PMCID>3717280</PMCID>
+    <PMCID>3668668</PMCID>
+    <PMCID>3666803</PMCID>
+    <PMCID>3553824</PMCID>
+    <PMCID>3297519</PMCID>
+    <PMCID>3417381</PMCID>
+    <PMCID>3165386</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>3119077</PMCID>
+    <PMCID>3040332</PMCID>
+    <PMCID>3043276</PMCID>
+    <PMCID>3744966</PMCID>
+    <PMCID>3034196</PMCID>
+    <PMCID>2953401</PMCID>
+    <PMCID>2832702</PMCID>
+    <PMCID>1865592</PMCID>
+    <PMCID>1797713</PMCID>
+    <PMCID>2855297</PMCID>
+    <PMCID>1366870</PMCID>
+    <PMCID>1234120</PMCID>
+    <PMCID>1168562</PMCID>
+    <PMCID>1153776</PMCID>
+    <PMCID>1087615</PMCID>
+    <PMCID>546688</PMCID>
+    <PMCID>497632</PMCID>
+    <PMCID>444839</PMCID>
+    <PMCID>404602</PMCID>
+    <PMCID>356861</PMCID>
+    <PMCID>193807</PMCID>
+    <PMCID>182598</PMCID>
+    <PMCID>154679</PMCID>
+    <PMCID>123860</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>90747</PMCID>
+    <PMCID>87711</PMCID>
+    <PMCID>87374</PMCID>
+    <PMCID>97094</PMCID>
+    <PMCID>85677</PMCID>
+    <PMCID>104556</PMCID>
+    <PMCID>205807</PMCID>
+    <PMCID>2249403</PMCID>
+    <PMCID>172395</PMCID>
+    <id>749</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pasteurella aerogenes
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pasteurella aerogenes McAllister and Carter 1974 (Approved Lists 1980) emend. Christensen et al. 2005
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27883
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27883
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 27904
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 9995
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:27904
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:9995
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 80.14
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:80.14
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 10153
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:10153
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pasteurella aerogenes</scientificName>
+</pathogen>

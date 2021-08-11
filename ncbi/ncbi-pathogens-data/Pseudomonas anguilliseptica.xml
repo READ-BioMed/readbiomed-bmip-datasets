@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8225083</PMCID>
+    <PMCID>8198758</PMCID>
+    <PMCID>7994269</PMCID>
+    <PMCID>7827161</PMCID>
+    <PMCID>7824411</PMCID>
+    <PMCID>7588912</PMCID>
+    <PMCID>7564620</PMCID>
+    <PMCID>7552218</PMCID>
+    <PMCID>7520997</PMCID>
+    <PMCID>6920838</PMCID>
+    <PMCID>6861182</PMCID>
+    <PMCID>6640156</PMCID>
+    <PMCID>6560429</PMCID>
+    <PMCID>6235981</PMCID>
+    <PMCID>6278541</PMCID>
+    <PMCID>6018384</PMCID>
+    <PMCID>5940744</PMCID>
+    <PMCID>5712882</PMCID>
+    <PMCID>5342978</PMCID>
+    <PMCID>5216021</PMCID>
+    <PMCID>4993586</PMCID>
+    <PMCID>4820306</PMCID>
+    <PMCID>4626975</PMCID>
+    <PMCID>4679113</PMCID>
+    <PMCID>4500450</PMCID>
+    <PMCID>4522580</PMCID>
+    <PMCID>4292507</PMCID>
+    <PMCID>4166284</PMCID>
+    <PMCID>4159818</PMCID>
+    <PMCID>3812170</PMCID>
+    <PMCID>3649433</PMCID>
+    <PMCID>3479428</PMCID>
+    <PMCID>3444520</PMCID>
+    <PMCID>3364575</PMCID>
+    <PMCID>3464140</PMCID>
+    <PMCID>3376613</PMCID>
+    <PMCID>3235067</PMCID>
+    <PMCID>3927600</PMCID>
+    <PMCID>3187117</PMCID>
+    <PMCID>3042408</PMCID>
+    <PMCID>3167283</PMCID>
+    <PMCID>2612228</PMCID>
+    <PMCID>2607161</PMCID>
+    <PMCID>2423017</PMCID>
+    <PMCID>1287708</PMCID>
+    <PMCID>1169039</PMCID>
+    <PMCID>535198</PMCID>
+    <PMCID>492330</PMCID>
+    <PMCID>165148</PMCID>
+    <PMCID>152472</PMCID>
+    <PMCID>139580</PMCID>
+    <PMCID>98738</PMCID>
+    <PMCID>92002</PMCID>
+    <PMCID>91961</PMCID>
+    <PMCID>90908</PMCID>
+    <PMCID>347506</PMCID>
+    <id>53406</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas anguilliseptica Wakabayashi and Egusa 1972
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33660
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33660
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:21629
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 35503
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:35503
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 106711
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:106711
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 12111
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:12111
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 21629
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:21629
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas anguilliseptica</scientificName>
+</pathogen>

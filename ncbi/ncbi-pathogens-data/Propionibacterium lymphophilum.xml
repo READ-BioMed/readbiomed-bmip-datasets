@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1123001</id>
+        <scientificName>Propionimicrobium lymphophilum DSM 4903</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>883161</id>
+        <scientificName>Propionimicrobium lymphophilum ACS-093-V-SCH5</scientificName>
+    </subSpecies>
+    <PMCID>8167034</PMCID>
+    <PMCID>8101409</PMCID>
+    <PMCID>8004716</PMCID>
+    <PMCID>7996314</PMCID>
+    <PMCID>7881091</PMCID>
+    <PMCID>7607065</PMCID>
+    <PMCID>7551491</PMCID>
+    <PMCID>7460756</PMCID>
+    <PMCID>7414951</PMCID>
+    <PMCID>7391379</PMCID>
+    <PMCID>7333170</PMCID>
+    <PMCID>6852108</PMCID>
+    <PMCID>6690682</PMCID>
+    <PMCID>6521295</PMCID>
+    <PMCID>6435596</PMCID>
+    <PMCID>6355546</PMCID>
+    <PMCID>6314084</PMCID>
+    <PMCID>6193735</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>5998164</PMCID>
+    <PMCID>5983398</PMCID>
+    <PMCID>5756557</PMCID>
+    <PMCID>5937117</PMCID>
+    <PMCID>5469791</PMCID>
+    <PMCID>5488095</PMCID>
+    <PMCID>5408610</PMCID>
+    <PMCID>5412094</PMCID>
+    <PMCID>5121381</PMCID>
+    <PMCID>4689555</PMCID>
+    <PMCID>4657239</PMCID>
+    <PMCID>4540947</PMCID>
+    <PMCID>3957746</PMCID>
+    <PMCID>3697718</PMCID>
+    <PMCID>3652107</PMCID>
+    <PMCID>3592085</PMCID>
+    <PMCID>3434354</PMCID>
+    <PMCID>3122494</PMCID>
+    <PMCID>3768664</PMCID>
+    <PMCID>120089</PMCID>
+    <id>33012</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus lymphophilus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Corynebacterium lymphophilum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium lymphophilum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium lymphophilum
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Propionicibacterium lymphophilum
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus lymphophilus" Torrey 1916
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Corynebacterium lymphophilum" (Torrey 1916) Eberson 1918
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycobacterium lymphophilum" (Torrey 1916) Krasil'nikov 1949
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Propionibacterium lymphophilum (Torrey 1916) Johnson and Cummins 1972 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Propionibacterium lymphophilum (Torrey 1916) Johnson and Cummins 1972 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Propionimicrobium lymphophilum (Torrey 1916) Stackebrandt et al. 2002
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27520
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27520
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:16728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 27816
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:27816
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103263
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103263
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 4903
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:4903
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 5829
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:5829
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 16728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:16728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11866
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11866
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 7625B
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:7625B
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Propionibacterium lymphophilum</scientificName>
+</pathogen>

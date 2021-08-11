@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1255634</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pediococcus parvulus CIRM750
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pediococcus parvulus CIRM 750</scientificName>
+    </subSpecies>
+    <PMCID>8192963</PMCID>
+    <PMCID>8100588</PMCID>
+    <PMCID>8004194</PMCID>
+    <PMCID>8000499</PMCID>
+    <PMCID>8001018</PMCID>
+    <PMCID>7893136</PMCID>
+    <PMCID>7906490</PMCID>
+    <PMCID>7827467</PMCID>
+    <PMCID>7760938</PMCID>
+    <PMCID>7859123</PMCID>
+    <PMCID>7657593</PMCID>
+    <PMCID>7693392</PMCID>
+    <PMCID>7655978</PMCID>
+    <PMCID>7660280</PMCID>
+    <PMCID>7602066</PMCID>
+    <PMCID>7509312</PMCID>
+    <PMCID>7509142</PMCID>
+    <PMCID>7472437</PMCID>
+    <PMCID>7441679</PMCID>
+    <PMCID>7464643</PMCID>
+    <PMCID>7464816</PMCID>
+    <PMCID>7426827</PMCID>
+    <PMCID>7468970</PMCID>
+    <PMCID>7463871</PMCID>
+    <PMCID>7377444</PMCID>
+    <PMCID>7404733</PMCID>
+    <PMCID>7374928</PMCID>
+    <PMCID>7321335</PMCID>
+    <PMCID>7288175</PMCID>
+    <PMCID>7807459</PMCID>
+    <PMCID>7188750</PMCID>
+    <PMCID>7174666</PMCID>
+    <PMCID>7217292</PMCID>
+    <PMCID>7125115</PMCID>
+    <PMCID>7073621</PMCID>
+    <PMCID>7256722</PMCID>
+    <PMCID>6892284</PMCID>
+    <PMCID>6722938</PMCID>
+    <PMCID>6684964</PMCID>
+    <PMCID>6784084</PMCID>
+    <PMCID>7009089</PMCID>
+    <PMCID>6617547</PMCID>
+    <PMCID>6610308</PMCID>
+    <PMCID>6607859</PMCID>
+    <PMCID>6547557</PMCID>
+    <PMCID>6513889</PMCID>
+    <PMCID>6718904</PMCID>
+    <PMCID>6368806</PMCID>
+    <PMCID>7328880</PMCID>
+    <PMCID>6351943</PMCID>
+    <PMCID>6252343</PMCID>
+    <PMCID>6134021</PMCID>
+    <PMCID>6131198</PMCID>
+    <PMCID>6102998</PMCID>
+    <PMCID>6005194</PMCID>
+    <PMCID>6094972</PMCID>
+    <PMCID>6068264</PMCID>
+    <PMCID>7009647</PMCID>
+    <PMCID>6028724</PMCID>
+    <PMCID>5989473</PMCID>
+    <PMCID>5930365</PMCID>
+    <PMCID>5821866</PMCID>
+    <PMCID>7328878</PMCID>
+    <PMCID>5723342</PMCID>
+    <PMCID>5566476</PMCID>
+    <PMCID>7009974</PMCID>
+    <PMCID>5620630</PMCID>
+    <PMCID>5536075</PMCID>
+    <PMCID>5638283</PMCID>
+    <PMCID>5408204</PMCID>
+    <PMCID>7328882</PMCID>
+    <PMCID>7010101</PMCID>
+    <PMCID>7009889</PMCID>
+    <PMCID>6604971</PMCID>
+    <PMCID>5159570</PMCID>
+    <PMCID>5100547</PMCID>
+    <PMCID>4982241</PMCID>
+    <PMCID>5107635</PMCID>
+    <PMCID>4885830</PMCID>
+    <PMCID>6140043</PMCID>
+    <PMCID>6049194</PMCID>
+    <PMCID>4843849</PMCID>
+    <PMCID>4824791</PMCID>
+    <PMCID>4690114</PMCID>
+    <PMCID>4586455</PMCID>
+    <PMCID>4561690</PMCID>
+    <PMCID>4490491</PMCID>
+    <PMCID>4406003</PMCID>
+    <PMCID>4383310</PMCID>
+    <PMCID>4315780</PMCID>
+    <PMCID>4284732</PMCID>
+    <PMCID>4047060</PMCID>
+    <PMCID>3958897</PMCID>
+    <PMCID>4034328</PMCID>
+    <PMCID>4234820</PMCID>
+    <PMCID>3889603</PMCID>
+    <PMCID>4093406</PMCID>
+    <PMCID>3754715</PMCID>
+    <PMCID>3679444</PMCID>
+    <PMCID>3668669</PMCID>
+    <PMCID>3659079</PMCID>
+    <PMCID>3564792</PMCID>
+    <PMCID>3918152</PMCID>
+    <PMCID>3560120</PMCID>
+    <PMCID>3546714</PMCID>
+    <PMCID>3390769</PMCID>
+    <PMCID>3382753</PMCID>
+    <PMCID>3298172</PMCID>
+    <PMCID>3233104</PMCID>
+    <PMCID>3231925</PMCID>
+    <PMCID>3126354</PMCID>
+    <PMCID>3146279</PMCID>
+    <PMCID>3028719</PMCID>
+    <PMCID>2909200</PMCID>
+    <PMCID>2863425</PMCID>
+    <PMCID>2805207</PMCID>
+    <PMCID>2768147</PMCID>
+    <PMCID>2746227</PMCID>
+    <PMCID>2708447</PMCID>
+    <PMCID>2634753</PMCID>
+    <PMCID>2648160</PMCID>
+    <PMCID>2692574</PMCID>
+    <PMCID>2519285</PMCID>
+    <PMCID>2446535</PMCID>
+    <PMCID>3864443</PMCID>
+    <PMCID>2227711</PMCID>
+    <PMCID>1950993</PMCID>
+    <PMCID>1636171</PMCID>
+    <PMCID>1489543</PMCID>
+    <PMCID>1317356</PMCID>
+    <PMCID>404453</PMCID>
+    <PMCID>262258</PMCID>
+    <PMCID>154493</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>126680</PMCID>
+    <PMCID>87918</PMCID>
+    <PMCID>91434</PMCID>
+    <PMCID>106682</PMCID>
+    <PMCID>1389170</PMCID>
+    <PMCID>238915</PMCID>
+    <GeneBankPMID>16416914</GeneBankPMID>
+    <GeneBankPMID>15613003</GeneBankPMID>
+    <id>54062</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pediococcus parvulus Gunther and White 1961
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19371
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19371
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:11486
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 28439
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:28439
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 102262
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:102262
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20332
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20332
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 5889
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:5889
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 11486
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:11486
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 100673
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:100673
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCDO 1634
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCDO:1634
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 9447
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:9447
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM B-1604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:B-1604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:VKM:B:1604
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pediococcus parvulus</scientificName>
+</pathogen>

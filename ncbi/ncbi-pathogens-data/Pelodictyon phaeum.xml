@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7931385</PMCID>
+    <PMCID>7432294</PMCID>
+    <PMCID>5095472</PMCID>
+    <PMCID>4427195</PMCID>
+    <PMCID>3856239</PMCID>
+    <PMCID>3732665</PMCID>
+    <PMCID>4000732</PMCID>
+    <PMCID>3954975</PMCID>
+    <PMCID>1964816</PMCID>
+    <id>34091</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pelodictyon phaeum Gorlenko 1972
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:728
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pelodictyon phaeum</scientificName>
+</pathogen>

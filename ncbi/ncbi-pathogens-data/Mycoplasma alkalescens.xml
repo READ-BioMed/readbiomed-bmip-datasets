@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1188234</id>
+        <scientificName>Mycoplasma alkalescens 14918</scientificName>
+    </subSpecies>
+    <PMCID>8052663</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7269393</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>6856322</PMCID>
+    <PMCID>6760946</PMCID>
+    <PMCID>6417145</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>5338856</PMCID>
+    <PMCID>4879300</PMCID>
+    <PMCID>7169873</PMCID>
+    <PMCID>4540935</PMCID>
+    <PMCID>4400428</PMCID>
+    <PMCID>5644610</PMCID>
+    <PMCID>4183875</PMCID>
+    <PMCID>3811644</PMCID>
+    <PMCID>3707579</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>2220054</PMCID>
+    <PMCID>1766361</PMCID>
+    <PMCID>1461414</PMCID>
+    <PMCID>419932</PMCID>
+    <PMCID>135138</PMCID>
+    <PMCID>1539654</PMCID>
+    <id>45363</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma alkalescens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma alkalescens (Leach 1973) Gupta et al. 2018
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma alkalescens Leach 1973
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29103
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29103
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10135
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10135
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::PG51
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain PG 51
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain PG51
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma alkalescens</scientificName>
+</pathogen>

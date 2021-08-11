@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>879305</id>
+        <scientificName>Anaerococcus prevotii ACS-065-V-Col13</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5450248</PMCID>
+        <PMCID>3847144</PMCID>
+        <PMCID>3618299</PMCID>
+        <PMCID>3927607</PMCID>
+        <GeneBankPMID>21304652</GeneBankPMID>
+        <id>525919</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Anaerococcus prevotii ATCC 9321
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Anaerococcus prevotii CCUG 41932
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Anaerococcus prevotii str. DSM 20548
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Anaerococcus prevotii strain DSM 20548
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Anaerococcus prevotii DSM 20548</scientificName>
+    </subSpecies>
+    <PMCID>8100368</PMCID>
+    <PMCID>8123684</PMCID>
+    <PMCID>8066845</PMCID>
+    <PMCID>8018197</PMCID>
+    <PMCID>7903678</PMCID>
+    <PMCID>7852651</PMCID>
+    <PMCID>7846727</PMCID>
+    <PMCID>7820181</PMCID>
+    <PMCID>7738495</PMCID>
+    <PMCID>7859000</PMCID>
+    <PMCID>7588441</PMCID>
+    <PMCID>7533312</PMCID>
+    <PMCID>7660916</PMCID>
+    <PMCID>7405351</PMCID>
+    <PMCID>7387423</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7353057</PMCID>
+    <PMCID>7345347</PMCID>
+    <PMCID>7302439</PMCID>
+    <PMCID>7284171</PMCID>
+    <PMCID>7404545</PMCID>
+    <PMCID>7340341</PMCID>
+    <PMCID>7550193</PMCID>
+    <PMCID>7098574</PMCID>
+    <PMCID>7154484</PMCID>
+    <PMCID>7041569</PMCID>
+    <PMCID>7082211</PMCID>
+    <PMCID>6936845</PMCID>
+    <PMCID>7003075</PMCID>
+    <PMCID>6738582</PMCID>
+    <PMCID>6895779</PMCID>
+    <PMCID>7292159</PMCID>
+    <PMCID>6684174</PMCID>
+    <PMCID>6533281</PMCID>
+    <PMCID>6498031</PMCID>
+    <PMCID>7152249</PMCID>
+    <PMCID>6360458</PMCID>
+    <PMCID>6249738</PMCID>
+    <PMCID>6193735</PMCID>
+    <PMCID>6166617</PMCID>
+    <PMCID>6083091</PMCID>
+    <PMCID>6054251</PMCID>
+    <PMCID>6191584</PMCID>
+    <PMCID>5736802</PMCID>
+    <PMCID>5627008</PMCID>
+    <PMCID>5583845</PMCID>
+    <PMCID>5469791</PMCID>
+    <PMCID>5450248</PMCID>
+    <PMCID>5260789</PMCID>
+    <PMCID>5216158</PMCID>
+    <PMCID>5053384</PMCID>
+    <PMCID>4995337</PMCID>
+    <PMCID>4957512</PMCID>
+    <PMCID>5139921</PMCID>
+    <PMCID>4837678</PMCID>
+    <PMCID>5386151</PMCID>
+    <PMCID>4846704</PMCID>
+    <PMCID>4688380</PMCID>
+    <PMCID>4582947</PMCID>
+    <PMCID>4573720</PMCID>
+    <PMCID>4537781</PMCID>
+    <PMCID>4510506</PMCID>
+    <PMCID>4773694</PMCID>
+    <PMCID>4462011</PMCID>
+    <PMCID>4397196</PMCID>
+    <PMCID>4310620</PMCID>
+    <PMCID>4289311</PMCID>
+    <PMCID>4192146</PMCID>
+    <PMCID>4081711</PMCID>
+    <PMCID>4054207</PMCID>
+    <PMCID>4005078</PMCID>
+    <PMCID>4149013</PMCID>
+    <PMCID>4021973</PMCID>
+    <PMCID>4023767</PMCID>
+    <PMCID>3997328</PMCID>
+    <PMCID>4148993</PMCID>
+    <PMCID>3912131</PMCID>
+    <PMCID>4392516</PMCID>
+    <PMCID>3849446</PMCID>
+    <PMCID>3837799</PMCID>
+    <PMCID>3804046</PMCID>
+    <PMCID>3933008</PMCID>
+    <PMCID>3847144</PMCID>
+    <PMCID>3910703</PMCID>
+    <PMCID>3890196</PMCID>
+    <PMCID>4056668</PMCID>
+    <PMCID>3697690</PMCID>
+    <PMCID>3697572</PMCID>
+    <PMCID>3622392</PMCID>
+    <PMCID>3623375</PMCID>
+    <PMCID>3764929</PMCID>
+    <PMCID>3764932</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3618299</PMCID>
+    <PMCID>3534657</PMCID>
+    <PMCID>3495864</PMCID>
+    <PMCID>3570796</PMCID>
+    <PMCID>3989101</PMCID>
+    <PMCID>3439594</PMCID>
+    <PMCID>3956963</PMCID>
+    <PMCID>3347109</PMCID>
+    <PMCID>3359877</PMCID>
+    <PMCID>3318369</PMCID>
+    <PMCID>3303625</PMCID>
+    <PMCID>3309591</PMCID>
+    <PMCID>3269128</PMCID>
+    <PMCID>3256011</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3768796</PMCID>
+    <PMCID>3161885</PMCID>
+    <PMCID>3774253</PMCID>
+    <PMCID>3138964</PMCID>
+    <PMCID>3122686</PMCID>
+    <PMCID>3088197</PMCID>
+    <PMCID>3055811</PMCID>
+    <PMCID>3039458</PMCID>
+    <PMCID>3063587</PMCID>
+    <PMCID>2955665</PMCID>
+    <PMCID>2981271</PMCID>
+    <PMCID>2951809</PMCID>
+    <PMCID>3084564</PMCID>
+    <PMCID>3035267</PMCID>
+    <PMCID>2935019</PMCID>
+    <PMCID>2937349</PMCID>
+    <PMCID>2948822</PMCID>
+    <PMCID>2863368</PMCID>
+    <PMCID>2849602</PMCID>
+    <PMCID>2849373</PMCID>
+    <PMCID>7152205</PMCID>
+    <PMCID>2773781</PMCID>
+    <PMCID>2786666</PMCID>
+    <PMCID>3035230</PMCID>
+    <PMCID>2737894</PMCID>
+    <PMCID>2681565</PMCID>
+    <PMCID>2612144</PMCID>
+    <PMCID>2612141</PMCID>
+    <PMCID>2592885</PMCID>
+    <PMCID>2650633</PMCID>
+    <PMCID>2730060</PMCID>
+    <PMCID>2224786</PMCID>
+    <PMCID>2223873</PMCID>
+    <PMCID>1933094</PMCID>
+    <PMCID>1855499</PMCID>
+    <PMCID>1829041</PMCID>
+    <PMCID>1635190</PMCID>
+    <PMCID>1635191</PMCID>
+    <PMCID>1538693</PMCID>
+    <PMCID>1472202</PMCID>
+    <PMCID>1426457</PMCID>
+    <PMCID>7157935</PMCID>
+    <PMCID>7150096</PMCID>
+    <PMCID>1351953</PMCID>
+    <PMCID>1782176</PMCID>
+    <PMCID>538895</PMCID>
+    <PMCID>535136</PMCID>
+    <PMCID>529236</PMCID>
+    <PMCID>525447</PMCID>
+    <PMCID>478502</PMCID>
+    <PMCID>444799</PMCID>
+    <PMCID>415607</PMCID>
+    <PMCID>253765</PMCID>
+    <PMCID>182602</PMCID>
+    <PMCID>153911</PMCID>
+    <PMCID>150298</PMCID>
+    <PMCID>149336</PMCID>
+    <PMCID>149287</PMCID>
+    <PMCID>148963</PMCID>
+    <PMCID>129894</PMCID>
+    <PMCID>128757</PMCID>
+    <PMCID>123985</PMCID>
+    <PMCID>126985</PMCID>
+    <PMCID>88391</PMCID>
+    <PMCID>88332</PMCID>
+    <PMCID>90568</PMCID>
+    <PMCID>88973</PMCID>
+    <PMCID>90342</PMCID>
+    <PMCID>90331</PMCID>
+    <PMCID>88948</PMCID>
+    <PMCID>91833</PMCID>
+    <PMCID>89565</PMCID>
+    <PMCID>89550</PMCID>
+    <PMCID>91600</PMCID>
+    <PMCID>89452</PMCID>
+    <PMCID>2640788</PMCID>
+    <PMCID>89207</PMCID>
+    <PMCID>88649</PMCID>
+    <PMCID>104974</PMCID>
+    <PMCID>104924</PMCID>
+    <PMCID>121377</PMCID>
+    <PMCID>229979</PMCID>
+    <PMCID>266558</PMCID>
+    <PMCID>172278</PMCID>
+    <PMCID>262417</PMCID>
+    <PMCID>273198</PMCID>
+    <PMCID>274513</PMCID>
+    <PMCID>186837</PMCID>
+    <PMCID>380222</PMCID>
+    <id>33034</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Micrococcus prevotii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptococcus prevotii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptostreptococcus prevotii
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Micrococcus prevotii" Foubert and Douglas 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Anaerococcus prevotii (Foubert and Douglas 1948) Ezaki et al. 2001
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Peptococcus prevotii (Foubert and Douglas 1948) Douglas 1957 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Peptostreptococcus prevotii (Foubert and Douglas 1948) Ezaki et al. 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 9321
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:9321
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 41932
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:41932
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105881
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105881
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20548
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6508
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6508
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11806
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Peptococcus prevotii</scientificName>
+</pathogen>

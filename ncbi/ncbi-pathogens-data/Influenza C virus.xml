@@ -1,0 +1,1660 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>2042998</id>
+        <scientificName>Influenza C virus (C/Iwate/2/2016)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2042997</id>
+        <scientificName>Influenza C virus (C/Iwate/1/2016)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025157</id>
+        <scientificName>Influenza C virus (C/Minnesota/34/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025156</id>
+        <scientificName>Influenza C virus (C/Minnesota/33/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025155</id>
+        <scientificName>Influenza C virus (C/Minnesota/32/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025154</id>
+        <scientificName>Influenza C virus (C/Minnesota/31/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025153</id>
+        <scientificName>Influenza C virus (C/Minnesota/30/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025152</id>
+        <scientificName>Influenza C virus (C/Minnesota/29/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025151</id>
+        <scientificName>Influenza C virus (C/Minnesota/28/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025150</id>
+        <scientificName>Influenza C virus (C/Minnesota/27/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025149</id>
+        <scientificName>Influenza C virus (C/Minnesota/26/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025148</id>
+        <scientificName>Influenza C virus (C/Minnesota/25/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025147</id>
+        <scientificName>Influenza C virus (C/Minnesota/24/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025146</id>
+        <scientificName>Influenza C virus (C/Minnesota/23/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025145</id>
+        <scientificName>Influenza C virus (C/Minnesota/22/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025144</id>
+        <scientificName>Influenza C virus (C/Minnesota/21/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025143</id>
+        <scientificName>Influenza C virus (C/Minnesota/20/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025142</id>
+        <scientificName>Influenza C virus (C/Minnesota/19/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025141</id>
+        <scientificName>Influenza C virus (C/Minnesota/18/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025140</id>
+        <scientificName>Influenza C virus (C/Minnesota/17/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025139</id>
+        <scientificName>Influenza C virus (C/Minnesota/16/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025138</id>
+        <scientificName>Influenza C virus (C/Minnesota/15/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025137</id>
+        <scientificName>Influenza C virus (C/Minnesota/14/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025136</id>
+        <scientificName>Influenza C virus (C/Minnesota/13/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025135</id>
+        <scientificName>Influenza C virus (C/Minnesota/12/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025134</id>
+        <scientificName>Influenza C virus (C/Minnesota/10/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025133</id>
+        <scientificName>Influenza C virus (C/Minnesota/09/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025132</id>
+        <scientificName>Influenza C virus (C/Minnesota/08/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025131</id>
+        <scientificName>Influenza C virus (C/Minnesota/07/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025130</id>
+        <scientificName>Influenza C virus (C/Minnesota/06/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025129</id>
+        <scientificName>Influenza C virus (C/Minnesota/05/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025128</id>
+        <scientificName>Influenza C virus (C/Minnesota/04/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025127</id>
+        <scientificName>Influenza C virus (C/Minnesota/04/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025126</id>
+        <scientificName>Influenza C virus (C/Minnesota/03/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025125</id>
+        <scientificName>Influenza C virus (C/Minnesota/03/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025124</id>
+        <scientificName>Influenza C virus (C/Minnesota/02/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025123</id>
+        <scientificName>Influenza C virus (C/Minnesota/01/2016)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025122</id>
+        <scientificName>Influenza C virus (C/Minnesota/01/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>2025121</id>
+        <scientificName>Influenza C virus (C/Minnesota/01/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1915119</id>
+        <scientificName>Influenza C virus (C/Lancaster/1/2015)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1795316</id>
+        <scientificName>Influenza C virus (C/Yamagata/1/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1795315</id>
+        <scientificName>Influenza C virus (C/Sao Paulo/378/82)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1795314</id>
+        <scientificName>Influenza C virus (C/Greece/1/79)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1795313</id>
+        <scientificName>Influenza C virus (C/New Jersey/1/76)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1795312</id>
+        <scientificName>Influenza C virus (C/Georgia/1/69)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1795311</id>
+        <scientificName>Influenza C virus (C/Paris/1/67)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794802</id>
+        <scientificName>Influenza C virus (C/Tokyo/4/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794801</id>
+        <scientificName>Influenza C virus (C/Tokyo/1/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794800</id>
+        <scientificName>Influenza C virus (C/Miyagi/6/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794799</id>
+        <scientificName>Influenza C virus (C/Miyagi/5/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794798</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794797</id>
+        <scientificName>Influenza C virus (C/Fukuoka/1/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794796</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794795</id>
+        <scientificName>Influenza C virus (C/Yamagata/28/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794794</id>
+        <scientificName>Influenza C virus (C/Yamagata/14/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794793</id>
+        <scientificName>Influenza C virus (C/Yamagata/7/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794792</id>
+        <scientificName>Influenza C virus (C/Yamagata/3/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794791</id>
+        <scientificName>Influenza C virus (C/Yamagata/1/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794790</id>
+        <scientificName>Influenza C virus (C/Tokyo/3/2010)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794789</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/2010)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794788</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794787</id>
+        <scientificName>Influenza C virus (C/Yamagata/16/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794786</id>
+        <scientificName>Influenza C virus (C/Yamagata/11/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794785</id>
+        <scientificName>Influenza C virus (C/Yamagata/3/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794784</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794783</id>
+        <scientificName>Influenza C virus (C/Yamagata/20/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794782</id>
+        <scientificName>Influenza C virus (C/Yamagata/13/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794781</id>
+        <scientificName>Influenza C virus (C/Yamagata/9/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794780</id>
+        <scientificName>Influenza C virus (C/Yamagata/1/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794779</id>
+        <scientificName>Influenza C virus (C/Fukuoka/2/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794778</id>
+        <scientificName>Influenza C virus (C/Fukuoka/1/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794777</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794776</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794775</id>
+        <scientificName>Influenza C virus (C/Yamagata/2/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794774</id>
+        <scientificName>Influenza C virus (C/Yamagata/1/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794773</id>
+        <scientificName>Influenza C virus (C/Miyagi/47/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794772</id>
+        <scientificName>Influenza C virus (C/Miyagi/25/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794771</id>
+        <scientificName>Influenza C virus (C/Yamagata/26/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794770</id>
+        <scientificName>Influenza C virus (C/Yamagata/18/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794769</id>
+        <scientificName>Influenza C virus (C/Miyagi/31/2002)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794768</id>
+        <scientificName>Influenza C virus (C/Miyagi/28/2002)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794767</id>
+        <scientificName>Influenza C virus (C/Miyagi/20/2002)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794766</id>
+        <scientificName>Influenza C virus (C/Miyagi/11/2002)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1794765</id>
+        <scientificName>Influenza C virus (C/Yamagata/5/2002)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1730928</id>
+        <scientificName>Influenza C virus (C/Scotland/7482/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1730927</id>
+        <scientificName>Influenza C virus (C/Scotland/7383/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1730926</id>
+        <scientificName>Influenza C virus (C/Scotland/7274/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1730925</id>
+        <scientificName>Influenza C virus (C/Scotland/6855/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1730924</id>
+        <scientificName>Influenza C virus (C/Scotland/5500/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1730923</id>
+        <scientificName>Influenza C virus (C/Scotland/5334/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1678599</id>
+        <scientificName>Influenza C virus (C/India/P119564/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581547</id>
+        <scientificName>Influenza C virus (C/Yamagata/18/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581546</id>
+        <scientificName>Influenza C virus (C/Yamagata/14/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581545</id>
+        <scientificName>Influenza C virus (C/Yamagata/35/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581544</id>
+        <scientificName>Influenza C virus (C/Yamagata/33/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581543</id>
+        <scientificName>Influenza C virus (C/Yamagata/32/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581542</id>
+        <scientificName>Influenza C virus (C/Yamagata/30/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581541</id>
+        <scientificName>Influenza C virus (C/Yamagata/16/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581540</id>
+        <scientificName>Influenza C virus (C/Yamagata/15/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581539</id>
+        <scientificName>Influenza C virus (C/Yamagata/14/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581538</id>
+        <scientificName>Influenza C virus (C/Yamagata/13/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1581537</id>
+        <scientificName>Influenza C virus (C/Yamagata/6/2014)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1544515</id>
+        <scientificName>Influenza C virus (C/India/P135047/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1544514</id>
+        <scientificName>Influenza C virus (C/India/P121719/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1544324</id>
+        <scientificName>Influenza C virus (C/Victoria/2/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524879</id>
+        <scientificName>Influenza C virus (C/Palawan/1/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524878</id>
+        <scientificName>Influenza C virus (C/Leyte/3/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524877</id>
+        <scientificName>Influenza C virus (C/Leyte/2/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524876</id>
+        <scientificName>Influenza C virus (C/Leyte/1/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524875</id>
+        <scientificName>Influenza C virus (C/Biliran/3/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524874</id>
+        <scientificName>Influenza C virus (C/Biliran/2/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524873</id>
+        <scientificName>Influenza C virus (C/Biliran/1/2013)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524872</id>
+        <scientificName>Influenza C virus (C/Sendai/TU2/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524871</id>
+        <scientificName>Influenza C virus (C/Sendai/TU1/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524870</id>
+        <scientificName>Influenza C virus (C/Sendai/TU5/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524869</id>
+        <scientificName>Influenza C virus (C/Sendai/TU4/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524868</id>
+        <scientificName>Influenza C virus (C/Sendai/TU3/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524867</id>
+        <scientificName>Influenza C virus (C/Sendai/TU2/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524866</id>
+        <scientificName>Influenza C virus (C/Sendai/TU1/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524865</id>
+        <scientificName>Influenza C virus (C/Leyte/5/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524864</id>
+        <scientificName>Influenza C virus (C/Leyte/4/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524863</id>
+        <scientificName>Influenza C virus (C/Leyte/3/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524862</id>
+        <scientificName>Influenza C virus (C/Leyte/2/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1524861</id>
+        <scientificName>Influenza C virus (C/Leyte/1/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1443461</id>
+        <scientificName>Influenza C virus (C/Yamagata/29/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1443460</id>
+        <scientificName>Influenza C virus (C/Yamagata/4/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1443459</id>
+        <scientificName>Influenza C virus (C/Yamagata/14/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1443458</id>
+        <scientificName>Influenza C virus (C/Yamagata/7/2002)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1443457</id>
+        <scientificName>Influenza C virus (C/Yamagata/4/92)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1443455</id>
+        <scientificName>Influenza C virus (C/Yamagata/7/81)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1407598</id>
+        <scientificName>Influenza C virus (C/Mie/277/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313120</id>
+        <scientificName>Influenza C virus (C/Mie/231/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1313119</id>
+        <scientificName>Influenza C virus (C/Mie/188/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1241438</id>
+        <scientificName>Influenza C virus (C/Eastern India/1202/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236560</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/180/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/180/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236559</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/182/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/182/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236558</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/198/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/198/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236557</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/67/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/67/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236556</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/204/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/204/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236555</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/185/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/185/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236554</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/193/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/193/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236553</id>
+        <scientificName>Influenza C virus (C/Mie/199/2012egg)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236552</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/265/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/265/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1236551</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/275/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/275/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1235999</id>
+        <scientificName>Influenza C virus (C/Mie/277/2012cs)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1235998</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Mie/186/2012cs)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mie/186/2012)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1197114</id>
+        <scientificName>Influenza C virus (C/Alberta/4406/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1197113</id>
+        <scientificName>Influenza C virus (C/Alberta/2616/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1197112</id>
+        <scientificName>Influenza C virus (C/Alberta/2193/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1197111</id>
+        <scientificName>Influenza C virus (C/Alberta/21100/2010)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1196644</id>
+        <scientificName>Influenza C virus (C/Milan/976/2010)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1196643</id>
+        <scientificName>Influenza C virus (C/Milan/550/2008)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1196642</id>
+        <scientificName>Influenza C virus (C/Milan/128/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1196641</id>
+        <scientificName>Influenza C virus (C/Milan/1130/2010)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1196640</id>
+        <scientificName>Influenza C virus (C/Milan/1101/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1192862</id>
+        <scientificName>Influenza C virus (C/Alberta/4941/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1192861</id>
+        <scientificName>Influenza C virus (C/Alberta/4753/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1192860</id>
+        <scientificName>Influenza C virus (C/Alberta/3502/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1192859</id>
+        <scientificName>Influenza C virus (C/Alberta/3087/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1192858</id>
+        <scientificName>Influenza C virus (C/Alberta/2921/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1192857</id>
+        <scientificName>Influenza C virus (C/Alberta/10161/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1118989</id>
+        <scientificName>Influenza C virus (C/Yamagata/2/2010)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1118988</id>
+        <scientificName>Influenza C virus (C/Yamagata/1/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1118987</id>
+        <scientificName>Influenza C virus (C/Yamagata/3/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1118986</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/2002)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1118985</id>
+        <scientificName>Influenza C virus (C/Johannesburg/4/67)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1117186</id>
+        <scientificName>Influenza C virus (C/Melbourne/1/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1104752</id>
+        <scientificName>Influenza C virus (C/Melbourne/2/2011)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863466</id>
+        <scientificName>Influenza C virus (C/Catalonia/2588/2010)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863465</id>
+        <scientificName>Influenza C virus (C/Catalonia/2072/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863464</id>
+        <scientificName>Influenza C virus (C/Catalonia/1945/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863463</id>
+        <scientificName>Influenza C virus (C/Catalonia/1824/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863462</id>
+        <scientificName>Influenza C virus (C/Catalonia/1754/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863461</id>
+        <scientificName>Influenza C virus (C/Catalonia/1457/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863460</id>
+        <scientificName>Influenza C virus (C/Catalonia/1430/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863459</id>
+        <scientificName>Influenza C virus (C/Catalonia/1373/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863458</id>
+        <scientificName>Influenza C virus (C/Catalonia/1372/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863457</id>
+        <scientificName>Influenza C virus (C/Catalonia/1318/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863456</id>
+        <scientificName>Influenza C virus (C/Catalonia/1284/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>863455</id>
+        <scientificName>Influenza C virus (C/Catalonia/1266/2009)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>670250</id>
+        <scientificName>Influenza C virus (C/Singapore/DSO-070203/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>670249</id>
+        <scientificName>Influenza C virus (C/Singapore/DSO-070193/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>670248</id>
+        <scientificName>Influenza C virus (C/Singapore/DSO-070170/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>670247</id>
+        <scientificName>Influenza C virus (C/Singapore/DSO-050530/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479147</id>
+        <scientificName>Influenza C virus (C/Caen/ME1/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479146</id>
+        <scientificName>Influenza C virus (C/Caen/MA5/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479145</id>
+        <scientificName>Influenza C virus (C/Caen/MA3/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479144</id>
+        <scientificName>Influenza C virus (C/Caen/LE2/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479143</id>
+        <scientificName>Influenza C virus (C/Caen/JO2/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479142</id>
+        <scientificName>Influenza C virus (C/Caen/HE2/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479141</id>
+        <scientificName>Influenza C virus (C/Caen/CA4/2005)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479140</id>
+        <scientificName>Influenza C virus (C/Caen/BR1/2006)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479139</id>
+        <scientificName>Influenza C virus (C/Caen/BO1/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>479138</id>
+        <scientificName>Influenza C virus (C/Caen/BA1/2007)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>424583</id>
+        <scientificName>Influenza C virus (C/Yamagata/3/88)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374416</id>
+        <scientificName>Influenza C virus (C/Fukuoka/3/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374415</id>
+        <scientificName>Influenza C virus (C/Fukuoka/2/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374414</id>
+        <scientificName>Influenza C virus (C/Hiroshima/4/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374413</id>
+        <scientificName>Influenza C virus (C/Osaka/2/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374412</id>
+        <scientificName>Influenza C virus (C/Kanagawa/2/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374411</id>
+        <scientificName>Influenza C virus (C/Saitama/1/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374410</id>
+        <scientificName>Influenza C virus (C/Fukushima/1/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374409</id>
+        <scientificName>Influenza C virus (C/Niigata/1/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374408</id>
+        <scientificName>Influenza C virus (C/Miyagi/42/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374407</id>
+        <scientificName>Influenza C virus (C/Miyagi/12/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374406</id>
+        <scientificName>Influenza C virus (C/Yamagata/27/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374405</id>
+        <scientificName>Influenza C virus (C/Yamagata/15/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>374404</id>
+        <scientificName>Influenza C virus (C/Yamagata/3/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>333283</id>
+        <scientificName>Influenza C virus (C/Yamagata/21/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>333282</id>
+        <scientificName>Influenza C virus (C/Yamagata/20/2004)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>333281</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/97)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>333280</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/97)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>333279</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/92)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>328431</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/91)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>282188</id>
+        <scientificName>Influenza C virus (C/Aichi/1/99)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>224311</id>
+        <scientificName>Influenza C virus (C/Yamagata/9/88)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>224310</id>
+        <scientificName>Influenza C virus (C/Yamagata/5/92)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>224197</id>
+        <scientificName>Influenza C virus (C/Nara/1/85)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>223897</id>
+        <scientificName>Influenza C virus (C/Yamagata/4/89)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217725</id>
+        <scientificName>Influenza C virus (C/Greece/79)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217724</id>
+        <scientificName>Influenza C virus (C/Kansas/1/79)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217723</id>
+        <scientificName>Influenza C virus (C/NewJersey/76)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217722</id>
+        <scientificName>Influenza C virus (C/Hiroshima/252/99)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217721</id>
+        <scientificName>Influenza C virus (C/Saitama/3/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217720</id>
+        <scientificName>Influenza C virus (C/Saitama/2/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217719</id>
+        <scientificName>Influenza C virus (C/Saitama/1/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217718</id>
+        <scientificName>Influenza C virus (C/Miyagi/5/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217717</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217716</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217715</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217714</id>
+        <scientificName>Influenza C virus (C/Yamagata/8/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217713</id>
+        <scientificName>Influenza C virus (C/Yamagata/6/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217712</id>
+        <scientificName>Influenza C virus (C/Yamagata/3/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217711</id>
+        <scientificName>Influenza C virus (C/Yamagata/2/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217710</id>
+        <scientificName>Influenza C virus (C/Yamagata/9/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217709</id>
+        <scientificName>Influenza C virus (C/Yamagata/2/99)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217167</id>
+        <scientificName>Influenza C virus (C/Aichi/1/81)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>217166</id>
+        <scientificName>Influenza C virus (C/Yamagata/64)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210759</id>
+        <scientificName>Influenza C virus (C/Hiroshima/290/99)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210758</id>
+        <scientificName>Influenza C virus (C/Hiroshima/252/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210757</id>
+        <scientificName>Influenza C virus (C/Hiroshima/251/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210756</id>
+        <scientificName>Influenza C virus (C/Hiroshima/250/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210755</id>
+        <scientificName>Influenza C virus (C/Hiroshima/249/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210754</id>
+        <scientificName>Influenza C virus (C/Hiroshima/248/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210753</id>
+        <scientificName>Influenza C virus (C/Hiroshima/247/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>210752</id>
+        <scientificName>Influenza C virus (C/Hiroshima/246/2000)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203234</id>
+        <scientificName>Influenza C virus (C/England/83)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203233</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/KYOTO/41/82)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Kyoto/41/82)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203232</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/NARA/82)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Nara/82)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203231</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/PIG/BEIJING/115/81)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/pig/Beijing/115/81)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203230</id>
+        <scientificName>Influenza C virus (C/Yamagata/26/81)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203229</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/MISSISSIPPI/80)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Mississippi/80)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203228</id>
+        <scientificName>Influenza C virus (C/Miyagi/9/91)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203227</id>
+        <scientificName>Influenza C virus (C/Yamagata/10/89)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203226</id>
+        <scientificName>Influenza C virus (C/Yamagata/8/88)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203225</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/HYOGO/1/83)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Hyogo/1/83)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203224</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/CALIFORNIA/78)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/California/78)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203223</id>
+        <scientificName>Influenza C virus (C/Johannesburg/66)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>203125</id>
+        <scientificName>Influenza C virus (C/Yamagata/1/88)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199360</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/92)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199359</id>
+        <scientificName>Influenza C virus (C/Yamagata/7/88)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199358</id>
+        <scientificName>Influenza C virus (C/Kyoto/1/79)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199357</id>
+        <scientificName>Influenza C virus (C/Aomori/74)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199356</id>
+        <scientificName>Influenza C virus (C/Sapporo/71)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199355</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/99)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199354</id>
+        <scientificName>Influenza C virus (C/Miyagi/1/99)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199353</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/98)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199352</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/98)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199351</id>
+        <scientificName>Influenza C virus (C/Miyagi/1/97)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199350</id>
+        <scientificName>Influenza C virus (C/Miyagi/9/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199349</id>
+        <scientificName>Influenza C virus (C/Miyagi/6/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199348</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199347</id>
+        <scientificName>Influenza C virus (C/Miyagi/5/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199346</id>
+        <scientificName>Influenza C virus (C/Miyagi/7/91)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199345</id>
+        <scientificName>Influenza C virus (C/Miyagi/5/91)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199344</id>
+        <scientificName>Influenza C virus (C/Miyagi/1/90)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199343</id>
+        <scientificName>Influenza C virus (C/Yamagata/1/86)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>199342</id>
+        <scientificName>Influenza C virus (C/Shizuoka/79)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165249</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165248</id>
+        <scientificName>Influenza C virus (C/Miyagi/1/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165247</id>
+        <scientificName>Influenza C virus (C/Miyagi/77)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165246</id>
+        <scientificName>Influenza C virus (C/Kanagawa/1/76)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165245</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/94)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165244</id>
+        <scientificName>Influenza C virus (C/Miyagi/2/94)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165243</id>
+        <scientificName>Influenza C virus (C/Miyagi/1/94)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165242</id>
+        <scientificName>Influenza C virus (C/Miyagi/7/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165241</id>
+        <scientificName>Influenza C virus (C/Miyagi/6/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165240</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165239</id>
+        <scientificName>Influenza C virus (C/Miyagi/3/93)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165238</id>
+        <scientificName>Influenza C virus (C/Miyagi/8/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165237</id>
+        <scientificName>Influenza C virus (C/Miyagi/7/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165236</id>
+        <scientificName>Influenza C virus (C/Miyagi/4/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165235</id>
+        <scientificName>Influenza C virus (C/Yamagata/13/98)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165234</id>
+        <scientificName>Influenza C virus (C/Yamagata/6/98)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165233</id>
+        <scientificName>Influenza C virus (C/Yamagata/2/98)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165232</id>
+        <scientificName>Influenza C virus (C/Yamagata/20/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165231</id>
+        <scientificName>Influenza C virus (C/Yamagata/9/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165230</id>
+        <scientificName>Influenza C virus (C/Yamagata/8/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>165229</id>
+        <scientificName>Influenza C virus (C/Yamagata/3/96)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>127958</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (strain C/Yamagata/4/88)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Yamagata/4/88)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>127957</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (strain C/Nara/2/85)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Nara/2/85)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>100673</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/JHB/1/66)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/JOHANNESBURG/1/66)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Johannesburg/1/66)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11568</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (C/Yamagata/10/81)
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/YAMAGATA/10/81)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Yamagata/10/1981)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11567</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/TAYLOR/1233/47)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Taylor/1233/1947)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11566</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/PIG/BEIJING/439/82)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/PIG/Beijing/439/1982)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11564</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/PIG/BEIJING/10/81)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/pig/Beijing/10/1981)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11560</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/JJ/50)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/JJ/1950)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11557</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/GREAT LAKES/1167/54)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Great Lakes/1167/1954)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11556</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/ENGLAND/892/83)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/England/892/1983)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>11554</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/BERLIN/1/85)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Berlin/1/85)</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <GeneBankPMID>17537859</GeneBankPMID>
+        <GeneBankPMID>23593230</GeneBankPMID>
+        <GeneBankPMID>25268971</GeneBankPMID>
+        <GeneBankPMID>22921534</GeneBankPMID>
+        <GeneBankPMID>21352864</GeneBankPMID>
+        <GeneBankPMID>21288362</GeneBankPMID>
+        <GeneBankPMID>16870298</GeneBankPMID>
+        <GeneBankPMID>19130168</GeneBankPMID>
+        <GeneBankPMID>26518983</GeneBankPMID>
+        <GeneBankPMID>20007279</GeneBankPMID>
+        <GeneBankPMID>21106743</GeneBankPMID>
+        <GeneBankPMID>15218173</GeneBankPMID>
+        <GeneBankPMID>30791465</GeneBankPMID>
+        <GeneBankPMID>32817211</GeneBankPMID>
+        <GeneBankPMID>18196455</GeneBankPMID>
+        <GeneBankPMID>28878070</GeneBankPMID>
+        <id>11553</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C virus (STRAIN C/ANN ARBOR/1/50)
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Influenza C virus (C/Ann Arbor/1/50)</scientificName>
+    </subSpecies>
+    <PMCID>8319020</PMCID>
+    <PMCID>8310010</PMCID>
+    <PMCID>8279278</PMCID>
+    <PMCID>8196934</PMCID>
+    <PMCID>8079380</PMCID>
+    <PMCID>8023524</PMCID>
+    <PMCID>7966785</PMCID>
+    <PMCID>7998938</PMCID>
+    <PMCID>7268205</PMCID>
+    <PMCID>7917534</PMCID>
+    <PMCID>8014756</PMCID>
+    <PMCID>7841862</PMCID>
+    <PMCID>7826122</PMCID>
+    <PMCID>7778152</PMCID>
+    <PMCID>7793451</PMCID>
+    <PMCID>7731901</PMCID>
+    <PMCID>7116770</PMCID>
+    <PMCID>7712773</PMCID>
+    <PMCID>7565627</PMCID>
+    <PMCID>7565620</PMCID>
+    <PMCID>7650803</PMCID>
+    <PMCID>7579402</PMCID>
+    <PMCID>7551885</PMCID>
+    <PMCID>7559378</PMCID>
+    <PMCID>7395221</PMCID>
+    <PMCID>7392107</PMCID>
+    <PMCID>7366462</PMCID>
+    <PMCID>7352545</PMCID>
+    <PMCID>7266127</PMCID>
+    <PMCID>7261881</PMCID>
+    <PMCID>7281378</PMCID>
+    <PMCID>7205639</PMCID>
+    <PMCID>7165297</PMCID>
+    <PMCID>7127483</PMCID>
+    <PMCID>7102647</PMCID>
+    <PMCID>6994851</PMCID>
+    <PMCID>7153325</PMCID>
+    <PMCID>7019359</PMCID>
+    <PMCID>6950266</PMCID>
+    <PMCID>6820949</PMCID>
+    <PMCID>6803281</PMCID>
+    <PMCID>6901781</PMCID>
+    <PMCID>6723853</PMCID>
+    <PMCID>6682550</PMCID>
+    <PMCID>6691886</PMCID>
+    <PMCID>6631717</PMCID>
+    <PMCID>6564012</PMCID>
+    <PMCID>7168545</PMCID>
+    <PMCID>6819252</PMCID>
+    <PMCID>6521319</PMCID>
+    <PMCID>6475786</PMCID>
+    <PMCID>7106441</PMCID>
+    <PMCID>6431747</PMCID>
+    <PMCID>6415498</PMCID>
+    <PMCID>6384955</PMCID>
+    <PMCID>6409753</PMCID>
+    <PMCID>6440682</PMCID>
+    <PMCID>6367519</PMCID>
+    <PMCID>6406440</PMCID>
+    <PMCID>6346101</PMCID>
+    <PMCID>6327550</PMCID>
+    <PMCID>7112061</PMCID>
+    <PMCID>6304318</PMCID>
+    <PMCID>6191289</PMCID>
+    <PMCID>6213772</PMCID>
+    <PMCID>6154146</PMCID>
+    <PMCID>6116000</PMCID>
+    <PMCID>6165133</PMCID>
+    <PMCID>6211337</PMCID>
+    <PMCID>6024077</PMCID>
+    <PMCID>5871705</PMCID>
+    <PMCID>5850323</PMCID>
+    <PMCID>5850383</PMCID>
+    <PMCID>7167075</PMCID>
+    <PMCID>5862734</PMCID>
+    <PMCID>7112322</PMCID>
+    <PMCID>5901714</PMCID>
+    <PMCID>5810478</PMCID>
+    <PMCID>5684991</PMCID>
+    <PMCID>5390268</PMCID>
+    <PMCID>5210549</PMCID>
+    <PMCID>5192382</PMCID>
+    <PMCID>7173592</PMCID>
+    <PMCID>7149777</PMCID>
+    <PMCID>7158351</PMCID>
+    <PMCID>7110489</PMCID>
+    <PMCID>5033603</PMCID>
+    <PMCID>5341080</PMCID>
+    <PMCID>5079261</PMCID>
+    <PMCID>5008092</PMCID>
+    <PMCID>4975436</PMCID>
+    <PMCID>5085006</PMCID>
+    <PMCID>4907247</PMCID>
+    <PMCID>4710576</PMCID>
+    <PMCID>4687499</PMCID>
+    <PMCID>6538290</PMCID>
+    <PMCID>4632390</PMCID>
+    <PMCID>7166422</PMCID>
+    <PMCID>4707155</PMCID>
+    <PMCID>7119924</PMCID>
+    <PMCID>5668659</PMCID>
+    <PMCID>4635867</PMCID>
+    <PMCID>7158200</PMCID>
+    <PMCID>4404362</PMCID>
+    <PMCID>4379014</PMCID>
+    <PMCID>4581998</PMCID>
+    <PMCID>4390655</PMCID>
+    <PMCID>4384744</PMCID>
+    <PMCID>7157460</PMCID>
+    <PMCID>4300652</PMCID>
+    <PMCID>4718311</PMCID>
+    <PMCID>4148594</PMCID>
+    <PMCID>7113789</PMCID>
+    <PMCID>4305159</PMCID>
+    <PMCID>3958797</PMCID>
+    <PMCID>3893164</PMCID>
+    <PMCID>7105149</PMCID>
+    <PMCID>3851852</PMCID>
+    <PMCID>3785410</PMCID>
+    <PMCID>7123310</PMCID>
+    <PMCID>7123905</PMCID>
+    <PMCID>7120183</PMCID>
+    <PMCID>7094135</PMCID>
+    <PMCID>7166942</PMCID>
+    <PMCID>7100497</PMCID>
+    <PMCID>3620349</PMCID>
+    <PMCID>4634283</PMCID>
+    <PMCID>3581513</PMCID>
+    <PMCID>3567177</PMCID>
+    <PMCID>5831953</PMCID>
+    <PMCID>3557073</PMCID>
+    <PMCID>3554077</PMCID>
+    <PMCID>4634288</PMCID>
+    <PMCID>3497660</PMCID>
+    <PMCID>3503194</PMCID>
+    <PMCID>7120651</PMCID>
+    <PMCID>3542131</PMCID>
+    <PMCID>3383990</PMCID>
+    <PMCID>3347328</PMCID>
+    <PMCID>7107894</PMCID>
+    <PMCID>7120186</PMCID>
+    <PMCID>3280267</PMCID>
+    <PMCID>3352346</PMCID>
+    <PMCID>3266934</PMCID>
+    <PMCID>3256530</PMCID>
+    <PMCID>3189341</PMCID>
+    <PMCID>7123407</PMCID>
+    <PMCID>3158019</PMCID>
+    <PMCID>7149827</PMCID>
+    <PMCID>7111470</PMCID>
+    <PMCID>3071789</PMCID>
+    <PMCID>7120757</PMCID>
+    <PMCID>7149602</PMCID>
+    <PMCID>3038952</PMCID>
+    <PMCID>7123180</PMCID>
+    <PMCID>3019503</PMCID>
+    <PMCID>3020500</PMCID>
+    <PMCID>7158318</PMCID>
+    <PMCID>7149759</PMCID>
+    <PMCID>7168550</PMCID>
+    <PMCID>2935605</PMCID>
+    <PMCID>2977892</PMCID>
+    <PMCID>7094589</PMCID>
+    <PMCID>2898228</PMCID>
+    <PMCID>7108280</PMCID>
+    <PMCID>2832430</PMCID>
+    <PMCID>2812400</PMCID>
+    <PMCID>7119315</PMCID>
+    <PMCID>2765346</PMCID>
+    <PMCID>2772707</PMCID>
+    <PMCID>2728380</PMCID>
+    <PMCID>7166749</PMCID>
+    <PMCID>2657644</PMCID>
+    <PMCID>7094598</PMCID>
+    <PMCID>7150352</PMCID>
+    <PMCID>7150148</PMCID>
+    <PMCID>2258429</PMCID>
+    <PMCID>7088442</PMCID>
+    <PMCID>7150229</PMCID>
+    <PMCID>2174939</PMCID>
+    <PMCID>7106180</PMCID>
+    <PMCID>2045542</PMCID>
+    <PMCID>7103365</PMCID>
+    <PMCID>7094569</PMCID>
+    <PMCID>1829124</PMCID>
+    <PMCID>7088224</PMCID>
+    <PMCID>3290929</PMCID>
+    <PMCID>1592697</PMCID>
+    <PMCID>1489420</PMCID>
+    <PMCID>7152450</PMCID>
+    <PMCID>7111192</PMCID>
+    <PMCID>1075690</PMCID>
+    <PMCID>8062793</PMCID>
+    <PMCID>7112904</PMCID>
+    <PMCID>548068</PMCID>
+    <PMCID>546434</PMCID>
+    <PMCID>7332303</PMCID>
+    <PMCID>7149403</PMCID>
+    <PMCID>7114242</PMCID>
+    <PMCID>7107514</PMCID>
+    <PMCID>353767</PMCID>
+    <PMCID>156146</PMCID>
+    <PMCID>140804</PMCID>
+    <PMCID>136441</PMCID>
+    <PMCID>153379</PMCID>
+    <PMCID>114972</PMCID>
+    <PMCID>7109944</PMCID>
+    <PMCID>110953</PMCID>
+    <PMCID>110922</PMCID>
+    <PMCID>110872</PMCID>
+    <PMCID>111531</PMCID>
+    <PMCID>112902</PMCID>
+    <PMCID>112514</PMCID>
+    <PMCID>7161583</PMCID>
+    <PMCID>104150</PMCID>
+    <PMCID>7149719</PMCID>
+    <PMCID>23766</PMCID>
+    <PMCID>104849</PMCID>
+    <PMCID>7120653</PMCID>
+    <PMCID>2196344</PMCID>
+    <PMCID>7159800</PMCID>
+    <PMCID>7088003</PMCID>
+    <PMCID>7108540</PMCID>
+    <PMCID>7119587</PMCID>
+    <PMCID>7173336</PMCID>
+    <PMCID>7173321</PMCID>
+    <PMCID>1149864</PMCID>
+    <PMCID>250621</PMCID>
+    <PMCID>7150083</PMCID>
+    <PMCID>252509</PMCID>
+    <PMCID>255590</PMCID>
+    <PMCID>347941</PMCID>
+    <PMCID>256943</PMCID>
+    <PMCID>516009</PMCID>
+    <PMCID>2131033</PMCID>
+    <PMCID>1911977</PMCID>
+    <PMCID>2136646</PMCID>
+    <id>11552</id>
+    <meSHTree>B04.820.480.968.410</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Acronym&gt;
+  FLUCV
+ &lt;/Acronym&gt; 
+ &lt;EquivalentName&gt;
+  Influenza C viruses
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Influenza virus type C
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Influenza C virus</scientificName>
+</pathogen>

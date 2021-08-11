@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1354191</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020173
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020173</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354190</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020137
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020137</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354189</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020185
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020185</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354188</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020176
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020176</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354187</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020135
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020135</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354186</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020107
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020107</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354185</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020106
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020106</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354184</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020105
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020105</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354183</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010137
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010137</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354181</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010131
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010131</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354180</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010129
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010129</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354179</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010128
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010128</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354178</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010123
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010123</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354177</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010120
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010120</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354176</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010118
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010118</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354175</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010112
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010112</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354174</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010111
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010111</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354173</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010102
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010102</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354172</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010100
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010100</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354171</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010099
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010099</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354170</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010098
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010098</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354169</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010097
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010097</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354168</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010092
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010092</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354167</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010091
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010091</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354166</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010081
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010081</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354164</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010074
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010074</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354163</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010073
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010073</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354162</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010071
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010071</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354161</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL010070
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL010070</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354141</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020136
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium tuberculosis MAL020136
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020136</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1354104</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum MAL020193
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium tuberculosis MAL020193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum MAL020193</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>611304</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum K85
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum K85</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6245693</PMCID>
+        <PMCID>4858275</PMCID>
+        <PMCID>4838326</PMCID>
+        <GeneBankPMID>22389744</GeneBankPMID>
+        <GeneBankPMID>22327301</GeneBankPMID>
+        <id>572418</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium africanum GM041182
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacterium tuberculosis variant africanum GM041182</scientificName>
+    </subSpecies>
+    <PMCID>8208694</PMCID>
+    <PMCID>8208692</PMCID>
+    <PMCID>8190733</PMCID>
+    <PMCID>8199368</PMCID>
+    <PMCID>8121931</PMCID>
+    <PMCID>8134059</PMCID>
+    <PMCID>7968653</PMCID>
+    <PMCID>8008060</PMCID>
+    <PMCID>7921743</PMCID>
+    <PMCID>7835394</PMCID>
+    <PMCID>7784266</PMCID>
+    <PMCID>7785237</PMCID>
+    <PMCID>7779811</PMCID>
+    <PMCID>7767103</PMCID>
+    <PMCID>7766629</PMCID>
+    <PMCID>7771457</PMCID>
+    <PMCID>7737520</PMCID>
+    <PMCID>7733669</PMCID>
+    <PMCID>7701246</PMCID>
+    <PMCID>7605690</PMCID>
+    <PMCID>7557052</PMCID>
+    <PMCID>7599504</PMCID>
+    <PMCID>7525159</PMCID>
+    <PMCID>7872997</PMCID>
+    <PMCID>7496005</PMCID>
+    <PMCID>7464023</PMCID>
+    <PMCID>8094893</PMCID>
+    <PMCID>7330976</PMCID>
+    <PMCID>7373718</PMCID>
+    <PMCID>7306089</PMCID>
+    <PMCID>7325494</PMCID>
+    <PMCID>7248928</PMCID>
+    <PMCID>7222473</PMCID>
+    <PMCID>7219701</PMCID>
+    <PMCID>7232559</PMCID>
+    <PMCID>7346914</PMCID>
+    <PMCID>7195525</PMCID>
+    <PMCID>7165461</PMCID>
+    <PMCID>7090312</PMCID>
+    <PMCID>7066979</PMCID>
+    <PMCID>7000671</PMCID>
+    <PMCID>6988586</PMCID>
+    <PMCID>6962199</PMCID>
+    <PMCID>7067037</PMCID>
+    <PMCID>7020137</PMCID>
+    <PMCID>7011159</PMCID>
+    <PMCID>7183380</PMCID>
+    <PMCID>7049902</PMCID>
+    <PMCID>6937676</PMCID>
+    <PMCID>7335808</PMCID>
+    <PMCID>7310797</PMCID>
+    <PMCID>6938991</PMCID>
+    <PMCID>6954902</PMCID>
+    <PMCID>6891355</PMCID>
+    <PMCID>6965675</PMCID>
+    <PMCID>6947796</PMCID>
+    <PMCID>6911947</PMCID>
+    <PMCID>6831922</PMCID>
+    <PMCID>6759143</PMCID>
+    <PMCID>6759583</PMCID>
+    <PMCID>6746983</PMCID>
+    <PMCID>6728331</PMCID>
+    <PMCID>6925164</PMCID>
+    <PMCID>6734513</PMCID>
+    <PMCID>6663911</PMCID>
+    <PMCID>6663905</PMCID>
+    <PMCID>6660993</PMCID>
+    <PMCID>6691555</PMCID>
+    <PMCID>6535525</PMCID>
+    <PMCID>6535427</PMCID>
+    <PMCID>6698389</PMCID>
+    <PMCID>6557804</PMCID>
+    <PMCID>6556569</PMCID>
+    <PMCID>6491781</PMCID>
+    <PMCID>6478271</PMCID>
+    <PMCID>6471959</PMCID>
+    <PMCID>6684002</PMCID>
+    <PMCID>6441790</PMCID>
+    <PMCID>6438904</PMCID>
+    <PMCID>6441568</PMCID>
+    <PMCID>6429209</PMCID>
+    <PMCID>6366779</PMCID>
+    <PMCID>6373974</PMCID>
+    <PMCID>6346139</PMCID>
+    <PMCID>6334816</PMCID>
+    <PMCID>6333481</PMCID>
+    <PMCID>6472208</PMCID>
+    <PMCID>6307224</PMCID>
+    <PMCID>6319128</PMCID>
+    <PMCID>6295815</PMCID>
+    <PMCID>6291124</PMCID>
+    <PMCID>6280437</PMCID>
+    <PMCID>6277475</PMCID>
+    <PMCID>7150178</PMCID>
+    <PMCID>6245693</PMCID>
+    <PMCID>6337071</PMCID>
+    <PMCID>7173580</PMCID>
+    <PMCID>6194142</PMCID>
+    <PMCID>6562125</PMCID>
+    <PMCID>6186143</PMCID>
+    <PMCID>6306742</PMCID>
+    <PMCID>6171509</PMCID>
+    <PMCID>6156301</PMCID>
+    <PMCID>6069673</PMCID>
+    <PMCID>6082673</PMCID>
+    <PMCID>6091133</PMCID>
+    <PMCID>6062541</PMCID>
+    <PMCID>6148193</PMCID>
+    <PMCID>6071665</PMCID>
+    <PMCID>6034314</PMCID>
+    <PMCID>6159546</PMCID>
+    <PMCID>6708508</PMCID>
+    <PMCID>6026637</PMCID>
+    <PMCID>6085733</PMCID>
+    <PMCID>6830120</PMCID>
+    <PMCID>5971528</PMCID>
+    <PMCID>6978984</PMCID>
+    <PMCID>5930393</PMCID>
+    <PMCID>6056203</PMCID>
+    <PMCID>6817256</PMCID>
+    <PMCID>6017942</PMCID>
+    <PMCID>6009663</PMCID>
+    <PMCID>6428376</PMCID>
+    <PMCID>5823342</PMCID>
+    <PMCID>5830583</PMCID>
+    <PMCID>5831734</PMCID>
+    <PMCID>6997954</PMCID>
+    <PMCID>5800101</PMCID>
+    <PMCID>5796708</PMCID>
+    <PMCID>5967691</PMCID>
+    <PMCID>5795479</PMCID>
+    <PMCID>5767228</PMCID>
+    <PMCID>5857167</PMCID>
+    <PMCID>5723337</PMCID>
+    <PMCID>5712140</PMCID>
+    <PMCID>5711827</PMCID>
+    <PMCID>5694989</PMCID>
+    <PMCID>7271185</PMCID>
+    <PMCID>5853844</PMCID>
+    <PMCID>5721018</PMCID>
+    <PMCID>5671819</PMCID>
+    <PMCID>5850024</PMCID>
+    <PMCID>5648229</PMCID>
+    <PMCID>5648319</PMCID>
+    <PMCID>5626959</PMCID>
+    <PMCID>5759756</PMCID>
+    <PMCID>7097079</PMCID>
+    <PMCID>5604961</PMCID>
+    <PMCID>5599059</PMCID>
+    <PMCID>5567628</PMCID>
+    <PMCID>5483912</PMCID>
+    <PMCID>5462905</PMCID>
+    <PMCID>5803666</PMCID>
+    <PMCID>5423352</PMCID>
+    <PMCID>5435359</PMCID>
+    <PMCID>5421582</PMCID>
+    <PMCID>5415667</PMCID>
+    <PMCID>5386241</PMCID>
+    <PMCID>5365657</PMCID>
+    <PMCID>5360035</PMCID>
+    <PMCID>5349653</PMCID>
+    <PMCID>5369855</PMCID>
+    <PMCID>5381558</PMCID>
+    <PMCID>5298867</PMCID>
+    <PMCID>5303782</PMCID>
+    <PMCID>5124224</PMCID>
+    <PMCID>5121395</PMCID>
+    <PMCID>5238942</PMCID>
+    <PMCID>5142099</PMCID>
+    <PMCID>5122730</PMCID>
+    <PMCID>5040422</PMCID>
+    <PMCID>5001706</PMCID>
+    <PMCID>5005506</PMCID>
+    <PMCID>5021836</PMCID>
+    <PMCID>4977717</PMCID>
+    <PMCID>4973203</PMCID>
+    <PMCID>5287379</PMCID>
+    <PMCID>5338246</PMCID>
+    <PMCID>4936735</PMCID>
+    <PMCID>4978697</PMCID>
+    <PMCID>5320646</PMCID>
+    <PMCID>4922084</PMCID>
+    <PMCID>7122169</PMCID>
+    <PMCID>4891649</PMCID>
+    <PMCID>4871581</PMCID>
+    <PMCID>4858275</PMCID>
+    <PMCID>4933155</PMCID>
+    <PMCID>4851328</PMCID>
+    <PMCID>6138107</PMCID>
+    <PMCID>4886571</PMCID>
+    <PMCID>4801013</PMCID>
+    <PMCID>4839100</PMCID>
+    <PMCID>4838326</PMCID>
+    <PMCID>4864480</PMCID>
+    <PMCID>4836228</PMCID>
+    <PMCID>4833828</PMCID>
+    <PMCID>4782376</PMCID>
+    <PMCID>4766873</PMCID>
+    <PMCID>4770551</PMCID>
+    <PMCID>4838193</PMCID>
+    <PMCID>4746578</PMCID>
+    <PMCID>4744917</PMCID>
+    <PMCID>4713829</PMCID>
+    <PMCID>4789662</PMCID>
+    <PMCID>4992352</PMCID>
+    <PMCID>4737169</PMCID>
+    <PMCID>4691238</PMCID>
+    <PMCID>4673354</PMCID>
+    <PMCID>4805153</PMCID>
+    <PMCID>4672243</PMCID>
+    <PMCID>4630581</PMCID>
+    <PMCID>4623242</PMCID>
+    <PMCID>4620462</PMCID>
+    <PMCID>4576106</PMCID>
+    <PMCID>4572527</PMCID>
+    <PMCID>4569260</PMCID>
+    <PMCID>4645823</PMCID>
+    <PMCID>4547236</PMCID>
+    <PMCID>4517326</PMCID>
+    <PMCID>4503999</PMCID>
+    <PMCID>4482099</PMCID>
+    <PMCID>4481353</PMCID>
+    <PMCID>4513877</PMCID>
+    <PMCID>4473070</PMCID>
+    <PMCID>4452763</PMCID>
+    <PMCID>4463991</PMCID>
+    <PMCID>4446334</PMCID>
+    <PMCID>7112674</PMCID>
+    <PMCID>5047253</PMCID>
+    <PMCID>4774856</PMCID>
+    <PMCID>4365194</PMCID>
+    <PMCID>4714282</PMCID>
+    <PMCID>4384740</PMCID>
+    <PMCID>4440151</PMCID>
+    <PMCID>5322544</PMCID>
+    <PMCID>4338821</PMCID>
+    <PMCID>4390619</PMCID>
+    <PMCID>4342237</PMCID>
+    <PMCID>4590833</PMCID>
+    <PMCID>4315922</PMCID>
+    <PMCID>4590870</PMCID>
+    <PMCID>4292244</PMCID>
+    <PMCID>4287525</PMCID>
+    <PMCID>4562020</PMCID>
+    <PMCID>4357692</PMCID>
+    <PMCID>4346597</PMCID>
+    <PMCID>5096734</PMCID>
+    <PMCID>4282010</PMCID>
+    <PMCID>4220711</PMCID>
+    <PMCID>4222108</PMCID>
+    <PMCID>4218801</PMCID>
+    <PMCID>4314449</PMCID>
+    <PMCID>4166679</PMCID>
+    <PMCID>4155097</PMCID>
+    <PMCID>4142859</PMCID>
+    <PMCID>7152182</PMCID>
+    <PMCID>4136184</PMCID>
+    <PMCID>4128152</PMCID>
+    <PMCID>4086031</PMCID>
+    <PMCID>4024230</PMCID>
+    <PMCID>4039243</PMCID>
+    <PMCID>4066953</PMCID>
+    <PMCID>3992028</PMCID>
+    <PMCID>4015261</PMCID>
+    <PMCID>3993512</PMCID>
+    <PMCID>3972962</PMCID>
+    <PMCID>7185575</PMCID>
+    <PMCID>4015263</PMCID>
+    <PMCID>4363115</PMCID>
+    <PMCID>3911309</PMCID>
+    <PMCID>3903279</PMCID>
+    <PMCID>3972986</PMCID>
+    <PMCID>3911452</PMCID>
+    <PMCID>3910722</PMCID>
+    <PMCID>3873426</PMCID>
+    <PMCID>3869323</PMCID>
+    <PMCID>3845159</PMCID>
+    <PMCID>4169043</PMCID>
+    <PMCID>3889729</PMCID>
+    <PMCID>3853102</PMCID>
+    <PMCID>3797137</PMCID>
+    <PMCID>3850990</PMCID>
+    <PMCID>3810728</PMCID>
+    <PMCID>3851856</PMCID>
+    <PMCID>3848822</PMCID>
+    <PMCID>3800747</PMCID>
+    <PMCID>3912914</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3740907</PMCID>
+    <PMCID>3730141</PMCID>
+    <PMCID>3734204</PMCID>
+    <PMCID>3697710</PMCID>
+    <PMCID>3697699</PMCID>
+    <PMCID>3697683</PMCID>
+    <PMCID>3697671</PMCID>
+    <PMCID>4026456</PMCID>
+    <PMCID>3702844</PMCID>
+    <PMCID>3680035</PMCID>
+    <PMCID>3746425</PMCID>
+    <PMCID>4589214</PMCID>
+    <PMCID>3988623</PMCID>
+    <PMCID>3660525</PMCID>
+    <PMCID>3656116</PMCID>
+    <PMCID>3650061</PMCID>
+    <PMCID>3666783</PMCID>
+    <PMCID>4582658</PMCID>
+    <PMCID>4745450</PMCID>
+    <PMCID>3592549</PMCID>
+    <PMCID>3562184</PMCID>
+    <PMCID>3556524</PMCID>
+    <PMCID>3553910</PMCID>
+    <PMCID>3559731</PMCID>
+    <PMCID>3856870</PMCID>
+    <PMCID>3544749</PMCID>
+    <PMCID>3536219</PMCID>
+    <PMCID>3531362</PMCID>
+    <PMCID>3582841</PMCID>
+    <PMCID>3744825</PMCID>
+    <PMCID>3486262</PMCID>
+    <PMCID>3492103</PMCID>
+    <PMCID>3445461</PMCID>
+    <PMCID>3421823</PMCID>
+    <PMCID>3401130</PMCID>
+    <PMCID>3394739</PMCID>
+    <PMCID>3424866</PMCID>
+    <PMCID>3405577</PMCID>
+    <PMCID>3377642</PMCID>
+    <PMCID>4130370</PMCID>
+    <PMCID>3353983</PMCID>
+    <PMCID>3733278</PMCID>
+    <PMCID>3347062</PMCID>
+    <PMCID>3339321</PMCID>
+    <PMCID>3317155</PMCID>
+    <PMCID>3267123</PMCID>
+    <PMCID>3378444</PMCID>
+    <PMCID>3295139</PMCID>
+    <PMCID>3289620</PMCID>
+    <PMCID>4362415</PMCID>
+    <PMCID>3282571</PMCID>
+    <PMCID>3691404</PMCID>
+    <PMCID>3310091</PMCID>
+    <PMCID>7320363</PMCID>
+    <PMCID>3230589</PMCID>
+    <PMCID>3233001</PMCID>
+    <PMCID>3209573</PMCID>
+    <PMCID>3186960</PMCID>
+    <PMCID>3200374</PMCID>
+    <PMCID>3165319</PMCID>
+    <PMCID>3369698</PMCID>
+    <PMCID>3184389</PMCID>
+    <PMCID>3290718</PMCID>
+    <PMCID>3133566</PMCID>
+    <PMCID>3129352</PMCID>
+    <PMCID>3112207</PMCID>
+    <PMCID>3103864</PMCID>
+    <PMCID>3100995</PMCID>
+    <PMCID>7107808</PMCID>
+    <PMCID>3122647</PMCID>
+    <PMCID>3122496</PMCID>
+    <PMCID>3067172</PMCID>
+    <PMCID>3087610</PMCID>
+    <PMCID>3094619</PMCID>
+    <PMCID>3061429</PMCID>
+    <PMCID>3067300</PMCID>
+    <PMCID>7315348</PMCID>
+    <PMCID>3008439</PMCID>
+    <PMCID>2946903</PMCID>
+    <PMCID>3311959</PMCID>
+    <PMCID>2981996</PMCID>
+    <PMCID>2883744</PMCID>
+    <PMCID>2863368</PMCID>
+    <PMCID>2859774</PMCID>
+    <PMCID>2853547</PMCID>
+    <PMCID>2976975</PMCID>
+    <PMCID>2852295</PMCID>
+    <PMCID>2869233</PMCID>
+    <PMCID>7155554</PMCID>
+    <PMCID>2922882</PMCID>
+    <PMCID>2763203</PMCID>
+    <PMCID>2745564</PMCID>
+    <PMCID>2842630</PMCID>
+    <PMCID>2740861</PMCID>
+    <PMCID>2772632</PMCID>
+    <PMCID>2772522</PMCID>
+    <PMCID>2812603</PMCID>
+    <PMCID>7176240</PMCID>
+    <PMCID>2734929</PMCID>
+    <PMCID>2725668</PMCID>
+    <PMCID>2679752</PMCID>
+    <PMCID>2681553</PMCID>
+    <PMCID>2639699</PMCID>
+    <PMCID>2668362</PMCID>
+    <PMCID>2838174</PMCID>
+    <PMCID>7094394</PMCID>
+    <PMCID>2660693</PMCID>
+    <PMCID>2643687</PMCID>
+    <PMCID>2575403</PMCID>
+    <PMCID>2638774</PMCID>
+    <PMCID>2565837</PMCID>
+    <PMCID>2593293</PMCID>
+    <PMCID>2597014</PMCID>
+    <PMCID>2519071</PMCID>
+    <PMCID>2447842</PMCID>
+    <PMCID>2453075</PMCID>
+    <PMCID>3258887</PMCID>
+    <PMCID>2292969</PMCID>
+    <PMCID>2238130</PMCID>
+    <PMCID>2168546</PMCID>
+    <PMCID>2168543</PMCID>
+    <PMCID>1904327</PMCID>
+    <PMCID>2870852</PMCID>
+    <PMCID>1913919</PMCID>
+    <PMCID>1951260</PMCID>
+    <PMCID>1951255</PMCID>
+    <PMCID>2600025</PMCID>
+    <PMCID>1828794</PMCID>
+    <PMCID>1829100</PMCID>
+    <PMCID>1762029</PMCID>
+    <PMCID>1828991</PMCID>
+    <PMCID>1610092</PMCID>
+    <PMCID>1579242</PMCID>
+    <PMCID>1579240</PMCID>
+    <PMCID>1698431</PMCID>
+    <PMCID>1698348</PMCID>
+    <PMCID>1489396</PMCID>
+    <PMCID>1482959</PMCID>
+    <PMCID>3374453</PMCID>
+    <PMCID>1464128</PMCID>
+    <PMCID>1468417</PMCID>
+    <PMCID>1413851</PMCID>
+    <PMCID>7109704</PMCID>
+    <PMCID>1351927</PMCID>
+    <PMCID>1317395</PMCID>
+    <PMCID>1560044</PMCID>
+    <PMCID>2253216</PMCID>
+    <PMCID>1236643</PMCID>
+    <PMCID>1234149</PMCID>
+    <PMCID>1233921</PMCID>
+    <PMCID>1169140</PMCID>
+    <PMCID>1153742</PMCID>
+    <PMCID>1087418</PMCID>
+    <PMCID>1081388</PMCID>
+    <PMCID>535303</PMCID>
+    <PMCID>525283</PMCID>
+    <PMCID>525196</PMCID>
+    <PMCID>516319</PMCID>
+    <PMCID>516283</PMCID>
+    <PMCID>514659</PMCID>
+    <PMCID>497617</PMCID>
+    <PMCID>446295</PMCID>
+    <PMCID>427828</PMCID>
+    <PMCID>387549</PMCID>
+    <PMCID>321657</PMCID>
+    <PMCID>310192</PMCID>
+    <PMCID>303463</PMCID>
+    <PMCID>308900</PMCID>
+    <PMCID>201133</PMCID>
+    <PMCID>165987</PMCID>
+    <PMCID>165301</PMCID>
+    <PMCID>156567</PMCID>
+    <PMCID>154710</PMCID>
+    <PMCID>153936</PMCID>
+    <PMCID>153905</PMCID>
+    <PMCID>152614</PMCID>
+    <PMCID>150321</PMCID>
+    <PMCID>143305</PMCID>
+    <PMCID>132944</PMCID>
+    <PMCID>140014</PMCID>
+    <PMCID>2738554</PMCID>
+    <PMCID>128332</PMCID>
+    <PMCID>130808</PMCID>
+    <PMCID>130701</PMCID>
+    <PMCID>130938</PMCID>
+    <PMCID>122584</PMCID>
+    <PMCID>153391</PMCID>
+    <PMCID>96231</PMCID>
+    <PMCID>88507</PMCID>
+    <PMCID>88413</PMCID>
+    <PMCID>88399</PMCID>
+    <PMCID>88389</PMCID>
+    <PMCID>93134</PMCID>
+    <PMCID>88310</PMCID>
+    <PMCID>98590</PMCID>
+    <PMCID>87976</PMCID>
+    <PMCID>90377</PMCID>
+    <PMCID>87792</PMCID>
+    <PMCID>87680</PMCID>
+    <PMCID>87455</PMCID>
+    <PMCID>87363</PMCID>
+    <PMCID>86978</PMCID>
+    <PMCID>86957</PMCID>
+    <PMCID>95842</PMCID>
+    <PMCID>97238</PMCID>
+    <PMCID>86043</PMCID>
+    <PMCID>85833</PMCID>
+    <PMCID>85295</PMCID>
+    <PMCID>84985</PMCID>
+    <PMCID>88634</PMCID>
+    <PMCID>93472</PMCID>
+    <PMCID>95677</PMCID>
+    <PMCID>105240</PMCID>
+    <PMCID>105146</PMCID>
+    <PMCID>7132666</PMCID>
+    <PMCID>104938</PMCID>
+    <PMCID>105638</PMCID>
+    <PMCID>104869</PMCID>
+    <PMCID>104664</PMCID>
+    <PMCID>229772</PMCID>
+    <PMCID>229646</PMCID>
+    <PMCID>24072</PMCID>
+    <PMCID>228920</PMCID>
+    <PMCID>284748</PMCID>
+    <PMCID>262893</PMCID>
+    <PMCID>270376</PMCID>
+    <PMCID>2249476</PMCID>
+    <PMCID>260716</PMCID>
+    <PMCID>174671</PMCID>
+    <PMCID>460431</PMCID>
+    <PMCID>260816</PMCID>
+    <PMCID>271719</PMCID>
+    <id>33894</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;GenbankSynonym&gt;
+  Mycobacterium africanum
+ &lt;/GenbankSynonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium africanum Castets et al. 1969
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25420
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25420
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105147
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105147
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium africanum</scientificName>
+</pathogen>

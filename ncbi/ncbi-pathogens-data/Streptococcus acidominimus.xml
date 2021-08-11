@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8058197</PMCID>
+    <PMCID>7990877</PMCID>
+    <PMCID>7893616</PMCID>
+    <PMCID>7883545</PMCID>
+    <PMCID>7901485</PMCID>
+    <PMCID>7757894</PMCID>
+    <PMCID>7771451</PMCID>
+    <PMCID>7605250</PMCID>
+    <PMCID>7344566</PMCID>
+    <PMCID>7269272</PMCID>
+    <PMCID>6946648</PMCID>
+    <PMCID>6858756</PMCID>
+    <PMCID>6814026</PMCID>
+    <PMCID>6787822</PMCID>
+    <PMCID>6568201</PMCID>
+    <PMCID>6520282</PMCID>
+    <PMCID>6691977</PMCID>
+    <PMCID>6119224</PMCID>
+    <PMCID>6158098</PMCID>
+    <PMCID>6068303</PMCID>
+    <PMCID>5878540</PMCID>
+    <PMCID>5836605</PMCID>
+    <PMCID>5750498</PMCID>
+    <PMCID>6779638</PMCID>
+    <PMCID>6150324</PMCID>
+    <PMCID>7444827</PMCID>
+    <PMCID>5522525</PMCID>
+    <PMCID>5488822</PMCID>
+    <PMCID>5368409</PMCID>
+    <PMCID>5064917</PMCID>
+    <PMCID>5024563</PMCID>
+    <PMCID>5000435</PMCID>
+    <PMCID>4986381</PMCID>
+    <PMCID>4958789</PMCID>
+    <PMCID>5039425</PMCID>
+    <PMCID>4841142</PMCID>
+    <PMCID>4563089</PMCID>
+    <PMCID>4832346</PMCID>
+    <PMCID>4542600</PMCID>
+    <PMCID>4386417</PMCID>
+    <PMCID>4377039</PMCID>
+    <PMCID>7094581</PMCID>
+    <PMCID>4295365</PMCID>
+    <PMCID>4329515</PMCID>
+    <PMCID>4789211</PMCID>
+    <PMCID>4197157</PMCID>
+    <PMCID>3987564</PMCID>
+    <PMCID>3927825</PMCID>
+    <PMCID>3863131</PMCID>
+    <PMCID>4056899</PMCID>
+    <PMCID>3885936</PMCID>
+    <PMCID>3719566</PMCID>
+    <PMCID>3716175</PMCID>
+    <PMCID>3666428</PMCID>
+    <PMCID>3646745</PMCID>
+    <PMCID>3553719</PMCID>
+    <PMCID>3529439</PMCID>
+    <PMCID>3613572</PMCID>
+    <PMCID>3408451</PMCID>
+    <PMCID>3400861</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>7129620</PMCID>
+    <PMCID>3028792</PMCID>
+    <PMCID>6647648</PMCID>
+    <PMCID>2792135</PMCID>
+    <PMCID>2714042</PMCID>
+    <PMCID>2045271</PMCID>
+    <PMCID>2702080</PMCID>
+    <PMCID>1698390</PMCID>
+    <PMCID>1595326</PMCID>
+    <PMCID>1273875</PMCID>
+    <PMCID>548051</PMCID>
+    <PMCID>446262</PMCID>
+    <PMCID>404636</PMCID>
+    <PMCID>344509</PMCID>
+    <PMCID>308963</PMCID>
+    <PMCID>156531</PMCID>
+    <PMCID>154750</PMCID>
+    <PMCID>149689</PMCID>
+    <PMCID>130656</PMCID>
+    <PMCID>95003</PMCID>
+    <PMCID>1539387</PMCID>
+    <PMCID>266553</PMCID>
+    <id>1326</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptococcus acidominimus Ayers and Mudge 1922
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 51725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:51725
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:17755
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 27296
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:27296
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 82.4
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:82.4
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20622
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20622
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 17755
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:17755
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCDO 2025
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCDO:2025
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 702025
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:702025
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 12957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:12957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Streptococcus acidominimus</scientificName>
+</pathogen>

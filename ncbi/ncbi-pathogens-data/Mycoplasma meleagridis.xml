@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1264554</id>
+        <scientificName>Mycoplasma meleagridis ATCC 25294</scientificName>
+    </subSpecies>
+    <PMCID>8173446</PMCID>
+    <PMCID>7933220</PMCID>
+    <PMCID>7820239</PMCID>
+    <PMCID>7858081</PMCID>
+    <PMCID>7598022</PMCID>
+    <PMCID>7267191</PMCID>
+    <PMCID>6838710</PMCID>
+    <PMCID>6429190</PMCID>
+    <PMCID>6245925</PMCID>
+    <PMCID>6097735</PMCID>
+    <PMCID>5756248</PMCID>
+    <PMCID>7010150</PMCID>
+    <PMCID>7010140</PMCID>
+    <PMCID>4911479</PMCID>
+    <PMCID>7152007</PMCID>
+    <PMCID>4807054</PMCID>
+    <PMCID>4788927</PMCID>
+    <PMCID>4777742</PMCID>
+    <PMCID>7110600</PMCID>
+    <PMCID>4538914</PMCID>
+    <PMCID>4490847</PMCID>
+    <PMCID>4457078</PMCID>
+    <PMCID>4440954</PMCID>
+    <PMCID>4424295</PMCID>
+    <PMCID>4335558</PMCID>
+    <PMCID>7152037</PMCID>
+    <PMCID>3942108</PMCID>
+    <PMCID>3801280</PMCID>
+    <PMCID>7151925</PMCID>
+    <PMCID>7166683</PMCID>
+    <PMCID>3298138</PMCID>
+    <PMCID>3768380</PMCID>
+    <PMCID>2507593</PMCID>
+    <PMCID>2276636</PMCID>
+    <PMCID>1776506</PMCID>
+    <PMCID>1261267</PMCID>
+    <PMCID>548031</PMCID>
+    <PMCID>535302</PMCID>
+    <PMCID>7115810</PMCID>
+    <PMCID>88043</PMCID>
+    <PMCID>228157</PMCID>
+    <PMCID>1320073</PMCID>
+    <PMCID>421217</PMCID>
+    <PMCID>285476</PMCID>
+    <PMCID>1319626</PMCID>
+    <PMCID>1319593</PMCID>
+    <PMCID>1695342</PMCID>
+    <PMCID>1319465</PMCID>
+    <PMCID>1319416</PMCID>
+    <PMCID>1319368</PMCID>
+    <PMCID>377671</PMCID>
+    <PMCID>1697199</PMCID>
+    <PMCID>315592</PMCID>
+    <MeSHPMID>27010566</MeSHPMID>
+    <MeSHPMID>21500629</MeSHPMID>
+    <MeSHPMID>20346992</MeSHPMID>
+    <MeSHPMID>18646449</MeSHPMID>
+    <MeSHPMID>16973309</MeSHPMID>
+    <MeSHPMID>15666875</MeSHPMID>
+    <MeSHPMID>15529972</MeSHPMID>
+    <MeSHPMID>14562888</MeSHPMID>
+    <id>29561</id>
+    <meSHTree>B03.440.860.580.553.553.570</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis meleagridis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis meleagridis" (Yamamoto et al. 1965) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis meleagridis (Yamamoto et al. 1965) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma meleagridis</scientificName>
+</pathogen>

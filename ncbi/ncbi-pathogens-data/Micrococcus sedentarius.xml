@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3927607</PMCID>
+        <GeneBankPMID>21304632</GeneBankPMID>
+        <id>478801</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Kytococcus sedentarius str. DSM 20547
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Kytococcus sedentarius strain DSM 20547
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Kytococcus sedentarius DSM 20547</scientificName>
+    </subSpecies>
+    <PMCID>8079962</PMCID>
+    <PMCID>8033842</PMCID>
+    <PMCID>7907900</PMCID>
+    <PMCID>7957305</PMCID>
+    <PMCID>7862400</PMCID>
+    <PMCID>7982028</PMCID>
+    <PMCID>7873969</PMCID>
+    <PMCID>7844543</PMCID>
+    <PMCID>7773311</PMCID>
+    <PMCID>7576399</PMCID>
+    <PMCID>7734678</PMCID>
+    <PMCID>7571677</PMCID>
+    <PMCID>7565578</PMCID>
+    <PMCID>7564059</PMCID>
+    <PMCID>7262684</PMCID>
+    <PMCID>7158056</PMCID>
+    <PMCID>7064751</PMCID>
+    <PMCID>7105565</PMCID>
+    <PMCID>6920059</PMCID>
+    <PMCID>6915088</PMCID>
+    <PMCID>6903733</PMCID>
+    <PMCID>6891442</PMCID>
+    <PMCID>6615394</PMCID>
+    <PMCID>6719646</PMCID>
+    <PMCID>6489185</PMCID>
+    <PMCID>6469967</PMCID>
+    <PMCID>6482385</PMCID>
+    <PMCID>6620744</PMCID>
+    <PMCID>6863256</PMCID>
+    <PMCID>6357042</PMCID>
+    <PMCID>6332932</PMCID>
+    <PMCID>6863212</PMCID>
+    <PMCID>6321868</PMCID>
+    <PMCID>6208038</PMCID>
+    <PMCID>6206325</PMCID>
+    <PMCID>6136693</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6102993</PMCID>
+    <PMCID>6072720</PMCID>
+    <PMCID>6837152</PMCID>
+    <PMCID>6018331</PMCID>
+    <PMCID>5896057</PMCID>
+    <PMCID>5884769</PMCID>
+    <PMCID>5924519</PMCID>
+    <PMCID>7102261</PMCID>
+    <PMCID>5766636</PMCID>
+    <PMCID>5703816</PMCID>
+    <PMCID>6151574</PMCID>
+    <PMCID>5450714</PMCID>
+    <PMCID>5495683</PMCID>
+    <PMCID>5286756</PMCID>
+    <PMCID>5172196</PMCID>
+    <PMCID>5131823</PMCID>
+    <PMCID>5109387</PMCID>
+    <PMCID>4886587</PMCID>
+    <PMCID>4786647</PMCID>
+    <PMCID>4767983</PMCID>
+    <PMCID>4782659</PMCID>
+    <PMCID>4689555</PMCID>
+    <PMCID>4568876</PMCID>
+    <PMCID>4477050</PMCID>
+    <PMCID>4401600</PMCID>
+    <PMCID>4505583</PMCID>
+    <PMCID>4380090</PMCID>
+    <PMCID>4527505</PMCID>
+    <PMCID>4241516</PMCID>
+    <PMCID>4372495</PMCID>
+    <PMCID>4895591</PMCID>
+    <PMCID>4024159</PMCID>
+    <PMCID>3979721</PMCID>
+    <PMCID>4017190</PMCID>
+    <PMCID>4255298</PMCID>
+    <PMCID>3755302</PMCID>
+    <PMCID>3719524</PMCID>
+    <PMCID>3618926</PMCID>
+    <PMCID>3663111</PMCID>
+    <PMCID>3531374</PMCID>
+    <PMCID>3497511</PMCID>
+    <PMCID>3471235</PMCID>
+    <PMCID>3415835</PMCID>
+    <PMCID>4103553</PMCID>
+    <PMCID>7106765</PMCID>
+    <PMCID>3294427</PMCID>
+    <PMCID>3264184</PMCID>
+    <PMCID>3400407</PMCID>
+    <PMCID>3368243</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3194920</PMCID>
+    <PMCID>3273824</PMCID>
+    <PMCID>5938088</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>5868336</PMCID>
+    <PMCID>2812450</PMCID>
+    <PMCID>3063060</PMCID>
+    <PMCID>3035214</PMCID>
+    <PMCID>1828670</PMCID>
+    <PMCID>1393139</PMCID>
+    <PMCID>540120</PMCID>
+    <PMCID>520913</PMCID>
+    <PMCID>520874</PMCID>
+    <PMCID>153378</PMCID>
+    <PMCID>1275962</PMCID>
+    <PMCID>87347</PMCID>
+    <PMCID>86826</PMCID>
+    <PMCID>91767</PMCID>
+    <PMCID>106679</PMCID>
+    <PMCID>284248</PMCID>
+    <PMCID>1145857</PMCID>
+    <id>1276</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Micrococcus sedentarius
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Kytococcus sedentarius (ZoBell and Upham 1944) Stackebrandt et al. 1995
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Kytococcus sedentarius (ZoBell and Upham 1944) Stackebrandt et al. 1995 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Micrococcus sedentarius ZoBell and Upham 1944 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14392
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:14228
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCM 314
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCM:314
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 33030
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:33030
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 81.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:81.72
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20547
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20547
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15357
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15357
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 11482
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:11482
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 14228
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:14228
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15357
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15357
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11040
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM B-1316
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:B-1316
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:VKM:B:1316
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Micrococcus sedentarius</scientificName>
+</pathogen>

@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7499040</PMCID>
+    <PMCID>7394738</PMCID>
+    <PMCID>7396648</PMCID>
+    <PMCID>7404182</PMCID>
+    <PMCID>7295907</PMCID>
+    <PMCID>6993583</PMCID>
+    <PMCID>6970918</PMCID>
+    <PMCID>6963833</PMCID>
+    <PMCID>7259720</PMCID>
+    <PMCID>6406340</PMCID>
+    <PMCID>6389848</PMCID>
+    <PMCID>6215055</PMCID>
+    <PMCID>6256699</PMCID>
+    <PMCID>6134108</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6153880</PMCID>
+    <PMCID>6006980</PMCID>
+    <PMCID>5645169</PMCID>
+    <PMCID>5511904</PMCID>
+    <PMCID>5417316</PMCID>
+    <PMCID>5289690</PMCID>
+    <PMCID>5183585</PMCID>
+    <PMCID>6299850</PMCID>
+    <PMCID>5135293</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4597204</PMCID>
+    <PMCID>4585250</PMCID>
+    <PMCID>4627957</PMCID>
+    <PMCID>4388683</PMCID>
+    <PMCID>3952898</PMCID>
+    <PMCID>3923454</PMCID>
+    <PMCID>3927478</PMCID>
+    <PMCID>3811359</PMCID>
+    <PMCID>3777014</PMCID>
+    <PMCID>3811609</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3623247</PMCID>
+    <PMCID>3454455</PMCID>
+    <PMCID>3358349</PMCID>
+    <PMCID>3310418</PMCID>
+    <PMCID>3164384</PMCID>
+    <PMCID>3118264</PMCID>
+    <PMCID>3020563</PMCID>
+    <PMCID>2942817</PMCID>
+    <PMCID>2951193</PMCID>
+    <PMCID>2849190</PMCID>
+    <PMCID>2664763</PMCID>
+    <PMCID>2660719</PMCID>
+    <PMCID>2258624</PMCID>
+    <PMCID>2042065</PMCID>
+    <PMCID>225029</PMCID>
+    <PMCID>4450819</PMCID>
+    <PMCID>92582</PMCID>
+    <PMCID>86045</PMCID>
+    <GeneBankPMID>21144838</GeneBankPMID>
+    <GeneBankPMID>27581440</GeneBankPMID>
+    <id>2074</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Amycolata autotrophica
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia autotrophica
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptomyces autotrophicus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Streptomyces autotrophicus" Takamiya and Tubaki 1956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Amycolata autotrophica (Takamiya and Tubaki 1956) Lechevalier et al. 1986
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia autotrophica (Takamiya and Tubaki 1956) Hirsch 1961 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudonocardia autotrophica (Takamiya and Tubaki 1956) Warwick et al. 1994
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudonocardia autotrophica (Takamiya and Tubaki 1956) Warwick et al. 1994 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19727
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19727
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 107114
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:107114
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 12743
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:12743
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMSNU 20050
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IMSNU:20050
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 4348
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:4348
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 12743
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:12743
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-11275
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-11275
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-941
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:941
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:11275
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Nocardia autotrophica</scientificName>
+</pathogen>

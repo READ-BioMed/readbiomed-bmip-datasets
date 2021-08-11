@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1215095</id>
+        <scientificName>Pseudomonas chlororaphis subsp. aureofaciens NBRC 3521</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1038921</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas chlororaphis 30-84
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Pseudomonas chlororaphis subsp. aureofaciens str. 30-84
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Pseudomonas chlororaphis subsp. aureofaciens strain 30-84
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Pseudomonas chlororaphis subsp. aureofaciens 30-84</scientificName>
+    </subSpecies>
+    <PMCID>8072153</PMCID>
+    <PMCID>8039301</PMCID>
+    <PMCID>7930258</PMCID>
+    <PMCID>7943724</PMCID>
+    <PMCID>7912877</PMCID>
+    <PMCID>7856418</PMCID>
+    <PMCID>7554965</PMCID>
+    <PMCID>7426498</PMCID>
+    <PMCID>7271530</PMCID>
+    <PMCID>6864650</PMCID>
+    <PMCID>6769897</PMCID>
+    <PMCID>6469467</PMCID>
+    <PMCID>6331337</PMCID>
+    <PMCID>6440729</PMCID>
+    <PMCID>6121977</PMCID>
+    <PMCID>5964356</PMCID>
+    <PMCID>5960967</PMCID>
+    <PMCID>5954468</PMCID>
+    <PMCID>5879661</PMCID>
+    <PMCID>5834513</PMCID>
+    <PMCID>5847145</PMCID>
+    <PMCID>5799290</PMCID>
+    <PMCID>5812248</PMCID>
+    <PMCID>5465051</PMCID>
+    <PMCID>5437217</PMCID>
+    <PMCID>6605018</PMCID>
+    <PMCID>5447571</PMCID>
+    <PMCID>5428101</PMCID>
+    <PMCID>6604977</PMCID>
+    <PMCID>5116465</PMCID>
+    <PMCID>5051804</PMCID>
+    <PMCID>4919084</PMCID>
+    <PMCID>4957043</PMCID>
+    <PMCID>4909795</PMCID>
+    <PMCID>4959238</PMCID>
+    <PMCID>4868446</PMCID>
+    <PMCID>4661320</PMCID>
+    <PMCID>4684702</PMCID>
+    <PMCID>4542124</PMCID>
+    <PMCID>4407210</PMCID>
+    <PMCID>4372734</PMCID>
+    <PMCID>5033202</PMCID>
+    <PMCID>4213099</PMCID>
+    <PMCID>4108036</PMCID>
+    <PMCID>4078254</PMCID>
+    <PMCID>4265202</PMCID>
+    <PMCID>4071831</PMCID>
+    <PMCID>4000786</PMCID>
+    <PMCID>3837727</PMCID>
+    <PMCID>3859043</PMCID>
+    <PMCID>3889922</PMCID>
+    <PMCID>3676760</PMCID>
+    <PMCID>3644233</PMCID>
+    <PMCID>3717176</PMCID>
+    <PMCID>3764938</PMCID>
+    <PMCID>3816420</PMCID>
+    <PMCID>4070684</PMCID>
+    <PMCID>4103542</PMCID>
+    <PMCID>3820493</PMCID>
+    <PMCID>3426711</PMCID>
+    <PMCID>3347170</PMCID>
+    <PMCID>3346461</PMCID>
+    <PMCID>4103548</PMCID>
+    <PMCID>3355384</PMCID>
+    <PMCID>5054454</PMCID>
+    <PMCID>3130386</PMCID>
+    <PMCID>3111181</PMCID>
+    <PMCID>3118056</PMCID>
+    <PMCID>3008532</PMCID>
+    <PMCID>2937502</PMCID>
+    <PMCID>2879262</PMCID>
+    <PMCID>2813009</PMCID>
+    <PMCID>2725616</PMCID>
+    <PMCID>2889415</PMCID>
+    <PMCID>2707791</PMCID>
+    <PMCID>2681813</PMCID>
+    <PMCID>2643575</PMCID>
+    <PMCID>2613904</PMCID>
+    <PMCID>2630848</PMCID>
+    <PMCID>2885752</PMCID>
+    <PMCID>2804855</PMCID>
+    <PMCID>2329812</PMCID>
+    <PMCID>2778262</PMCID>
+    <PMCID>2293227</PMCID>
+    <PMCID>2168205</PMCID>
+    <PMCID>2075022</PMCID>
+    <PMCID>2435579</PMCID>
+    <PMCID>1810380</PMCID>
+    <PMCID>1698510</PMCID>
+    <PMCID>3909407</PMCID>
+    <PMCID>1563634</PMCID>
+    <PMCID>1538759</PMCID>
+    <PMCID>1472367</PMCID>
+    <PMCID>1472315</PMCID>
+    <PMCID>1393216</PMCID>
+    <PMCID>1352222</PMCID>
+    <PMCID>1352192</PMCID>
+    <PMCID>1236630</PMCID>
+    <PMCID>1173090</PMCID>
+    <PMCID>1082553</PMCID>
+    <PMCID>544236</PMCID>
+    <PMCID>543552</PMCID>
+    <PMCID>525137</PMCID>
+    <PMCID>525123</PMCID>
+    <PMCID>523206</PMCID>
+    <PMCID>520904</PMCID>
+    <PMCID>451636</PMCID>
+    <PMCID>438617</PMCID>
+    <PMCID>404427</PMCID>
+    <PMCID>383149</PMCID>
+    <PMCID>368289</PMCID>
+    <PMCID>262289</PMCID>
+    <PMCID>196915</PMCID>
+    <PMCID>194940</PMCID>
+    <PMCID>193870</PMCID>
+    <PMCID>165181</PMCID>
+    <PMCID>161564</PMCID>
+    <PMCID>161474</PMCID>
+    <PMCID>154808</PMCID>
+    <PMCID>150058</PMCID>
+    <PMCID>150057</PMCID>
+    <PMCID>143612</PMCID>
+    <PMCID>151304</PMCID>
+    <PMCID>141839</PMCID>
+    <PMCID>134430</PMCID>
+    <PMCID>135333</PMCID>
+    <PMCID>124104</PMCID>
+    <PMCID>123997</PMCID>
+    <PMCID>126805</PMCID>
+    <PMCID>126771</PMCID>
+    <PMCID>126762</PMCID>
+    <PMCID>127535</PMCID>
+    <PMCID>154257</PMCID>
+    <PMCID>123891</PMCID>
+    <PMCID>4233818</PMCID>
+    <PMCID>95518</PMCID>
+    <PMCID>93370</PMCID>
+    <PMCID>100142</PMCID>
+    <PMCID>95500</PMCID>
+    <PMCID>95489</PMCID>
+    <PMCID>95469</PMCID>
+    <PMCID>95466</PMCID>
+    <PMCID>93184</PMCID>
+    <PMCID>93161</PMCID>
+    <PMCID>93056</PMCID>
+    <PMCID>93054</PMCID>
+    <PMCID>93037</PMCID>
+    <PMCID>95303</PMCID>
+    <PMCID>95290</PMCID>
+    <PMCID>92940</PMCID>
+    <PMCID>92906</PMCID>
+    <PMCID>92858</PMCID>
+    <PMCID>95168</PMCID>
+    <PMCID>95131</PMCID>
+    <PMCID>92817</PMCID>
+    <PMCID>92807</PMCID>
+    <PMCID>95051</PMCID>
+    <PMCID>92714</PMCID>
+    <PMCID>92694</PMCID>
+    <PMCID>92623</PMCID>
+    <PMCID>92615</PMCID>
+    <PMCID>94881</PMCID>
+    <PMCID>94816</PMCID>
+    <PMCID>92457</PMCID>
+    <PMCID>92443</PMCID>
+    <PMCID>101784</PMCID>
+    <PMCID>101676</PMCID>
+    <PMCID>99007</PMCID>
+    <PMCID>92235</PMCID>
+    <PMCID>92126</PMCID>
+    <PMCID>110547</PMCID>
+    <PMCID>111330</PMCID>
+    <PMCID>101437</PMCID>
+    <PMCID>92024</PMCID>
+    <PMCID>16273</PMCID>
+    <PMCID>91928</PMCID>
+    <PMCID>94385</PMCID>
+    <PMCID>91884</PMCID>
+    <PMCID>91807</PMCID>
+    <PMCID>24192</PMCID>
+    <PMCID>91619</PMCID>
+    <PMCID>91587</PMCID>
+    <PMCID>91519</PMCID>
+    <PMCID>93910</PMCID>
+    <PMCID>93861</PMCID>
+    <PMCID>91339</PMCID>
+    <PMCID>93771</PMCID>
+    <PMCID>91310</PMCID>
+    <PMCID>93653</PMCID>
+    <PMCID>93630</PMCID>
+    <PMCID>91233</PMCID>
+    <PMCID>32030</PMCID>
+    <PMCID>32117</PMCID>
+    <PMCID>90909</PMCID>
+    <PMCID>106668</PMCID>
+    <PMCID>106582</PMCID>
+    <PMCID>106545</PMCID>
+    <PMCID>106465</PMCID>
+    <PMCID>107452</PMCID>
+    <PMCID>106437</PMCID>
+    <PMCID>107199</PMCID>
+    <PMCID>107126</PMCID>
+    <PMCID>107110</PMCID>
+    <PMCID>106132</PMCID>
+    <PMCID>106097</PMCID>
+    <PMCID>179727</PMCID>
+    <PMCID>158635</PMCID>
+    <PMCID>163810</PMCID>
+    <PMCID>178156</PMCID>
+    <PMCID>1388545</PMCID>
+    <PMCID>202021</PMCID>
+    <PMCID>201801</PMCID>
+    <PMCID>201745</PMCID>
+    <PMCID>205594</PMCID>
+    <PMCID>201271</PMCID>
+    <PMCID>195829</PMCID>
+    <PMCID>195714</PMCID>
+    <PMCID>183899</PMCID>
+    <PMCID>215022</PMCID>
+    <PMCID>239737</PMCID>
+    <PMCID>376776</PMCID>
+    <PMCID>547512</PMCID>
+    <PMCID>278477</PMCID>
+    <id>587851</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas aureofaciens
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas fluorescens (biotype E)
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas fluorescens biotype e
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas polychromogenes
+ &lt;/Synonym&gt; 
+ &lt;Includes&gt;
+  bacterium ASFP-49
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  bacterium ASFP-6
+ &lt;/Includes&gt; 
+ &lt;Includes&gt;
+  bacterium ASFP-98
+ &lt;/Includes&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas aureofaciens Kluyver 1956 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas chlororaphis subsp. aureofaciens (Kluyver 1956) Peix et al. 2007
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 13985
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:13985
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:1245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 712
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:712
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 2133
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:2133
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 6698
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:6698
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 1245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:1245
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 3521
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:3521
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 9030
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:9030
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10686
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10686
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas aureofaciens</scientificName>
+</pathogen>

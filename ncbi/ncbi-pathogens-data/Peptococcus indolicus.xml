@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>997350</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Peptoniphilus indolicus CCUG 17639
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptoniphilus indolicus CCUG 46591
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptoniphilus indolicus GIFU 7848
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptoniphilus indolicus NCTC 11088
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Peptoniphilus indolicus str. ATCC 29427
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Peptoniphilus indolicus strain ATCC 29427
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Peptoniphilus indolicus ATCC 29427</scientificName>
+    </subSpecies>
+    <PMCID>8191184</PMCID>
+    <PMCID>7942063</PMCID>
+    <PMCID>7815979</PMCID>
+    <PMCID>7565530</PMCID>
+    <PMCID>7481819</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>6936845</PMCID>
+    <PMCID>6999162</PMCID>
+    <PMCID>6994800</PMCID>
+    <PMCID>6909223</PMCID>
+    <PMCID>6555717</PMCID>
+    <PMCID>6538520</PMCID>
+    <PMCID>7285974</PMCID>
+    <PMCID>6523810</PMCID>
+    <PMCID>6355540</PMCID>
+    <PMCID>6265309</PMCID>
+    <PMCID>6276491</PMCID>
+    <PMCID>6232309</PMCID>
+    <PMCID>6436483</PMCID>
+    <PMCID>6011929</PMCID>
+    <PMCID>6186856</PMCID>
+    <PMCID>5868818</PMCID>
+    <PMCID>6096010</PMCID>
+    <PMCID>5918139</PMCID>
+    <PMCID>5745682</PMCID>
+    <PMCID>5684752</PMCID>
+    <PMCID>5606128</PMCID>
+    <PMCID>5445452</PMCID>
+    <PMCID>5630961</PMCID>
+    <PMCID>5383188</PMCID>
+    <PMCID>5172196</PMCID>
+    <PMCID>5376524</PMCID>
+    <PMCID>5093392</PMCID>
+    <PMCID>5021918</PMCID>
+    <PMCID>4871341</PMCID>
+    <PMCID>7158333</PMCID>
+    <PMCID>4682237</PMCID>
+    <PMCID>4873843</PMCID>
+    <PMCID>4606812</PMCID>
+    <PMCID>4568574</PMCID>
+    <PMCID>4450167</PMCID>
+    <PMCID>4332921</PMCID>
+    <PMCID>4370304</PMCID>
+    <PMCID>3976818</PMCID>
+    <PMCID>3837799</PMCID>
+    <PMCID>3910704</PMCID>
+    <PMCID>3592085</PMCID>
+    <PMCID>3764929</PMCID>
+    <PMCID>3577789</PMCID>
+    <PMCID>3421507</PMCID>
+    <PMCID>3294948</PMCID>
+    <PMCID>3232989</PMCID>
+    <PMCID>3227645</PMCID>
+    <PMCID>3179877</PMCID>
+    <PMCID>3088197</PMCID>
+    <PMCID>2955665</PMCID>
+    <PMCID>3768644</PMCID>
+    <PMCID>2770471</PMCID>
+    <PMCID>2695466</PMCID>
+    <PMCID>2612141</PMCID>
+    <PMCID>2289825</PMCID>
+    <PMCID>2650633</PMCID>
+    <PMCID>1865865</PMCID>
+    <PMCID>1635190</PMCID>
+    <PMCID>427401</PMCID>
+    <PMCID>419343</PMCID>
+    <PMCID>194955</PMCID>
+    <PMCID>153911</PMCID>
+    <PMCID>88973</PMCID>
+    <PMCID>88649</PMCID>
+    <PMCID>104974</PMCID>
+    <PMCID>121377</PMCID>
+    <PMCID>163075</PMCID>
+    <PMCID>8142188</PMCID>
+    <PMCID>1319917</PMCID>
+    <PMCID>273074</PMCID>
+    <PMCID>272981</PMCID>
+    <PMCID>275135</PMCID>
+    <PMCID>274968</PMCID>
+    <id>33030</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Micrococcus indolicus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptococcus indolicus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptostreptococcus indolicus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Schleiferella indolica
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Micrococcus indolicus" Christiansen 1934
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Schleiferella indolica" Rajendram et al. 2001
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Peptococcus indolicus (Christiansen 1934) Sorensen 1975 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Peptoniphilus indolicus (Christiansen 1934) Ezaki et al. 2001
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Peptostreptococcus indolicus (Christiansen 1934) Ezaki et al. 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29427
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29427
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 17639
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 46591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:17639
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:46591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20464
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20464
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 11088
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:11088
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Peptococcus indolicus</scientificName>
+</pathogen>

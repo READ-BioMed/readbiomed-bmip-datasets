@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <GeneBankPMID>22965084</GeneBankPMID>
+        <id>1198627</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium abscessus subsp. bolletii str. GO 06
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium abscessus subsp. massiliense str. GO 06
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium massiliense str. GO 06
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacteroides abscessus subsp. massiliense str. GO 06</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1001714</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium abscessus subsp. bolletii CCUG 48898
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium abscessus subsp. bolletii CCUG 48898 = JCM 15300
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium abscessus subsp. massiliense CCUG 48898 = JCM 15300
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium massiliense CCUG 48898
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium massiliense CCUG 48898 = JCM 15300
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium massiliense JCM 15300
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Mycobacterium abscessus subsp. massiliense JCM 15300 = CCUG 48898
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycobacteroides abscessus subsp. massiliense CCUG 48898 = JCM 15300</scientificName>
+    </subSpecies>
+    <PMCID>8126513</PMCID>
+    <PMCID>7870196</PMCID>
+    <PMCID>8044702</PMCID>
+    <PMCID>7693372</PMCID>
+    <PMCID>7511582</PMCID>
+    <PMCID>7566545</PMCID>
+    <PMCID>7927177</PMCID>
+    <PMCID>7277529</PMCID>
+    <PMCID>7185584</PMCID>
+    <PMCID>7549688</PMCID>
+    <PMCID>6885786</PMCID>
+    <PMCID>6839843</PMCID>
+    <PMCID>6850944</PMCID>
+    <PMCID>7086328</PMCID>
+    <PMCID>6761555</PMCID>
+    <PMCID>6738990</PMCID>
+    <PMCID>6698282</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>6660336</PMCID>
+    <PMCID>6515091</PMCID>
+    <PMCID>6463083</PMCID>
+    <PMCID>6402086</PMCID>
+    <PMCID>6395937</PMCID>
+    <PMCID>6344564</PMCID>
+    <PMCID>6292348</PMCID>
+    <PMCID>6247082</PMCID>
+    <PMCID>6302357</PMCID>
+    <PMCID>6205491</PMCID>
+    <PMCID>6178619</PMCID>
+    <PMCID>6235313</PMCID>
+    <PMCID>6127157</PMCID>
+    <PMCID>6127433</PMCID>
+    <PMCID>6248876</PMCID>
+    <PMCID>6125518</PMCID>
+    <PMCID>6082673</PMCID>
+    <PMCID>6024781</PMCID>
+    <PMCID>5966550</PMCID>
+    <PMCID>6078814</PMCID>
+    <PMCID>5780582</PMCID>
+    <PMCID>5821427</PMCID>
+    <PMCID>5655093</PMCID>
+    <PMCID>5467896</PMCID>
+    <PMCID>5402269</PMCID>
+    <PMCID>5365672</PMCID>
+    <PMCID>5278753</PMCID>
+    <PMCID>5133682</PMCID>
+    <PMCID>6026266</PMCID>
+    <PMCID>5105902</PMCID>
+    <PMCID>5038230</PMCID>
+    <PMCID>5024515</PMCID>
+    <PMCID>4990042</PMCID>
+    <PMCID>5004613</PMCID>
+    <PMCID>4871462</PMCID>
+    <PMCID>4816395</PMCID>
+    <PMCID>4773228</PMCID>
+    <PMCID>4772520</PMCID>
+    <PMCID>4756508</PMCID>
+    <PMCID>4772522</PMCID>
+    <PMCID>4652114</PMCID>
+    <PMCID>4647026</PMCID>
+    <PMCID>4550155</PMCID>
+    <PMCID>4540909</PMCID>
+    <PMCID>4531893</PMCID>
+    <PMCID>4508414</PMCID>
+    <PMCID>4510652</PMCID>
+    <PMCID>7171444</PMCID>
+    <PMCID>4294255</PMCID>
+    <PMCID>4291221</PMCID>
+    <PMCID>4297383</PMCID>
+    <PMCID>4263727</PMCID>
+    <PMCID>5415934</PMCID>
+    <PMCID>4222108</PMCID>
+    <PMCID>4228222</PMCID>
+    <PMCID>7099662</PMCID>
+    <PMCID>4187642</PMCID>
+    <PMCID>4192312</PMCID>
+    <PMCID>4172396</PMCID>
+    <PMCID>4136145</PMCID>
+    <PMCID>4097680</PMCID>
+    <PMCID>4068527</PMCID>
+    <PMCID>4042767</PMCID>
+    <PMCID>4042761</PMCID>
+    <PMCID>4021335</PMCID>
+    <PMCID>4035080</PMCID>
+    <PMCID>3993635</PMCID>
+    <PMCID>3986433</PMCID>
+    <PMCID>6807423</PMCID>
+    <PMCID>3940030</PMCID>
+    <PMCID>3956801</PMCID>
+    <PMCID>3937545</PMCID>
+    <PMCID>3878547</PMCID>
+    <PMCID>3935498</PMCID>
+    <PMCID>3842311</PMCID>
+    <PMCID>3837154</PMCID>
+    <PMCID>3764416</PMCID>
+    <PMCID>3754618</PMCID>
+    <PMCID>3757451</PMCID>
+    <PMCID>3715520</PMCID>
+    <PMCID>3703596</PMCID>
+    <PMCID>3700213</PMCID>
+    <PMCID>3697670</PMCID>
+    <PMCID>3695306</PMCID>
+    <PMCID>3970618</PMCID>
+    <PMCID>3655965</PMCID>
+    <PMCID>3600901</PMCID>
+    <PMCID>3592084</PMCID>
+    <PMCID>3591941</PMCID>
+    <PMCID>3591543</PMCID>
+    <PMCID>3568566</PMCID>
+    <PMCID>3553861</PMCID>
+    <PMCID>3553696</PMCID>
+    <PMCID>3561371</PMCID>
+    <PMCID>3564728</PMCID>
+    <PMCID>3569392</PMCID>
+    <PMCID>3486228</PMCID>
+    <PMCID>3486222</PMCID>
+    <PMCID>3570808</PMCID>
+    <PMCID>3457237</PMCID>
+    <PMCID>3457197</PMCID>
+    <PMCID>3491834</PMCID>
+    <PMCID>3440104</PMCID>
+    <PMCID>3430329</PMCID>
+    <PMCID>3421802</PMCID>
+    <PMCID>3415528</PMCID>
+    <PMCID>3415519</PMCID>
+    <PMCID>3920438</PMCID>
+    <PMCID>3416537</PMCID>
+    <PMCID>3393384</PMCID>
+    <PMCID>3390888</PMCID>
+    <PMCID>3367924</PMCID>
+    <PMCID>3347139</PMCID>
+    <PMCID>3523318</PMCID>
+    <PMCID>3256201</PMCID>
+    <PMCID>3376831</PMCID>
+    <PMCID>7161403</PMCID>
+    <PMCID>3171484</PMCID>
+    <PMCID>3172785</PMCID>
+    <PMCID>3768761</PMCID>
+    <PMCID>3108610</PMCID>
+    <PMCID>3122647</PMCID>
+    <PMCID>3043527</PMCID>
+    <PMCID>3043493</PMCID>
+    <PMCID>3197259</PMCID>
+    <PMCID>3028756</PMCID>
+    <PMCID>3020437</PMCID>
+    <PMCID>3008439</PMCID>
+    <PMCID>2976628</PMCID>
+    <PMCID>2883389</PMCID>
+    <PMCID>2849394</PMCID>
+    <PMCID>3837580</PMCID>
+    <PMCID>2812265</PMCID>
+    <PMCID>2832866</PMCID>
+    <PMCID>2786646</PMCID>
+    <PMCID>2740750</PMCID>
+    <PMCID>2756897</PMCID>
+    <PMCID>2737867</PMCID>
+    <PMCID>2738059</PMCID>
+    <PMCID>2725694</PMCID>
+    <PMCID>2708513</PMCID>
+    <PMCID>2708466</PMCID>
+    <PMCID>2657622</PMCID>
+    <PMCID>2663066</PMCID>
+    <PMCID>2566064</PMCID>
+    <PMCID>2600309</PMCID>
+    <PMCID>2268380</PMCID>
+    <PMCID>2100370</PMCID>
+    <PMCID>2045247</PMCID>
+    <PMCID>1933107</PMCID>
+    <PMCID>1594754</PMCID>
+    <PMCID>1594727</PMCID>
+    <PMCID>1563627</PMCID>
+    <PMCID>1449017</PMCID>
+    <PMCID>535245</PMCID>
+    <id>1962118</id>
+    <meSHTree>B03.510.024.962.500.720.050, B03.510.460.400.410.552.552.720.050</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium abscessus subsp. massiliense
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium massiliense
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycobacterium abscessus subsp. massiliense" Leao et al. 2009
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium abscessus subsp. massiliense (Adekambi et al. 2006) Tortoli et al. 2016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium massiliense Adekambi et al. 2006
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacteroides abscessus subsp. massiliense (Adekambi et al. 2006) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 48898
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:48898
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 108297
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:108297
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 45103
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:45103
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 15300
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:15300
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC 19086
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   KCTC:19086
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium massiliense</scientificName>
+</pathogen>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1122997</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium jensenii DSM 20535
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Acidipropionibacterium jensenii DSM 20535</scientificName>
+    </subSpecies>
+    <PMCID>7921380</PMCID>
+    <PMCID>7852298</PMCID>
+    <PMCID>6978648</PMCID>
+    <PMCID>7602805</PMCID>
+    <PMCID>7593773</PMCID>
+    <PMCID>7464006</PMCID>
+    <PMCID>7432914</PMCID>
+    <PMCID>7409045</PMCID>
+    <PMCID>7416123</PMCID>
+    <PMCID>6920887</PMCID>
+    <PMCID>6781651</PMCID>
+    <PMCID>6668858</PMCID>
+    <PMCID>6582924</PMCID>
+    <PMCID>6495644</PMCID>
+    <PMCID>6378274</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6090892</PMCID>
+    <PMCID>6056840</PMCID>
+    <PMCID>6116326</PMCID>
+    <PMCID>5794709</PMCID>
+    <PMCID>5945763</PMCID>
+    <PMCID>5756557</PMCID>
+    <PMCID>5620633</PMCID>
+    <PMCID>5401885</PMCID>
+    <PMCID>4983341</PMCID>
+    <PMCID>4916054</PMCID>
+    <PMCID>5146205</PMCID>
+    <PMCID>4734998</PMCID>
+    <PMCID>4750426</PMCID>
+    <PMCID>4597127</PMCID>
+    <PMCID>4596345</PMCID>
+    <PMCID>4455272</PMCID>
+    <PMCID>4357950</PMCID>
+    <PMCID>4897565</PMCID>
+    <PMCID>4223425</PMCID>
+    <PMCID>4315905</PMCID>
+    <PMCID>3719524</PMCID>
+    <PMCID>3650464</PMCID>
+    <PMCID>3680048</PMCID>
+    <PMCID>3652107</PMCID>
+    <PMCID>3556566</PMCID>
+    <PMCID>3658417</PMCID>
+    <PMCID>3469551</PMCID>
+    <PMCID>3434354</PMCID>
+    <PMCID>3109323</PMCID>
+    <PMCID>3038612</PMCID>
+    <PMCID>2820984</PMCID>
+    <PMCID>2746716</PMCID>
+    <PMCID>2042088</PMCID>
+    <PMCID>1828670</PMCID>
+    <PMCID>1563649</PMCID>
+    <PMCID>1367241</PMCID>
+    <PMCID>1317351</PMCID>
+    <PMCID>535160</PMCID>
+    <PMCID>522128</PMCID>
+    <PMCID>520913</PMCID>
+    <PMCID>520874</PMCID>
+    <PMCID>383175</PMCID>
+    <PMCID>321252</PMCID>
+    <PMCID>154489</PMCID>
+    <PMCID>135130</PMCID>
+    <PMCID>126662</PMCID>
+    <PMCID>92861</PMCID>
+    <PMCID>92553</PMCID>
+    <PMCID>92290</PMCID>
+    <PMCID>182293</PMCID>
+    <PMCID>195194</PMCID>
+    <PMCID>184313</PMCID>
+    <PMCID>1253079</PMCID>
+    <GeneBankPMID>10930068</GeneBankPMID>
+    <GeneBankPMID>23709505</GeneBankPMID>
+    <id>1749</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacterium acidi propionici b
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium jensenii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium jensenii var. raffinosaceum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium peterssonii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium raffinosaceum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium technicum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Propionibacterium zeae
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Propionicibacterium jensenii
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacterium acidi propionici b" von Freudenreich and Orla-Jensen 1907
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Propionibacterium jensenii var. raffinosaceum" van Neil 1928
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Propionibacterium peterssonii" van Niel 1928
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Propionibacterium raffinosaceum" Werkman and Kendall 1931
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Propionibacterium technicum" van Niel 1928
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Propionibacterium zeae" Hitchner 1932
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Acidipropionibacterium jensenii (van Niel 1928) Scholz and Kilian 2016 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Propionibacterium jensenii van Niel 1928
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 4868
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:4868
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 48883
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:48883
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103028
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103028
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20535
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Propionibacterium jensenii</scientificName>
+</pathogen>

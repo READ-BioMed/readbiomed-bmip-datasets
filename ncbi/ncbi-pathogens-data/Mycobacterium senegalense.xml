@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8217490</PMCID>
+    <PMCID>8068823</PMCID>
+    <PMCID>8190616</PMCID>
+    <PMCID>7690136</PMCID>
+    <PMCID>7879861</PMCID>
+    <PMCID>7396536</PMCID>
+    <PMCID>7045816</PMCID>
+    <PMCID>6935935</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>6536806</PMCID>
+    <PMCID>7328880</PMCID>
+    <PMCID>6322455</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>5967691</PMCID>
+    <PMCID>5891474</PMCID>
+    <PMCID>5759224</PMCID>
+    <PMCID>5857167</PMCID>
+    <PMCID>5624592</PMCID>
+    <PMCID>5341166</PMCID>
+    <PMCID>5276850</PMCID>
+    <PMCID>5225428</PMCID>
+    <PMCID>5223012</PMCID>
+    <PMCID>5112438</PMCID>
+    <PMCID>5035402</PMCID>
+    <PMCID>4912749</PMCID>
+    <PMCID>4816395</PMCID>
+    <PMCID>7895636</PMCID>
+    <PMCID>7810815</PMCID>
+    <PMCID>4652114</PMCID>
+    <PMCID>4645216</PMCID>
+    <PMCID>4645198</PMCID>
+    <PMCID>4589961</PMCID>
+    <PMCID>4365201</PMCID>
+    <PMCID>4187642</PMCID>
+    <PMCID>4138949</PMCID>
+    <PMCID>4038893</PMCID>
+    <PMCID>4021744</PMCID>
+    <PMCID>3875516</PMCID>
+    <PMCID>3591941</PMCID>
+    <PMCID>3200373</PMCID>
+    <PMCID>2812265</PMCID>
+    <PMCID>2668336</PMCID>
+    <PMCID>2588597</PMCID>
+    <PMCID>2566177</PMCID>
+    <PMCID>2323382</PMCID>
+    <PMCID>1610084</PMCID>
+    <PMCID>1448615</PMCID>
+    <PMCID>1392669</PMCID>
+    <PMCID>1317161</PMCID>
+    <PMCID>1314895</PMCID>
+    <PMCID>1082502</PMCID>
+    <PMCID>535245</PMCID>
+    <PMCID>308974</PMCID>
+    <PMCID>193803</PMCID>
+    <PMCID>153362</PMCID>
+    <PMCID>134815</PMCID>
+    <PMCID>88994</PMCID>
+    <PMCID>86348</PMCID>
+    <PMCID>84584</PMCID>
+    <PMCID>266378</PMCID>
+    <PMCID>270525</PMCID>
+    <id>1796</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium farcinogenes subsp. senegalense
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium senegalense
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycobacterium farcinogenes subsp. senegalense" Chamoiseau 1973
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium senegalense (Chamoiseau 1973) Chamoiseau 1979 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycolicibacterium senegalense (Chamoiseau 1979) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 35796
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:35796
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 21001
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:21001
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104941
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104941
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43656
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43656
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 15467
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:15467
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::IEMVT 378
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain IEMVT 378
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium senegalense</scientificName>
+</pathogen>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1206744</id>
+        <scientificName>Nocardia transvalensis NBRC 15921</scientificName>
+    </subSpecies>
+    <PMCID>8144606</PMCID>
+    <PMCID>7825236</PMCID>
+    <PMCID>8105525</PMCID>
+    <PMCID>7396906</PMCID>
+    <PMCID>7413640</PMCID>
+    <PMCID>7395626</PMCID>
+    <PMCID>7052443</PMCID>
+    <PMCID>7038297</PMCID>
+    <PMCID>7197909</PMCID>
+    <PMCID>6778818</PMCID>
+    <PMCID>6421342</PMCID>
+    <PMCID>6159333</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6008428</PMCID>
+    <PMCID>5744224</PMCID>
+    <PMCID>5463502</PMCID>
+    <PMCID>5462571</PMCID>
+    <PMCID>5584503</PMCID>
+    <PMCID>5144655</PMCID>
+    <PMCID>5067976</PMCID>
+    <PMCID>5330244</PMCID>
+    <PMCID>4894989</PMCID>
+    <PMCID>4934723</PMCID>
+    <PMCID>4927671</PMCID>
+    <PMCID>4726625</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4572548</PMCID>
+    <PMCID>4414227</PMCID>
+    <PMCID>4283927</PMCID>
+    <PMCID>4366584</PMCID>
+    <PMCID>4061433</PMCID>
+    <PMCID>3952339</PMCID>
+    <PMCID>3820768</PMCID>
+    <PMCID>4146343</PMCID>
+    <PMCID>7498898</PMCID>
+    <PMCID>3749652</PMCID>
+    <PMCID>3666789</PMCID>
+    <PMCID>4745450</PMCID>
+    <PMCID>3424872</PMCID>
+    <PMCID>3609322</PMCID>
+    <PMCID>3381897</PMCID>
+    <PMCID>3498414</PMCID>
+    <PMCID>3318531</PMCID>
+    <PMCID>3309591</PMCID>
+    <PMCID>3234200</PMCID>
+    <PMCID>3110597</PMCID>
+    <PMCID>3101401</PMCID>
+    <PMCID>3020850</PMCID>
+    <PMCID>3020853</PMCID>
+    <PMCID>7134700</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>2815619</PMCID>
+    <PMCID>2714554</PMCID>
+    <PMCID>2681176</PMCID>
+    <PMCID>2292930</PMCID>
+    <PMCID>2224293</PMCID>
+    <PMCID>1803140</PMCID>
+    <PMCID>1828991</PMCID>
+    <PMCID>1594812</PMCID>
+    <PMCID>1594632</PMCID>
+    <PMCID>1471991</PMCID>
+    <PMCID>1351931</PMCID>
+    <PMCID>3320492</PMCID>
+    <PMCID>1233948</PMCID>
+    <PMCID>525194</PMCID>
+    <PMCID>522309</PMCID>
+    <PMCID>497575</PMCID>
+    <PMCID>427891</PMCID>
+    <PMCID>427831</PMCID>
+    <PMCID>404640</PMCID>
+    <PMCID>254378</PMCID>
+    <PMCID>156477</PMCID>
+    <PMCID>90460</PMCID>
+    <PMCID>2094785</PMCID>
+    <PMCID>86045</PMCID>
+    <PMCID>85148</PMCID>
+    <PMCID>84177</PMCID>
+    <PMCID>124825</PMCID>
+    <PMCID>229946</PMCID>
+    <PMCID>229682</PMCID>
+    <PMCID>501765</PMCID>
+    <id>37333</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Actinomyces transvalensis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Proactinomyces transvalensis
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Nocardia transvaalensis
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Actinomyces transvalensis" Pijper and Pullinger 1927
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Proactinomyces transvalensis" (Pijper and Pullinger 1927) Krasil'nikov 1941
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia transvalensis Pijper and Pullinger 1927
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Nocardia transvalensis Pijper and Pullinger 1927 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 6865
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:6865
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 45937
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:45937
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104841
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104841
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43405
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43582
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43405
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43582
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 15921
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:15921
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 9099
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:9099
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 15921
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:15921
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-16037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-16037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-867
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:867
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:16037
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Nocardia transvalensis</scientificName>
+</pathogen>

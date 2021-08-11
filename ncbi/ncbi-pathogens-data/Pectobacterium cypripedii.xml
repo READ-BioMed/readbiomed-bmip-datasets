@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8185355</PMCID>
+    <PMCID>8182382</PMCID>
+    <PMCID>7759553</PMCID>
+    <PMCID>7020477</PMCID>
+    <PMCID>6831937</PMCID>
+    <PMCID>6761231</PMCID>
+    <PMCID>6668396</PMCID>
+    <PMCID>6626113</PMCID>
+    <PMCID>6863192</PMCID>
+    <PMCID>6474361</PMCID>
+    <PMCID>6373044</PMCID>
+    <PMCID>6079243</PMCID>
+    <PMCID>5979317</PMCID>
+    <PMCID>5971145</PMCID>
+    <PMCID>5808187</PMCID>
+    <PMCID>5626979</PMCID>
+    <PMCID>5623812</PMCID>
+    <PMCID>5540543</PMCID>
+    <PMCID>6604984</PMCID>
+    <PMCID>5639866</PMCID>
+    <PMCID>5387314</PMCID>
+    <PMCID>4772400</PMCID>
+    <PMCID>4674922</PMCID>
+    <PMCID>4661320</PMCID>
+    <PMCID>4556606</PMCID>
+    <PMCID>4125426</PMCID>
+    <PMCID>4063067</PMCID>
+    <PMCID>3820709</PMCID>
+    <PMCID>3812885</PMCID>
+    <PMCID>3591945</PMCID>
+    <PMCID>3536086</PMCID>
+    <PMCID>3505739</PMCID>
+    <PMCID>3191992</PMCID>
+    <PMCID>3039941</PMCID>
+    <PMCID>3000323</PMCID>
+    <PMCID>3037582</PMCID>
+    <PMCID>2863468</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>2704797</PMCID>
+    <PMCID>2698339</PMCID>
+    <PMCID>2661400</PMCID>
+    <PMCID>3815248</PMCID>
+    <PMCID>2763181</PMCID>
+    <PMCID>2075040</PMCID>
+    <PMCID>1317436</PMCID>
+    <PMCID>134437</PMCID>
+    <PMCID>123855</PMCID>
+    <PMCID>93131</PMCID>
+    <PMCID>111272</PMCID>
+    <PMCID>91502</PMCID>
+    <PMCID>107674</PMCID>
+    <PMCID>106586</PMCID>
+    <PMCID>179580</PMCID>
+    <id>55209</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus cypripedii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia carotovora var. cypripedii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia cypripedii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Erwinia cyrpipedii
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pectobacterium cypripedii
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus cypripedii" Hori 1911
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Erwinia carotovora var. cypripedii" (Hori 1911) Dye 1969
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Erwinia cypripedii (Hori 1911) Bergey et al. 1923 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pantoea cypripedii (Hori 1911) Brady et al. 2010
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pectobacterium cypripedii (Hori 1911) Brenner et al. 1973 (Approved Lists 1980) emend. Hauben et al. 1999
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29267
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29267
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2655
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2657
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 3613
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:3613
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105195
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 3873
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:3873
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ICMP:1591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2655
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2657
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2655
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2657
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB 3004
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCPPB:3004
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   PDDCC 1591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   PDDCC:1591
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pectobacterium cypripenii
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pectobacterium cypripedii</scientificName>
+</pathogen>

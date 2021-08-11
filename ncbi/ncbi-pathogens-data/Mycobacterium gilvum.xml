@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>350054</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium flavescens ATCC 700033
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium flavescens PYR-GCK
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium gilvum PYR-GCK
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycolicibacterium gilvum PYR-GCK</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>5031134</PMCID>
+        <PMCID>4756508</PMCID>
+        <GeneBankPMID>22180818</GeneBankPMID>
+        <id>278137</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium gilvum Spyr1
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium sp. Spyr1
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycolicibacterium gilvum Spyr1</scientificName>
+    </subSpecies>
+    <PMCID>8126513</PMCID>
+    <PMCID>8115616</PMCID>
+    <PMCID>8062022</PMCID>
+    <PMCID>8190616</PMCID>
+    <PMCID>7791843</PMCID>
+    <PMCID>7938122</PMCID>
+    <PMCID>7701246</PMCID>
+    <PMCID>7675441</PMCID>
+    <PMCID>7591505</PMCID>
+    <PMCID>7872997</PMCID>
+    <PMCID>7407723</PMCID>
+    <PMCID>7321139</PMCID>
+    <PMCID>7205953</PMCID>
+    <PMCID>6936261</PMCID>
+    <PMCID>7017831</PMCID>
+    <PMCID>6836290</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>6520109</PMCID>
+    <PMCID>6429209</PMCID>
+    <PMCID>6060360</PMCID>
+    <PMCID>6130938</PMCID>
+    <PMCID>5998039</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>5773717</PMCID>
+    <PMCID>5759224</PMCID>
+    <PMCID>5031134</PMCID>
+    <PMCID>6605018</PMCID>
+    <PMCID>5426083</PMCID>
+    <PMCID>5389987</PMCID>
+    <PMCID>5349653</PMCID>
+    <PMCID>5276850</PMCID>
+    <PMCID>5225428</PMCID>
+    <PMCID>5102992</PMCID>
+    <PMCID>5059922</PMCID>
+    <PMCID>4982301</PMCID>
+    <PMCID>5041006</PMCID>
+    <PMCID>5338246</PMCID>
+    <PMCID>4944035</PMCID>
+    <PMCID>4894912</PMCID>
+    <PMCID>4882957</PMCID>
+    <PMCID>4959237</PMCID>
+    <PMCID>4858710</PMCID>
+    <PMCID>6273536</PMCID>
+    <PMCID>4756508</PMCID>
+    <PMCID>4831475</PMCID>
+    <PMCID>4779608</PMCID>
+    <PMCID>4691045</PMCID>
+    <PMCID>4645216</PMCID>
+    <PMCID>4645198</PMCID>
+    <PMCID>4626687</PMCID>
+    <PMCID>4482099</PMCID>
+    <PMCID>4618479</PMCID>
+    <PMCID>5322544</PMCID>
+    <PMCID>4315663</PMCID>
+    <PMCID>4275054</PMCID>
+    <PMCID>4266540</PMCID>
+    <PMCID>4222108</PMCID>
+    <PMCID>6638334</PMCID>
+    <PMCID>4183392</PMCID>
+    <PMCID>4187681</PMCID>
+    <PMCID>4243994</PMCID>
+    <PMCID>4057218</PMCID>
+    <PMCID>4021335</PMCID>
+    <PMCID>4139732</PMCID>
+    <PMCID>3911348</PMCID>
+    <PMCID>3875516</PMCID>
+    <PMCID>3796483</PMCID>
+    <PMCID>3784781</PMCID>
+    <PMCID>3848822</PMCID>
+    <PMCID>3728303</PMCID>
+    <PMCID>3715504</PMCID>
+    <PMCID>3970618</PMCID>
+    <PMCID>3707159</PMCID>
+    <PMCID>3591941</PMCID>
+    <PMCID>3586085</PMCID>
+    <PMCID>3585252</PMCID>
+    <PMCID>3856870</PMCID>
+    <PMCID>3588914</PMCID>
+    <PMCID>3496871</PMCID>
+    <PMCID>3466318</PMCID>
+    <PMCID>3504576</PMCID>
+    <PMCID>5054710</PMCID>
+    <PMCID>3374832</PMCID>
+    <PMCID>3414803</PMCID>
+    <PMCID>3325273</PMCID>
+    <PMCID>3388012</PMCID>
+    <PMCID>3314655</PMCID>
+    <PMCID>3294427</PMCID>
+    <PMCID>3288000</PMCID>
+    <PMCID>3271072</PMCID>
+    <PMCID>3256201</PMCID>
+    <PMCID>3250492</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3236039</PMCID>
+    <PMCID>3193921</PMCID>
+    <PMCID>3224560</PMCID>
+    <PMCID>3153485</PMCID>
+    <PMCID>3187862</PMCID>
+    <PMCID>3147496</PMCID>
+    <PMCID>3127696</PMCID>
+    <PMCID>3122772</PMCID>
+    <PMCID>3120640</PMCID>
+    <PMCID>3089613</PMCID>
+    <PMCID>3980945</PMCID>
+    <PMCID>3125089</PMCID>
+    <PMCID>4533980</PMCID>
+    <PMCID>3099717</PMCID>
+    <PMCID>3113570</PMCID>
+    <PMCID>3023750</PMCID>
+    <PMCID>3020452</PMCID>
+    <PMCID>3091736</PMCID>
+    <PMCID>3091735</PMCID>
+    <PMCID>2963123</PMCID>
+    <PMCID>2953089</PMCID>
+    <PMCID>2944544</PMCID>
+    <PMCID>2906558</PMCID>
+    <PMCID>2901735</PMCID>
+    <PMCID>2897449</PMCID>
+    <PMCID>3836582</PMCID>
+    <PMCID>2781298</PMCID>
+    <PMCID>3063060</PMCID>
+    <PMCID>2765153</PMCID>
+    <PMCID>2812603</PMCID>
+    <PMCID>2747882</PMCID>
+    <PMCID>2897129</PMCID>
+    <PMCID>2746992</PMCID>
+    <PMCID>2672333</PMCID>
+    <PMCID>2645934</PMCID>
+    <PMCID>2632071</PMCID>
+    <PMCID>6640496</PMCID>
+    <PMCID>2566196</PMCID>
+    <PMCID>2566177</PMCID>
+    <PMCID>2566012</PMCID>
+    <PMCID>2764864</PMCID>
+    <PMCID>2440964</PMCID>
+    <PMCID>2323822</PMCID>
+    <PMCID>2258859</PMCID>
+    <PMCID>2258593</PMCID>
+    <PMCID>1974822</PMCID>
+    <PMCID>1828760</PMCID>
+    <PMCID>1563677</PMCID>
+    <PMCID>1317173</PMCID>
+    <PMCID>1082502</PMCID>
+    <PMCID>134424</PMCID>
+    <PMCID>123916</PMCID>
+    <PMCID>93335</PMCID>
+    <PMCID>88994</PMCID>
+    <PMCID>92063</PMCID>
+    <PMCID>101420</PMCID>
+    <PMCID>91628</PMCID>
+    <PMCID>106220</PMCID>
+    <PMCID>104827</PMCID>
+    <PMCID>228920</PMCID>
+    <PMCID>2072389</PMCID>
+    <id>1804</id>
+    <meSHTree>B03.510.024.962.500.720, B03.510.460.400.410.552.552.720</meSHTree>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium gilvum
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium gilvum Stanford and Gunthorpe 1971 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycolicibacterium gilvum (Stanford and Gunthorpe 1971) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 43909
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:43909
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 106743
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:106743
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 15464
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:15464
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10742
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10742
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium gilvum</scientificName>
+</pathogen>

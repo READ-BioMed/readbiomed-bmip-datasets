@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1105107</id>
+        <scientificName>Rickettsia canadensis str. CA410</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>293613</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Rickettsia canadensis strain McKiel
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Rickettsia canadensis str. McKiel</scientificName>
+    </subSpecies>
+    <PMCID>8187766</PMCID>
+    <PMCID>8151034</PMCID>
+    <PMCID>8025568</PMCID>
+    <PMCID>7888606</PMCID>
+    <PMCID>7938122</PMCID>
+    <PMCID>7760173</PMCID>
+    <PMCID>7582818</PMCID>
+    <PMCID>7502793</PMCID>
+    <PMCID>7496946</PMCID>
+    <PMCID>7368706</PMCID>
+    <PMCID>7272007</PMCID>
+    <PMCID>6996152</PMCID>
+    <PMCID>7168648</PMCID>
+    <PMCID>6997558</PMCID>
+    <PMCID>6935940</PMCID>
+    <PMCID>6956140</PMCID>
+    <PMCID>6542515</PMCID>
+    <PMCID>6550347</PMCID>
+    <PMCID>6553916</PMCID>
+    <PMCID>6434846</PMCID>
+    <PMCID>5911327</PMCID>
+    <PMCID>5857161</PMCID>
+    <PMCID>5585920</PMCID>
+    <PMCID>5442613</PMCID>
+    <PMCID>5390359</PMCID>
+    <PMCID>5000463</PMCID>
+    <PMCID>4915085</PMCID>
+    <PMCID>4899400</PMCID>
+    <PMCID>4714870</PMCID>
+    <PMCID>4465819</PMCID>
+    <PMCID>4350562</PMCID>
+    <PMCID>4230250</PMCID>
+    <PMCID>5659119</PMCID>
+    <PMCID>4042490</PMCID>
+    <PMCID>3945692</PMCID>
+    <PMCID>3842327</PMCID>
+    <PMCID>3923375</PMCID>
+    <PMCID>3811236</PMCID>
+    <PMCID>3688537</PMCID>
+    <PMCID>3528112</PMCID>
+    <PMCID>3497471</PMCID>
+    <PMCID>3524767</PMCID>
+    <PMCID>3415449</PMCID>
+    <PMCID>4001937</PMCID>
+    <PMCID>3387173</PMCID>
+    <PMCID>3466146</PMCID>
+    <PMCID>3364446</PMCID>
+    <PMCID>3232955</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3203148</PMCID>
+    <PMCID>3214132</PMCID>
+    <PMCID>3147491</PMCID>
+    <PMCID>3129645</PMCID>
+    <PMCID>3141249</PMCID>
+    <PMCID>3055210</PMCID>
+    <PMCID>7119992</PMCID>
+    <PMCID>2863521</PMCID>
+    <PMCID>2838022</PMCID>
+    <PMCID>2794283</PMCID>
+    <PMCID>2817303</PMCID>
+    <PMCID>2775711</PMCID>
+    <PMCID>2662801</PMCID>
+    <PMCID>2635572</PMCID>
+    <PMCID>2100407</PMCID>
+    <PMCID>2045148</PMCID>
+    <PMCID>1950309</PMCID>
+    <PMCID>1951237</PMCID>
+    <PMCID>1538723</PMCID>
+    <PMCID>1635513</PMCID>
+    <PMCID>1265907</PMCID>
+    <PMCID>404608</PMCID>
+    <PMCID>321730</PMCID>
+    <PMCID>308961</PMCID>
+    <PMCID>153861</PMCID>
+    <PMCID>130794</PMCID>
+    <PMCID>89211</PMCID>
+    <PMCID>84320</PMCID>
+    <PMCID>167400</PMCID>
+    <PMCID>313261</PMCID>
+    <PMCID>274450</PMCID>
+    <PMCID>422434</PMCID>
+    <PMCID>248546</PMCID>
+    <PMCID>415973</PMCID>
+    <id>788</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Rickettsia canada
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rickettsia canadensis corrig. McKiel et al. 1967
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC VR-610
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:VR-610
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:ATCC:VR:610
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::2678
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 2678
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rickettsia canada</scientificName>
+</pathogen>

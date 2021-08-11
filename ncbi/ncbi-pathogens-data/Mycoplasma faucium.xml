@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>7912808</PMCID>
+    <PMCID>7806737</PMCID>
+    <PMCID>7551628</PMCID>
+    <PMCID>7146170</PMCID>
+    <PMCID>7188313</PMCID>
+    <PMCID>6880044</PMCID>
+    <PMCID>6713147</PMCID>
+    <PMCID>6276491</PMCID>
+    <PMCID>7101862</PMCID>
+    <PMCID>5889780</PMCID>
+    <PMCID>5748698</PMCID>
+    <PMCID>5963701</PMCID>
+    <PMCID>5288818</PMCID>
+    <PMCID>4702739</PMCID>
+    <PMCID>4625007</PMCID>
+    <PMCID>4547314</PMCID>
+    <PMCID>4540912</PMCID>
+    <PMCID>4513787</PMCID>
+    <PMCID>4487258</PMCID>
+    <PMCID>4356944</PMCID>
+    <PMCID>4312986</PMCID>
+    <PMCID>3993489</PMCID>
+    <PMCID>3958540</PMCID>
+    <PMCID>3827621</PMCID>
+    <PMCID>4745450</PMCID>
+    <PMCID>3598641</PMCID>
+    <PMCID>3486055</PMCID>
+    <PMCID>3341502</PMCID>
+    <PMCID>3295143</PMCID>
+    <PMCID>2944498</PMCID>
+    <PMCID>2916572</PMCID>
+    <PMCID>7129662</PMCID>
+    <PMCID>1828991</PMCID>
+    <PMCID>1448649</PMCID>
+    <PMCID>1265909</PMCID>
+    <PMCID>523564</PMCID>
+    <PMCID>344445</PMCID>
+    <PMCID>149599</PMCID>
+    <PMCID>140368</PMCID>
+    <PMCID>88053</PMCID>
+    <id>56142</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma faucium
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma faucium (Freundt et al. 1974) Gupta et al. 2018
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma orale type 3
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma faucium Freundt et al. 1974
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25293
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25293
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10174
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10174
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::DC 333
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain DC 333
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain DC333
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain DC333(T)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma faucium</scientificName>
+</pathogen>

@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1077975</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Gordonia rubripertincta str. NBRC 101908
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Gordonia rubripertincta strain NBRC 101908
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Gordonia rubripertincta NBRC 101908</scientificName>
+    </subSpecies>
+    <PMCID>8235351</PMCID>
+    <PMCID>8009421</PMCID>
+    <PMCID>7954295</PMCID>
+    <PMCID>7862952</PMCID>
+    <PMCID>7823215</PMCID>
+    <PMCID>7824959</PMCID>
+    <PMCID>7645669</PMCID>
+    <PMCID>7910268</PMCID>
+    <PMCID>7530929</PMCID>
+    <PMCID>7545826</PMCID>
+    <PMCID>7347517</PMCID>
+    <PMCID>7285244</PMCID>
+    <PMCID>7262544</PMCID>
+    <PMCID>7179069</PMCID>
+    <PMCID>7076131</PMCID>
+    <PMCID>7143210</PMCID>
+    <PMCID>6891630</PMCID>
+    <PMCID>6863288</PMCID>
+    <PMCID>6816061</PMCID>
+    <PMCID>6600300</PMCID>
+    <PMCID>6387938</PMCID>
+    <PMCID>6378274</PMCID>
+    <PMCID>6362181</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6165268</PMCID>
+    <PMCID>6056354</PMCID>
+    <PMCID>6132541</PMCID>
+    <PMCID>5909621</PMCID>
+    <PMCID>5930330</PMCID>
+    <PMCID>5874493</PMCID>
+    <PMCID>5843161</PMCID>
+    <PMCID>5843851</PMCID>
+    <PMCID>5703816</PMCID>
+    <PMCID>5513430</PMCID>
+    <PMCID>5493053</PMCID>
+    <PMCID>5468944</PMCID>
+    <PMCID>5331635</PMCID>
+    <PMCID>4982452</PMCID>
+    <PMCID>4910497</PMCID>
+    <PMCID>4959245</PMCID>
+    <PMCID>4810484</PMCID>
+    <PMCID>4524720</PMCID>
+    <PMCID>4488382</PMCID>
+    <PMCID>4443254</PMCID>
+    <PMCID>4365757</PMCID>
+    <PMCID>4345374</PMCID>
+    <PMCID>4298495</PMCID>
+    <PMCID>4333970</PMCID>
+    <PMCID>4210688</PMCID>
+    <PMCID>4139828</PMCID>
+    <PMCID>4097692</PMCID>
+    <PMCID>4091373</PMCID>
+    <PMCID>3853301</PMCID>
+    <PMCID>4030974</PMCID>
+    <PMCID>3811652</PMCID>
+    <PMCID>3811368</PMCID>
+    <PMCID>3676836</PMCID>
+    <PMCID>3623125</PMCID>
+    <PMCID>3595702</PMCID>
+    <PMCID>3522578</PMCID>
+    <PMCID>3815891</PMCID>
+    <PMCID>3347127</PMCID>
+    <PMCID>6268212</PMCID>
+    <PMCID>3294463</PMCID>
+    <PMCID>4036023</PMCID>
+    <PMCID>3255624</PMCID>
+    <PMCID>3138535</PMCID>
+    <PMCID>3212380</PMCID>
+    <PMCID>3448104</PMCID>
+    <PMCID>3117810</PMCID>
+    <PMCID>3020563</PMCID>
+    <PMCID>2858264</PMCID>
+    <PMCID>3815838</PMCID>
+    <PMCID>2643695</PMCID>
+    <PMCID>2223216</PMCID>
+    <PMCID>1829208</PMCID>
+    <PMCID>1563594</PMCID>
+    <PMCID>1317408</PMCID>
+    <PMCID>1559947</PMCID>
+    <PMCID>1183272</PMCID>
+    <PMCID>1569495</PMCID>
+    <PMCID>1151891</PMCID>
+    <PMCID>1087567</PMCID>
+    <PMCID>1082536</PMCID>
+    <PMCID>497575</PMCID>
+    <PMCID>427784</PMCID>
+    <PMCID>309048</PMCID>
+    <PMCID>296251</PMCID>
+    <PMCID>152489</PMCID>
+    <PMCID>152994</PMCID>
+    <PMCID>150088</PMCID>
+    <PMCID>124118</PMCID>
+    <PMCID>124029</PMCID>
+    <PMCID>93235</PMCID>
+    <PMCID>95154</PMCID>
+    <PMCID>95121</PMCID>
+    <PMCID>95119</PMCID>
+    <PMCID>92322</PMCID>
+    <PMCID>92292</PMCID>
+    <PMCID>92125</PMCID>
+    <PMCID>111331</PMCID>
+    <PMCID>101450</PMCID>
+    <PMCID>101893</PMCID>
+    <PMCID>94078</PMCID>
+    <PMCID>91534</PMCID>
+    <PMCID>84999</PMCID>
+    <PMCID>93715</PMCID>
+    <PMCID>1220130</PMCID>
+    <PMCID>93639</PMCID>
+    <PMCID>93621</PMCID>
+    <PMCID>93616</PMCID>
+    <PMCID>91225</PMCID>
+    <PMCID>98956</PMCID>
+    <PMCID>93583</PMCID>
+    <PMCID>84177</PMCID>
+    <PMCID>106479</PMCID>
+    <PMCID>106734</PMCID>
+    <PMCID>106246</PMCID>
+    <PMCID>107132</PMCID>
+    <PMCID>124690</PMCID>
+    <PMCID>106861</PMCID>
+    <PMCID>178272</PMCID>
+    <PMCID>167808</PMCID>
+    <PMCID>177393</PMCID>
+    <PMCID>201357</PMCID>
+    <PMCID>213900</PMCID>
+    <PMCID>241936</PMCID>
+    <PMCID>379747</PMCID>
+    <PMCID>377825</PMCID>
+    <PMCID>316273</PMCID>
+    <PMCID>279417</PMCID>
+    <id>36822</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Bacillus rubropertinctus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordona rubripertinctus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordona rubropertinctus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia rubropertincta
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia rubropertinctus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium rubropertinctum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia corallina
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Nocardia rubropertincta
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Proactinomyces rubropertinctus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rhodococcus corallinus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rhodococcus rubripertinctus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rhodococcus rubropertinctus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Serratia rubropertincta
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Bacillus rubropertinctus" Hefferan 1904
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycobacterium rubropertinctum" (Hefferan 1904) Ford 1927
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Nocardia rubropertincta" (Hefferan 1904) Waksman and Henrici 1948
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Proactinomyces rubropertinctus" (Hefferan 1904) Reed 1939
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Serratia rubropertincta" (Hefferan 1904) Bergey et al. 1923
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Gordonia rubripertincta (Hefferan 1904) Stackebrandt et al. 1989 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Gordonia rubripertincta corrig. (Hefferan 1904) Stackebrandt et al. 1989
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus corallinus (Bergey et al. 1923) Goodfellow and Alderson 1977 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus corallinus (Bergey et al. 1923) Goodfellow and Alderson 1979 (sic)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus rubropertinctus (Hefferan 1904) Goodfellow and Alderson 1979 (sic)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus rubropertinctus (Hefferan 1904) Tsukamura 1974 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus rubropertinctus (Hefferan 1904) Tsukamura 1974 (Approved Lists 1980) emend Mordarski et al 1980
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 14352
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25593
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:14352
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25593
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 34957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:34957
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 104661
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:104661
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43197
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43248
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43197
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43248
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3199
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3204
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3227
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3199
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3204
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3227
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5367
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5368
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 101908
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:101908
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB 9664
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIB:9664
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB 9664
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCIMB:9664
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10668
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10668
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-1016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:1016
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::N4
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain N4
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rhodococcus rubropertinctus</scientificName>
+</pathogen>

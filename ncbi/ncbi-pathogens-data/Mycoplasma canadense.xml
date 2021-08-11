@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8173446</PMCID>
+    <PMCID>7542862</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>6417145</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>6505816</PMCID>
+    <PMCID>6138128</PMCID>
+    <PMCID>4400428</PMCID>
+    <PMCID>5644610</PMCID>
+    <PMCID>4183875</PMCID>
+    <PMCID>3811644</PMCID>
+    <PMCID>7094402</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>1766361</PMCID>
+    <PMCID>1829110</PMCID>
+    <PMCID>419932</PMCID>
+    <PMCID>135138</PMCID>
+    <PMCID>184595</PMCID>
+    <id>29554</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma canadense
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Metamycoplasma canadense (Langford et al. 1976) Gupta et al. 2018
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma canadense Langford et al. 1976
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 29418
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:29418
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10152
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10152
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::275C
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain 275C
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma canadense</scientificName>
+</pathogen>

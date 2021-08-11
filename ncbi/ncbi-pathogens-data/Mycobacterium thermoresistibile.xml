@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <PMCID>3955178</PMCID>
+        <id>1078020</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium thermoresistibile ATCC 19527
+ &lt;/Synonym&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycolicibacterium thermoresistibile ATCC 19527</scientificName>
+    </subSpecies>
+    <PMCID>8071518</PMCID>
+    <PMCID>7998700</PMCID>
+    <PMCID>7825236</PMCID>
+    <PMCID>7824335</PMCID>
+    <PMCID>7848370</PMCID>
+    <PMCID>7538969</PMCID>
+    <PMCID>7556816</PMCID>
+    <PMCID>7174638</PMCID>
+    <PMCID>7170716</PMCID>
+    <PMCID>7286788</PMCID>
+    <PMCID>6879718</PMCID>
+    <PMCID>6856128</PMCID>
+    <PMCID>6658755</PMCID>
+    <PMCID>7133768</PMCID>
+    <PMCID>6727467</PMCID>
+    <PMCID>6290872</PMCID>
+    <PMCID>6113737</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>5967865</PMCID>
+    <PMCID>5952384</PMCID>
+    <PMCID>5884719</PMCID>
+    <PMCID>5892587</PMCID>
+    <PMCID>5815605</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>5857167</PMCID>
+    <PMCID>5655080</PMCID>
+    <PMCID>5612111</PMCID>
+    <PMCID>5415667</PMCID>
+    <PMCID>5534343</PMCID>
+    <PMCID>5349653</PMCID>
+    <PMCID>7895312</PMCID>
+    <PMCID>5225428</PMCID>
+    <PMCID>5082899</PMCID>
+    <PMCID>5362841</PMCID>
+    <PMCID>5241705</PMCID>
+    <PMCID>5076824</PMCID>
+    <PMCID>4809910</PMCID>
+    <PMCID>4768315</PMCID>
+    <PMCID>5600315</PMCID>
+    <PMCID>4731972</PMCID>
+    <PMCID>4663749</PMCID>
+    <PMCID>4513877</PMCID>
+    <PMCID>4477424</PMCID>
+    <PMCID>4461206</PMCID>
+    <PMCID>4183392</PMCID>
+    <PMCID>4210175</PMCID>
+    <PMCID>3955178</PMCID>
+    <PMCID>3859186</PMCID>
+    <PMCID>3754661</PMCID>
+    <PMCID>3712967</PMCID>
+    <PMCID>3654946</PMCID>
+    <PMCID>3685261</PMCID>
+    <PMCID>3726044</PMCID>
+    <PMCID>3591941</PMCID>
+    <PMCID>3406706</PMCID>
+    <PMCID>3370920</PMCID>
+    <PMCID>3403447</PMCID>
+    <PMCID>3322865</PMCID>
+    <PMCID>7161403</PMCID>
+    <PMCID>7158197</PMCID>
+    <PMCID>3169409</PMCID>
+    <PMCID>3123459</PMCID>
+    <PMCID>3008439</PMCID>
+    <PMCID>3020660</PMCID>
+    <PMCID>2953089</PMCID>
+    <PMCID>2898377</PMCID>
+    <PMCID>2812265</PMCID>
+    <PMCID>2786555</PMCID>
+    <PMCID>2757992</PMCID>
+    <PMCID>1936362</PMCID>
+    <PMCID>1610084</PMCID>
+    <PMCID>1248498</PMCID>
+    <PMCID>1082502</PMCID>
+    <PMCID>446295</PMCID>
+    <PMCID>193803</PMCID>
+    <PMCID>130668</PMCID>
+    <PMCID>120251</PMCID>
+    <PMCID>88994</PMCID>
+    <PMCID>86348</PMCID>
+    <PMCID>263956</PMCID>
+    <PMCID>265213</PMCID>
+    <PMCID>271799</PMCID>
+    <PMCID>271115</PMCID>
+    <PMCID>273998</PMCID>
+    <id>1797</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycobacterium thermoresistibile
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium thermoresistibile Tsukamura 1966 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium thermoresistibile Tsukamura 1966 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycolicibacterium thermoresistibile (Tsukamura 1966) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 19527
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:19527
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 28008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 41353
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:28008
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:41353
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 105390
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:105390
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 44167
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:44167
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 6362
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:6362
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10409
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10409
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycobacterium thermoresistible
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycobacterium thermoresistibile</scientificName>
+</pathogen>

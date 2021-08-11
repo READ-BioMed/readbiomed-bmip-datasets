@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8166240</PMCID>
+    <PMCID>8085914</PMCID>
+    <PMCID>7564240</PMCID>
+    <PMCID>7818486</PMCID>
+    <PMCID>7425125</PMCID>
+    <PMCID>7306034</PMCID>
+    <PMCID>7721850</PMCID>
+    <PMCID>7232508</PMCID>
+    <PMCID>7082587</PMCID>
+    <PMCID>6948241</PMCID>
+    <PMCID>6925256</PMCID>
+    <PMCID>6901255</PMCID>
+    <PMCID>6842371</PMCID>
+    <PMCID>6419999</PMCID>
+    <PMCID>6414374</PMCID>
+    <PMCID>6395730</PMCID>
+    <PMCID>6392359</PMCID>
+    <PMCID>6167122</PMCID>
+    <PMCID>6070764</PMCID>
+    <PMCID>5889607</PMCID>
+    <PMCID>5843161</PMCID>
+    <PMCID>5593903</PMCID>
+    <PMCID>5446835</PMCID>
+    <PMCID>6999266</PMCID>
+    <PMCID>4770253</PMCID>
+    <PMCID>4725289</PMCID>
+    <PMCID>4653804</PMCID>
+    <PMCID>4672811</PMCID>
+    <PMCID>4563596</PMCID>
+    <PMCID>4512267</PMCID>
+    <PMCID>4345380</PMCID>
+    <PMCID>4240177</PMCID>
+    <PMCID>3986527</PMCID>
+    <PMCID>3948747</PMCID>
+    <PMCID>3783492</PMCID>
+    <PMCID>3695085</PMCID>
+    <PMCID>3599355</PMCID>
+    <PMCID>3537687</PMCID>
+    <PMCID>3419165</PMCID>
+    <PMCID>2847961</PMCID>
+    <PMCID>3116451</PMCID>
+    <PMCID>2681686</PMCID>
+    <PMCID>2268282</PMCID>
+    <PMCID>1352274</PMCID>
+    <PMCID>1287740</PMCID>
+    <PMCID>1287689</PMCID>
+    <PMCID>1364539</PMCID>
+    <PMCID>492330</PMCID>
+    <PMCID>169084</PMCID>
+    <PMCID>150089</PMCID>
+    <PMCID>126756</PMCID>
+    <PMCID>93284</PMCID>
+    <PMCID>88032</PMCID>
+    <PMCID>92630</PMCID>
+    <PMCID>101941</PMCID>
+    <PMCID>91498</PMCID>
+    <PMCID>91471</PMCID>
+    <PMCID>106823</PMCID>
+    <PMCID>106424</PMCID>
+    <PMCID>107822</PMCID>
+    <PMCID>106097</PMCID>
+    <PMCID>209089</PMCID>
+    <PMCID>209706</PMCID>
+    <PMCID>356743</PMCID>
+    <PMCID>356735</PMCID>
+    <PMCID>246247</PMCID>
+    <PMCID>251710</PMCID>
+    <PMCID>247419</PMCID>
+    <PMCID>285201</PMCID>
+    <PMCID>247306</PMCID>
+    <PMCID>277813</PMCID>
+    <PMCID>252113</PMCID>
+    <PMCID>375584</PMCID>
+    <PMCID>276532</PMCID>
+    <PMCID>276531</PMCID>
+    <PMCID>316262</PMCID>
+    <PMCID>277546</PMCID>
+    <PMCID>277457</PMCID>
+    <PMCID>277192</PMCID>
+    <PMCID>278554</PMCID>
+    <id>12917</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Hydrogenomonas facilis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pseudomonas facilis
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Acidivorax facilis
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Hydrogenomonas facilis" Schatz and Bovell 1952
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Acidovorax facilis (Schatz and Bovell 1952) Willems et al. 1990
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pseudomonas facilis (Schatz and Bovell 1952) Davis 1969 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 11228
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:11228
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:2193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 2113
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:2113
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 2441
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP 3608
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:2441
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CFBP:3608
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 103302
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:103302
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 649
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:649
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 2193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:2193
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-4274
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-4274
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:4274
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pseudomonas facilis</scientificName>
+</pathogen>

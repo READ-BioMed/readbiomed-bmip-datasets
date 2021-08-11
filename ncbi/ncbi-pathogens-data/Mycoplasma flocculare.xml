@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1004152</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma flocculare str. ATCC 27716
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma flocculare strain ATCC 27716
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma flocculare ATCC 27716</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>743971</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma flocculare Ms42
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma flocculare str. ATCC 27399
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma flocculare strain ATCC 27399
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma flocculare ATCC 27399</scientificName>
+    </subSpecies>
+    <PMCID>8173509</PMCID>
+    <PMCID>7733983</PMCID>
+    <PMCID>7685885</PMCID>
+    <PMCID>7565387</PMCID>
+    <PMCID>7549910</PMCID>
+    <PMCID>7329402</PMCID>
+    <PMCID>7288481</PMCID>
+    <PMCID>7268655</PMCID>
+    <PMCID>6956182</PMCID>
+    <PMCID>6779295</PMCID>
+    <PMCID>6770761</PMCID>
+    <PMCID>6559013</PMCID>
+    <PMCID>6471550</PMCID>
+    <PMCID>6389860</PMCID>
+    <PMCID>6104684</PMCID>
+    <PMCID>5991985</PMCID>
+    <PMCID>5515459</PMCID>
+    <PMCID>5179023</PMCID>
+    <PMCID>5088518</PMCID>
+    <PMCID>4866288</PMCID>
+    <PMCID>4680736</PMCID>
+    <PMCID>4357767</PMCID>
+    <PMCID>4390661</PMCID>
+    <PMCID>4272319</PMCID>
+    <PMCID>4227723</PMCID>
+    <PMCID>4198240</PMCID>
+    <PMCID>4210782</PMCID>
+    <PMCID>3993664</PMCID>
+    <PMCID>3610235</PMCID>
+    <PMCID>3537595</PMCID>
+    <PMCID>3325076</PMCID>
+    <PMCID>3769822</PMCID>
+    <PMCID>3122671</PMCID>
+    <PMCID>3768421</PMCID>
+    <PMCID>2519509</PMCID>
+    <PMCID>1829085</PMCID>
+    <PMCID>1410728</PMCID>
+    <PMCID>446262</PMCID>
+    <PMCID>1821000</PMCID>
+    <PMCID>154955</PMCID>
+    <PMCID>127901</PMCID>
+    <PMCID>90764</PMCID>
+    <PMCID>55444</PMCID>
+    <PMCID>95908</PMCID>
+    <PMCID>86451</PMCID>
+    <PMCID>85845</PMCID>
+    <PMCID>85551</PMCID>
+    <PMCID>98941</PMCID>
+    <PMCID>104965</PMCID>
+    <PMCID>106080</PMCID>
+    <PMCID>8127898</PMCID>
+    <PMCID>8127886</PMCID>
+    <PMCID>330511</PMCID>
+    <PMCID>1255300</PMCID>
+    <id>2128</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma flocculare Meyling and Friss 1972
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 27399
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:27399
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10143
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10143
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::Ms42
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain MS 42
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain Ms42
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma flocculare</scientificName>
+</pathogen>

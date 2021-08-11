@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1131455</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis str. UFG4
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis strain UFG4
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma canis UFG4</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1131454</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis str. UFG1
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis strain UFG1
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma canis UFG1</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1131453</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis str. UF33
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis strain UF33
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma canis UF33</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1131452</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis str. UF31
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis strain UF31
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma canis UF31</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1117644</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasma canis ATCC 19525
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis str. PG 14
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Mycoplasma canis strain PG 14
+ &lt;/EquivalentName&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   misspelling
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasma canis PG14
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Mycoplasma canis PG 14</scientificName>
+    </subSpecies>
+    <PMCID>8173446</PMCID>
+    <PMCID>8160460</PMCID>
+    <PMCID>8007284</PMCID>
+    <PMCID>8096214</PMCID>
+    <PMCID>7861559</PMCID>
+    <PMCID>7789644</PMCID>
+    <PMCID>7684734</PMCID>
+    <PMCID>7240078</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>6882279</PMCID>
+    <PMCID>6798064</PMCID>
+    <PMCID>6752848</PMCID>
+    <PMCID>6766487</PMCID>
+    <PMCID>6593217</PMCID>
+    <PMCID>6483346</PMCID>
+    <PMCID>6417145</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>6430903</PMCID>
+    <PMCID>6335444</PMCID>
+    <PMCID>6243906</PMCID>
+    <PMCID>6038269</PMCID>
+    <PMCID>6505912</PMCID>
+    <PMCID>5810989</PMCID>
+    <PMCID>5401473</PMCID>
+    <PMCID>5385097</PMCID>
+    <PMCID>5364683</PMCID>
+    <PMCID>5259643</PMCID>
+    <PMCID>5066355</PMCID>
+    <PMCID>7131703</PMCID>
+    <PMCID>4907131</PMCID>
+    <PMCID>7271154</PMCID>
+    <PMCID>4687383</PMCID>
+    <PMCID>4607530</PMCID>
+    <PMCID>4540935</PMCID>
+    <PMCID>7158305</PMCID>
+    <PMCID>4858066</PMCID>
+    <PMCID>7114656</PMCID>
+    <PMCID>4196554</PMCID>
+    <PMCID>3882280</PMCID>
+    <PMCID>3811644</PMCID>
+    <PMCID>3416566</PMCID>
+    <PMCID>7166683</PMCID>
+    <PMCID>3338629</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>7158309</PMCID>
+    <PMCID>2684937</PMCID>
+    <PMCID>2507593</PMCID>
+    <PMCID>7271342</PMCID>
+    <PMCID>7129287</PMCID>
+    <PMCID>254308</PMCID>
+    <PMCID>85820</PMCID>
+    <PMCID>248214</PMCID>
+    <id>29555</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Asterococcus canis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis canis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Asterococcus canis" (Edward 1955) Prevot 1961
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis canis" (Edward 1955) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis canis (Edward 1955) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma canis</scientificName>
+</pathogen>

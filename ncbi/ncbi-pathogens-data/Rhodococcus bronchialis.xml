@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1041514</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Gordonia bronchialis str. NAM506
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Gordonia bronchialis strain NAM506
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Gordonia bronchialis NAM506</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>3927607</PMCID>
+        <GeneBankPMID>21304674</GeneBankPMID>
+        <id>526226</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis ATCC 25592
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis CCUG 20989
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis CCUG 34956
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis CIP 100847
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis IFO 6047
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis JCM 3198
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis JCM 3231
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis LMG 5355
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis NBRC 16047
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis NCTC 10667
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis VKM Ac-956
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordonia bronchialis str. Tsukamura 3410
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Gordonia bronchialis str. DSM 43247
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Gordonia bronchialis strain DSM 43247
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Gordonia bronchialis DSM 43247</scientificName>
+    </subSpecies>
+    <PMCID>8120237</PMCID>
+    <PMCID>7825236</PMCID>
+    <PMCID>7775120</PMCID>
+    <PMCID>7600791</PMCID>
+    <PMCID>7453921</PMCID>
+    <PMCID>7358707</PMCID>
+    <PMCID>7285244</PMCID>
+    <PMCID>8046390</PMCID>
+    <PMCID>7216922</PMCID>
+    <PMCID>6975163</PMCID>
+    <PMCID>6924085</PMCID>
+    <PMCID>6957406</PMCID>
+    <PMCID>6738651</PMCID>
+    <PMCID>6608940</PMCID>
+    <PMCID>6478222</PMCID>
+    <PMCID>6489382</PMCID>
+    <PMCID>7112049</PMCID>
+    <PMCID>6362181</PMCID>
+    <PMCID>6318869</PMCID>
+    <PMCID>7120819</PMCID>
+    <PMCID>6258851</PMCID>
+    <PMCID>6205950</PMCID>
+    <PMCID>7122543</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6056354</PMCID>
+    <PMCID>5936774</PMCID>
+    <PMCID>5818290</PMCID>
+    <PMCID>5819568</PMCID>
+    <PMCID>5691416</PMCID>
+    <PMCID>5643002</PMCID>
+    <PMCID>5468944</PMCID>
+    <PMCID>5321270</PMCID>
+    <PMCID>5639861</PMCID>
+    <PMCID>5154685</PMCID>
+    <PMCID>5110891</PMCID>
+    <PMCID>5343147</PMCID>
+    <PMCID>5063366</PMCID>
+    <PMCID>5174979</PMCID>
+    <PMCID>4982276</PMCID>
+    <PMCID>4934723</PMCID>
+    <PMCID>4809932</PMCID>
+    <PMCID>4791881</PMCID>
+    <PMCID>4756111</PMCID>
+    <PMCID>4733196</PMCID>
+    <PMCID>4726625</PMCID>
+    <PMCID>4715301</PMCID>
+    <PMCID>4767282</PMCID>
+    <PMCID>4779608</PMCID>
+    <PMCID>4704214</PMCID>
+    <PMCID>4689555</PMCID>
+    <PMCID>4667190</PMCID>
+    <PMCID>4711186</PMCID>
+    <PMCID>4626032</PMCID>
+    <PMCID>4551876</PMCID>
+    <PMCID>4516979</PMCID>
+    <PMCID>4428276</PMCID>
+    <PMCID>5154385</PMCID>
+    <PMCID>4411124</PMCID>
+    <PMCID>7132459</PMCID>
+    <PMCID>4505583</PMCID>
+    <PMCID>4365757</PMCID>
+    <PMCID>4298495</PMCID>
+    <PMCID>4281200</PMCID>
+    <PMCID>4252139</PMCID>
+    <PMCID>4249041</PMCID>
+    <PMCID>4198257</PMCID>
+    <PMCID>5974928</PMCID>
+    <PMCID>4138524</PMCID>
+    <PMCID>4138011</PMCID>
+    <PMCID>4097692</PMCID>
+    <PMCID>4091373</PMCID>
+    <PMCID>4620549</PMCID>
+    <PMCID>3993500</PMCID>
+    <PMCID>3911158</PMCID>
+    <PMCID>3911260</PMCID>
+    <PMCID>4222082</PMCID>
+    <PMCID>4255298</PMCID>
+    <PMCID>3814636</PMCID>
+    <PMCID>3811652</PMCID>
+    <PMCID>3754736</PMCID>
+    <PMCID>3497385</PMCID>
+    <PMCID>3486202</PMCID>
+    <PMCID>3485706</PMCID>
+    <PMCID>3496871</PMCID>
+    <PMCID>3466566</PMCID>
+    <PMCID>3421797</PMCID>
+    <PMCID>3343278</PMCID>
+    <PMCID>3292562</PMCID>
+    <PMCID>3294427</PMCID>
+    <PMCID>3264146</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3207917</PMCID>
+    <PMCID>3187227</PMCID>
+    <PMCID>3165644</PMCID>
+    <PMCID>3147496</PMCID>
+    <PMCID>3154147</PMCID>
+    <PMCID>3131622</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3122797</PMCID>
+    <PMCID>3069002</PMCID>
+    <PMCID>3023750</PMCID>
+    <PMCID>7122113</PMCID>
+    <PMCID>3020563</PMCID>
+    <PMCID>3008459</PMCID>
+    <PMCID>3020847</PMCID>
+    <PMCID>2950474</PMCID>
+    <PMCID>2901687</PMCID>
+    <PMCID>3035257</PMCID>
+    <PMCID>3192486</PMCID>
+    <PMCID>2643695</PMCID>
+    <PMCID>1479208</PMCID>
+    <PMCID>1352208</PMCID>
+    <PMCID>1351931</PMCID>
+    <PMCID>1233948</PMCID>
+    <PMCID>1151891</PMCID>
+    <PMCID>1081289</PMCID>
+    <PMCID>545729</PMCID>
+    <PMCID>497575</PMCID>
+    <PMCID>427891</PMCID>
+    <PMCID>427817</PMCID>
+    <PMCID>427784</PMCID>
+    <PMCID>165360</PMCID>
+    <PMCID>152489</PMCID>
+    <PMCID>152994</PMCID>
+    <PMCID>91957</PMCID>
+    <PMCID>94341</PMCID>
+    <PMCID>84999</PMCID>
+    <PMCID>84177</PMCID>
+    <PMCID>106418</PMCID>
+    <PMCID>124825</PMCID>
+    <PMCID>229682</PMCID>
+    <id>2054</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  "Gordona (sic) bronchialis" Tsukamura et al. 1971
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Gordona bronchialis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Rhodococcus bronchialis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Gordonia bronchialis (Tsukamura 1971) Stackebrandt et al. 1989
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Gordonia bronchialis (Tsukamura, 1971) Stackebrandt et al. 1989 emend. Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Rhodococcus bronchialis (Tsukamura 1971) Tsukamura 1974 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 25592
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:25592
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 20989
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 34956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:20989
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:34956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 100847
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:100847
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 43247
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:43247
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO 16047
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   IFO:16047
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3198
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 3231
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3198
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:3231
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5355
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC 16047
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NBRC:16047
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC 10667
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NCTC:10667
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM Ac-956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VKM:Ac:956
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::Tsukamura 3410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain Tsukamura 3410
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Rhodococcus bronchialis</scientificName>
+</pathogen>

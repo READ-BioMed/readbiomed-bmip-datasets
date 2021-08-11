@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8232776</PMCID>
+    <PMCID>8226683</PMCID>
+    <PMCID>7947596</PMCID>
+    <PMCID>7071850</PMCID>
+    <PMCID>6542728</PMCID>
+    <PMCID>6374484</PMCID>
+    <PMCID>6306205</PMCID>
+    <PMCID>6292386</PMCID>
+    <PMCID>6166724</PMCID>
+    <PMCID>5731995</PMCID>
+    <PMCID>5359306</PMCID>
+    <PMCID>4996987</PMCID>
+    <PMCID>5000673</PMCID>
+    <PMCID>4396522</PMCID>
+    <PMCID>4542029</PMCID>
+    <PMCID>4258642</PMCID>
+    <PMCID>4237127</PMCID>
+    <PMCID>4109938</PMCID>
+    <PMCID>3842273</PMCID>
+    <PMCID>4053972</PMCID>
+    <PMCID>3491685</PMCID>
+    <PMCID>3165659</PMCID>
+    <PMCID>3283191</PMCID>
+    <PMCID>2702494</PMCID>
+    <PMCID>2582579</PMCID>
+    <PMCID>2565998</PMCID>
+    <PMCID>2223686</PMCID>
+    <PMCID>1887533</PMCID>
+    <PMCID>1169024</PMCID>
+    <PMCID>262325</PMCID>
+    <PMCID>165192</PMCID>
+    <PMCID>250193</PMCID>
+    <id>34089</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Aphanothece clathratiformis
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Chlorobium clathratiforme
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Pelodictyon lauterbornii
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Aphanothece clathratiformis" Szafer 1911
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Pelodictyon lauterbornii" Geitler in Geitler and Pascher 1925
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Chlorobium clathratiforme (Szafer 1911) Imhoff 2003
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Pelodictyon clathratiforme (Szafer 1911) Lauterborn 1913
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Pelodictyon clathratiforme</scientificName>
+</pathogen>

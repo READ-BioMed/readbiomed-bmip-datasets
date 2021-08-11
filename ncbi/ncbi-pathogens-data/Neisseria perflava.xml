@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8215110</PMCID>
+    <PMCID>8167034</PMCID>
+    <PMCID>8124663</PMCID>
+    <PMCID>8116894</PMCID>
+    <PMCID>7934379</PMCID>
+    <PMCID>7997190</PMCID>
+    <PMCID>7822943</PMCID>
+    <PMCID>7696878</PMCID>
+    <PMCID>7697671</PMCID>
+    <PMCID>7653996</PMCID>
+    <PMCID>7590255</PMCID>
+    <PMCID>7563352</PMCID>
+    <PMCID>7444037</PMCID>
+    <PMCID>7406711</PMCID>
+    <PMCID>6949346</PMCID>
+    <PMCID>7295135</PMCID>
+    <PMCID>7092996</PMCID>
+    <PMCID>7303068</PMCID>
+    <PMCID>7010270</PMCID>
+    <PMCID>7061157</PMCID>
+    <PMCID>6978582</PMCID>
+    <PMCID>6558830</PMCID>
+    <PMCID>7319061</PMCID>
+    <PMCID>6462939</PMCID>
+    <PMCID>6349886</PMCID>
+    <PMCID>6863212</PMCID>
+    <PMCID>6174289</PMCID>
+    <PMCID>6127315</PMCID>
+    <PMCID>6130352</PMCID>
+    <PMCID>6164196</PMCID>
+    <PMCID>6958204</PMCID>
+    <PMCID>5736669</PMCID>
+    <PMCID>5743165</PMCID>
+    <PMCID>5654903</PMCID>
+    <PMCID>5503224</PMCID>
+    <PMCID>5451082</PMCID>
+    <PMCID>6817022</PMCID>
+    <PMCID>5187516</PMCID>
+    <PMCID>4879866</PMCID>
+    <PMCID>4845694</PMCID>
+    <PMCID>4836434</PMCID>
+    <PMCID>4833912</PMCID>
+    <PMCID>5441325</PMCID>
+    <PMCID>4767947</PMCID>
+    <PMCID>4837576</PMCID>
+    <PMCID>4509705</PMCID>
+    <PMCID>4473228</PMCID>
+    <PMCID>4241516</PMCID>
+    <PMCID>4135894</PMCID>
+    <PMCID>4068938</PMCID>
+    <PMCID>3957746</PMCID>
+    <PMCID>3957703</PMCID>
+    <PMCID>3754283</PMCID>
+    <PMCID>3646017</PMCID>
+    <PMCID>3647902</PMCID>
+    <PMCID>3522697</PMCID>
+    <PMCID>3629839</PMCID>
+    <PMCID>3391273</PMCID>
+    <PMCID>3393458</PMCID>
+    <PMCID>3541776</PMCID>
+    <PMCID>3309916</PMCID>
+    <PMCID>3232959</PMCID>
+    <PMCID>3350722</PMCID>
+    <PMCID>3122860</PMCID>
+    <PMCID>2849566</PMCID>
+    <PMCID>2788039</PMCID>
+    <PMCID>2395096</PMCID>
+    <PMCID>1931599</PMCID>
+    <PMCID>1865884</PMCID>
+    <PMCID>1829038</PMCID>
+    <PMCID>1635225</PMCID>
+    <PMCID>1479175</PMCID>
+    <PMCID>1287782</PMCID>
+    <PMCID>1233920</PMCID>
+    <PMCID>1153731</PMCID>
+    <PMCID>538884</PMCID>
+    <PMCID>478501</PMCID>
+    <PMCID>478491</PMCID>
+    <PMCID>149699</PMCID>
+    <PMCID>132769</PMCID>
+    <PMCID>88999</PMCID>
+    <PMCID>87853</PMCID>
+    <PMCID>90092</PMCID>
+    <PMCID>89280</PMCID>
+    <PMCID>89244</PMCID>
+    <PMCID>93388</PMCID>
+    <PMCID>178238</PMCID>
+    <PMCID>3328020</PMCID>
+    <PMCID>172392</PMCID>
+    <PMCID>271070</PMCID>
+    <PMCID>274395</PMCID>
+    <PMCID>236048</PMCID>
+    <PMCID>429026</PMCID>
+    <PMCID>285292</PMCID>
+    <id>33053</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Neisseria perflava Bergey et al. 1923
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 10555
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:10555
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   BCCM/LMG:5284
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 17915
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:17915
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG 5284
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   LMG:5284
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL B-1790
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   NRRL:B-1790
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   culture-collection:NRRL:B:1790
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Neisseria perflava</scientificName>
+</pathogen>

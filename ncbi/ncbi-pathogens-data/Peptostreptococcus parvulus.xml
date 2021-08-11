@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <subSpecies>
+        <id>1287474</id>
+        <scientificName>Atopobium parvulum DNF00906</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>1073350</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Includes&gt;
+  Atopobium sp. CC14Z
+ &lt;/Includes&gt; 
+ &lt;EquivalentName&gt;
+  Atopobium parvulum str. CC14Z
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Atopobium parvulum strain CC14Z
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Atopobium parvulum CC14Z</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <id>562979</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;EquivalentName&gt;
+  Atopobium parvulum str. C836
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Atopobium parvulum strain C836
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Atopobium parvulum C836</scientificName>
+    </subSpecies>
+    <subSpecies>
+        <PMCID>6879135</PMCID>
+        <PMCID>3962364</PMCID>
+        <PMCID>3927607</PMCID>
+        <GeneBankPMID>21304653</GeneBankPMID>
+        <id>521095</id>
+        <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Atopobium parvulum ATCC 33793
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Atopobium parvulum JCM 10300
+ &lt;/Synonym&gt; 
+ &lt;EquivalentName&gt;
+  Atopobium parvulum str. DSM 20469
+ &lt;/EquivalentName&gt; 
+ &lt;EquivalentName&gt;
+  Atopobium parvulum strain DSM 20469
+ &lt;/EquivalentName&gt; 
+&lt;/OtherNames&gt;</otherNames>
+        <scientificName>Atopobium parvulum DSM 20469</scientificName>
+    </subSpecies>
+    <PMCID>8226648</PMCID>
+    <PMCID>8204491</PMCID>
+    <PMCID>8191184</PMCID>
+    <PMCID>8144394</PMCID>
+    <PMCID>8131007</PMCID>
+    <PMCID>8102284</PMCID>
+    <PMCID>8173312</PMCID>
+    <PMCID>8143473</PMCID>
+    <PMCID>8101409</PMCID>
+    <PMCID>8093878</PMCID>
+    <PMCID>8033001</PMCID>
+    <PMCID>7952914</PMCID>
+    <PMCID>7970425</PMCID>
+    <PMCID>7905567</PMCID>
+    <PMCID>7926819</PMCID>
+    <PMCID>7933581</PMCID>
+    <PMCID>7915371</PMCID>
+    <PMCID>7859180</PMCID>
+    <PMCID>7912746</PMCID>
+    <PMCID>7865401</PMCID>
+    <PMCID>7852575</PMCID>
+    <PMCID>7760447</PMCID>
+    <PMCID>7760719</PMCID>
+    <PMCID>7717945</PMCID>
+    <PMCID>7674676</PMCID>
+    <PMCID>7672027</PMCID>
+    <PMCID>7803181</PMCID>
+    <PMCID>7645040</PMCID>
+    <PMCID>7580719</PMCID>
+    <PMCID>7652708</PMCID>
+    <PMCID>7492273</PMCID>
+    <PMCID>8048936</PMCID>
+    <PMCID>7488176</PMCID>
+    <PMCID>7476324</PMCID>
+    <PMCID>8106555</PMCID>
+    <PMCID>7405351</PMCID>
+    <PMCID>7465478</PMCID>
+    <PMCID>7487393</PMCID>
+    <PMCID>7447622</PMCID>
+    <PMCID>7465710</PMCID>
+    <PMCID>7466864</PMCID>
+    <PMCID>7511787</PMCID>
+    <PMCID>7320173</PMCID>
+    <PMCID>7371947</PMCID>
+    <PMCID>7837003</PMCID>
+    <PMCID>7345347</PMCID>
+    <PMCID>7225411</PMCID>
+    <PMCID>7244971</PMCID>
+    <PMCID>7442318</PMCID>
+    <PMCID>7215967</PMCID>
+    <PMCID>7550193</PMCID>
+    <PMCID>7147659</PMCID>
+    <PMCID>7232320</PMCID>
+    <PMCID>7092996</PMCID>
+    <PMCID>7154484</PMCID>
+    <PMCID>7225181</PMCID>
+    <PMCID>7060472</PMCID>
+    <PMCID>7037843</PMCID>
+    <PMCID>7398469</PMCID>
+    <PMCID>6937260</PMCID>
+    <PMCID>6936845</PMCID>
+    <PMCID>6909475</PMCID>
+    <PMCID>6879135</PMCID>
+    <PMCID>7002105</PMCID>
+    <PMCID>6854792</PMCID>
+    <PMCID>6853236</PMCID>
+    <PMCID>7192221</PMCID>
+    <PMCID>6832398</PMCID>
+    <PMCID>6797555</PMCID>
+    <PMCID>6913090</PMCID>
+    <PMCID>6733848</PMCID>
+    <PMCID>6698797</PMCID>
+    <PMCID>6691356</PMCID>
+    <PMCID>6720875</PMCID>
+    <PMCID>6581286</PMCID>
+    <PMCID>7153577</PMCID>
+    <PMCID>6557473</PMCID>
+    <PMCID>6572048</PMCID>
+    <PMCID>6604110</PMCID>
+    <PMCID>6511794</PMCID>
+    <PMCID>7285974</PMCID>
+    <PMCID>6465617</PMCID>
+    <PMCID>6560015</PMCID>
+    <PMCID>6635307</PMCID>
+    <PMCID>6422856</PMCID>
+    <PMCID>6419625</PMCID>
+    <PMCID>6562231</PMCID>
+    <PMCID>6327923</PMCID>
+    <PMCID>6306167</PMCID>
+    <PMCID>6240532</PMCID>
+    <PMCID>6163330</PMCID>
+    <PMCID>6151227</PMCID>
+    <PMCID>6120612</PMCID>
+    <PMCID>6113628</PMCID>
+    <PMCID>6052270</PMCID>
+    <PMCID>6052428</PMCID>
+    <PMCID>6164700</PMCID>
+    <PMCID>6022438</PMCID>
+    <PMCID>6004268</PMCID>
+    <PMCID>6023505</PMCID>
+    <PMCID>6182551</PMCID>
+    <PMCID>5923167</PMCID>
+    <PMCID>5856834</PMCID>
+    <PMCID>5877604</PMCID>
+    <PMCID>5828091</PMCID>
+    <PMCID>5827717</PMCID>
+    <PMCID>5813034</PMCID>
+    <PMCID>6150324</PMCID>
+    <PMCID>5711663</PMCID>
+    <PMCID>5826583</PMCID>
+    <PMCID>5746635</PMCID>
+    <PMCID>5635030</PMCID>
+    <PMCID>6429573</PMCID>
+    <PMCID>5627008</PMCID>
+    <PMCID>5584792</PMCID>
+    <PMCID>5914913</PMCID>
+    <PMCID>5437217</PMCID>
+    <PMCID>5452177</PMCID>
+    <PMCID>6279293</PMCID>
+    <PMCID>5339702</PMCID>
+    <PMCID>5334117</PMCID>
+    <PMCID>5479396</PMCID>
+    <PMCID>5317110</PMCID>
+    <PMCID>5310281</PMCID>
+    <PMCID>5328370</PMCID>
+    <PMCID>5475835</PMCID>
+    <PMCID>5196032</PMCID>
+    <PMCID>5122959</PMCID>
+    <PMCID>5095667</PMCID>
+    <PMCID>4976368</PMCID>
+    <PMCID>5168558</PMCID>
+    <PMCID>5005179</PMCID>
+    <PMCID>4860493</PMCID>
+    <PMCID>4854118</PMCID>
+    <PMCID>4933688</PMCID>
+    <PMCID>4826460</PMCID>
+    <PMCID>5069318</PMCID>
+    <PMCID>4830092</PMCID>
+    <PMCID>4687314</PMCID>
+    <PMCID>6807219</PMCID>
+    <PMCID>4643231</PMCID>
+    <PMCID>4697132</PMCID>
+    <PMCID>4547314</PMCID>
+    <PMCID>4487993</PMCID>
+    <PMCID>4447273</PMCID>
+    <PMCID>4407000</PMCID>
+    <PMCID>4542641</PMCID>
+    <PMCID>4505974</PMCID>
+    <PMCID>4338966</PMCID>
+    <PMCID>4615782</PMCID>
+    <PMCID>3974763</PMCID>
+    <PMCID>3993133</PMCID>
+    <PMCID>3962364</PMCID>
+    <PMCID>3942510</PMCID>
+    <PMCID>3911465</PMCID>
+    <PMCID>4255298</PMCID>
+    <PMCID>3811629</PMCID>
+    <PMCID>4010126</PMCID>
+    <PMCID>3858730</PMCID>
+    <PMCID>3746427</PMCID>
+    <PMCID>3687592</PMCID>
+    <PMCID>3632912</PMCID>
+    <PMCID>3668179</PMCID>
+    <PMCID>3592085</PMCID>
+    <PMCID>3764928</PMCID>
+    <PMCID>4053804</PMCID>
+    <PMCID>3448655</PMCID>
+    <PMCID>3507910</PMCID>
+    <PMCID>3405626</PMCID>
+    <PMCID>3412664</PMCID>
+    <PMCID>3318369</PMCID>
+    <PMCID>3325845</PMCID>
+    <PMCID>3294948</PMCID>
+    <PMCID>3294427</PMCID>
+    <PMCID>3289664</PMCID>
+    <PMCID>4148015</PMCID>
+    <PMCID>3255620</PMCID>
+    <PMCID>3227645</PMCID>
+    <PMCID>3227153</PMCID>
+    <PMCID>3927607</PMCID>
+    <PMCID>3705763</PMCID>
+    <PMCID>3682059</PMCID>
+    <PMCID>3165274</PMCID>
+    <PMCID>3134244</PMCID>
+    <PMCID>3122693</PMCID>
+    <PMCID>3122686</PMCID>
+    <PMCID>3088197</PMCID>
+    <PMCID>3122803</PMCID>
+    <PMCID>3053387</PMCID>
+    <PMCID>3055920</PMCID>
+    <PMCID>3177302</PMCID>
+    <PMCID>3020839</PMCID>
+    <PMCID>2932916</PMCID>
+    <PMCID>3035265</PMCID>
+    <PMCID>3035296</PMCID>
+    <PMCID>2863874</PMCID>
+    <PMCID>2849373</PMCID>
+    <PMCID>3035223</PMCID>
+    <PMCID>2662693</PMCID>
+    <PMCID>2637877</PMCID>
+    <PMCID>2612141</PMCID>
+    <PMCID>1865865</PMCID>
+    <PMCID>1635190</PMCID>
+    <PMCID>1266370</PMCID>
+    <PMCID>1233920</PMCID>
+    <PMCID>1169097</PMCID>
+    <PMCID>1087539</PMCID>
+    <PMCID>535136</PMCID>
+    <PMCID>446285</PMCID>
+    <PMCID>419343</PMCID>
+    <PMCID>362875</PMCID>
+    <PMCID>193817</PMCID>
+    <PMCID>156532</PMCID>
+    <PMCID>149706</PMCID>
+    <PMCID>123985</PMCID>
+    <PMCID>126712</PMCID>
+    <PMCID>95255</PMCID>
+    <PMCID>92335</PMCID>
+    <PMCID>88649</PMCID>
+    <PMCID>121377</PMCID>
+    <PMCID>274513</PMCID>
+    <id>1382</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Atopobium parvulum
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Peptostreptococcus parvulus
+ &lt;/Synonym&gt; 
+ &lt;Synonym&gt;
+  Streptococcus parvulus
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Streptococcus parvulus" Weinberg et al. 1937
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Atopobium parvulum (Weinberg et al. 1937) Collins and Wallbanks 1993
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Lancefieldella parvula (Weinberg et al. 1937) Nouioui et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Peptostreptococcus parvulus (Weinberg et al. 1937) Smith 1957 (Approved Lists 1980)
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Streptococcus parvulus (Weinberg et al. 1937) Cato 1983
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC 33793
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   ATCC:33793
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG 32760
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CCUG:32760
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP 102970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   CIP:102970
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM 20469
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   DSM:20469
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM 10300
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   JCM:10300
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI 0546
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   VPI:0546
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   personal::IPP 1246
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   type material
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   strain IPP 1246
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Peptostreptococcus parvulus</scientificName>
+</pathogen>

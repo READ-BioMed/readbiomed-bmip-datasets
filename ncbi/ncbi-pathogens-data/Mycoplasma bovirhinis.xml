@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<pathogen>
+    <PMCID>8173446</PMCID>
+    <PMCID>8160460</PMCID>
+    <PMCID>7861559</PMCID>
+    <PMCID>7542862</PMCID>
+    <PMCID>7269393</PMCID>
+    <PMCID>7244442</PMCID>
+    <PMCID>7212441</PMCID>
+    <PMCID>7215337</PMCID>
+    <PMCID>6924913</PMCID>
+    <PMCID>7383803</PMCID>
+    <PMCID>6856322</PMCID>
+    <PMCID>6581182</PMCID>
+    <PMCID>6417145</PMCID>
+    <PMCID>6302395</PMCID>
+    <PMCID>5940136</PMCID>
+    <PMCID>7152286</PMCID>
+    <PMCID>5624757</PMCID>
+    <PMCID>5481913</PMCID>
+    <PMCID>5414144</PMCID>
+    <PMCID>5361731</PMCID>
+    <PMCID>5338856</PMCID>
+    <PMCID>7161410</PMCID>
+    <PMCID>4827683</PMCID>
+    <PMCID>4313372</PMCID>
+    <PMCID>4136150</PMCID>
+    <PMCID>3942108</PMCID>
+    <PMCID>3811644</PMCID>
+    <PMCID>3666814</PMCID>
+    <PMCID>3267716</PMCID>
+    <PMCID>2916576</PMCID>
+    <PMCID>7124580</PMCID>
+    <PMCID>7117372</PMCID>
+    <PMCID>1766361</PMCID>
+    <PMCID>1479153</PMCID>
+    <PMCID>1317073</PMCID>
+    <PMCID>1820993</PMCID>
+    <PMCID>419932</PMCID>
+    <PMCID>7126694</PMCID>
+    <PMCID>135138</PMCID>
+    <PMCID>2202333</PMCID>
+    <PMCID>7119828</PMCID>
+    <PMCID>7119796</PMCID>
+    <PMCID>85820</PMCID>
+    <PMCID>84475</PMCID>
+    <PMCID>107667</PMCID>
+    <PMCID>104965</PMCID>
+    <PMCID>7133857</PMCID>
+    <PMCID>1263534</PMCID>
+    <PMCID>1320011</PMCID>
+    <PMCID>1277725</PMCID>
+    <PMCID>1277433</PMCID>
+    <id>29553</id>
+    <otherNames>&lt;OtherNames&gt; 
+ &lt;Synonym&gt;
+  Mycoplasmopsis bovirhinis
+ &lt;/Synonym&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   "Mycoplasmopsis bovirhinis" (Leach 1967) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+ &lt;Name&gt; 
+  &lt;ClassCDE&gt;
+   authority
+  &lt;/ClassCDE&gt; 
+  &lt;DispName&gt;
+   Mycoplasmopsis bovirhinis (Leach 1967) Gupta et al. 2018
+  &lt;/DispName&gt; 
+ &lt;/Name&gt; 
+&lt;/OtherNames&gt;</otherNames>
+    <scientificName>Mycoplasma bovirhinis</scientificName>
+</pathogen>
