@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>24493819</GeneBankPMID>
-        <GeneBankPMID>24298898</GeneBankPMID>
-        <GeneBankPMID>18573899</GeneBankPMID>
-        <GeneBankPMID>19054074</GeneBankPMID>
+        <GenBankPMID>24493819</GenBankPMID>
+        <GenBankPMID>24298898</GenBankPMID>
+        <GenBankPMID>18573899</GenBankPMID>
+        <GenBankPMID>19054074</GenBankPMID>
         <id>243272</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

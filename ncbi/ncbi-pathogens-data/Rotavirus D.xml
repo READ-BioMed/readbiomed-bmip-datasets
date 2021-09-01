@@ -50,8 +50,8 @@
         <scientificName>Rotavirus D chicken-wt/BGD/BS-7/2010</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23426355</GeneBankPMID>
-        <GeneBankPMID>20631147</GeneBankPMID>
+        <GenBankPMID>23426355</GenBankPMID>
+        <GenBankPMID>20631147</GenBankPMID>
         <id>884200</id>
         <scientificName>Rotavirus D chicken/05V0049/DEU/2005</scientificName>
     </subSpecies>

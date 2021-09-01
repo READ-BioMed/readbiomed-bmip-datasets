@@ -19,8 +19,8 @@
         <scientificName>Amycolatopsis orientalis DSM 43388</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>24884615</GeneBankPMID>
-        <GeneBankPMID>23627759</GeneBankPMID>
+        <GenBankPMID>24884615</GenBankPMID>
+        <GenBankPMID>23627759</GenBankPMID>
         <id>1156913</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -410,8 +410,8 @@
     <PMCID>171957</PMCID>
     <PMCID>212162</PMCID>
     <PMCID>239229</PMCID>
-    <GeneBankPMID>29164655</GeneBankPMID>
-    <GeneBankPMID>28696669</GeneBankPMID>
+    <GenBankPMID>29164655</GenBankPMID>
+    <GenBankPMID>28696669</GenBankPMID>
     <id>31958</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

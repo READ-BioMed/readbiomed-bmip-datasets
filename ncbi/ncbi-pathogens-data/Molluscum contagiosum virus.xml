@@ -30,12 +30,12 @@
         <PMCID>1176014</PMCID>
         <PMCID>164831</PMCID>
         <PMCID>19903</PMCID>
-        <GeneBankPMID>8670425</GeneBankPMID>
-        <GeneBankPMID>10620615</GeneBankPMID>
-        <GeneBankPMID>21802105</GeneBankPMID>
-        <GeneBankPMID>18701596</GeneBankPMID>
-        <GeneBankPMID>10523854</GeneBankPMID>
-        <GeneBankPMID>32727873</GeneBankPMID>
+        <GenBankPMID>8670425</GenBankPMID>
+        <GenBankPMID>10620615</GenBankPMID>
+        <GenBankPMID>21802105</GenBankPMID>
+        <GenBankPMID>18701596</GenBankPMID>
+        <GenBankPMID>10523854</GenBankPMID>
+        <GenBankPMID>32727873</GenBankPMID>
         <id>10280</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;
@@ -253,15 +253,15 @@
     <PMCID>109833</PMCID>
     <PMCID>19903</PMCID>
     <PMCID>354875</PMCID>
-    <GeneBankPMID>20702623</GeneBankPMID>
-    <GeneBankPMID>16951343</GeneBankPMID>
-    <GeneBankPMID>28490597</GeneBankPMID>
-    <GeneBankPMID>16364918</GeneBankPMID>
-    <GeneBankPMID>22301546</GeneBankPMID>
-    <GeneBankPMID>24379396</GeneBankPMID>
-    <GeneBankPMID>28515292</GeneBankPMID>
-    <GeneBankPMID>28425034</GeneBankPMID>
-    <GeneBankPMID>19158250</GeneBankPMID>
+    <GenBankPMID>20702623</GenBankPMID>
+    <GenBankPMID>16951343</GenBankPMID>
+    <GenBankPMID>28490597</GenBankPMID>
+    <GenBankPMID>16364918</GenBankPMID>
+    <GenBankPMID>22301546</GenBankPMID>
+    <GenBankPMID>24379396</GenBankPMID>
+    <GenBankPMID>28515292</GenBankPMID>
+    <GenBankPMID>28425034</GenBankPMID>
+    <GenBankPMID>19158250</GenBankPMID>
     <MeSHPMID>32727873</MeSHPMID>
     <MeSHPMID>32510303</MeSHPMID>
     <MeSHPMID>32327278</MeSHPMID>

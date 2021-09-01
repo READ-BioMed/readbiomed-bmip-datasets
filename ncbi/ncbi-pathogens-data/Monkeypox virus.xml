@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>11734207</GeneBankPMID>
+        <GenBankPMID>11734207</GenBankPMID>
         <id>619591</id>
         <scientificName>Monkeypox virus Zaire-96-I-16</scientificName>
     </subSpecies>
@@ -420,8 +420,8 @@
     <PMCID>274696</PMCID>
     <PMCID>2366409</PMCID>
     <PMCID>413801</PMCID>
-    <GeneBankPMID>21752919</GeneBankPMID>
-    <GeneBankPMID>15846974</GeneBankPMID>
+    <GenBankPMID>21752919</GenBankPMID>
+    <GenBankPMID>15846974</GenBankPMID>
     <MeSHPMID>33536322</MeSHPMID>
     <MeSHPMID>33167496</MeSHPMID>
     <MeSHPMID>32717786</MeSHPMID>

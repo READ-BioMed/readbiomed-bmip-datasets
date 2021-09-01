@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>18367581</GeneBankPMID>
+        <GenBankPMID>18367581</GenBankPMID>
         <id>203820</id>
         <scientificName>lung-eye-trachea disease-associated herpesvirus</scientificName>
     </subSpecies>

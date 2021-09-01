@@ -3,8 +3,8 @@
     <subSpecies>
         <PMCID>290248</PMCID>
         <PMCID>251136</PMCID>
-        <GeneBankPMID>8205838</GeneBankPMID>
-        <GeneBankPMID>17568647</GeneBankPMID>
+        <GenBankPMID>8205838</GenBankPMID>
+        <GenBankPMID>17568647</GenBankPMID>
         <id>333765</id>
         <scientificName>Human papillomavirus type 53</scientificName>
     </subSpecies>
@@ -21,7 +21,7 @@
         <scientificName>human papillomavirus 66</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>8205838</GeneBankPMID>
+        <GenBankPMID>8205838</GenBankPMID>
         <id>10611</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

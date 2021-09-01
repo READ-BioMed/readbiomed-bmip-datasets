@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>11277691</GeneBankPMID>
-        <GeneBankPMID>17437712</GeneBankPMID>
-        <GeneBankPMID>16528029</GeneBankPMID>
+        <GenBankPMID>11277691</GenBankPMID>
+        <GenBankPMID>17437712</GenBankPMID>
+        <GenBankPMID>16528029</GenBankPMID>
         <id>132475</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -69,9 +69,9 @@
     <PMCID>114604</PMCID>
     <PMCID>2129896</PMCID>
     <PMCID>2130009</PMCID>
-    <GeneBankPMID>17574698</GeneBankPMID>
-    <GeneBankPMID>23269801</GeneBankPMID>
-    <GeneBankPMID>19232662</GeneBankPMID>
+    <GenBankPMID>17574698</GenBankPMID>
+    <GenBankPMID>23269801</GenBankPMID>
+    <GenBankPMID>19232662</GenBankPMID>
     <id>99000</id>
     <meSHTree>B04.280.210.950, B04.280.650.160.980, B04.613.204.950</meSHTree>
     <scientificName>Tanapox virus</scientificName>

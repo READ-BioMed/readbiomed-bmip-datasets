@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>26390814</GeneBankPMID>
-        <GeneBankPMID>18398563</GeneBankPMID>
-        <GeneBankPMID>25893906</GeneBankPMID>
-        <GeneBankPMID>21376131</GeneBankPMID>
-        <GeneBankPMID>19804835</GeneBankPMID>
+        <GenBankPMID>26390814</GenBankPMID>
+        <GenBankPMID>18398563</GenBankPMID>
+        <GenBankPMID>25893906</GenBankPMID>
+        <GenBankPMID>21376131</GenBankPMID>
+        <GenBankPMID>19804835</GenBankPMID>
         <id>475879</id>
         <scientificName>Paralichthys olivaceus birnavirus</scientificName>
     </subSpecies>
@@ -34,8 +34,8 @@
     <PMCID>7159363</PMCID>
     <PMCID>7112334</PMCID>
     <PMCID>3642349</PMCID>
-    <GeneBankPMID>12664297</GeneBankPMID>
-    <GeneBankPMID>15509258</GeneBankPMID>
+    <GenBankPMID>12664297</GenBankPMID>
+    <GenBankPMID>15509258</GenBankPMID>
     <id>59816</id>
     <scientificName>Yellowtail ascites virus</scientificName>
 </pathogen>

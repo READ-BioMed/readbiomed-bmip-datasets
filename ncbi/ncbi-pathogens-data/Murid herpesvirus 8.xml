@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>26044413</GeneBankPMID>
+        <GenBankPMID>26044413</GenBankPMID>
         <id>1640278</id>
         <scientificName>Rat cytomegalovirus ALL-03</scientificName>
     </subSpecies>
@@ -9,9 +9,9 @@
     <PMCID>7086667</PMCID>
     <PMCID>6305766</PMCID>
     <PMCID>3503139</PMCID>
-    <GeneBankPMID>23166247</GeneBankPMID>
-    <GeneBankPMID>26209537</GeneBankPMID>
-    <GeneBankPMID>28770171</GeneBankPMID>
+    <GenBankPMID>23166247</GenBankPMID>
+    <GenBankPMID>26209537</GenBankPMID>
+    <GenBankPMID>28770171</GenBankPMID>
     <id>1261657</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

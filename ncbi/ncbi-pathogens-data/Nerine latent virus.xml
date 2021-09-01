@@ -3,7 +3,7 @@
     <subSpecies>
         <PMCID>7086627</PMCID>
         <PMCID>3170305</PMCID>
-        <GeneBankPMID>16763730</GeneBankPMID>
+        <GenBankPMID>16763730</GenBankPMID>
         <id>367682</id>
         <scientificName>Narcissus symptomless virus</scientificName>
     </subSpecies>
@@ -12,7 +12,7 @@
     <PMCID>6630666</PMCID>
     <PMCID>3689765</PMCID>
     <PMCID>3384778</PMCID>
-    <GeneBankPMID>22569885</GeneBankPMID>
+    <GenBankPMID>22569885</GenBankPMID>
     <id>797075</id>
     <scientificName>Nerine latent virus</scientificName>
 </pathogen>

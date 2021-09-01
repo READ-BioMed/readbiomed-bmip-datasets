@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>19379498</GeneBankPMID>
+        <GenBankPMID>19379498</GenBankPMID>
         <id>347255</id>
         <scientificName>Rickettsia africae ESF-5</scientificName>
     </subSpecies>

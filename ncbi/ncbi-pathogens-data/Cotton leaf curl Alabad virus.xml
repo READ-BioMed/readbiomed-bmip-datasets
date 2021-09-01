@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>22447131</GeneBankPMID>
+        <GenBankPMID>22447131</GenBankPMID>
         <id>908137</id>
         <scientificName>Cotton leaf curl Allahabad virus [India:Karnal:OY77:2005]</scientificName>
     </subSpecies>
@@ -34,7 +34,7 @@
     <PMCID>3917440</PMCID>
     <PMCID>3416816</PMCID>
     <PMCID>3550815</PMCID>
-    <GeneBankPMID>9568988</GeneBankPMID>
+    <GenBankPMID>9568988</GenBankPMID>
     <id>222456</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

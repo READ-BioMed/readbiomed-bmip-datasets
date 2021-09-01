@@ -12,7 +12,7 @@
         <PMCID>2952261</PMCID>
         <PMCID>3918146</PMCID>
         <PMCID>109351</PMCID>
-        <GeneBankPMID>19741066</GeneBankPMID>
+        <GenBankPMID>19741066</GenBankPMID>
         <id>64314</id>
         <scientificName>Potiskum virus</scientificName>
     </subSpecies>
@@ -42,7 +42,7 @@
     <PMCID>1539106</PMCID>
     <PMCID>1265912</PMCID>
     <PMCID>109351</PMCID>
-    <GeneBankPMID>19741066</GeneBankPMID>
+    <GenBankPMID>19741066</GenBankPMID>
     <id>64284</id>
     <scientificName>Saboya virus</scientificName>
 </pathogen>

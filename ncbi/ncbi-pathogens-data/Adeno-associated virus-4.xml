@@ -21,9 +21,9 @@
         <scientificName>Adeno-associated virus 9</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>21900159</GeneBankPMID>
-        <GeneBankPMID>12192090</GeneBankPMID>
-        <GeneBankPMID>24198419</GeneBankPMID>
+        <GenBankPMID>21900159</GenBankPMID>
+        <GenBankPMID>12192090</GenBankPMID>
+        <GenBankPMID>24198419</GenBankPMID>
         <id>202813</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -33,7 +33,7 @@
         <scientificName>Adeno-associated virus - 8</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>12192090</GeneBankPMID>
+        <GenBankPMID>12192090</GenBankPMID>
         <id>202812</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -42,7 +42,7 @@
 &lt;/OtherNames&gt;</otherNames>
         <scientificName>Adeno-associated virus - 7</scientificName>
     </subSpecies>
-    <GeneBankPMID>9261407</GeneBankPMID>
+    <GenBankPMID>9261407</GenBankPMID>
     <id>57579</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;

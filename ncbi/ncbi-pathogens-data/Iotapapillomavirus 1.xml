@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>26559957</GeneBankPMID>
+        <GenBankPMID>26559957</GenBankPMID>
         <id>1756445</id>
         <scientificName>Rattus norvegicus papillomavirus 3</scientificName>
     </subSpecies>
@@ -22,7 +22,7 @@
     <PMCID>2832751</PMCID>
     <PMCID>336941</PMCID>
     <PMCID>250523</PMCID>
-    <GeneBankPMID>8291235</GeneBankPMID>
+    <GenBankPMID>8291235</GenBankPMID>
     <id>10567</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

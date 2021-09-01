@@ -2,7 +2,7 @@
 <pathogen>
     <subSpecies>
         <PMCID>4939628</PMCID>
-        <GeneBankPMID>24526628</GeneBankPMID>
+        <GenBankPMID>24526628</GenBankPMID>
         <id>1435045</id>
         <scientificName>Borrelia parkeri HR1</scientificName>
     </subSpecies>
@@ -81,8 +81,8 @@
     <PMCID>174005</PMCID>
     <PMCID>182554</PMCID>
     <PMCID>262748</PMCID>
-    <GeneBankPMID>24686059</GeneBankPMID>
-    <GeneBankPMID>23658828</GeneBankPMID>
+    <GenBankPMID>24686059</GenBankPMID>
+    <GenBankPMID>23658828</GenBankPMID>
     <id>141</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

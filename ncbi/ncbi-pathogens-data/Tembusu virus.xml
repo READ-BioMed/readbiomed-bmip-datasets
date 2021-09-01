@@ -52,7 +52,7 @@
         <scientificName>Flavivirus White Kaiya duck/WR/China/2010</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22764316</GeneBankPMID>
+        <GenBankPMID>22764316</GenBankPMID>
         <id>1207926</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;
@@ -63,7 +63,7 @@
     </subSpecies>
     <subSpecies>
         <PMCID>3625295</PMCID>
-        <GeneBankPMID>22354941</GeneBankPMID>
+        <GenBankPMID>22354941</GenBankPMID>
         <id>1150860</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -310,12 +310,12 @@
     <PMCID>3063797</PMCID>
     <PMCID>4276368</PMCID>
     <PMCID>109351</PMCID>
-    <GeneBankPMID>23516233</GeneBankPMID>
-    <GeneBankPMID>29883772</GeneBankPMID>
-    <GeneBankPMID>32549221</GeneBankPMID>
-    <GeneBankPMID>26056013</GeneBankPMID>
-    <GeneBankPMID>23270919</GeneBankPMID>
-    <GeneBankPMID>29899104</GeneBankPMID>
+    <GenBankPMID>23516233</GenBankPMID>
+    <GenBankPMID>29883772</GenBankPMID>
+    <GenBankPMID>32549221</GenBankPMID>
+    <GenBankPMID>26056013</GenBankPMID>
+    <GenBankPMID>23270919</GenBankPMID>
+    <GenBankPMID>29899104</GenBankPMID>
     <id>64293</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;

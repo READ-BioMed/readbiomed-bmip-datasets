@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>23045512</GeneBankPMID>
+        <GenBankPMID>23045512</GenBankPMID>
         <id>663918</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -14,7 +14,7 @@
         <scientificName>Mycoplasma genitalium M2321</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23045512</GeneBankPMID>
+        <GenBankPMID>23045512</GenBankPMID>
         <id>662947</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -27,7 +27,7 @@
         <scientificName>Mycoplasma genitalium M2288</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23045512</GeneBankPMID>
+        <GenBankPMID>23045512</GenBankPMID>
         <id>662946</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -40,7 +40,7 @@
         <scientificName>Mycoplasma genitalium M6282</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23045512</GeneBankPMID>
+        <GenBankPMID>23045512</GenBankPMID>
         <id>662945</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -69,34 +69,34 @@
         <PMCID>2697654</PMCID>
         <PMCID>3687783</PMCID>
         <PMCID>186644</PMCID>
-        <GeneBankPMID>22605341</GeneBankPMID>
-        <GeneBankPMID>22686427</GeneBankPMID>
-        <GeneBankPMID>21117240</GeneBankPMID>
-        <GeneBankPMID>18573175</GeneBankPMID>
-        <GeneBankPMID>18832324</GeneBankPMID>
-        <GeneBankPMID>21692875</GeneBankPMID>
-        <GeneBankPMID>17872508</GeneBankPMID>
-        <GeneBankPMID>17028283</GeneBankPMID>
-        <GeneBankPMID>23432936</GeneBankPMID>
-        <GeneBankPMID>20735784</GeneBankPMID>
-        <GeneBankPMID>17680349</GeneBankPMID>
-        <GeneBankPMID>21949077</GeneBankPMID>
-        <GeneBankPMID>8524858</GeneBankPMID>
-        <GeneBankPMID>21778204</GeneBankPMID>
-        <GeneBankPMID>16407165</GeneBankPMID>
-        <GeneBankPMID>19546194</GeneBankPMID>
-        <GeneBankPMID>17880423</GeneBankPMID>
-        <GeneBankPMID>8253680</GeneBankPMID>
-        <GeneBankPMID>16585746</GeneBankPMID>
-        <GeneBankPMID>21642467</GeneBankPMID>
-        <GeneBankPMID>19829712</GeneBankPMID>
-        <GeneBankPMID>20639320</GeneBankPMID>
-        <GeneBankPMID>7569993</GeneBankPMID>
-        <GeneBankPMID>16790744</GeneBankPMID>
-        <GeneBankPMID>20735775</GeneBankPMID>
-        <GeneBankPMID>27082435</GeneBankPMID>
-        <GeneBankPMID>18474641</GeneBankPMID>
-        <GeneBankPMID>31859607</GeneBankPMID>
+        <GenBankPMID>22605341</GenBankPMID>
+        <GenBankPMID>22686427</GenBankPMID>
+        <GenBankPMID>21117240</GenBankPMID>
+        <GenBankPMID>18573175</GenBankPMID>
+        <GenBankPMID>18832324</GenBankPMID>
+        <GenBankPMID>21692875</GenBankPMID>
+        <GenBankPMID>17872508</GenBankPMID>
+        <GenBankPMID>17028283</GenBankPMID>
+        <GenBankPMID>23432936</GenBankPMID>
+        <GenBankPMID>20735784</GenBankPMID>
+        <GenBankPMID>17680349</GenBankPMID>
+        <GenBankPMID>21949077</GenBankPMID>
+        <GenBankPMID>8524858</GenBankPMID>
+        <GenBankPMID>21778204</GenBankPMID>
+        <GenBankPMID>16407165</GenBankPMID>
+        <GenBankPMID>19546194</GenBankPMID>
+        <GenBankPMID>17880423</GenBankPMID>
+        <GenBankPMID>8253680</GenBankPMID>
+        <GenBankPMID>16585746</GenBankPMID>
+        <GenBankPMID>21642467</GenBankPMID>
+        <GenBankPMID>19829712</GenBankPMID>
+        <GenBankPMID>20639320</GenBankPMID>
+        <GenBankPMID>7569993</GenBankPMID>
+        <GenBankPMID>16790744</GenBankPMID>
+        <GenBankPMID>20735775</GenBankPMID>
+        <GenBankPMID>27082435</GenBankPMID>
+        <GenBankPMID>18474641</GenBankPMID>
+        <GenBankPMID>31859607</GenBankPMID>
         <id>243273</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -2914,8 +2914,8 @@
     <PMCID>271513</PMCID>
     <PMCID>498933</PMCID>
     <PMCID>264304</PMCID>
-    <GeneBankPMID>33612146</GeneBankPMID>
-    <GeneBankPMID>32513917</GeneBankPMID>
+    <GenBankPMID>33612146</GenBankPMID>
+    <GenBankPMID>32513917</GenBankPMID>
     <MeSHPMID>34156000</MeSHPMID>
     <MeSHPMID>34127494</MeSHPMID>
     <MeSHPMID>34057249</MeSHPMID>

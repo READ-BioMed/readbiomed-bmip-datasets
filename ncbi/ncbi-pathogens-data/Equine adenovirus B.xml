@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>26220513</GeneBankPMID>
+        <GenBankPMID>26220513</GenBankPMID>
         <id>67603</id>
         <scientificName>Equine adenovirus 2</scientificName>
     </subSpecies>

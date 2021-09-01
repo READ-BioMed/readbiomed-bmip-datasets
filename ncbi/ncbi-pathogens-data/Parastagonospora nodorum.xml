@@ -37,16 +37,16 @@
     </subSpecies>
     <subSpecies>
         <PMCID>5765338</PMCID>
-        <GeneBankPMID>20495056</GeneBankPMID>
-        <GeneBankPMID>22759704</GeneBankPMID>
-        <GeneBankPMID>15720079</GeneBankPMID>
-        <GeneBankPMID>23844167</GeneBankPMID>
-        <GeneBankPMID>25608181</GeneBankPMID>
-        <GeneBankPMID>16859492</GeneBankPMID>
-        <GeneBankPMID>18024570</GeneBankPMID>
-        <GeneBankPMID>26025896</GeneBankPMID>
-        <GeneBankPMID>30858234</GeneBankPMID>
-        <GeneBankPMID>23744904</GeneBankPMID>
+        <GenBankPMID>20495056</GenBankPMID>
+        <GenBankPMID>22759704</GenBankPMID>
+        <GenBankPMID>15720079</GenBankPMID>
+        <GenBankPMID>23844167</GenBankPMID>
+        <GenBankPMID>25608181</GenBankPMID>
+        <GenBankPMID>16859492</GenBankPMID>
+        <GenBankPMID>18024570</GenBankPMID>
+        <GenBankPMID>26025896</GenBankPMID>
+        <GenBankPMID>30858234</GenBankPMID>
+        <GenBankPMID>23744904</GenBankPMID>
         <id>321614</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -832,8 +832,8 @@
     <PMCID>91314</PMCID>
     <PMCID>91048</PMCID>
     <PMCID>106400</PMCID>
-    <GeneBankPMID>20495056</GeneBankPMID>
-    <GeneBankPMID>20084492</GeneBankPMID>
+    <GenBankPMID>20495056</GenBankPMID>
+    <GenBankPMID>20084492</GenBankPMID>
     <id>13684</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

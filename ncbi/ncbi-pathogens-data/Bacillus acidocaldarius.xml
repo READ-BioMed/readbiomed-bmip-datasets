@@ -74,7 +74,7 @@
             <scientificName>Alicyclobacillus acidocaldarius subsp. acidocaldarius HSU9</scientificName>
         </subSpecies>
         <subSpecies>
-            <GeneBankPMID>21914900</GeneBankPMID>
+            <GenBankPMID>21914900</GenBankPMID>
             <id>1048834</id>
             <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -87,9 +87,9 @@
             <scientificName>Alicyclobacillus acidocaldarius subsp. acidocaldarius Tc-4-1</scientificName>
         </subSpecies>
         <subSpecies>
-            <GeneBankPMID>21304673</GeneBankPMID>
-            <GeneBankPMID>19508182</GeneBankPMID>
-            <GeneBankPMID>19508183</GeneBankPMID>
+            <GenBankPMID>21304673</GenBankPMID>
+            <GenBankPMID>19508182</GenBankPMID>
+            <GenBankPMID>19508183</GenBankPMID>
             <id>521098</id>
             <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -474,8 +474,8 @@
     <PMCID>232785</PMCID>
     <PMCID>246545</PMCID>
     <PMCID>1173894</PMCID>
-    <GeneBankPMID>29767960</GeneBankPMID>
-    <GeneBankPMID>26537871</GeneBankPMID>
+    <GenBankPMID>29767960</GenBankPMID>
+    <GenBankPMID>26537871</GenBankPMID>
     <id>405212</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

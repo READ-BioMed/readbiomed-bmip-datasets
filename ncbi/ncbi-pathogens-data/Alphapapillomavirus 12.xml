@@ -10,7 +10,7 @@
     </subSpecies>
     <subSpecies>
         <PMCID>5225126</PMCID>
-        <GeneBankPMID>22446324</GeneBankPMID>
+        <GenBankPMID>22446324</GenBankPMID>
         <id>990303</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -30,7 +30,7 @@
         <scientificName>Macaca fascicularis papillomavirus 11</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19716580</GeneBankPMID>
+        <GenBankPMID>19716580</GenBankPMID>
         <id>524653</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -40,7 +40,7 @@
         <scientificName>Macaca fascicularis papillomavirus 10</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19716580</GeneBankPMID>
+        <GenBankPMID>19716580</GenBankPMID>
         <id>524652</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -59,7 +59,7 @@
         <scientificName>Macaca fascicularis papillomavirus 8</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19716580</GeneBankPMID>
+        <GenBankPMID>19716580</GenBankPMID>
         <id>471185</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -148,8 +148,8 @@
     <PMCID>24014</PMCID>
     <PMCID>240996</PMCID>
     <PMCID>54914</PMCID>
-    <GeneBankPMID>8396814</GeneBankPMID>
-    <GeneBankPMID>1847267</GeneBankPMID>
+    <GenBankPMID>8396814</GenBankPMID>
+    <GenBankPMID>1847267</GenBankPMID>
     <id>10570</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;

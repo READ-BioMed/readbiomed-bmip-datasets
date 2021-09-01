@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>18971277</GeneBankPMID>
+        <GenBankPMID>18971277</GenBankPMID>
         <id>572288</id>
         <scientificName>Bulbul coronavirus HKU11-934</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18971277</GeneBankPMID>
+        <GenBankPMID>18971277</GenBankPMID>
         <id>572287</id>
         <scientificName>Bulbul coronavirus HKU11-796</scientificName>
     </subSpecies>

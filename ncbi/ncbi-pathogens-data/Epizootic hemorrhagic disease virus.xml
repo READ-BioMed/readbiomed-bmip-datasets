@@ -128,10 +128,10 @@
             <scientificName>Epizootic hemorrhagic disease virus (serotype 1 / strain IbAr22619)</scientificName>
         </subSpecies>
         <subSpecies>
-            <GeneBankPMID>24167629</GeneBankPMID>
-            <GeneBankPMID>19665508</GeneBankPMID>
-            <GeneBankPMID>19632280</GeneBankPMID>
-            <GeneBankPMID>19632281</GeneBankPMID>
+            <GenBankPMID>24167629</GenBankPMID>
+            <GenBankPMID>19665508</GenBankPMID>
+            <GenBankPMID>19632280</GenBankPMID>
+            <GenBankPMID>19632281</GenBankPMID>
             <id>449133</id>
             <scientificName>Epizootic hemorrhagic disease virus (serotype 1 / strain New Jersey)</scientificName>
         </subSpecies>

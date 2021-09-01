@@ -57,10 +57,10 @@
         <scientificName>Salmonella enterica subsp. enterica serovar Gallinarum str. 9184</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18254598</GeneBankPMID>
-        <GeneBankPMID>18583645</GeneBankPMID>
-        <GeneBankPMID>10903325</GeneBankPMID>
-        <GeneBankPMID>18786396</GeneBankPMID>
+        <GenBankPMID>18254598</GenBankPMID>
+        <GenBankPMID>18583645</GenBankPMID>
+        <GenBankPMID>10903325</GenBankPMID>
+        <GenBankPMID>18786396</GenBankPMID>
         <id>550538</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -250,7 +250,7 @@
     <PMCID>2073642</PMCID>
     <PMCID>373722</PMCID>
     <PMCID>533194</PMCID>
-    <GeneBankPMID>21134445</GeneBankPMID>
+    <GenBankPMID>21134445</GenBankPMID>
     <id>594</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

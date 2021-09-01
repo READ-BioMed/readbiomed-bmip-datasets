@@ -14,15 +14,15 @@
         <PMCID>3927607</PMCID>
         <PMCID>3194816</PMCID>
         <PMCID>2963123</PMCID>
-        <GeneBankPMID>23276703</GeneBankPMID>
-        <GeneBankPMID>21904052</GeneBankPMID>
-        <GeneBankPMID>30587207</GeneBankPMID>
-        <GeneBankPMID>32866214</GeneBankPMID>
-        <GeneBankPMID>24239559</GeneBankPMID>
-        <GeneBankPMID>22286091</GeneBankPMID>
-        <GeneBankPMID>17953480</GeneBankPMID>
-        <GeneBankPMID>18638508</GeneBankPMID>
-        <GeneBankPMID>21406202</GeneBankPMID>
+        <GenBankPMID>23276703</GenBankPMID>
+        <GenBankPMID>21904052</GenBankPMID>
+        <GenBankPMID>30587207</GenBankPMID>
+        <GenBankPMID>32866214</GenBankPMID>
+        <GenBankPMID>24239559</GenBankPMID>
+        <GenBankPMID>22286091</GenBankPMID>
+        <GenBankPMID>17953480</GenBankPMID>
+        <GenBankPMID>18638508</GenBankPMID>
+        <GenBankPMID>21406202</GenBankPMID>
         <id>484906</id>
         <scientificName>Babesia bovis T2Bo</scientificName>
     </subSpecies>
@@ -1008,9 +1008,9 @@
     <PMCID>347657</PMCID>
     <PMCID>351791</PMCID>
     <PMCID>1668072</PMCID>
-    <GeneBankPMID>28807856</GeneBankPMID>
-    <GeneBankPMID>29530085</GeneBankPMID>
-    <GeneBankPMID>30390674</GeneBankPMID>
+    <GenBankPMID>28807856</GenBankPMID>
+    <GenBankPMID>29530085</GenBankPMID>
+    <GenBankPMID>30390674</GenBankPMID>
     <MeSHPMID>33237196</MeSHPMID>
     <MeSHPMID>33017449</MeSHPMID>
     <MeSHPMID>33013839</MeSHPMID>

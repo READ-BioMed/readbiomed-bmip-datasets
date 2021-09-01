@@ -21,7 +21,7 @@
         <scientificName>Bat coronavirus HKU4-1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>16840328</GeneBankPMID>
+        <GenBankPMID>16840328</GenBankPMID>
         <id>389230</id>
         <scientificName>Bat coronavirus (BtCoV/133/2005)</scientificName>
     </subSpecies>
@@ -79,9 +79,9 @@
     <PMCID>3407358</PMCID>
     <PMCID>3265309</PMCID>
     <PMCID>3185738</PMCID>
-    <GeneBankPMID>29669833</GeneBankPMID>
-    <GeneBankPMID>26038405</GeneBankPMID>
-    <GeneBankPMID>17121802</GeneBankPMID>
+    <GenBankPMID>29669833</GenBankPMID>
+    <GenBankPMID>26038405</GenBankPMID>
+    <GenBankPMID>17121802</GenBankPMID>
     <id>694007</id>
     <meSHTree>B04.820.578.500.540.150.113</meSHTree>
     <otherNames>&lt;OtherNames&gt; 

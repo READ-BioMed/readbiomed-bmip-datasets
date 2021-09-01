@@ -2,7 +2,7 @@
 <pathogen>
     <subSpecies>
         <PMCID>5894875</PMCID>
-        <GeneBankPMID>25236986</GeneBankPMID>
+        <GenBankPMID>25236986</GenBankPMID>
         <id>1529392</id>
         <scientificName>Caprine parainfluenza virus 3</scientificName>
     </subSpecies>
@@ -65,7 +65,7 @@
     <PMCID>114212</PMCID>
     <PMCID>112444</PMCID>
     <PMCID>102087</PMCID>
-    <GeneBankPMID>10872880</GeneBankPMID>
+    <GenBankPMID>10872880</GenBankPMID>
     <id>11215</id>
     <meSHTree>B04.820.480.937.600.650.700.700</meSHTree>
     <otherNames>&lt;OtherNames&gt; 

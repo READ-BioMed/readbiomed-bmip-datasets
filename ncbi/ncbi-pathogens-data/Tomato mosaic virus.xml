@@ -251,15 +251,15 @@
     <PMCID>181335</PMCID>
     <PMCID>106166</PMCID>
     <PMCID>106165</PMCID>
-    <GeneBankPMID>6549393</GeneBankPMID>
-    <GeneBankPMID>22139189</GeneBankPMID>
-    <GeneBankPMID>16912296</GeneBankPMID>
-    <GeneBankPMID>16528051</GeneBankPMID>
-    <GeneBankPMID>21881940</GeneBankPMID>
-    <GeneBankPMID>23148080</GeneBankPMID>
-    <GeneBankPMID>23836396</GeneBankPMID>
-    <GeneBankPMID>23062762</GeneBankPMID>
-    <GeneBankPMID>29545304</GeneBankPMID>
+    <GenBankPMID>6549393</GenBankPMID>
+    <GenBankPMID>22139189</GenBankPMID>
+    <GenBankPMID>16912296</GenBankPMID>
+    <GenBankPMID>16528051</GenBankPMID>
+    <GenBankPMID>21881940</GenBankPMID>
+    <GenBankPMID>23148080</GenBankPMID>
+    <GenBankPMID>23836396</GenBankPMID>
+    <GenBankPMID>23062762</GenBankPMID>
+    <GenBankPMID>29545304</GenBankPMID>
     <id>12253</id>
     <scientificName>Tomato mosaic virus</scientificName>
 </pathogen>

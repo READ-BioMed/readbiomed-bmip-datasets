@@ -44,7 +44,7 @@
     <subSpecies>
         <PMCID>6451744</PMCID>
         <PMCID>3410928</PMCID>
-        <GeneBankPMID>19717792</GeneBankPMID>
+        <GenBankPMID>19717792</GenBankPMID>
         <id>222929</id>
         <scientificName>Coccidioides posadasii C735 delta SOWgp</scientificName>
     </subSpecies>
@@ -662,7 +662,7 @@
     <PMCID>219376</PMCID>
     <PMCID>155699</PMCID>
     <PMCID>124424</PMCID>
-    <GeneBankPMID>23583291</GeneBankPMID>
+    <GenBankPMID>23583291</GenBankPMID>
     <id>199306</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Name&gt; 

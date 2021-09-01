@@ -5,7 +5,7 @@
         <scientificName>Astrovirus PA</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20507741</GeneBankPMID>
+        <GenBankPMID>20507741</GenBankPMID>
         <id>767521</id>
         <scientificName>Astrovirus SG</scientificName>
     </subSpecies>
@@ -30,7 +30,7 @@
         <PMCID>2937664</PMCID>
         <PMCID>2765957</PMCID>
         <PMCID>2753140</PMCID>
-        <GeneBankPMID>19706703</GeneBankPMID>
+        <GenBankPMID>19706703</GenBankPMID>
         <id>645687</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

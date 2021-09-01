@@ -323,15 +323,15 @@
                 <PMCID>2168999</PMCID>
                 <PMCID>1247840</PMCID>
                 <PMCID>7332303</PMCID>
-                <GeneBankPMID>26719276</GeneBankPMID>
-                <GeneBankPMID>31130511</GeneBankPMID>
-                <GeneBankPMID>22174679</GeneBankPMID>
-                <GeneBankPMID>30265237</GeneBankPMID>
-                <GeneBankPMID>28640742</GeneBankPMID>
-                <GeneBankPMID>32755662</GeneBankPMID>
-                <GeneBankPMID>31403400</GeneBankPMID>
-                <GeneBankPMID>23487472</GeneBankPMID>
-                <GeneBankPMID>23077309</GeneBankPMID>
+                <GenBankPMID>26719276</GenBankPMID>
+                <GenBankPMID>31130511</GenBankPMID>
+                <GenBankPMID>22174679</GenBankPMID>
+                <GenBankPMID>30265237</GenBankPMID>
+                <GenBankPMID>28640742</GenBankPMID>
+                <GenBankPMID>32755662</GenBankPMID>
+                <GenBankPMID>31403400</GenBankPMID>
+                <GenBankPMID>23487472</GenBankPMID>
+                <GenBankPMID>23077309</GenBankPMID>
                 <id>223997</id>
                 <scientificName>Murine norovirus 1</scientificName>
             </subSpecies>
@@ -732,16 +732,16 @@
         </subSpecies>
         <PMCID>7672002</PMCID>
         <PMCID>4781652</PMCID>
-        <GeneBankPMID>15562321</GeneBankPMID>
-        <GeneBankPMID>16873239</GeneBankPMID>
-        <GeneBankPMID>20573810</GeneBankPMID>
-        <GeneBankPMID>30899001</GeneBankPMID>
-        <GeneBankPMID>22258242</GeneBankPMID>
-        <GeneBankPMID>22174679</GeneBankPMID>
-        <GeneBankPMID>18495770</GeneBankPMID>
-        <GeneBankPMID>22532688</GeneBankPMID>
-        <GeneBankPMID>22341781</GeneBankPMID>
-        <GeneBankPMID>21471315</GeneBankPMID>
+        <GenBankPMID>15562321</GenBankPMID>
+        <GenBankPMID>16873239</GenBankPMID>
+        <GenBankPMID>20573810</GenBankPMID>
+        <GenBankPMID>30899001</GenBankPMID>
+        <GenBankPMID>22258242</GenBankPMID>
+        <GenBankPMID>22174679</GenBankPMID>
+        <GenBankPMID>18495770</GenBankPMID>
+        <GenBankPMID>22532688</GenBankPMID>
+        <GenBankPMID>22341781</GenBankPMID>
+        <GenBankPMID>21471315</GenBankPMID>
         <id>1246677</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -952,7 +952,7 @@
         <PMCID>3811214</PMCID>
         <PMCID>3209315</PMCID>
         <PMCID>2832383</PMCID>
-        <GeneBankPMID>23538037</GeneBankPMID>
+        <GenBankPMID>23538037</GenBankPMID>
         <id>340017</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1370,7 +1370,7 @@
                 <scientificName>Norovirus dog/GVI.1/HKU_Ca035F/2007/HKG</scientificName>
             </subSpecies>
             <subSpecies>
-                <GeneBankPMID>22879606</GeneBankPMID>
+                <GenBankPMID>22879606</GenBankPMID>
                 <id>673457</id>
                 <scientificName>Norovirus dog/GVI.1/HKU_Ca026F/2007/HKG</scientificName>
             </subSpecies>
@@ -1401,9 +1401,9 @@
         <PMCID>4054145</PMCID>
         <PMCID>3811214</PMCID>
         <PMCID>3446575</PMCID>
-        <GeneBankPMID>22923808</GeneBankPMID>
-        <GeneBankPMID>22389721</GeneBankPMID>
-        <GeneBankPMID>24503072</GeneBankPMID>
+        <GenBankPMID>22923808</GenBankPMID>
+        <GenBankPMID>22389721</GenBankPMID>
+        <GenBankPMID>24503072</GenBankPMID>
         <id>262897</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -20936,7 +20936,7 @@
                 <id>552593</id>
                 <scientificName>Norovirus Hu/GGII.17/696Nica/2005</scientificName>
             </subSpecies>
-            <GeneBankPMID>27148739</GeneBankPMID>
+            <GenBankPMID>27148739</GenBankPMID>
             <id>552592</id>
             <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -51716,7 +51716,7 @@
                 <id>411491</id>
                 <scientificName>Norovirus Hu/GII.2/Coevorden191S/1999/NL</scientificName>
             </subSpecies>
-            <GeneBankPMID>28430563</GeneBankPMID>
+            <GenBankPMID>28430563</GenBankPMID>
             <id>490039</id>
             <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -75872,12 +75872,12 @@
         <PMCID>2878217</PMCID>
         <PMCID>1913912</PMCID>
         <PMCID>2792859</PMCID>
-        <GeneBankPMID>29800111</GeneBankPMID>
-        <GeneBankPMID>29519825</GeneBankPMID>
-        <GeneBankPMID>30968211</GeneBankPMID>
-        <GeneBankPMID>31711377</GeneBankPMID>
-        <GeneBankPMID>30810804</GeneBankPMID>
-        <GeneBankPMID>30605321</GeneBankPMID>
+        <GenBankPMID>29800111</GenBankPMID>
+        <GenBankPMID>29519825</GenBankPMID>
+        <GenBankPMID>30968211</GenBankPMID>
+        <GenBankPMID>31711377</GenBankPMID>
+        <GenBankPMID>30810804</GenBankPMID>
+        <GenBankPMID>30605321</GenBankPMID>
         <id>122929</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -84925,18 +84925,18 @@
         <PMCID>2168587</PMCID>
         <PMCID>2792859</PMCID>
         <PMCID>1797136</PMCID>
-        <GeneBankPMID>8883366</GeneBankPMID>
-        <GeneBankPMID>8642693</GeneBankPMID>
-        <GeneBankPMID>8391187</GeneBankPMID>
-        <GeneBankPMID>23365454</GeneBankPMID>
-        <GeneBankPMID>10073687</GeneBankPMID>
-        <GeneBankPMID>15078964</GeneBankPMID>
-        <GeneBankPMID>28383118</GeneBankPMID>
-        <GeneBankPMID>23408637</GeneBankPMID>
-        <GeneBankPMID>22031945</GeneBankPMID>
-        <GeneBankPMID>12202225</GeneBankPMID>
-        <GeneBankPMID>24991013</GeneBankPMID>
-        <GeneBankPMID>22200497</GeneBankPMID>
+        <GenBankPMID>8883366</GenBankPMID>
+        <GenBankPMID>8642693</GenBankPMID>
+        <GenBankPMID>8391187</GenBankPMID>
+        <GenBankPMID>23365454</GenBankPMID>
+        <GenBankPMID>10073687</GenBankPMID>
+        <GenBankPMID>15078964</GenBankPMID>
+        <GenBankPMID>28383118</GenBankPMID>
+        <GenBankPMID>23408637</GenBankPMID>
+        <GenBankPMID>22031945</GenBankPMID>
+        <GenBankPMID>12202225</GenBankPMID>
+        <GenBankPMID>24991013</GenBankPMID>
+        <GenBankPMID>22200497</GenBankPMID>
         <id>122928</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -85000,8 +85000,8 @@
         <scientificName>Chiba virus</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>15593412</GeneBankPMID>
-        <GeneBankPMID>30836641</GeneBankPMID>
+        <GenBankPMID>15593412</GenBankPMID>
+        <GenBankPMID>30836641</GenBankPMID>
         <id>95340</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

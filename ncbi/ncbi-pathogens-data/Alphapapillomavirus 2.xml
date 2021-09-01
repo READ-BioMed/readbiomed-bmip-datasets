@@ -36,11 +36,11 @@
     </subSpecies>
     <subSpecies>
         <PMCID>1929155</PMCID>
-        <GeneBankPMID>8205838</GeneBankPMID>
-        <GeneBankPMID>28586650</GeneBankPMID>
-        <GeneBankPMID>21911249</GeneBankPMID>
-        <GeneBankPMID>22911850</GeneBankPMID>
-        <GeneBankPMID>31971989</GeneBankPMID>
+        <GenBankPMID>8205838</GenBankPMID>
+        <GenBankPMID>28586650</GenBankPMID>
+        <GenBankPMID>21911249</GenBankPMID>
+        <GenBankPMID>22911850</GenBankPMID>
+        <GenBankPMID>31971989</GenBankPMID>
         <id>333759</id>
         <scientificName>Human papillomavirus type 10</scientificName>
     </subSpecies>

@@ -125,7 +125,7 @@
         <scientificName>Bovine respiratory syncytial virus (strain Copenhagen)</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>11724268</GeneBankPMID>
+        <GenBankPMID>11724268</GenBankPMID>
         <id>11247</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -509,9 +509,9 @@
     <PMCID>272354</PMCID>
     <PMCID>1320077</PMCID>
     <PMCID>414994</PMCID>
-    <GeneBankPMID>16690931</GeneBankPMID>
-    <GeneBankPMID>24700100</GeneBankPMID>
-    <GeneBankPMID>9847328</GeneBankPMID>
+    <GenBankPMID>16690931</GenBankPMID>
+    <GenBankPMID>24700100</GenBankPMID>
+    <GenBankPMID>9847328</GenBankPMID>
     <id>11246</id>
     <meSHTree>B04.820.480.937.600.670.600.750.700</meSHTree>
     <otherNames>&lt;OtherNames&gt; 

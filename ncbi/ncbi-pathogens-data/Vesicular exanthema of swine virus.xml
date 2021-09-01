@@ -25,7 +25,7 @@
         <PMCID>4159302</PMCID>
         <PMCID>3519611</PMCID>
         <PMCID>136553</PMCID>
-        <GeneBankPMID>15084403</GeneBankPMID>
+        <GenBankPMID>15084403</GenBankPMID>
         <id>146073</id>
         <scientificName>Walrus calicivirus</scientificName>
     </subSpecies>
@@ -272,8 +272,8 @@
     <PMCID>2735111</PMCID>
     <PMCID>120604</PMCID>
     <PMCID>1255337</PMCID>
-    <GeneBankPMID>12504575</GeneBankPMID>
-    <GeneBankPMID>9660070</GeneBankPMID>
+    <GenBankPMID>12504575</GenBankPMID>
+    <GenBankPMID>9660070</GenBankPMID>
     <MeSHPMID>29194985</MeSHPMID>
     <MeSHPMID>21620898</MeSHPMID>
     <MeSHPMID>17609266</MeSHPMID>

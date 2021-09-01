@@ -142,10 +142,10 @@
     </subSpecies>
     <subSpecies>
         <PMCID>3410928</PMCID>
-        <GeneBankPMID>25478697</GeneBankPMID>
-        <GeneBankPMID>26645478</GeneBankPMID>
-        <GeneBankPMID>23450261</GeneBankPMID>
-        <GeneBankPMID>21304167</GeneBankPMID>
+        <GenBankPMID>25478697</GenBankPMID>
+        <GenBankPMID>26645478</GenBankPMID>
+        <GenBankPMID>23450261</GenBankPMID>
+        <GenBankPMID>21304167</GenBankPMID>
         <id>367775</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1669,7 +1669,7 @@
     <PMCID>1134121</PMCID>
     <PMCID>522305</PMCID>
     <PMCID>356826</PMCID>
-    <GeneBankPMID>26643330</GeneBankPMID>
+    <GenBankPMID>26643330</GenBankPMID>
     <MeSHPMID>33863766</MeSHPMID>
     <MeSHPMID>33327239</MeSHPMID>
     <MeSHPMID>33017391</MeSHPMID>

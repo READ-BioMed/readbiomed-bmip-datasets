@@ -15,7 +15,7 @@
         <scientificName>Streptomyces globisporus subsp. griseus</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22815456</GeneBankPMID>
+        <GenBankPMID>22815456</GenBankPMID>
         <id>1172567</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -301,7 +301,7 @@
     <PMCID>348170</PMCID>
     <PMCID>351079</PMCID>
     <PMCID>444621</PMCID>
-    <GeneBankPMID>31243957</GeneBankPMID>
+    <GenBankPMID>31243957</GenBankPMID>
     <id>1908</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>25078300</GeneBankPMID>
+        <GenBankPMID>25078300</GenBankPMID>
         <id>1538452</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -22,7 +22,7 @@
     <PMCID>5454415</PMCID>
     <PMCID>5096721</PMCID>
     <PMCID>4188187</PMCID>
-    <GeneBankPMID>33167568</GeneBankPMID>
+    <GenBankPMID>33167568</GenBankPMID>
     <id>1239566</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

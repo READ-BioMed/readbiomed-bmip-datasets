@@ -84,7 +84,7 @@
         <scientificName>Cotton leaf curl Gezira virus-[Okra/Egypt]</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>12086146</GeneBankPMID>
+        <GenBankPMID>12086146</GenBankPMID>
         <id>222460</id>
         <scientificName>Cotton leaf curl Gezira virus-[Cotton]</scientificName>
     </subSpecies>
@@ -115,7 +115,7 @@
     <PMCID>3102712</PMCID>
     <PMCID>2839976</PMCID>
     <PMCID>6640326</PMCID>
-    <GeneBankPMID>21637815</GeneBankPMID>
+    <GenBankPMID>21637815</GenBankPMID>
     <id>222459</id>
     <scientificName>Cotton leaf curl Gezira virus</scientificName>
 </pathogen>

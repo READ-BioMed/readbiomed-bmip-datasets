@@ -27,8 +27,8 @@
         </subSpecies>
         <PMCID>7677298</PMCID>
         <PMCID>6011267</PMCID>
-        <GeneBankPMID>24386841</GeneBankPMID>
-        <GeneBankPMID>17626480</GeneBankPMID>
+        <GenBankPMID>24386841</GenBankPMID>
+        <GenBankPMID>17626480</GenBankPMID>
         <id>1006063</id>
         <meSHTree>B04.450.416, B04.820.578.750.284.645</meSHTree>
         <otherNames>&lt;OtherNames&gt; 
@@ -87,9 +87,9 @@
         <PMCID>3503094</PMCID>
         <PMCID>3541788</PMCID>
         <PMCID>3446573</PMCID>
-        <GeneBankPMID>22899433</GeneBankPMID>
-        <GeneBankPMID>31727985</GeneBankPMID>
-        <GeneBankPMID>17030865</GeneBankPMID>
+        <GenBankPMID>22899433</GenBankPMID>
+        <GenBankPMID>31727985</GenBankPMID>
+        <GenBankPMID>17030865</GenBankPMID>
         <id>1006061</id>
         <meSHTree>B04.450.416, B04.820.578.750.284.645</meSHTree>
         <otherNames>&lt;OtherNames&gt; 
@@ -158,7 +158,7 @@
     <PMCID>3198713</PMCID>
     <PMCID>3165794</PMCID>
     <PMCID>2889435</PMCID>
-    <GeneBankPMID>18585813</GeneBankPMID>
+    <GenBankPMID>18585813</GenBankPMID>
     <id>691956</id>
     <meSHTree>B04.450.416, B04.820.578.750.284.645</meSHTree>
     <otherNames>&lt;OtherNames&gt; 

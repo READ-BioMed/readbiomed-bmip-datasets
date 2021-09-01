@@ -3250,9 +3250,9 @@
         <PMCID>7350336</PMCID>
         <PMCID>3149899</PMCID>
         <PMCID>2824813</PMCID>
-        <GeneBankPMID>16571797</GeneBankPMID>
-        <GeneBankPMID>16940515</GeneBankPMID>
-        <GeneBankPMID>17876681</GeneBankPMID>
+        <GenBankPMID>16571797</GenBankPMID>
+        <GenBankPMID>16940515</GenBankPMID>
+        <GenBankPMID>17876681</GenBankPMID>
         <id>73036</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -7701,51 +7701,51 @@
     <PMCID>266539</PMCID>
     <PMCID>265895</PMCID>
     <PMCID>265881</PMCID>
-    <GeneBankPMID>23576507</GeneBankPMID>
-    <GeneBankPMID>18680770</GeneBankPMID>
-    <GeneBankPMID>24109210</GeneBankPMID>
-    <GeneBankPMID>21986895</GeneBankPMID>
-    <GeneBankPMID>21151776</GeneBankPMID>
-    <GeneBankPMID>23824805</GeneBankPMID>
-    <GeneBankPMID>21177809</GeneBankPMID>
-    <GeneBankPMID>23684631</GeneBankPMID>
-    <GeneBankPMID>22664357</GeneBankPMID>
-    <GeneBankPMID>27665089</GeneBankPMID>
-    <GeneBankPMID>32069901</GeneBankPMID>
-    <GeneBankPMID>25573161</GeneBankPMID>
-    <GeneBankPMID>23890813</GeneBankPMID>
-    <GeneBankPMID>17059839</GeneBankPMID>
-    <GeneBankPMID>21864538</GeneBankPMID>
-    <GeneBankPMID>27009959</GeneBankPMID>
-    <GeneBankPMID>27099313</GeneBankPMID>
-    <GeneBankPMID>31242245</GeneBankPMID>
-    <GeneBankPMID>20375171</GeneBankPMID>
-    <GeneBankPMID>32751603</GeneBankPMID>
-    <GeneBankPMID>29455326</GeneBankPMID>
-    <GeneBankPMID>24679587</GeneBankPMID>
-    <GeneBankPMID>22406141</GeneBankPMID>
-    <GeneBankPMID>18787006</GeneBankPMID>
-    <GeneBankPMID>20083660</GeneBankPMID>
-    <GeneBankPMID>31870971</GeneBankPMID>
-    <GeneBankPMID>20036292</GeneBankPMID>
-    <GeneBankPMID>23596269</GeneBankPMID>
-    <GeneBankPMID>22036730</GeneBankPMID>
-    <GeneBankPMID>22687427</GeneBankPMID>
-    <GeneBankPMID>31124743</GeneBankPMID>
-    <GeneBankPMID>29444369</GeneBankPMID>
-    <GeneBankPMID>23437200</GeneBankPMID>
-    <GeneBankPMID>25758703</GeneBankPMID>
-    <GeneBankPMID>32272747</GeneBankPMID>
-    <GeneBankPMID>23221569</GeneBankPMID>
-    <GeneBankPMID>19520960</GeneBankPMID>
-    <GeneBankPMID>25626907</GeneBankPMID>
-    <GeneBankPMID>20392855</GeneBankPMID>
-    <GeneBankPMID>25701827</GeneBankPMID>
-    <GeneBankPMID>26063427</GeneBankPMID>
-    <GeneBankPMID>31619556</GeneBankPMID>
-    <GeneBankPMID>21842161</GeneBankPMID>
-    <GeneBankPMID>24198401</GeneBankPMID>
-    <GeneBankPMID>30849563</GeneBankPMID>
+    <GenBankPMID>23576507</GenBankPMID>
+    <GenBankPMID>18680770</GenBankPMID>
+    <GenBankPMID>24109210</GenBankPMID>
+    <GenBankPMID>21986895</GenBankPMID>
+    <GenBankPMID>21151776</GenBankPMID>
+    <GenBankPMID>23824805</GenBankPMID>
+    <GenBankPMID>21177809</GenBankPMID>
+    <GenBankPMID>23684631</GenBankPMID>
+    <GenBankPMID>22664357</GenBankPMID>
+    <GenBankPMID>27665089</GenBankPMID>
+    <GenBankPMID>32069901</GenBankPMID>
+    <GenBankPMID>25573161</GenBankPMID>
+    <GenBankPMID>23890813</GenBankPMID>
+    <GenBankPMID>17059839</GenBankPMID>
+    <GenBankPMID>21864538</GenBankPMID>
+    <GenBankPMID>27009959</GenBankPMID>
+    <GenBankPMID>27099313</GenBankPMID>
+    <GenBankPMID>31242245</GenBankPMID>
+    <GenBankPMID>20375171</GenBankPMID>
+    <GenBankPMID>32751603</GenBankPMID>
+    <GenBankPMID>29455326</GenBankPMID>
+    <GenBankPMID>24679587</GenBankPMID>
+    <GenBankPMID>22406141</GenBankPMID>
+    <GenBankPMID>18787006</GenBankPMID>
+    <GenBankPMID>20083660</GenBankPMID>
+    <GenBankPMID>31870971</GenBankPMID>
+    <GenBankPMID>20036292</GenBankPMID>
+    <GenBankPMID>23596269</GenBankPMID>
+    <GenBankPMID>22036730</GenBankPMID>
+    <GenBankPMID>22687427</GenBankPMID>
+    <GenBankPMID>31124743</GenBankPMID>
+    <GenBankPMID>29444369</GenBankPMID>
+    <GenBankPMID>23437200</GenBankPMID>
+    <GenBankPMID>25758703</GenBankPMID>
+    <GenBankPMID>32272747</GenBankPMID>
+    <GenBankPMID>23221569</GenBankPMID>
+    <GenBankPMID>19520960</GenBankPMID>
+    <GenBankPMID>25626907</GenBankPMID>
+    <GenBankPMID>20392855</GenBankPMID>
+    <GenBankPMID>25701827</GenBankPMID>
+    <GenBankPMID>26063427</GenBankPMID>
+    <GenBankPMID>31619556</GenBankPMID>
+    <GenBankPMID>21842161</GenBankPMID>
+    <GenBankPMID>24198401</GenBankPMID>
+    <GenBankPMID>30849563</GenBankPMID>
     <id>28875</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

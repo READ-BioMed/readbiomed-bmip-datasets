@@ -29,10 +29,10 @@
         <scientificName>Rickettsia typhi str. TH1527</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>15699207</GeneBankPMID>
-        <GeneBankPMID>22773786</GeneBankPMID>
-        <GeneBankPMID>15317790</GeneBankPMID>
-        <GeneBankPMID>20435729</GeneBankPMID>
+        <GenBankPMID>15699207</GenBankPMID>
+        <GenBankPMID>22773786</GenBankPMID>
+        <GenBankPMID>15317790</GenBankPMID>
+        <GenBankPMID>20435729</GenBankPMID>
         <id>257363</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -959,9 +959,9 @@
     <PMCID>2136594</PMCID>
     <PMCID>314587</PMCID>
     <PMCID>2136181</PMCID>
-    <GeneBankPMID>30012728</GeneBankPMID>
-    <GeneBankPMID>32546622</GeneBankPMID>
-    <GeneBankPMID>27474738</GeneBankPMID>
+    <GenBankPMID>30012728</GenBankPMID>
+    <GenBankPMID>32546622</GenBankPMID>
+    <GenBankPMID>27474738</GenBankPMID>
     <MeSHPMID>33711035</MeSHPMID>
     <MeSHPMID>33496241</MeSHPMID>
     <MeSHPMID>33331518</MeSHPMID>

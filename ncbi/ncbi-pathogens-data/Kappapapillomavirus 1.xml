@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>10753723</GeneBankPMID>
+        <GenBankPMID>10753723</GenBankPMID>
         <id>2772507</id>
         <scientificName>Oryctolagus cuniculus papillomavirus 1</scientificName>
     </subSpecies>

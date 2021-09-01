@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>12919731</GeneBankPMID>
+        <GenBankPMID>12919731</GenBankPMID>
         <id>211787</id>
         <scientificName>Human papillomavirus type 92</scientificName>
     </subSpecies>

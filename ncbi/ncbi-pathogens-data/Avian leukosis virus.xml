@@ -89,14 +89,14 @@
         <scientificName>Avian leukosis virus JS09GY07</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22379808</GeneBankPMID>
-        <GeneBankPMID>21982594</GeneBankPMID>
-        <GeneBankPMID>25655260</GeneBankPMID>
-        <GeneBankPMID>29054407</GeneBankPMID>
-        <GeneBankPMID>1311072</GeneBankPMID>
-        <GeneBankPMID>23546824</GeneBankPMID>
-        <GeneBankPMID>32878894</GeneBankPMID>
-        <GeneBankPMID>20335266</GeneBankPMID>
+        <GenBankPMID>22379808</GenBankPMID>
+        <GenBankPMID>21982594</GenBankPMID>
+        <GenBankPMID>25655260</GenBankPMID>
+        <GenBankPMID>29054407</GenBankPMID>
+        <GenBankPMID>1311072</GenBankPMID>
+        <GenBankPMID>23546824</GenBankPMID>
+        <GenBankPMID>32878894</GenBankPMID>
+        <GenBankPMID>20335266</GenBankPMID>
         <id>363745</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;
@@ -261,7 +261,7 @@
         <PMCID>7149759</PMCID>
         <PMCID>7148634</PMCID>
         <PMCID>553164</PMCID>
-        <GeneBankPMID>21473793</GeneBankPMID>
+        <GenBankPMID>21473793</GenBankPMID>
         <id>11946</id>
         <scientificName>Avian leukemia virus</scientificName>
     </subSpecies>
@@ -571,8 +571,8 @@
     <PMCID>274201</PMCID>
     <PMCID>283411</PMCID>
     <PMCID>377828</PMCID>
-    <GeneBankPMID>31159208</GeneBankPMID>
-    <GeneBankPMID>22519181</GeneBankPMID>
+    <GenBankPMID>31159208</GenBankPMID>
+    <GenBankPMID>22519181</GenBankPMID>
     <MeSHPMID>33142444</MeSHPMID>
     <MeSHPMID>32885326</MeSHPMID>
     <MeSHPMID>32878894</MeSHPMID>

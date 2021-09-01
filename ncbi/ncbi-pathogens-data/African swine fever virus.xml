@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>21470447</GeneBankPMID>
+        <GenBankPMID>21470447</GenBankPMID>
         <id>874269</id>
         <scientificName>African swine fever virus Georgia 2007/1</scientificName>
     </subSpecies>
     <subSpecies>
         <PMCID>6069843</PMCID>
         <PMCID>5127008</PMCID>
-        <GeneBankPMID>20171711</GeneBankPMID>
+        <GenBankPMID>20171711</GenBankPMID>
         <id>686262</id>
         <scientificName>African swine fever virus E75</scientificName>
     </subSpecies>
@@ -40,7 +40,7 @@
         <scientificName>African swine fever virus tick/South Africa/Pretoriuskop Pr4/1996</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18198370</GeneBankPMID>
+        <GenBankPMID>18198370</GenBankPMID>
         <id>443878</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -83,7 +83,7 @@
         <scientificName>African swine fever virus E-70</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18198370</GeneBankPMID>
+        <GenBankPMID>18198370</GenBankPMID>
         <id>443876</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1944,96 +1944,96 @@
     <PMCID>2130613</PMCID>
     <PMCID>1494626</PMCID>
     <PMCID>276226</PMCID>
-    <GeneBankPMID>18250452</GeneBankPMID>
-    <GeneBankPMID>19793823</GeneBankPMID>
-    <GeneBankPMID>21203785</GeneBankPMID>
-    <GeneBankPMID>3763393</GeneBankPMID>
-    <GeneBankPMID>19729182</GeneBankPMID>
-    <GeneBankPMID>29605728</GeneBankPMID>
-    <GeneBankPMID>24617852</GeneBankPMID>
-    <GeneBankPMID>8438592</GeneBankPMID>
-    <GeneBankPMID>19419958</GeneBankPMID>
-    <GeneBankPMID>8102411</GeneBankPMID>
-    <GeneBankPMID>20504920</GeneBankPMID>
-    <GeneBankPMID>8293992</GeneBankPMID>
-    <GeneBankPMID>30953202</GeneBankPMID>
-    <GeneBankPMID>17765921</GeneBankPMID>
-    <GeneBankPMID>32451720</GeneBankPMID>
-    <GeneBankPMID>31947814</GeneBankPMID>
-    <GeneBankPMID>31949276</GeneBankPMID>
-    <GeneBankPMID>21951707</GeneBankPMID>
-    <GeneBankPMID>18775702</GeneBankPMID>
-    <GeneBankPMID>23824796</GeneBankPMID>
-    <GeneBankPMID>32825617</GeneBankPMID>
-    <GeneBankPMID>9049318</GeneBankPMID>
-    <GeneBankPMID>26618713</GeneBankPMID>
-    <GeneBankPMID>16964554</GeneBankPMID>
-    <GeneBankPMID>28978700</GeneBankPMID>
-    <GeneBankPMID>31461953</GeneBankPMID>
-    <GeneBankPMID>16641276</GeneBankPMID>
-    <GeneBankPMID>1994575</GeneBankPMID>
-    <GeneBankPMID>19576902</GeneBankPMID>
-    <GeneBankPMID>18955064</GeneBankPMID>
-    <GeneBankPMID>7856088</GeneBankPMID>
-    <GeneBankPMID>28381576</GeneBankPMID>
-    <GeneBankPMID>21280117</GeneBankPMID>
-    <GeneBankPMID>2325202</GeneBankPMID>
-    <GeneBankPMID>2325203</GeneBankPMID>
-    <GeneBankPMID>25645905</GeneBankPMID>
-    <GeneBankPMID>18261759</GeneBankPMID>
-    <GeneBankPMID>8139051</GeneBankPMID>
-    <GeneBankPMID>8382399</GeneBankPMID>
-    <GeneBankPMID>8474154</GeneBankPMID>
-    <GeneBankPMID>21601347</GeneBankPMID>
-    <GeneBankPMID>21069396</GeneBankPMID>
-    <GeneBankPMID>26656424</GeneBankPMID>
-    <GeneBankPMID>8335009</GeneBankPMID>
-    <GeneBankPMID>8393914</GeneBankPMID>
-    <GeneBankPMID>8506138</GeneBankPMID>
-    <GeneBankPMID>21094642</GeneBankPMID>
-    <GeneBankPMID>31662460</GeneBankPMID>
-    <GeneBankPMID>28245220</GeneBankPMID>
-    <GeneBankPMID>30866783</GeneBankPMID>
-    <GeneBankPMID>31332955</GeneBankPMID>
-    <GeneBankPMID>32163673</GeneBankPMID>
-    <GeneBankPMID>8503790</GeneBankPMID>
-    <GeneBankPMID>8245848</GeneBankPMID>
-    <GeneBankPMID>32519301</GeneBankPMID>
-    <GeneBankPMID>25406173</GeneBankPMID>
-    <GeneBankPMID>21248037</GeneBankPMID>
-    <GeneBankPMID>8178480</GeneBankPMID>
-    <GeneBankPMID>17580096</GeneBankPMID>
-    <GeneBankPMID>17251557</GeneBankPMID>
-    <GeneBankPMID>21605932</GeneBankPMID>
-    <GeneBankPMID>19695654</GeneBankPMID>
-    <GeneBankPMID>7933107</GeneBankPMID>
-    <GeneBankPMID>32327506</GeneBankPMID>
-    <GeneBankPMID>31530894</GeneBankPMID>
-    <GeneBankPMID>2327074</GeneBankPMID>
-    <GeneBankPMID>32967098</GeneBankPMID>
-    <GeneBankPMID>16537584</GeneBankPMID>
-    <GeneBankPMID>32585808</GeneBankPMID>
-    <GeneBankPMID>28189088</GeneBankPMID>
-    <GeneBankPMID>17941646</GeneBankPMID>
-    <GeneBankPMID>19846532</GeneBankPMID>
-    <GeneBankPMID>12719549</GeneBankPMID>
-    <GeneBankPMID>8262374</GeneBankPMID>
-    <GeneBankPMID>16337650</GeneBankPMID>
-    <GeneBankPMID>17035321</GeneBankPMID>
-    <GeneBankPMID>11831707</GeneBankPMID>
-    <GeneBankPMID>15938630</GeneBankPMID>
-    <GeneBankPMID>1316688</GeneBankPMID>
-    <GeneBankPMID>21470447</GeneBankPMID>
-    <GeneBankPMID>19004945</GeneBankPMID>
-    <GeneBankPMID>28053104</GeneBankPMID>
-    <GeneBankPMID>25524164</GeneBankPMID>
-    <GeneBankPMID>1309282</GeneBankPMID>
-    <GeneBankPMID>32075933</GeneBankPMID>
-    <GeneBankPMID>1583732</GeneBankPMID>
-    <GeneBankPMID>8266720</GeneBankPMID>
-    <GeneBankPMID>26980334</GeneBankPMID>
-    <GeneBankPMID>2389555</GeneBankPMID>
-    <GeneBankPMID>20702639</GeneBankPMID>
+    <GenBankPMID>18250452</GenBankPMID>
+    <GenBankPMID>19793823</GenBankPMID>
+    <GenBankPMID>21203785</GenBankPMID>
+    <GenBankPMID>3763393</GenBankPMID>
+    <GenBankPMID>19729182</GenBankPMID>
+    <GenBankPMID>29605728</GenBankPMID>
+    <GenBankPMID>24617852</GenBankPMID>
+    <GenBankPMID>8438592</GenBankPMID>
+    <GenBankPMID>19419958</GenBankPMID>
+    <GenBankPMID>8102411</GenBankPMID>
+    <GenBankPMID>20504920</GenBankPMID>
+    <GenBankPMID>8293992</GenBankPMID>
+    <GenBankPMID>30953202</GenBankPMID>
+    <GenBankPMID>17765921</GenBankPMID>
+    <GenBankPMID>32451720</GenBankPMID>
+    <GenBankPMID>31947814</GenBankPMID>
+    <GenBankPMID>31949276</GenBankPMID>
+    <GenBankPMID>21951707</GenBankPMID>
+    <GenBankPMID>18775702</GenBankPMID>
+    <GenBankPMID>23824796</GenBankPMID>
+    <GenBankPMID>32825617</GenBankPMID>
+    <GenBankPMID>9049318</GenBankPMID>
+    <GenBankPMID>26618713</GenBankPMID>
+    <GenBankPMID>16964554</GenBankPMID>
+    <GenBankPMID>28978700</GenBankPMID>
+    <GenBankPMID>31461953</GenBankPMID>
+    <GenBankPMID>16641276</GenBankPMID>
+    <GenBankPMID>1994575</GenBankPMID>
+    <GenBankPMID>19576902</GenBankPMID>
+    <GenBankPMID>18955064</GenBankPMID>
+    <GenBankPMID>7856088</GenBankPMID>
+    <GenBankPMID>28381576</GenBankPMID>
+    <GenBankPMID>21280117</GenBankPMID>
+    <GenBankPMID>2325202</GenBankPMID>
+    <GenBankPMID>2325203</GenBankPMID>
+    <GenBankPMID>25645905</GenBankPMID>
+    <GenBankPMID>18261759</GenBankPMID>
+    <GenBankPMID>8139051</GenBankPMID>
+    <GenBankPMID>8382399</GenBankPMID>
+    <GenBankPMID>8474154</GenBankPMID>
+    <GenBankPMID>21601347</GenBankPMID>
+    <GenBankPMID>21069396</GenBankPMID>
+    <GenBankPMID>26656424</GenBankPMID>
+    <GenBankPMID>8335009</GenBankPMID>
+    <GenBankPMID>8393914</GenBankPMID>
+    <GenBankPMID>8506138</GenBankPMID>
+    <GenBankPMID>21094642</GenBankPMID>
+    <GenBankPMID>31662460</GenBankPMID>
+    <GenBankPMID>28245220</GenBankPMID>
+    <GenBankPMID>30866783</GenBankPMID>
+    <GenBankPMID>31332955</GenBankPMID>
+    <GenBankPMID>32163673</GenBankPMID>
+    <GenBankPMID>8503790</GenBankPMID>
+    <GenBankPMID>8245848</GenBankPMID>
+    <GenBankPMID>32519301</GenBankPMID>
+    <GenBankPMID>25406173</GenBankPMID>
+    <GenBankPMID>21248037</GenBankPMID>
+    <GenBankPMID>8178480</GenBankPMID>
+    <GenBankPMID>17580096</GenBankPMID>
+    <GenBankPMID>17251557</GenBankPMID>
+    <GenBankPMID>21605932</GenBankPMID>
+    <GenBankPMID>19695654</GenBankPMID>
+    <GenBankPMID>7933107</GenBankPMID>
+    <GenBankPMID>32327506</GenBankPMID>
+    <GenBankPMID>31530894</GenBankPMID>
+    <GenBankPMID>2327074</GenBankPMID>
+    <GenBankPMID>32967098</GenBankPMID>
+    <GenBankPMID>16537584</GenBankPMID>
+    <GenBankPMID>32585808</GenBankPMID>
+    <GenBankPMID>28189088</GenBankPMID>
+    <GenBankPMID>17941646</GenBankPMID>
+    <GenBankPMID>19846532</GenBankPMID>
+    <GenBankPMID>12719549</GenBankPMID>
+    <GenBankPMID>8262374</GenBankPMID>
+    <GenBankPMID>16337650</GenBankPMID>
+    <GenBankPMID>17035321</GenBankPMID>
+    <GenBankPMID>11831707</GenBankPMID>
+    <GenBankPMID>15938630</GenBankPMID>
+    <GenBankPMID>1316688</GenBankPMID>
+    <GenBankPMID>21470447</GenBankPMID>
+    <GenBankPMID>19004945</GenBankPMID>
+    <GenBankPMID>28053104</GenBankPMID>
+    <GenBankPMID>25524164</GenBankPMID>
+    <GenBankPMID>1309282</GenBankPMID>
+    <GenBankPMID>32075933</GenBankPMID>
+    <GenBankPMID>1583732</GenBankPMID>
+    <GenBankPMID>8266720</GenBankPMID>
+    <GenBankPMID>26980334</GenBankPMID>
+    <GenBankPMID>2389555</GenBankPMID>
+    <GenBankPMID>20702639</GenBankPMID>
     <MeSHPMID>33567491</MeSHPMID>
     <MeSHPMID>33501800</MeSHPMID>
     <MeSHPMID>33495899</MeSHPMID>

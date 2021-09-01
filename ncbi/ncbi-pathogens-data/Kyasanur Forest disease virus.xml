@@ -22,8 +22,8 @@
         <PMCID>4055546</PMCID>
         <PMCID>3927373</PMCID>
         <PMCID>4357811</PMCID>
-        <GeneBankPMID>11554750</GeneBankPMID>
-        <GeneBankPMID>15890119</GeneBankPMID>
+        <GenBankPMID>11554750</GenBankPMID>
+        <GenBankPMID>15890119</GenBankPMID>
         <id>172148</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -212,7 +212,7 @@
     <PMCID>140615</PMCID>
     <PMCID>111872</PMCID>
     <PMCID>109351</PMCID>
-    <GeneBankPMID>17169393</GeneBankPMID>
+    <GenBankPMID>17169393</GenBankPMID>
     <id>33743</id>
     <meSHTree>B04.820.230.511, B04.820.578.344.350.350</meSHTree>
     <scientificName>Kyasanur Forest disease virus</scientificName>

@@ -287,11 +287,11 @@
     <PMCID>88168</PMCID>
     <PMCID>14645</PMCID>
     <PMCID>86482</PMCID>
-    <GeneBankPMID>25491420</GeneBankPMID>
-    <GeneBankPMID>26699638</GeneBankPMID>
-    <GeneBankPMID>10675412</GeneBankPMID>
-    <GeneBankPMID>12536293</GeneBankPMID>
-    <GeneBankPMID>14656460</GeneBankPMID>
+    <GenBankPMID>25491420</GenBankPMID>
+    <GenBankPMID>26699638</GenBankPMID>
+    <GenBankPMID>10675412</GenBankPMID>
+    <GenBankPMID>12536293</GenBankPMID>
+    <GenBankPMID>14656460</GenBankPMID>
     <id>118655</id>
     <scientificName>Oropouche virus</scientificName>
 </pathogen>

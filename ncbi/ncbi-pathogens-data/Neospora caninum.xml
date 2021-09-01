@@ -5,11 +5,11 @@
         <PMCID>5331205</PMCID>
         <PMCID>5028923</PMCID>
         <PMCID>3522684</PMCID>
-        <GeneBankPMID>25875305</GeneBankPMID>
-        <GeneBankPMID>23245337</GeneBankPMID>
-        <GeneBankPMID>28338718</GeneBankPMID>
-        <GeneBankPMID>23850997</GeneBankPMID>
-        <GeneBankPMID>26521890</GeneBankPMID>
+        <GenBankPMID>25875305</GenBankPMID>
+        <GenBankPMID>23245337</GenBankPMID>
+        <GenBankPMID>28338718</GenBankPMID>
+        <GenBankPMID>23850997</GenBankPMID>
+        <GenBankPMID>26521890</GenBankPMID>
         <id>572307</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -1536,13 +1536,13 @@
     <PMCID>1263819</PMCID>
     <PMCID>368230</PMCID>
     <PMCID>258878</PMCID>
-    <GeneBankPMID>30503087</GeneBankPMID>
-    <GeneBankPMID>28108401</GeneBankPMID>
-    <GeneBankPMID>31735333</GeneBankPMID>
-    <GeneBankPMID>22405293</GeneBankPMID>
-    <GeneBankPMID>33164154</GeneBankPMID>
-    <GeneBankPMID>30006392</GeneBankPMID>
-    <GeneBankPMID>23743240</GeneBankPMID>
+    <GenBankPMID>30503087</GenBankPMID>
+    <GenBankPMID>28108401</GenBankPMID>
+    <GenBankPMID>31735333</GenBankPMID>
+    <GenBankPMID>22405293</GenBankPMID>
+    <GenBankPMID>33164154</GenBankPMID>
+    <GenBankPMID>30006392</GenBankPMID>
+    <GenBankPMID>23743240</GenBankPMID>
     <id>29176</id>
     <meSHTree>B01.043.075.189.250.750.550</meSHTree>
     <scientificName>Neospora caninum</scientificName>

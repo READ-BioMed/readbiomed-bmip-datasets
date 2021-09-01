@@ -50,7 +50,7 @@
             <scientificName>Bovine papillomavirus BAA5-Japan</scientificName>
         </subSpecies>
         <PMCID>7810815</PMCID>
-        <GeneBankPMID>18089739</GeneBankPMID>
+        <GenBankPMID>18089739</GenBankPMID>
         <id>453461</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -66,7 +66,7 @@
         <scientificName>Bos taurus papillomavirus 10</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18089739</GeneBankPMID>
+        <GenBankPMID>18089739</GenBankPMID>
         <id>453460</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -103,7 +103,7 @@
         <PMCID>3638201</PMCID>
         <PMCID>3768373</PMCID>
         <PMCID>115909</PMCID>
-        <GeneBankPMID>16168512</GeneBankPMID>
+        <GenBankPMID>16168512</GenBankPMID>
         <id>10562</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -125,7 +125,7 @@
     <PMCID>5015974</PMCID>
     <PMCID>4641689</PMCID>
     <PMCID>2832751</PMCID>
-    <GeneBankPMID>12208979</GeneBankPMID>
+    <GenBankPMID>12208979</GenBankPMID>
     <id>10561</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>19198754</GeneBankPMID>
+        <GenBankPMID>19198754</GenBankPMID>
         <id>554667</id>
         <scientificName>Pepper yellow dwarf virus - New Mexico</scientificName>
     </subSpecies>
@@ -370,15 +370,15 @@
     <PMCID>21289</PMCID>
     <PMCID>52439</PMCID>
     <PMCID>1167038</PMCID>
-    <GeneBankPMID>29931348</GeneBankPMID>
-    <GeneBankPMID>17280695</GeneBankPMID>
-    <GeneBankPMID>21245466</GeneBankPMID>
-    <GeneBankPMID>18943911</GeneBankPMID>
-    <GeneBankPMID>20399479</GeneBankPMID>
-    <GeneBankPMID>15919897</GeneBankPMID>
-    <GeneBankPMID>16453696</GeneBankPMID>
-    <GeneBankPMID>22404507</GeneBankPMID>
-    <GeneBankPMID>25552721</GeneBankPMID>
+    <GenBankPMID>29931348</GenBankPMID>
+    <GenBankPMID>17280695</GenBankPMID>
+    <GenBankPMID>21245466</GenBankPMID>
+    <GenBankPMID>18943911</GenBankPMID>
+    <GenBankPMID>20399479</GenBankPMID>
+    <GenBankPMID>15919897</GenBankPMID>
+    <GenBankPMID>16453696</GenBankPMID>
+    <GenBankPMID>22404507</GenBankPMID>
+    <GenBankPMID>25552721</GenBankPMID>
     <id>10840</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;

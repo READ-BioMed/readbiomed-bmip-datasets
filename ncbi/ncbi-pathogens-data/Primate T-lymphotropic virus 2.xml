@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>9568035</GeneBankPMID>
+        <GenBankPMID>9568035</GenBankPMID>
         <id>33748</id>
         <meSHTree>B04.613.807.200.730.810, B04.613.807.805.855, B04.820.650.200.730.810, B04.820.650.805.855</meSHTree>
         <otherNames>&lt;OtherNames&gt; 
@@ -42,33 +42,33 @@
 &lt;/OtherNames&gt;</otherNames>
             <scientificName>Human T-cell lymphotropic virus type 2b</scientificName>
         </subSpecies>
-        <GeneBankPMID>31597781</GeneBankPMID>
-        <GeneBankPMID>17140451</GeneBankPMID>
-        <GeneBankPMID>29507418</GeneBankPMID>
-        <GeneBankPMID>2582407</GeneBankPMID>
-        <GeneBankPMID>22623800</GeneBankPMID>
-        <GeneBankPMID>24116893</GeneBankPMID>
-        <GeneBankPMID>23135727</GeneBankPMID>
-        <GeneBankPMID>20875659</GeneBankPMID>
-        <GeneBankPMID>19553333</GeneBankPMID>
-        <GeneBankPMID>19657093</GeneBankPMID>
-        <GeneBankPMID>23054433</GeneBankPMID>
-        <GeneBankPMID>24227839</GeneBankPMID>
-        <GeneBankPMID>23217160</GeneBankPMID>
-        <GeneBankPMID>20017952</GeneBankPMID>
-        <GeneBankPMID>28357663</GeneBankPMID>
-        <GeneBankPMID>23484539</GeneBankPMID>
-        <GeneBankPMID>18474092</GeneBankPMID>
-        <GeneBankPMID>21994745</GeneBankPMID>
-        <GeneBankPMID>19761585</GeneBankPMID>
-        <GeneBankPMID>19279097</GeneBankPMID>
-        <GeneBankPMID>21736733</GeneBankPMID>
-        <GeneBankPMID>23555266</GeneBankPMID>
-        <GeneBankPMID>6204380</GeneBankPMID>
-        <GeneBankPMID>19195675</GeneBankPMID>
-        <GeneBankPMID>6322188</GeneBankPMID>
-        <GeneBankPMID>26819304</GeneBankPMID>
-        <GeneBankPMID>22876852</GeneBankPMID>
+        <GenBankPMID>31597781</GenBankPMID>
+        <GenBankPMID>17140451</GenBankPMID>
+        <GenBankPMID>29507418</GenBankPMID>
+        <GenBankPMID>2582407</GenBankPMID>
+        <GenBankPMID>22623800</GenBankPMID>
+        <GenBankPMID>24116893</GenBankPMID>
+        <GenBankPMID>23135727</GenBankPMID>
+        <GenBankPMID>20875659</GenBankPMID>
+        <GenBankPMID>19553333</GenBankPMID>
+        <GenBankPMID>19657093</GenBankPMID>
+        <GenBankPMID>23054433</GenBankPMID>
+        <GenBankPMID>24227839</GenBankPMID>
+        <GenBankPMID>23217160</GenBankPMID>
+        <GenBankPMID>20017952</GenBankPMID>
+        <GenBankPMID>28357663</GenBankPMID>
+        <GenBankPMID>23484539</GenBankPMID>
+        <GenBankPMID>18474092</GenBankPMID>
+        <GenBankPMID>21994745</GenBankPMID>
+        <GenBankPMID>19761585</GenBankPMID>
+        <GenBankPMID>19279097</GenBankPMID>
+        <GenBankPMID>21736733</GenBankPMID>
+        <GenBankPMID>23555266</GenBankPMID>
+        <GenBankPMID>6204380</GenBankPMID>
+        <GenBankPMID>19195675</GenBankPMID>
+        <GenBankPMID>6322188</GenBankPMID>
+        <GenBankPMID>26819304</GenBankPMID>
+        <GenBankPMID>22876852</GenBankPMID>
         <MeSHPMID>33206874</MeSHPMID>
         <MeSHPMID>32899621</MeSHPMID>
         <MeSHPMID>32762656</MeSHPMID>

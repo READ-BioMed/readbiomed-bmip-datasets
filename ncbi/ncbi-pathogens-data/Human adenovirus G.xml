@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>25410856</GeneBankPMID>
+        <GenBankPMID>25410856</GenBankPMID>
         <id>1574629</id>
         <scientificName>Rhesus adenovirus 53</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>25410856</GeneBankPMID>
+        <GenBankPMID>25410856</GenBankPMID>
         <id>1574628</id>
         <scientificName>Rhesus adenovirus 52</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>25410856</GeneBankPMID>
+        <GenBankPMID>25410856</GenBankPMID>
         <id>1574627</id>
         <scientificName>Rhesus adenovirus 51</scientificName>
     </subSpecies>
@@ -38,8 +38,8 @@
         <PMCID>3490196</PMCID>
         <PMCID>3020443</PMCID>
         <PMCID>1900323</PMCID>
-        <GeneBankPMID>28009298</GeneBankPMID>
-        <GeneBankPMID>15914845</GeneBankPMID>
+        <GenBankPMID>28009298</GenBankPMID>
+        <GenBankPMID>15914845</GenBankPMID>
         <id>310540</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -55,7 +55,7 @@
         <PMCID>7404033</PMCID>
         <PMCID>4984651</PMCID>
         <PMCID>3594325</PMCID>
-        <GeneBankPMID>26370792</GeneBankPMID>
+        <GenBankPMID>26370792</GenBankPMID>
         <id>38430</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

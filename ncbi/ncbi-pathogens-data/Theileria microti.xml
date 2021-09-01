@@ -3,11 +3,11 @@
     <subSpecies>
         <PMCID>5028923</PMCID>
         <PMCID>4674900</PMCID>
-        <GeneBankPMID>32740752</GeneBankPMID>
-        <GeneBankPMID>29040286</GeneBankPMID>
-        <GeneBankPMID>24023759</GeneBankPMID>
-        <GeneBankPMID>22833609</GeneBankPMID>
-        <GeneBankPMID>27752055</GeneBankPMID>
+        <GenBankPMID>32740752</GenBankPMID>
+        <GenBankPMID>29040286</GenBankPMID>
+        <GenBankPMID>24023759</GenBankPMID>
+        <GenBankPMID>22833609</GenBankPMID>
+        <GenBankPMID>27752055</GenBankPMID>
         <id>1133968</id>
         <scientificName>Babesia microti strain RI</scientificName>
     </subSpecies>
@@ -1296,10 +1296,10 @@
     <PMCID>414304</PMCID>
     <PMCID>2395733</PMCID>
     <PMCID>1541244</PMCID>
-    <GeneBankPMID>26195550</GeneBankPMID>
-    <GeneBankPMID>29472160</GeneBankPMID>
-    <GeneBankPMID>23151128</GeneBankPMID>
-    <GeneBankPMID>27164832</GeneBankPMID>
+    <GenBankPMID>26195550</GenBankPMID>
+    <GenBankPMID>29472160</GenBankPMID>
+    <GenBankPMID>23151128</GenBankPMID>
+    <GenBankPMID>27164832</GenBankPMID>
     <id>5868</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

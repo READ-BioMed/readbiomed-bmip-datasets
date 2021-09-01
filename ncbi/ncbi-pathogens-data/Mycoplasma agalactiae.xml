@@ -46,10 +46,10 @@
         <PMCID>3927607</PMCID>
         <PMCID>3155973</PMCID>
         <PMCID>2697654</PMCID>
-        <GeneBankPMID>18248580</GeneBankPMID>
-        <GeneBankPMID>20562305</GeneBankPMID>
-        <GeneBankPMID>22809092</GeneBankPMID>
-        <GeneBankPMID>17511520</GeneBankPMID>
+        <GenBankPMID>18248580</GenBankPMID>
+        <GenBankPMID>20562305</GenBankPMID>
+        <GenBankPMID>22809092</GenBankPMID>
+        <GenBankPMID>17511520</GenBankPMID>
         <id>347257</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -335,7 +335,7 @@
     <PMCID>415971</PMCID>
     <PMCID>277908</PMCID>
     <PMCID>277907</PMCID>
-    <GeneBankPMID>20122262</GeneBankPMID>
+    <GenBankPMID>20122262</GenBankPMID>
     <MeSHPMID>33078934</MeSHPMID>
     <MeSHPMID>32492430</MeSHPMID>
     <MeSHPMID>32065335</MeSHPMID>

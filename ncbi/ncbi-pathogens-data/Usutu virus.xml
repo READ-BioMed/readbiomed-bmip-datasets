@@ -507,10 +507,10 @@
     <PMCID>2730324</PMCID>
     <PMCID>2732485</PMCID>
     <PMCID>88049</PMCID>
-    <GeneBankPMID>15464850</GeneBankPMID>
-    <GeneBankPMID>12095429</GeneBankPMID>
-    <GeneBankPMID>25719412</GeneBankPMID>
-    <GeneBankPMID>19906906</GeneBankPMID>
+    <GenBankPMID>15464850</GenBankPMID>
+    <GenBankPMID>12095429</GenBankPMID>
+    <GenBankPMID>25719412</GenBankPMID>
+    <GenBankPMID>19906906</GenBankPMID>
     <id>64286</id>
     <scientificName>Usutu virus</scientificName>
 </pathogen>

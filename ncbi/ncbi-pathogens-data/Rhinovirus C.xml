@@ -296,7 +296,7 @@
     <subSpecies>
         <subSpecies>
             <PMCID>7887720</PMCID>
-            <GeneBankPMID>17703411</GeneBankPMID>
+            <GenBankPMID>17703411</GenBankPMID>
             <id>992230</id>
             <scientificName>Human rhinovirus NAT001</scientificName>
         </subSpecies>
@@ -546,9 +546,9 @@
     <PMCID>2738104</PMCID>
     <PMCID>2759319</PMCID>
     <PMCID>2268738</PMCID>
-    <GeneBankPMID>27743961</GeneBankPMID>
-    <GeneBankPMID>17804649</GeneBankPMID>
-    <GeneBankPMID>22121050</GeneBankPMID>
+    <GenBankPMID>27743961</GenBankPMID>
+    <GenBankPMID>17804649</GenBankPMID>
+    <GenBankPMID>22121050</GenBankPMID>
     <id>463676</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

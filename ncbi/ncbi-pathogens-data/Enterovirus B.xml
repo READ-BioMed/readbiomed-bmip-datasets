@@ -54,7 +54,7 @@
         <scientificName>Human enterovirus 107</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19955564</GeneBankPMID>
+        <GenBankPMID>19955564</GenBankPMID>
         <id>582384</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -171,7 +171,7 @@
     </subSpecies>
     <subSpecies>
         <PMCID>4254409</PMCID>
-        <GeneBankPMID>17485128</GeneBankPMID>
+        <GenBankPMID>17485128</GenBankPMID>
         <id>325447</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -475,8 +475,8 @@
         <PMCID>6158190</PMCID>
         <PMCID>4672337</PMCID>
         <PMCID>3686723</PMCID>
-        <GeneBankPMID>11773400</GeneBankPMID>
-        <GeneBankPMID>18024906</GeneBankPMID>
+        <GenBankPMID>11773400</GenBankPMID>
+        <GenBankPMID>18024906</GenBankPMID>
         <id>172038</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -3517,12 +3517,12 @@
         <PMCID>354501</PMCID>
         <PMCID>376224</PMCID>
         <PMCID>375341</PMCID>
-        <GeneBankPMID>30258014</GeneBankPMID>
-        <GeneBankPMID>32667281</GeneBankPMID>
-        <GeneBankPMID>31396490</GeneBankPMID>
-        <GeneBankPMID>2157045</GeneBankPMID>
-        <GeneBankPMID>3027968</GeneBankPMID>
-        <GeneBankPMID>1310000</GeneBankPMID>
+        <GenBankPMID>30258014</GenBankPMID>
+        <GenBankPMID>32667281</GenBankPMID>
+        <GenBankPMID>31396490</GenBankPMID>
+        <GenBankPMID>2157045</GenBankPMID>
+        <GenBankPMID>3027968</GenBankPMID>
+        <GenBankPMID>1310000</GenBankPMID>
         <id>12072</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;
@@ -4270,18 +4270,18 @@
     <PMCID>136489</PMCID>
     <PMCID>130891</PMCID>
     <PMCID>135860</PMCID>
-    <GeneBankPMID>24390337</GeneBankPMID>
-    <GeneBankPMID>17329336</GeneBankPMID>
-    <GeneBankPMID>20375176</GeneBankPMID>
-    <GeneBankPMID>24200690</GeneBankPMID>
-    <GeneBankPMID>22038539</GeneBankPMID>
-    <GeneBankPMID>26318175</GeneBankPMID>
-    <GeneBankPMID>28361043</GeneBankPMID>
-    <GeneBankPMID>17554171</GeneBankPMID>
-    <GeneBankPMID>3027969</GeneBankPMID>
-    <GeneBankPMID>26077945</GeneBankPMID>
-    <GeneBankPMID>26586572</GeneBankPMID>
-    <GeneBankPMID>29220410</GeneBankPMID>
+    <GenBankPMID>24390337</GenBankPMID>
+    <GenBankPMID>17329336</GenBankPMID>
+    <GenBankPMID>20375176</GenBankPMID>
+    <GenBankPMID>24200690</GenBankPMID>
+    <GenBankPMID>22038539</GenBankPMID>
+    <GenBankPMID>26318175</GenBankPMID>
+    <GenBankPMID>28361043</GenBankPMID>
+    <GenBankPMID>17554171</GenBankPMID>
+    <GenBankPMID>3027969</GenBankPMID>
+    <GenBankPMID>26077945</GenBankPMID>
+    <GenBankPMID>26586572</GenBankPMID>
+    <GenBankPMID>29220410</GenBankPMID>
     <id>138949</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

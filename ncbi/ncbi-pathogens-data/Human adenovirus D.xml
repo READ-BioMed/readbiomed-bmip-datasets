@@ -77,8 +77,8 @@
     <subSpecies>
         <PMCID>4774116</PMCID>
         <PMCID>4124145</PMCID>
-        <GeneBankPMID>18385435</GeneBankPMID>
-        <GeneBankPMID>19644130</GeneBankPMID>
+        <GenBankPMID>18385435</GenBankPMID>
+        <GenBankPMID>19644130</GenBankPMID>
         <id>651580</id>
         <scientificName>Human adenovirus 54</scientificName>
     </subSpecies>
@@ -754,22 +754,22 @@
     <PMCID>7021214</PMCID>
     <PMCID>2685984</PMCID>
     <PMCID>2567038</PMCID>
-    <GeneBankPMID>23572555</GeneBankPMID>
-    <GeneBankPMID>9971839</GeneBankPMID>
-    <GeneBankPMID>21147954</GeneBankPMID>
-    <GeneBankPMID>29331865</GeneBankPMID>
-    <GeneBankPMID>25343525</GeneBankPMID>
-    <GeneBankPMID>26269183</GeneBankPMID>
-    <GeneBankPMID>26002300</GeneBankPMID>
-    <GeneBankPMID>25449172</GeneBankPMID>
-    <GeneBankPMID>22427992</GeneBankPMID>
-    <GeneBankPMID>29095687</GeneBankPMID>
-    <GeneBankPMID>16254336</GeneBankPMID>
-    <GeneBankPMID>23110104</GeneBankPMID>
-    <GeneBankPMID>24512686</GeneBankPMID>
-    <GeneBankPMID>21683743</GeneBankPMID>
-    <GeneBankPMID>16051302</GeneBankPMID>
-    <GeneBankPMID>21402595</GeneBankPMID>
+    <GenBankPMID>23572555</GenBankPMID>
+    <GenBankPMID>9971839</GenBankPMID>
+    <GenBankPMID>21147954</GenBankPMID>
+    <GenBankPMID>29331865</GenBankPMID>
+    <GenBankPMID>25343525</GenBankPMID>
+    <GenBankPMID>26269183</GenBankPMID>
+    <GenBankPMID>26002300</GenBankPMID>
+    <GenBankPMID>25449172</GenBankPMID>
+    <GenBankPMID>22427992</GenBankPMID>
+    <GenBankPMID>29095687</GenBankPMID>
+    <GenBankPMID>16254336</GenBankPMID>
+    <GenBankPMID>23110104</GenBankPMID>
+    <GenBankPMID>24512686</GenBankPMID>
+    <GenBankPMID>21683743</GenBankPMID>
+    <GenBankPMID>16051302</GenBankPMID>
+    <GenBankPMID>21402595</GenBankPMID>
     <id>130310</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;

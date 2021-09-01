@@ -24,7 +24,7 @@
         <PMCID>4342338</PMCID>
         <PMCID>4276368</PMCID>
         <PMCID>2668441</PMCID>
-        <GeneBankPMID>23426358</GeneBankPMID>
+        <GenBankPMID>23426358</GenBankPMID>
         <id>499854</id>
         <scientificName>New Mapoon virus</scientificName>
     </subSpecies>
@@ -115,7 +115,7 @@
     <PMCID>1065196</PMCID>
     <PMCID>331405</PMCID>
     <PMCID>150274</PMCID>
-    <GeneBankPMID>16223950</GeneBankPMID>
+    <GenBankPMID>16223950</GenBankPMID>
     <id>44024</id>
     <scientificName>Kokobera virus</scientificName>
 </pathogen>

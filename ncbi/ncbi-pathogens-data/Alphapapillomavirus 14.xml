@@ -19,8 +19,8 @@
         <scientificName>human papillomavirus 106</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>15885736</GeneBankPMID>
-        <GeneBankPMID>12085327</GeneBankPMID>
+        <GenBankPMID>15885736</GenBankPMID>
+        <GenBankPMID>12085327</GenBankPMID>
         <id>333769</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -32,7 +32,7 @@
     <subSpecies>
         <PMCID>2756586</PMCID>
         <PMCID>290248</PMCID>
-        <GeneBankPMID>11312670</GeneBankPMID>
+        <GenBankPMID>11312670</GenBankPMID>
         <id>120686</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

@@ -13,12 +13,12 @@
         <PMCID>2813377</PMCID>
         <PMCID>1852316</PMCID>
         <PMCID>1347485</PMCID>
-        <GeneBankPMID>17501927</GeneBankPMID>
-        <GeneBankPMID>14500908</GeneBankPMID>
-        <GeneBankPMID>10586875</GeneBankPMID>
-        <GeneBankPMID>19477904</GeneBankPMID>
-        <GeneBankPMID>18631238</GeneBankPMID>
-        <GeneBankPMID>21739254</GeneBankPMID>
+        <GenBankPMID>17501927</GenBankPMID>
+        <GenBankPMID>14500908</GenBankPMID>
+        <GenBankPMID>10586875</GenBankPMID>
+        <GenBankPMID>19477904</GenBankPMID>
+        <GenBankPMID>18631238</GenBankPMID>
+        <GenBankPMID>21739254</GenBankPMID>
         <id>273121</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -737,11 +737,11 @@
     <PMCID>249918</PMCID>
     <PMCID>249902</PMCID>
     <PMCID>316123</PMCID>
-    <GeneBankPMID>25658043</GeneBankPMID>
-    <GeneBankPMID>22454108</GeneBankPMID>
-    <GeneBankPMID>25642962</GeneBankPMID>
-    <GeneBankPMID>21931214</GeneBankPMID>
-    <GeneBankPMID>28062520</GeneBankPMID>
+    <GenBankPMID>25658043</GenBankPMID>
+    <GenBankPMID>22454108</GenBankPMID>
+    <GenBankPMID>25642962</GenBankPMID>
+    <GenBankPMID>21931214</GenBankPMID>
+    <GenBankPMID>28062520</GenBankPMID>
     <id>844</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

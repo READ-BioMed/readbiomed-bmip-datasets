@@ -138,7 +138,7 @@
         <scientificName>Maize streak virus - A[Gat]</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>11601896</GeneBankPMID>
+        <GenBankPMID>11601896</GenBankPMID>
         <id>268316</id>
         <scientificName>Maize streak virus - A[Ama]</scientificName>
     </subSpecies>
@@ -293,8 +293,8 @@
     <PMCID>110531</PMCID>
     <PMCID>400910</PMCID>
     <PMCID>457141</PMCID>
-    <GeneBankPMID>2829117</GeneBankPMID>
-    <GeneBankPMID>23679984</GeneBankPMID>
+    <GenBankPMID>2829117</GenBankPMID>
+    <GenBankPMID>23679984</GenBankPMID>
     <MeSHPMID>33502595</MeSHPMID>
     <MeSHPMID>33184360</MeSHPMID>
     <MeSHPMID>32506147</MeSHPMID>

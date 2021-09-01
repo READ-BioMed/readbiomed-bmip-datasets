@@ -181,7 +181,7 @@
         <PMCID>3265309</PMCID>
         <PMCID>3185738</PMCID>
         <PMCID>5172421</PMCID>
-        <GeneBankPMID>17706262</GeneBankPMID>
+        <GenBankPMID>17706262</GenBankPMID>
         <id>136187</id>
         <meSHTree>B04.820.578.500.540.150.113.500</meSHTree>
         <scientificName>Equine coronavirus</scientificName>
@@ -272,9 +272,9 @@
         <PMCID>3185738</PMCID>
         <PMCID>1914312</PMCID>
         <PMCID>3323233</PMCID>
-        <GeneBankPMID>20863409</GeneBankPMID>
-        <GeneBankPMID>25925196</GeneBankPMID>
-        <GeneBankPMID>16809333</GeneBankPMID>
+        <GenBankPMID>20863409</GenBankPMID>
+        <GenBankPMID>25925196</GenBankPMID>
+        <GenBankPMID>16809333</GenBankPMID>
         <id>42005</id>
         <meSHTree>B04.820.578.500.540.150.113.500</meSHTree>
         <otherNames>&lt;OtherNames&gt; 
@@ -581,18 +581,18 @@
         <PMCID>1370931</PMCID>
         <PMCID>212558</PMCID>
         <PMCID>280463</PMCID>
-        <GeneBankPMID>19846189</GeneBankPMID>
-        <GeneBankPMID>21957311</GeneBankPMID>
-        <GeneBankPMID>15280490</GeneBankPMID>
-        <GeneBankPMID>25928480</GeneBankPMID>
-        <GeneBankPMID>20606281</GeneBankPMID>
-        <GeneBankPMID>23283955</GeneBankPMID>
-        <GeneBankPMID>29287230</GeneBankPMID>
-        <GeneBankPMID>15650185</GeneBankPMID>
-        <GeneBankPMID>20642316</GeneBankPMID>
-        <GeneBankPMID>19691129</GeneBankPMID>
-        <GeneBankPMID>32994342</GeneBankPMID>
-        <GeneBankPMID>31160783</GeneBankPMID>
+        <GenBankPMID>19846189</GenBankPMID>
+        <GenBankPMID>21957311</GenBankPMID>
+        <GenBankPMID>15280490</GenBankPMID>
+        <GenBankPMID>25928480</GenBankPMID>
+        <GenBankPMID>20606281</GenBankPMID>
+        <GenBankPMID>23283955</GenBankPMID>
+        <GenBankPMID>29287230</GenBankPMID>
+        <GenBankPMID>15650185</GenBankPMID>
+        <GenBankPMID>20642316</GenBankPMID>
+        <GenBankPMID>19691129</GenBankPMID>
+        <GenBankPMID>32994342</GenBankPMID>
+        <GenBankPMID>31160783</GenBankPMID>
         <id>31631</id>
         <meSHTree>B04.820.578.500.540.150.113.500.500</meSHTree>
         <otherNames>&lt;OtherNames&gt; 
@@ -724,7 +724,7 @@
                 <id>422218</id>
                 <scientificName>Bovine coronavirus E-AH65-TC</scientificName>
             </subSpecies>
-            <GeneBankPMID>17434558</GeneBankPMID>
+            <GenBankPMID>17434558</GenBankPMID>
             <id>422217</id>
             <scientificName>Bovine coronavirus E-AH65</scientificName>
         </subSpecies>
@@ -1383,11 +1383,11 @@
         <PMCID>1277498</PMCID>
         <PMCID>1319775</PMCID>
         <PMCID>1319773</PMCID>
-        <GeneBankPMID>11714968</GeneBankPMID>
-        <GeneBankPMID>16604443</GeneBankPMID>
-        <GeneBankPMID>22634277</GeneBankPMID>
-        <GeneBankPMID>19357173</GeneBankPMID>
-        <GeneBankPMID>18196455</GeneBankPMID>
+        <GenBankPMID>11714968</GenBankPMID>
+        <GenBankPMID>16604443</GenBankPMID>
+        <GenBankPMID>22634277</GenBankPMID>
+        <GenBankPMID>19357173</GenBankPMID>
+        <GenBankPMID>18196455</GenBankPMID>
         <id>11128</id>
         <meSHTree>B04.820.578.500.540.150.113.500.750</meSHTree>
         <otherNames>&lt;OtherNames&gt; 

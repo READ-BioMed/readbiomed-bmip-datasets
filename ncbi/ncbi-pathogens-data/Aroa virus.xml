@@ -48,7 +48,7 @@
         <PMCID>1829073</PMCID>
         <PMCID>1265912</PMCID>
         <PMCID>548032</PMCID>
-        <GeneBankPMID>16223950</GeneBankPMID>
+        <GenBankPMID>16223950</GenBankPMID>
         <id>64308</id>
         <scientificName>Iguape virus</scientificName>
     </subSpecies>
@@ -129,7 +129,7 @@
     <PMCID>2952261</PMCID>
     <PMCID>3918146</PMCID>
     <PMCID>2738272</PMCID>
-    <GeneBankPMID>16223950</GeneBankPMID>
+    <GenBankPMID>16223950</GenBankPMID>
     <id>64303</id>
     <scientificName>Aroa virus</scientificName>
 </pathogen>

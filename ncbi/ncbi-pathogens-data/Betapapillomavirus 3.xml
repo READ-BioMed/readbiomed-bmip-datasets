@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>19948351</GeneBankPMID>
+        <GenBankPMID>19948351</GenBankPMID>
         <id>696746</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -26,7 +26,7 @@
         <scientificName>human papillomavirus 76</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>15993384</GeneBankPMID>
+        <GenBankPMID>15993384</GenBankPMID>
         <id>69984</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -41,7 +41,7 @@
     <subSpecies>
         <PMCID>6479314</PMCID>
         <PMCID>251134</PMCID>
-        <GeneBankPMID>8205838</GeneBankPMID>
+        <GenBankPMID>8205838</GenBankPMID>
         <id>10616</id>
         <scientificName>Human papillomavirus type 49</scientificName>
     </subSpecies>

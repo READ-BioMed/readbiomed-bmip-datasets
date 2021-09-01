@@ -3,7 +3,7 @@
     <subSpecies>
         <PMCID>4984651</PMCID>
         <PMCID>4074940</PMCID>
-        <GeneBankPMID>11172093</GeneBankPMID>
+        <GenBankPMID>11172093</GenBankPMID>
         <id>45370</id>
         <scientificName>Porcine adenovirus 5</scientificName>
     </subSpecies>
@@ -11,8 +11,8 @@
     <PMCID>7736431</PMCID>
     <PMCID>4074940</PMCID>
     <PMCID>2567038</PMCID>
-    <GeneBankPMID>17565687</GeneBankPMID>
-    <GeneBankPMID>11172093</GeneBankPMID>
+    <GenBankPMID>17565687</GenBankPMID>
+    <GenBankPMID>11172093</GenBankPMID>
     <id>130371</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

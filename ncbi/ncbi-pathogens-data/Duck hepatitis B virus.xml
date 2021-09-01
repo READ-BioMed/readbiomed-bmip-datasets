@@ -40,8 +40,8 @@
     <subSpecies>
         <PMCID>7086886</PMCID>
         <PMCID>6942179</PMCID>
-        <GeneBankPMID>21508187</GeneBankPMID>
-        <GeneBankPMID>15708992</GeneBankPMID>
+        <GenBankPMID>21508187</GenBankPMID>
+        <GenBankPMID>15708992</GenBankPMID>
         <id>259898</id>
         <scientificName>Sheldgoose hepatitis B virus</scientificName>
     </subSpecies>
@@ -56,8 +56,8 @@
         <PMCID>7086886</PMCID>
         <PMCID>4988961</PMCID>
         <PMCID>4178904</PMCID>
-        <GeneBankPMID>10489339</GeneBankPMID>
-        <GeneBankPMID>24991016</GeneBankPMID>
+        <GenBankPMID>10489339</GenBankPMID>
+        <GenBankPMID>24991016</GenBankPMID>
         <id>89623</id>
         <scientificName>Snow goose hepatitis B virus</scientificName>
     </subSpecies>
@@ -223,13 +223,13 @@
     <PMCID>283692</PMCID>
     <PMCID>252870</PMCID>
     <PMCID>390523</PMCID>
-    <GeneBankPMID>21507974</GeneBankPMID>
-    <GeneBankPMID>22514346</GeneBankPMID>
-    <GeneBankPMID>17881438</GeneBankPMID>
-    <GeneBankPMID>19769164</GeneBankPMID>
-    <GeneBankPMID>19008388</GeneBankPMID>
-    <GeneBankPMID>20181690</GeneBankPMID>
-    <GeneBankPMID>22514339</GeneBankPMID>
+    <GenBankPMID>21507974</GenBankPMID>
+    <GenBankPMID>22514346</GenBankPMID>
+    <GenBankPMID>17881438</GenBankPMID>
+    <GenBankPMID>19769164</GenBankPMID>
+    <GenBankPMID>19008388</GenBankPMID>
+    <GenBankPMID>20181690</GenBankPMID>
+    <GenBankPMID>22514339</GenBankPMID>
     <id>12639</id>
     <meSHTree>B04.280.375.100.450, B04.450.390.100.450</meSHTree>
     <otherNames>&lt;OtherNames&gt; 

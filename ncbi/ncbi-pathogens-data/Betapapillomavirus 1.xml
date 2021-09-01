@@ -50,7 +50,7 @@
         <scientificName>human papillomavirus 118</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20921322</GeneBankPMID>
+        <GenBankPMID>20921322</GenBankPMID>
         <id>889813</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -69,7 +69,7 @@
         <scientificName>human papillomavirus 124</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19386784</GeneBankPMID>
+        <GenBankPMID>19386784</GenBankPMID>
         <id>587350</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -79,7 +79,7 @@
         <scientificName>Human papillomavirus 105</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19386784</GeneBankPMID>
+        <GenBankPMID>19386784</GenBankPMID>
         <id>587348</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -89,7 +89,7 @@
         <scientificName>Human papillomavirus 99</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19386784</GeneBankPMID>
+        <GenBankPMID>19386784</GenBankPMID>
         <id>587347</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -114,22 +114,22 @@
         <PMCID>2816647</PMCID>
         <PMCID>2529468</PMCID>
         <PMCID>2267909</PMCID>
-        <GeneBankPMID>25408501</GeneBankPMID>
-        <GeneBankPMID>24648447</GeneBankPMID>
-        <GeneBankPMID>22898364</GeneBankPMID>
-        <GeneBankPMID>22807682</GeneBankPMID>
-        <GeneBankPMID>23706308</GeneBankPMID>
-        <GeneBankPMID>19152411</GeneBankPMID>
-        <GeneBankPMID>25803638</GeneBankPMID>
-        <GeneBankPMID>24154967</GeneBankPMID>
-        <GeneBankPMID>29179037</GeneBankPMID>
-        <GeneBankPMID>22810586</GeneBankPMID>
-        <GeneBankPMID>3033892</GeneBankPMID>
-        <GeneBankPMID>22911850</GeneBankPMID>
-        <GeneBankPMID>21901101</GeneBankPMID>
-        <GeneBankPMID>31290065</GeneBankPMID>
-        <GeneBankPMID>19478389</GeneBankPMID>
-        <GeneBankPMID>17020941</GeneBankPMID>
+        <GenBankPMID>25408501</GenBankPMID>
+        <GenBankPMID>24648447</GenBankPMID>
+        <GenBankPMID>22898364</GenBankPMID>
+        <GenBankPMID>22807682</GenBankPMID>
+        <GenBankPMID>23706308</GenBankPMID>
+        <GenBankPMID>19152411</GenBankPMID>
+        <GenBankPMID>25803638</GenBankPMID>
+        <GenBankPMID>24154967</GenBankPMID>
+        <GenBankPMID>29179037</GenBankPMID>
+        <GenBankPMID>22810586</GenBankPMID>
+        <GenBankPMID>3033892</GenBankPMID>
+        <GenBankPMID>22911850</GenBankPMID>
+        <GenBankPMID>21901101</GenBankPMID>
+        <GenBankPMID>31290065</GenBankPMID>
+        <GenBankPMID>19478389</GenBankPMID>
+        <GenBankPMID>17020941</GenBankPMID>
         <id>333923</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -154,7 +154,7 @@
         <scientificName>Human papillomavirus 93</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>8980287</GeneBankPMID>
+        <GenBankPMID>8980287</GenBankPMID>
         <id>79691</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -179,7 +179,7 @@
         <scientificName>human papillomavirus 36</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>6092701</GeneBankPMID>
+        <GenBankPMID>6092701</GenBankPMID>
         <id>37956</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

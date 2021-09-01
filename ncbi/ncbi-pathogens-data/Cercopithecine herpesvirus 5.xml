@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>11699958</GeneBankPMID>
-        <GeneBankPMID>26251484</GeneBankPMID>
-        <GeneBankPMID>25122141</GeneBankPMID>
+        <GenBankPMID>11699958</GenBankPMID>
+        <GenBankPMID>26251484</GenBankPMID>
+        <GenBankPMID>25122141</GenBankPMID>
         <id>1667587</id>
         <scientificName>Papio ursinus cytomegalovirus</scientificName>
     </subSpecies>
@@ -57,7 +57,7 @@
     <PMCID>114912</PMCID>
     <PMCID>112992</PMCID>
     <PMCID>109074</PMCID>
-    <GeneBankPMID>10704336</GeneBankPMID>
+    <GenBankPMID>10704336</GenBankPMID>
     <id>50292</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;

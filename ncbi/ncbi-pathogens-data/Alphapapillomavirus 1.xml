@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>8205838</GeneBankPMID>
-        <GeneBankPMID>22898364</GeneBankPMID>
+        <GenBankPMID>8205838</GenBankPMID>
+        <GenBankPMID>22898364</GenBankPMID>
         <id>333763</id>
         <scientificName>Human papillomavirus type 32</scientificName>
     </subSpecies>

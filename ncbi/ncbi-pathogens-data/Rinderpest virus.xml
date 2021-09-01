@@ -17,13 +17,13 @@
         <scientificName>Rinderpest virus (strain L)</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>9000095</GeneBankPMID>
-        <GeneBankPMID>18427968</GeneBankPMID>
-        <GeneBankPMID>18227968</GeneBankPMID>
-        <GeneBankPMID>19297608</GeneBankPMID>
-        <GeneBankPMID>17336269</GeneBankPMID>
-        <GeneBankPMID>24158397</GeneBankPMID>
-        <GeneBankPMID>23082748</GeneBankPMID>
+        <GenBankPMID>9000095</GenBankPMID>
+        <GenBankPMID>18427968</GenBankPMID>
+        <GenBankPMID>18227968</GenBankPMID>
+        <GenBankPMID>19297608</GenBankPMID>
+        <GenBankPMID>17336269</GenBankPMID>
+        <GenBankPMID>24158397</GenBankPMID>
+        <GenBankPMID>23082748</GenBankPMID>
         <id>11242</id>
         <scientificName>Rinderpest virus (strain Kabete O)</scientificName>
     </subSpecies>

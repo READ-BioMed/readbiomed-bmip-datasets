@@ -10,7 +10,7 @@
         <scientificName>Rat theilovirus 1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18768820</GeneBankPMID>
+        <GenBankPMID>18768820</GenBankPMID>
         <id>511755</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;
@@ -184,10 +184,10 @@
         <PMCID>2600268</PMCID>
         <PMCID>2885027</PMCID>
         <PMCID>1933019</PMCID>
-        <GeneBankPMID>31016480</GeneBankPMID>
-        <GeneBankPMID>26901216</GeneBankPMID>
-        <GeneBankPMID>17460053</GeneBankPMID>
-        <GeneBankPMID>27729641</GeneBankPMID>
+        <GenBankPMID>31016480</GenBankPMID>
+        <GenBankPMID>26901216</GenBankPMID>
+        <GenBankPMID>17460053</GenBankPMID>
+        <GenBankPMID>27729641</GenBankPMID>
         <id>434309</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1107,17 +1107,17 @@
     <PMCID>2174958</PMCID>
     <PMCID>1947962</PMCID>
     <PMCID>137026</PMCID>
-    <GeneBankPMID>19728403</GeneBankPMID>
-    <GeneBankPMID>31292248</GeneBankPMID>
-    <GeneBankPMID>21228226</GeneBankPMID>
-    <GeneBankPMID>17005650</GeneBankPMID>
-    <GeneBankPMID>15681051</GeneBankPMID>
-    <GeneBankPMID>22025686</GeneBankPMID>
-    <GeneBankPMID>21752908</GeneBankPMID>
-    <GeneBankPMID>30507373</GeneBankPMID>
-    <GeneBankPMID>2251141</GeneBankPMID>
-    <GeneBankPMID>19932140</GeneBankPMID>
-    <GeneBankPMID>21752920</GeneBankPMID>
+    <GenBankPMID>19728403</GenBankPMID>
+    <GenBankPMID>31292248</GenBankPMID>
+    <GenBankPMID>21228226</GenBankPMID>
+    <GenBankPMID>17005650</GenBankPMID>
+    <GenBankPMID>15681051</GenBankPMID>
+    <GenBankPMID>22025686</GenBankPMID>
+    <GenBankPMID>21752908</GenBankPMID>
+    <GenBankPMID>30507373</GenBankPMID>
+    <GenBankPMID>2251141</GenBankPMID>
+    <GenBankPMID>19932140</GenBankPMID>
+    <GenBankPMID>21752920</GenBankPMID>
     <MeSHPMID>33582855</MeSHPMID>
     <MeSHPMID>33253355</MeSHPMID>
     <MeSHPMID>33086489</MeSHPMID>

@@ -35,7 +35,7 @@
         <scientificName>Clostridium pasteurianum DSM 525 = ATCC 6013</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23981729</GeneBankPMID>
+        <GenBankPMID>23981729</GenBankPMID>
         <id>86416</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -865,8 +865,8 @@
     <PMCID>278291</PMCID>
     <PMCID>278152</PMCID>
     <PMCID>381447</PMCID>
-    <GeneBankPMID>25664737</GeneBankPMID>
-    <GeneBankPMID>32796105</GeneBankPMID>
+    <GenBankPMID>25664737</GenBankPMID>
+    <GenBankPMID>32796105</GenBankPMID>
     <id>1501</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;

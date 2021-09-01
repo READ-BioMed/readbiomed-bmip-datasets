@@ -20,7 +20,7 @@
         <PMCID>4311259</PMCID>
         <PMCID>2666655</PMCID>
         <PMCID>2630985</PMCID>
-        <GeneBankPMID>17449126</GeneBankPMID>
+        <GenBankPMID>17449126</GenBankPMID>
         <id>497862</id>
         <scientificName>Barley dwarf virus</scientificName>
     </subSpecies>
@@ -146,8 +146,8 @@
     <PMCID>159996</PMCID>
     <PMCID>54826</PMCID>
     <PMCID>400814</PMCID>
-    <GeneBankPMID>25016035</GeneBankPMID>
-    <GeneBankPMID>11858231</GeneBankPMID>
+    <GenBankPMID>25016035</GenBankPMID>
+    <GenBankPMID>11858231</GenBankPMID>
     <id>10834</id>
     <otherNames>&lt;OtherNames&gt; 
  &lt;Acronym&gt;

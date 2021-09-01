@@ -3,7 +3,7 @@
     <subSpecies>
         <PMCID>5760104</PMCID>
         <PMCID>3923884</PMCID>
-        <GeneBankPMID>23077564</GeneBankPMID>
+        <GenBankPMID>23077564</GenBankPMID>
         <id>1036963</id>
         <scientificName>Apodemus sylvaticus papillomavirus 1</scientificName>
     </subSpecies>
@@ -12,7 +12,7 @@
         <PMCID>5760104</PMCID>
         <PMCID>5512245</PMCID>
         <PMCID>5325784</PMCID>
-        <GeneBankPMID>21084500</GeneBankPMID>
+        <GenBankPMID>21084500</GenBankPMID>
         <id>763552</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -22,7 +22,7 @@
         <scientificName>Mus musculus papillomavirus type 1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19605590</GeneBankPMID>
+        <GenBankPMID>19605590</GenBankPMID>
         <id>664730</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -46,7 +46,7 @@
     <subSpecies>
         <PMCID>5021401</PMCID>
         <PMCID>336941</PMCID>
-        <GeneBankPMID>17412977</GeneBankPMID>
+        <GenBankPMID>17412977</GenBankPMID>
         <id>10568</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

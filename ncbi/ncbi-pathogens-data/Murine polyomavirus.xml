@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>29104053</GeneBankPMID>
-        <GeneBankPMID>32085463</GeneBankPMID>
-        <GeneBankPMID>24109229</GeneBankPMID>
-        <GeneBankPMID>28164464</GeneBankPMID>
+        <GenBankPMID>29104053</GenBankPMID>
+        <GenBankPMID>32085463</GenBankPMID>
+        <GenBankPMID>24109229</GenBankPMID>
+        <GenBankPMID>28164464</GenBankPMID>
         <id>179241</id>
         <scientificName>Murine polyomavirus strain BG</scientificName>
     </subSpecies>

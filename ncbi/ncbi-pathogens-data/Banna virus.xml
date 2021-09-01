@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>9780055</GeneBankPMID>
-        <GeneBankPMID>10811934</GeneBankPMID>
-        <GeneBankPMID>15784908</GeneBankPMID>
+        <GenBankPMID>9780055</GenBankPMID>
+        <GenBankPMID>10811934</GenBankPMID>
+        <GenBankPMID>15784908</GenBankPMID>
         <id>649604</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;

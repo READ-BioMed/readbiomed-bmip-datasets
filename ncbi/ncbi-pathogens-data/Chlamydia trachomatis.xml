@@ -5,12 +5,12 @@
         <scientificName>Chlamydia trachomatis D/CS637/11</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>24459269</GeneBankPMID>
+        <GenBankPMID>24459269</GenBankPMID>
         <id>1431547</id>
         <scientificName>Chlamydia trachomatis C/TW-3</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>24958721</GeneBankPMID>
+        <GenBankPMID>24958721</GenBankPMID>
         <id>1340853</id>
         <scientificName>Chlamydia trachomatis F/11-96</scientificName>
     </subSpecies>
@@ -28,16 +28,16 @@
     </subSpecies>
     <subSpecies>
         <subSpecies>
-            <GeneBankPMID>23542454</GeneBankPMID>
+            <GenBankPMID>23542454</GenBankPMID>
             <id>1262673</id>
             <scientificName>Chlamydia trachomatis L2/434/Bu(f)</scientificName>
         </subSpecies>
-        <GeneBankPMID>23542454</GeneBankPMID>
+        <GenBankPMID>23542454</GenBankPMID>
         <id>1263406</id>
         <scientificName>Chlamydia trachomatis L2/434/Bu(i)</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23378575</GeneBankPMID>
+        <GenBankPMID>23378575</GenBankPMID>
         <id>1260223</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -50,7 +50,7 @@
         <scientificName>Chlamydia trachomatis IU888</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23378575</GeneBankPMID>
+        <GenBankPMID>23378575</GenBankPMID>
         <id>1260222</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -75,7 +75,7 @@
         <scientificName>Chlamydia trachomatis E/C599</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1075087</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -88,7 +88,7 @@
         <scientificName>Chlamydia trachomatis L1/1322/p2</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1075086</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -101,7 +101,7 @@
         <scientificName>Chlamydia trachomatis L2b/Canada2</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1075085</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -114,7 +114,7 @@
         <scientificName>Chlamydia trachomatis L2b/Canada1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071783</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -127,7 +127,7 @@
         <scientificName>Chlamydia trachomatis L3/404/LN</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071782</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -140,7 +140,7 @@
         <scientificName>Chlamydia trachomatis L2b/Ams5</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071781</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -153,7 +153,7 @@
         <scientificName>Chlamydia trachomatis L2b/Ams4</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071780</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -166,7 +166,7 @@
         <scientificName>Chlamydia trachomatis L2b/Ams3</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071779</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -179,7 +179,7 @@
         <scientificName>Chlamydia trachomatis L2b/Ams2</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071778</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -192,7 +192,7 @@
         <scientificName>Chlamydia trachomatis L2b/Ams1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071777</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -205,7 +205,7 @@
         <scientificName>Chlamydia trachomatis L2b/795</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071776</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -218,7 +218,7 @@
         <scientificName>Chlamydia trachomatis L2b/CV204</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071775</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -231,7 +231,7 @@
         <scientificName>Chlamydia trachomatis L2b/LST</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071774</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -244,7 +244,7 @@
         <scientificName>Chlamydia trachomatis L2b/UCH-2</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071773</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -257,7 +257,7 @@
         <scientificName>Chlamydia trachomatis L2b/8200/07</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071772</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -270,7 +270,7 @@
         <scientificName>Chlamydia trachomatis L2/25667R</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071771</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -283,7 +283,7 @@
         <scientificName>Chlamydia trachomatis L1/224</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071770</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -296,9 +296,9 @@
         <scientificName>Chlamydia trachomatis L1/115</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
-        <GeneBankPMID>2836808</GeneBankPMID>
-        <GeneBankPMID>23546865</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
+        <GenBankPMID>2836808</GenBankPMID>
+        <GenBankPMID>23546865</GenBankPMID>
         <id>1071769</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -311,7 +311,7 @@
         <scientificName>Chlamydia trachomatis L1/440/LN</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071768</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -321,7 +321,7 @@
         <scientificName>Chlamydia trachomatis K/SotonK1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071767</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -334,7 +334,7 @@
         <scientificName>Chlamydia trachomatis Ia/SotonIa3</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071766</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -347,7 +347,7 @@
         <scientificName>Chlamydia trachomatis Ia/SotonIa1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071765</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -360,7 +360,7 @@
         <scientificName>Chlamydia trachomatis G/SotonG1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071764</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -385,7 +385,7 @@
 &lt;/OtherNames&gt;</otherNames>
             <scientificName>Chlamydia trachomatis F/SWFPminus</scientificName>
         </subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071763</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -398,7 +398,7 @@
         <scientificName>Chlamydia trachomatis F/SW5</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071762</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -411,7 +411,7 @@
         <scientificName>Chlamydia trachomatis F/SW4</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071761</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -424,7 +424,7 @@
         <scientificName>Chlamydia trachomatis E/SotonE8</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071760</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -437,7 +437,7 @@
         <scientificName>Chlamydia trachomatis E/SotonE4</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071759</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -450,7 +450,7 @@
         <scientificName>Chlamydia trachomatis E/SW3</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071758</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -463,7 +463,7 @@
         <scientificName>Chlamydia trachomatis D/SotonD6</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071757</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -476,7 +476,7 @@
         <scientificName>Chlamydia trachomatis D/SotonD5</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071756</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -489,7 +489,7 @@
         <scientificName>Chlamydia trachomatis D/SotonD1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071755</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -502,7 +502,7 @@
         <scientificName>Chlamydia trachomatis A/7249</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071754</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -515,7 +515,7 @@
         <scientificName>Chlamydia trachomatis A/5291</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>1071753</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -528,7 +528,7 @@
         <scientificName>Chlamydia trachomatis A/363</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>1007871</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -541,7 +541,7 @@
         <scientificName>Chlamydia trachomatis RC-J/971</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>1007870</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -554,7 +554,7 @@
         <scientificName>Chlamydia trachomatis RC-L2/55</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907272</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -575,7 +575,7 @@
         <scientificName>Chlamydia trachomatis J/6276tet1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907271</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -596,7 +596,7 @@
         <scientificName>Chlamydia trachomatis RC-J/966</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907270</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -617,7 +617,7 @@
         <scientificName>Chlamydia trachomatis RC-J(s)/122</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907269</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -638,7 +638,7 @@
         <scientificName>Chlamydia trachomatis RC-F(s)/342</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907268</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -659,7 +659,7 @@
         <scientificName>Chlamydia trachomatis RC-L2(s)/3</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907267</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -680,7 +680,7 @@
         <scientificName>Chlamydia trachomatis RC-J/953</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907266</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -701,7 +701,7 @@
         <scientificName>Chlamydia trachomatis RC-J/943</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907265</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -722,7 +722,7 @@
         <scientificName>Chlamydia trachomatis RC-F(s)/852</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907264</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -743,7 +743,7 @@
         <scientificName>Chlamydia trachomatis RC-L2(s)/46</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>23786423</GeneBankPMID>
+        <GenBankPMID>23786423</GenBankPMID>
         <id>907263</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -765,10 +765,10 @@
     </subSpecies>
     <subSpecies>
         <PMCID>3282942</PMCID>
-        <GeneBankPMID>22231476</GeneBankPMID>
-        <GeneBankPMID>21965565</GeneBankPMID>
-        <GeneBankPMID>22646503</GeneBankPMID>
-        <GeneBankPMID>21540364</GeneBankPMID>
+        <GenBankPMID>22231476</GenBankPMID>
+        <GenBankPMID>21965565</GenBankPMID>
+        <GenBankPMID>22646503</GenBankPMID>
+        <GenBankPMID>21540364</GenBankPMID>
         <id>887712</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -781,7 +781,7 @@
         <scientificName>Chlamydia trachomatis L2c</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20547745</GeneBankPMID>
+        <GenBankPMID>20547745</GenBankPMID>
         <id>759364</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -794,7 +794,7 @@
         <scientificName>Chlamydia trachomatis D-LC</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20547745</GeneBankPMID>
+        <GenBankPMID>20547745</GenBankPMID>
         <id>759363</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -807,8 +807,8 @@
         <scientificName>Chlamydia trachomatis D-EC</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20308297</GeneBankPMID>
-        <GeneBankPMID>12177343</GeneBankPMID>
+        <GenBankPMID>20308297</GenBankPMID>
+        <GenBankPMID>12177343</GenBankPMID>
         <id>718219</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -821,34 +821,34 @@
         <scientificName>Chlamydia trachomatis G/9301</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20308297</GeneBankPMID>
+        <GenBankPMID>20308297</GenBankPMID>
         <id>707187</id>
         <scientificName>Chlamydia trachomatis G/11074</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20308297</GeneBankPMID>
+        <GenBankPMID>20308297</GenBankPMID>
         <id>707186</id>
         <scientificName>Chlamydia trachomatis G/11222</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20308297</GeneBankPMID>
+        <GenBankPMID>20308297</GenBankPMID>
         <id>707185</id>
         <scientificName>Chlamydia trachomatis G/9768</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20308297</GeneBankPMID>
+        <GenBankPMID>20308297</GenBankPMID>
         <id>707184</id>
         <scientificName>Chlamydia trachomatis E/150</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>20308297</GeneBankPMID>
+        <GenBankPMID>20308297</GenBankPMID>
         <id>707183</id>
         <scientificName>Chlamydia trachomatis E/11023</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>19460133</GeneBankPMID>
-        <GeneBankPMID>19220003</GeneBankPMID>
-        <GeneBankPMID>19494332</GeneBankPMID>
+        <GenBankPMID>19460133</GenBankPMID>
+        <GenBankPMID>19220003</GenBankPMID>
+        <GenBankPMID>19494332</GenBankPMID>
         <id>672161</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -911,7 +911,7 @@
     </subSpecies>
     <subSpecies>
         <PMCID>4398506</PMCID>
-        <GeneBankPMID>20093289</GeneBankPMID>
+        <GenBankPMID>20093289</GenBankPMID>
         <id>634464</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1047,7 +1047,7 @@
         <scientificName>Chlamydia trachomatis G/UW-57/CX</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>22406642</GeneBankPMID>
+        <GenBankPMID>22406642</GenBankPMID>
         <id>596777</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1085,8 +1085,8 @@
     </subSpecies>
     <subSpecies>
         <PMCID>7938122</PMCID>
-        <GeneBankPMID>19460133</GeneBankPMID>
-        <GeneBankPMID>20657821</GeneBankPMID>
+        <GenBankPMID>19460133</GenBankPMID>
+        <GenBankPMID>20657821</GenBankPMID>
         <id>580049</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;Synonym&gt;
@@ -1105,8 +1105,8 @@
         <PMCID>4398506</PMCID>
         <PMCID>3836704</PMCID>
         <PMCID>3282942</PMCID>
-        <GeneBankPMID>21987657</GeneBankPMID>
-        <GeneBankPMID>18199030</GeneBankPMID>
+        <GenBankPMID>21987657</GenBankPMID>
+        <GenBankPMID>18199030</GenBankPMID>
         <id>580047</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1190,12 +1190,12 @@
         <scientificName>Chlamydia trachomatis F1</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18852248</GeneBankPMID>
-        <GeneBankPMID>21931748</GeneBankPMID>
-        <GeneBankPMID>20043826</GeneBankPMID>
-        <GeneBankPMID>18986550</GeneBankPMID>
-        <GeneBankPMID>18383626</GeneBankPMID>
-        <GeneBankPMID>18032721</GeneBankPMID>
+        <GenBankPMID>18852248</GenBankPMID>
+        <GenBankPMID>21931748</GenBankPMID>
+        <GenBankPMID>20043826</GenBankPMID>
+        <GenBankPMID>18986550</GenBankPMID>
+        <GenBankPMID>18383626</GenBankPMID>
+        <GenBankPMID>18032721</GenBankPMID>
         <id>471473</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1208,20 +1208,20 @@
         <scientificName>Chlamydia trachomatis L2b/UCH-1/proctitis</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>18032721</GeneBankPMID>
-        <GeneBankPMID>25382739</GeneBankPMID>
-        <GeneBankPMID>17593967</GeneBankPMID>
-        <GeneBankPMID>23222729</GeneBankPMID>
-        <GeneBankPMID>30396899</GeneBankPMID>
-        <GeneBankPMID>20348250</GeneBankPMID>
-        <GeneBankPMID>25032212</GeneBankPMID>
-        <GeneBankPMID>28396349</GeneBankPMID>
-        <GeneBankPMID>32041796</GeneBankPMID>
-        <GeneBankPMID>20870766</GeneBankPMID>
-        <GeneBankPMID>31988079</GeneBankPMID>
-        <GeneBankPMID>31227715</GeneBankPMID>
-        <GeneBankPMID>27114464</GeneBankPMID>
-        <GeneBankPMID>21606186</GeneBankPMID>
+        <GenBankPMID>18032721</GenBankPMID>
+        <GenBankPMID>25382739</GenBankPMID>
+        <GenBankPMID>17593967</GenBankPMID>
+        <GenBankPMID>23222729</GenBankPMID>
+        <GenBankPMID>30396899</GenBankPMID>
+        <GenBankPMID>20348250</GenBankPMID>
+        <GenBankPMID>25032212</GenBankPMID>
+        <GenBankPMID>28396349</GenBankPMID>
+        <GenBankPMID>32041796</GenBankPMID>
+        <GenBankPMID>20870766</GenBankPMID>
+        <GenBankPMID>31988079</GenBankPMID>
+        <GenBankPMID>31227715</GenBankPMID>
+        <GenBankPMID>27114464</GenBankPMID>
+        <GenBankPMID>21606186</GenBankPMID>
         <id>471472</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1234,275 +1234,275 @@
         <scientificName>Chlamydia trachomatis 434/Bu</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>8757728</GeneBankPMID>
-        <GeneBankPMID>9061793</GeneBankPMID>
-        <GeneBankPMID>16369014</GeneBankPMID>
-        <GeneBankPMID>17645794</GeneBankPMID>
-        <GeneBankPMID>10447885</GeneBankPMID>
-        <GeneBankPMID>9482716</GeneBankPMID>
-        <GeneBankPMID>22142238</GeneBankPMID>
-        <GeneBankPMID>9182530</GeneBankPMID>
-        <GeneBankPMID>27221039</GeneBankPMID>
-        <GeneBankPMID>24643499</GeneBankPMID>
-        <GeneBankPMID>29282292</GeneBankPMID>
-        <GeneBankPMID>11779873</GeneBankPMID>
-        <GeneBankPMID>28208705</GeneBankPMID>
-        <GeneBankPMID>10753930</GeneBankPMID>
-        <GeneBankPMID>25324548</GeneBankPMID>
-        <GeneBankPMID>20937886</GeneBankPMID>
-        <GeneBankPMID>15557186</GeneBankPMID>
-        <GeneBankPMID>7543468</GeneBankPMID>
-        <GeneBankPMID>9609686</GeneBankPMID>
-        <GeneBankPMID>17581233</GeneBankPMID>
-        <GeneBankPMID>9537400</GeneBankPMID>
-        <GeneBankPMID>9987117</GeneBankPMID>
-        <GeneBankPMID>8349643</GeneBankPMID>
-        <GeneBankPMID>7751305</GeneBankPMID>
-        <GeneBankPMID>12475168</GeneBankPMID>
-        <GeneBankPMID>7957076</GeneBankPMID>
-        <GeneBankPMID>16441657</GeneBankPMID>
-        <GeneBankPMID>7768883</GeneBankPMID>
-        <GeneBankPMID>786730</GeneBankPMID>
-        <GeneBankPMID>10518023</GeneBankPMID>
-        <GeneBankPMID>22238375</GeneBankPMID>
-        <GeneBankPMID>17187687</GeneBankPMID>
-        <GeneBankPMID>3536662</GeneBankPMID>
-        <GeneBankPMID>19367336</GeneBankPMID>
-        <GeneBankPMID>14673772</GeneBankPMID>
-        <GeneBankPMID>23292770</GeneBankPMID>
-        <GeneBankPMID>10692364</GeneBankPMID>
-        <GeneBankPMID>8725238</GeneBankPMID>
-        <GeneBankPMID>12389037</GeneBankPMID>
-        <GeneBankPMID>9537414</GeneBankPMID>
-        <GeneBankPMID>11133960</GeneBankPMID>
-        <GeneBankPMID>1705541</GeneBankPMID>
-        <GeneBankPMID>15044829</GeneBankPMID>
-        <GeneBankPMID>9301332</GeneBankPMID>
-        <GeneBankPMID>9331418</GeneBankPMID>
-        <GeneBankPMID>16277600</GeneBankPMID>
-        <GeneBankPMID>10029535</GeneBankPMID>
-        <GeneBankPMID>10572301</GeneBankPMID>
-        <GeneBankPMID>30885931</GeneBankPMID>
-        <GeneBankPMID>9826388</GeneBankPMID>
-        <GeneBankPMID>9110030</GeneBankPMID>
-        <GeneBankPMID>7646486</GeneBankPMID>
-        <GeneBankPMID>30198900</GeneBankPMID>
-        <GeneBankPMID>28125316</GeneBankPMID>
-        <GeneBankPMID>15525707</GeneBankPMID>
-        <GeneBankPMID>11574053</GeneBankPMID>
-        <GeneBankPMID>25171165</GeneBankPMID>
-        <GeneBankPMID>29078338</GeneBankPMID>
-        <GeneBankPMID>1352512</GeneBankPMID>
-        <GeneBankPMID>15049826</GeneBankPMID>
-        <GeneBankPMID>7007074</GeneBankPMID>
-        <GeneBankPMID>9163424</GeneBankPMID>
-        <GeneBankPMID>23696825</GeneBankPMID>
-        <GeneBankPMID>10843862</GeneBankPMID>
-        <GeneBankPMID>10417420</GeneBankPMID>
-        <GeneBankPMID>20420449</GeneBankPMID>
-        <GeneBankPMID>10588692</GeneBankPMID>
-        <GeneBankPMID>11818558</GeneBankPMID>
-        <GeneBankPMID>17093042</GeneBankPMID>
-        <GeneBankPMID>23708130</GeneBankPMID>
-        <GeneBankPMID>3275660</GeneBankPMID>
-        <GeneBankPMID>18375759</GeneBankPMID>
-        <GeneBankPMID>8757883</GeneBankPMID>
-        <GeneBankPMID>16824101</GeneBankPMID>
-        <GeneBankPMID>8251502</GeneBankPMID>
-        <GeneBankPMID>15876367</GeneBankPMID>
-        <GeneBankPMID>25253688</GeneBankPMID>
-        <GeneBankPMID>11980709</GeneBankPMID>
-        <GeneBankPMID>8805533</GeneBankPMID>
-        <GeneBankPMID>17005418</GeneBankPMID>
-        <GeneBankPMID>21775474</GeneBankPMID>
-        <GeneBankPMID>14536072</GeneBankPMID>
-        <GeneBankPMID>12112691</GeneBankPMID>
-        <GeneBankPMID>15157079</GeneBankPMID>
-        <GeneBankPMID>23071807</GeneBankPMID>
-        <GeneBankPMID>21527029</GeneBankPMID>
-        <GeneBankPMID>16498617</GeneBankPMID>
-        <GeneBankPMID>15561149</GeneBankPMID>
-        <GeneBankPMID>12799000</GeneBankPMID>
-        <GeneBankPMID>15064399</GeneBankPMID>
-        <GeneBankPMID>19181797</GeneBankPMID>
-        <GeneBankPMID>24128931</GeneBankPMID>
-        <GeneBankPMID>9418246</GeneBankPMID>
-        <GeneBankPMID>26520801</GeneBankPMID>
-        <GeneBankPMID>12704110</GeneBankPMID>
-        <GeneBankPMID>10403368</GeneBankPMID>
-        <GeneBankPMID>2507166</GeneBankPMID>
-        <GeneBankPMID>10404217</GeneBankPMID>
-        <GeneBankPMID>24586162</GeneBankPMID>
-        <GeneBankPMID>12015149</GeneBankPMID>
-        <GeneBankPMID>11260479</GeneBankPMID>
-        <GeneBankPMID>16547061</GeneBankPMID>
-        <GeneBankPMID>9651328</GeneBankPMID>
-        <GeneBankPMID>18157819</GeneBankPMID>
-        <GeneBankPMID>17593967</GeneBankPMID>
-        <GeneBankPMID>12475234</GeneBankPMID>
-        <GeneBankPMID>15554976</GeneBankPMID>
-        <GeneBankPMID>2185470</GeneBankPMID>
-        <GeneBankPMID>11382227</GeneBankPMID>
-        <GeneBankPMID>15775966</GeneBankPMID>
-        <GeneBankPMID>29625546</GeneBankPMID>
-        <GeneBankPMID>7649262</GeneBankPMID>
-        <GeneBankPMID>8170399</GeneBankPMID>
-        <GeneBankPMID>16946247</GeneBankPMID>
-        <GeneBankPMID>11402010</GeneBankPMID>
-        <GeneBankPMID>15907468</GeneBankPMID>
-        <GeneBankPMID>14563551</GeneBankPMID>
-        <GeneBankPMID>20195670</GeneBankPMID>
-        <GeneBankPMID>16177312</GeneBankPMID>
-        <GeneBankPMID>23825549</GeneBankPMID>
-        <GeneBankPMID>10603409</GeneBankPMID>
-        <GeneBankPMID>10869070</GeneBankPMID>
-        <GeneBankPMID>21883523</GeneBankPMID>
-        <GeneBankPMID>17905831</GeneBankPMID>
-        <GeneBankPMID>16980477</GeneBankPMID>
-        <GeneBankPMID>2459389</GeneBankPMID>
-        <GeneBankPMID>12554880</GeneBankPMID>
-        <GeneBankPMID>9622348</GeneBankPMID>
-        <GeneBankPMID>14672940</GeneBankPMID>
-        <GeneBankPMID>23229911</GeneBankPMID>
-        <GeneBankPMID>11847124</GeneBankPMID>
-        <GeneBankPMID>12904577</GeneBankPMID>
-        <GeneBankPMID>16511207</GeneBankPMID>
-        <GeneBankPMID>9466997</GeneBankPMID>
-        <GeneBankPMID>11735405</GeneBankPMID>
-        <GeneBankPMID>23222729</GeneBankPMID>
-        <GeneBankPMID>8387996</GeneBankPMID>
-        <GeneBankPMID>28347402</GeneBankPMID>
-        <GeneBankPMID>15576787</GeneBankPMID>
-        <GeneBankPMID>8658133</GeneBankPMID>
-        <GeneBankPMID>8910376</GeneBankPMID>
-        <GeneBankPMID>12354223</GeneBankPMID>
-        <GeneBankPMID>3132458</GeneBankPMID>
-        <GeneBankPMID>12575990</GeneBankPMID>
-        <GeneBankPMID>17337586</GeneBankPMID>
-        <GeneBankPMID>2196231</GeneBankPMID>
-        <GeneBankPMID>11200221</GeneBankPMID>
-        <GeneBankPMID>9442895</GeneBankPMID>
-        <GeneBankPMID>14500499</GeneBankPMID>
-        <GeneBankPMID>11844757</GeneBankPMID>
-        <GeneBankPMID>11953757</GeneBankPMID>
-        <GeneBankPMID>15009198</GeneBankPMID>
-        <GeneBankPMID>23000903</GeneBankPMID>
-        <GeneBankPMID>8144446</GeneBankPMID>
-        <GeneBankPMID>9632640</GeneBankPMID>
-        <GeneBankPMID>15970591</GeneBankPMID>
-        <GeneBankPMID>9382818</GeneBankPMID>
-        <GeneBankPMID>24646934</GeneBankPMID>
-        <GeneBankPMID>7539334</GeneBankPMID>
-        <GeneBankPMID>28612943</GeneBankPMID>
-        <GeneBankPMID>16963571</GeneBankPMID>
-        <GeneBankPMID>10620679</GeneBankPMID>
-        <GeneBankPMID>20807199</GeneBankPMID>
-        <GeneBankPMID>22272312</GeneBankPMID>
-        <GeneBankPMID>14519207</GeneBankPMID>
-        <GeneBankPMID>11152607</GeneBankPMID>
-        <GeneBankPMID>23273979</GeneBankPMID>
-        <GeneBankPMID>30395255</GeneBankPMID>
-        <GeneBankPMID>21930951</GeneBankPMID>
-        <GeneBankPMID>17237169</GeneBankPMID>
-        <GeneBankPMID>27733515</GeneBankPMID>
-        <GeneBankPMID>24959658</GeneBankPMID>
-        <GeneBankPMID>9618584</GeneBankPMID>
-        <GeneBankPMID>9082984</GeneBankPMID>
-        <GeneBankPMID>21606186</GeneBankPMID>
-        <GeneBankPMID>12225755</GeneBankPMID>
-        <GeneBankPMID>14970394</GeneBankPMID>
-        <GeneBankPMID>7756254</GeneBankPMID>
-        <GeneBankPMID>17965156</GeneBankPMID>
-        <GeneBankPMID>29376031</GeneBankPMID>
-        <GeneBankPMID>8404849</GeneBankPMID>
-        <GeneBankPMID>2651410</GeneBankPMID>
-        <GeneBankPMID>11248187</GeneBankPMID>
-        <GeneBankPMID>16155584</GeneBankPMID>
-        <GeneBankPMID>8805509</GeneBankPMID>
-        <GeneBankPMID>15933023</GeneBankPMID>
-        <GeneBankPMID>24959425</GeneBankPMID>
-        <GeneBankPMID>15316015</GeneBankPMID>
-        <GeneBankPMID>29386631</GeneBankPMID>
-        <GeneBankPMID>24751478</GeneBankPMID>
-        <GeneBankPMID>31419583</GeneBankPMID>
-        <GeneBankPMID>8248183</GeneBankPMID>
-        <GeneBankPMID>17360576</GeneBankPMID>
-        <GeneBankPMID>12937172</GeneBankPMID>
-        <GeneBankPMID>20179818</GeneBankPMID>
-        <GeneBankPMID>3884974</GeneBankPMID>
-        <GeneBankPMID>3027577</GeneBankPMID>
-        <GeneBankPMID>9738943</GeneBankPMID>
-        <GeneBankPMID>21075890</GeneBankPMID>
-        <GeneBankPMID>15087448</GeneBankPMID>
-        <GeneBankPMID>15146462</GeneBankPMID>
-        <GeneBankPMID>7667876</GeneBankPMID>
-        <GeneBankPMID>16816202</GeneBankPMID>
-        <GeneBankPMID>3537960</GeneBankPMID>
-        <GeneBankPMID>1325384</GeneBankPMID>
-        <GeneBankPMID>23431368</GeneBankPMID>
-        <GeneBankPMID>7751290</GeneBankPMID>
-        <GeneBankPMID>13130133</GeneBankPMID>
-        <GeneBankPMID>9506522</GeneBankPMID>
-        <GeneBankPMID>16407127</GeneBankPMID>
-        <GeneBankPMID>9133736</GeneBankPMID>
-        <GeneBankPMID>10799476</GeneBankPMID>
-        <GeneBankPMID>12763042</GeneBankPMID>
-        <GeneBankPMID>25243119</GeneBankPMID>
-        <GeneBankPMID>8608120</GeneBankPMID>
-        <GeneBankPMID>11866529</GeneBankPMID>
-        <GeneBankPMID>21338480</GeneBankPMID>
-        <GeneBankPMID>20592031</GeneBankPMID>
-        <GeneBankPMID>12113934</GeneBankPMID>
-        <GeneBankPMID>26272448</GeneBankPMID>
-        <GeneBankPMID>26118995</GeneBankPMID>
-        <GeneBankPMID>15388946</GeneBankPMID>
-        <GeneBankPMID>1885539</GeneBankPMID>
-        <GeneBankPMID>10393194</GeneBankPMID>
-        <GeneBankPMID>9288744</GeneBankPMID>
-        <GeneBankPMID>12823825</GeneBankPMID>
-        <GeneBankPMID>11866091</GeneBankPMID>
-        <GeneBankPMID>17189261</GeneBankPMID>
-        <GeneBankPMID>25717440</GeneBankPMID>
-        <GeneBankPMID>9862810</GeneBankPMID>
-        <GeneBankPMID>17583737</GeneBankPMID>
-        <GeneBankPMID>7861960</GeneBankPMID>
-        <GeneBankPMID>16104022</GeneBankPMID>
-        <GeneBankPMID>25756658</GeneBankPMID>
-        <GeneBankPMID>1461740</GeneBankPMID>
-        <GeneBankPMID>9927482</GeneBankPMID>
-        <GeneBankPMID>9778731</GeneBankPMID>
-        <GeneBankPMID>24392355</GeneBankPMID>
-        <GeneBankPMID>8643579</GeneBankPMID>
-        <GeneBankPMID>15014442</GeneBankPMID>
-        <GeneBankPMID>7868596</GeneBankPMID>
-        <GeneBankPMID>15836769</GeneBankPMID>
-        <GeneBankPMID>9323207</GeneBankPMID>
-        <GeneBankPMID>8747466</GeneBankPMID>
-        <GeneBankPMID>7798200</GeneBankPMID>
-        <GeneBankPMID>9973346</GeneBankPMID>
-        <GeneBankPMID>22535590</GeneBankPMID>
-        <GeneBankPMID>31386347</GeneBankPMID>
-        <GeneBankPMID>19460098</GeneBankPMID>
-        <GeneBankPMID>27611675</GeneBankPMID>
-        <GeneBankPMID>17532760</GeneBankPMID>
-        <GeneBankPMID>22829778</GeneBankPMID>
-        <GeneBankPMID>18801996</GeneBankPMID>
-        <GeneBankPMID>9746356</GeneBankPMID>
-        <GeneBankPMID>22378793</GeneBankPMID>
-        <GeneBankPMID>14527414</GeneBankPMID>
-        <GeneBankPMID>8430071</GeneBankPMID>
-        <GeneBankPMID>25146758</GeneBankPMID>
-        <GeneBankPMID>11114335</GeneBankPMID>
-        <GeneBankPMID>11459176</GeneBankPMID>
-        <GeneBankPMID>3191988</GeneBankPMID>
-        <GeneBankPMID>3298234</GeneBankPMID>
-        <GeneBankPMID>9288963</GeneBankPMID>
-        <GeneBankPMID>10561594</GeneBankPMID>
-        <GeneBankPMID>30848236</GeneBankPMID>
-        <GeneBankPMID>1909328</GeneBankPMID>
-        <GeneBankPMID>3317277</GeneBankPMID>
-        <GeneBankPMID>12169593</GeneBankPMID>
-        <GeneBankPMID>15199184</GeneBankPMID>
+        <GenBankPMID>8757728</GenBankPMID>
+        <GenBankPMID>9061793</GenBankPMID>
+        <GenBankPMID>16369014</GenBankPMID>
+        <GenBankPMID>17645794</GenBankPMID>
+        <GenBankPMID>10447885</GenBankPMID>
+        <GenBankPMID>9482716</GenBankPMID>
+        <GenBankPMID>22142238</GenBankPMID>
+        <GenBankPMID>9182530</GenBankPMID>
+        <GenBankPMID>27221039</GenBankPMID>
+        <GenBankPMID>24643499</GenBankPMID>
+        <GenBankPMID>29282292</GenBankPMID>
+        <GenBankPMID>11779873</GenBankPMID>
+        <GenBankPMID>28208705</GenBankPMID>
+        <GenBankPMID>10753930</GenBankPMID>
+        <GenBankPMID>25324548</GenBankPMID>
+        <GenBankPMID>20937886</GenBankPMID>
+        <GenBankPMID>15557186</GenBankPMID>
+        <GenBankPMID>7543468</GenBankPMID>
+        <GenBankPMID>9609686</GenBankPMID>
+        <GenBankPMID>17581233</GenBankPMID>
+        <GenBankPMID>9537400</GenBankPMID>
+        <GenBankPMID>9987117</GenBankPMID>
+        <GenBankPMID>8349643</GenBankPMID>
+        <GenBankPMID>7751305</GenBankPMID>
+        <GenBankPMID>12475168</GenBankPMID>
+        <GenBankPMID>7957076</GenBankPMID>
+        <GenBankPMID>16441657</GenBankPMID>
+        <GenBankPMID>7768883</GenBankPMID>
+        <GenBankPMID>786730</GenBankPMID>
+        <GenBankPMID>10518023</GenBankPMID>
+        <GenBankPMID>22238375</GenBankPMID>
+        <GenBankPMID>17187687</GenBankPMID>
+        <GenBankPMID>3536662</GenBankPMID>
+        <GenBankPMID>19367336</GenBankPMID>
+        <GenBankPMID>14673772</GenBankPMID>
+        <GenBankPMID>23292770</GenBankPMID>
+        <GenBankPMID>10692364</GenBankPMID>
+        <GenBankPMID>8725238</GenBankPMID>
+        <GenBankPMID>12389037</GenBankPMID>
+        <GenBankPMID>9537414</GenBankPMID>
+        <GenBankPMID>11133960</GenBankPMID>
+        <GenBankPMID>1705541</GenBankPMID>
+        <GenBankPMID>15044829</GenBankPMID>
+        <GenBankPMID>9301332</GenBankPMID>
+        <GenBankPMID>9331418</GenBankPMID>
+        <GenBankPMID>16277600</GenBankPMID>
+        <GenBankPMID>10029535</GenBankPMID>
+        <GenBankPMID>10572301</GenBankPMID>
+        <GenBankPMID>30885931</GenBankPMID>
+        <GenBankPMID>9826388</GenBankPMID>
+        <GenBankPMID>9110030</GenBankPMID>
+        <GenBankPMID>7646486</GenBankPMID>
+        <GenBankPMID>30198900</GenBankPMID>
+        <GenBankPMID>28125316</GenBankPMID>
+        <GenBankPMID>15525707</GenBankPMID>
+        <GenBankPMID>11574053</GenBankPMID>
+        <GenBankPMID>25171165</GenBankPMID>
+        <GenBankPMID>29078338</GenBankPMID>
+        <GenBankPMID>1352512</GenBankPMID>
+        <GenBankPMID>15049826</GenBankPMID>
+        <GenBankPMID>7007074</GenBankPMID>
+        <GenBankPMID>9163424</GenBankPMID>
+        <GenBankPMID>23696825</GenBankPMID>
+        <GenBankPMID>10843862</GenBankPMID>
+        <GenBankPMID>10417420</GenBankPMID>
+        <GenBankPMID>20420449</GenBankPMID>
+        <GenBankPMID>10588692</GenBankPMID>
+        <GenBankPMID>11818558</GenBankPMID>
+        <GenBankPMID>17093042</GenBankPMID>
+        <GenBankPMID>23708130</GenBankPMID>
+        <GenBankPMID>3275660</GenBankPMID>
+        <GenBankPMID>18375759</GenBankPMID>
+        <GenBankPMID>8757883</GenBankPMID>
+        <GenBankPMID>16824101</GenBankPMID>
+        <GenBankPMID>8251502</GenBankPMID>
+        <GenBankPMID>15876367</GenBankPMID>
+        <GenBankPMID>25253688</GenBankPMID>
+        <GenBankPMID>11980709</GenBankPMID>
+        <GenBankPMID>8805533</GenBankPMID>
+        <GenBankPMID>17005418</GenBankPMID>
+        <GenBankPMID>21775474</GenBankPMID>
+        <GenBankPMID>14536072</GenBankPMID>
+        <GenBankPMID>12112691</GenBankPMID>
+        <GenBankPMID>15157079</GenBankPMID>
+        <GenBankPMID>23071807</GenBankPMID>
+        <GenBankPMID>21527029</GenBankPMID>
+        <GenBankPMID>16498617</GenBankPMID>
+        <GenBankPMID>15561149</GenBankPMID>
+        <GenBankPMID>12799000</GenBankPMID>
+        <GenBankPMID>15064399</GenBankPMID>
+        <GenBankPMID>19181797</GenBankPMID>
+        <GenBankPMID>24128931</GenBankPMID>
+        <GenBankPMID>9418246</GenBankPMID>
+        <GenBankPMID>26520801</GenBankPMID>
+        <GenBankPMID>12704110</GenBankPMID>
+        <GenBankPMID>10403368</GenBankPMID>
+        <GenBankPMID>2507166</GenBankPMID>
+        <GenBankPMID>10404217</GenBankPMID>
+        <GenBankPMID>24586162</GenBankPMID>
+        <GenBankPMID>12015149</GenBankPMID>
+        <GenBankPMID>11260479</GenBankPMID>
+        <GenBankPMID>16547061</GenBankPMID>
+        <GenBankPMID>9651328</GenBankPMID>
+        <GenBankPMID>18157819</GenBankPMID>
+        <GenBankPMID>17593967</GenBankPMID>
+        <GenBankPMID>12475234</GenBankPMID>
+        <GenBankPMID>15554976</GenBankPMID>
+        <GenBankPMID>2185470</GenBankPMID>
+        <GenBankPMID>11382227</GenBankPMID>
+        <GenBankPMID>15775966</GenBankPMID>
+        <GenBankPMID>29625546</GenBankPMID>
+        <GenBankPMID>7649262</GenBankPMID>
+        <GenBankPMID>8170399</GenBankPMID>
+        <GenBankPMID>16946247</GenBankPMID>
+        <GenBankPMID>11402010</GenBankPMID>
+        <GenBankPMID>15907468</GenBankPMID>
+        <GenBankPMID>14563551</GenBankPMID>
+        <GenBankPMID>20195670</GenBankPMID>
+        <GenBankPMID>16177312</GenBankPMID>
+        <GenBankPMID>23825549</GenBankPMID>
+        <GenBankPMID>10603409</GenBankPMID>
+        <GenBankPMID>10869070</GenBankPMID>
+        <GenBankPMID>21883523</GenBankPMID>
+        <GenBankPMID>17905831</GenBankPMID>
+        <GenBankPMID>16980477</GenBankPMID>
+        <GenBankPMID>2459389</GenBankPMID>
+        <GenBankPMID>12554880</GenBankPMID>
+        <GenBankPMID>9622348</GenBankPMID>
+        <GenBankPMID>14672940</GenBankPMID>
+        <GenBankPMID>23229911</GenBankPMID>
+        <GenBankPMID>11847124</GenBankPMID>
+        <GenBankPMID>12904577</GenBankPMID>
+        <GenBankPMID>16511207</GenBankPMID>
+        <GenBankPMID>9466997</GenBankPMID>
+        <GenBankPMID>11735405</GenBankPMID>
+        <GenBankPMID>23222729</GenBankPMID>
+        <GenBankPMID>8387996</GenBankPMID>
+        <GenBankPMID>28347402</GenBankPMID>
+        <GenBankPMID>15576787</GenBankPMID>
+        <GenBankPMID>8658133</GenBankPMID>
+        <GenBankPMID>8910376</GenBankPMID>
+        <GenBankPMID>12354223</GenBankPMID>
+        <GenBankPMID>3132458</GenBankPMID>
+        <GenBankPMID>12575990</GenBankPMID>
+        <GenBankPMID>17337586</GenBankPMID>
+        <GenBankPMID>2196231</GenBankPMID>
+        <GenBankPMID>11200221</GenBankPMID>
+        <GenBankPMID>9442895</GenBankPMID>
+        <GenBankPMID>14500499</GenBankPMID>
+        <GenBankPMID>11844757</GenBankPMID>
+        <GenBankPMID>11953757</GenBankPMID>
+        <GenBankPMID>15009198</GenBankPMID>
+        <GenBankPMID>23000903</GenBankPMID>
+        <GenBankPMID>8144446</GenBankPMID>
+        <GenBankPMID>9632640</GenBankPMID>
+        <GenBankPMID>15970591</GenBankPMID>
+        <GenBankPMID>9382818</GenBankPMID>
+        <GenBankPMID>24646934</GenBankPMID>
+        <GenBankPMID>7539334</GenBankPMID>
+        <GenBankPMID>28612943</GenBankPMID>
+        <GenBankPMID>16963571</GenBankPMID>
+        <GenBankPMID>10620679</GenBankPMID>
+        <GenBankPMID>20807199</GenBankPMID>
+        <GenBankPMID>22272312</GenBankPMID>
+        <GenBankPMID>14519207</GenBankPMID>
+        <GenBankPMID>11152607</GenBankPMID>
+        <GenBankPMID>23273979</GenBankPMID>
+        <GenBankPMID>30395255</GenBankPMID>
+        <GenBankPMID>21930951</GenBankPMID>
+        <GenBankPMID>17237169</GenBankPMID>
+        <GenBankPMID>27733515</GenBankPMID>
+        <GenBankPMID>24959658</GenBankPMID>
+        <GenBankPMID>9618584</GenBankPMID>
+        <GenBankPMID>9082984</GenBankPMID>
+        <GenBankPMID>21606186</GenBankPMID>
+        <GenBankPMID>12225755</GenBankPMID>
+        <GenBankPMID>14970394</GenBankPMID>
+        <GenBankPMID>7756254</GenBankPMID>
+        <GenBankPMID>17965156</GenBankPMID>
+        <GenBankPMID>29376031</GenBankPMID>
+        <GenBankPMID>8404849</GenBankPMID>
+        <GenBankPMID>2651410</GenBankPMID>
+        <GenBankPMID>11248187</GenBankPMID>
+        <GenBankPMID>16155584</GenBankPMID>
+        <GenBankPMID>8805509</GenBankPMID>
+        <GenBankPMID>15933023</GenBankPMID>
+        <GenBankPMID>24959425</GenBankPMID>
+        <GenBankPMID>15316015</GenBankPMID>
+        <GenBankPMID>29386631</GenBankPMID>
+        <GenBankPMID>24751478</GenBankPMID>
+        <GenBankPMID>31419583</GenBankPMID>
+        <GenBankPMID>8248183</GenBankPMID>
+        <GenBankPMID>17360576</GenBankPMID>
+        <GenBankPMID>12937172</GenBankPMID>
+        <GenBankPMID>20179818</GenBankPMID>
+        <GenBankPMID>3884974</GenBankPMID>
+        <GenBankPMID>3027577</GenBankPMID>
+        <GenBankPMID>9738943</GenBankPMID>
+        <GenBankPMID>21075890</GenBankPMID>
+        <GenBankPMID>15087448</GenBankPMID>
+        <GenBankPMID>15146462</GenBankPMID>
+        <GenBankPMID>7667876</GenBankPMID>
+        <GenBankPMID>16816202</GenBankPMID>
+        <GenBankPMID>3537960</GenBankPMID>
+        <GenBankPMID>1325384</GenBankPMID>
+        <GenBankPMID>23431368</GenBankPMID>
+        <GenBankPMID>7751290</GenBankPMID>
+        <GenBankPMID>13130133</GenBankPMID>
+        <GenBankPMID>9506522</GenBankPMID>
+        <GenBankPMID>16407127</GenBankPMID>
+        <GenBankPMID>9133736</GenBankPMID>
+        <GenBankPMID>10799476</GenBankPMID>
+        <GenBankPMID>12763042</GenBankPMID>
+        <GenBankPMID>25243119</GenBankPMID>
+        <GenBankPMID>8608120</GenBankPMID>
+        <GenBankPMID>11866529</GenBankPMID>
+        <GenBankPMID>21338480</GenBankPMID>
+        <GenBankPMID>20592031</GenBankPMID>
+        <GenBankPMID>12113934</GenBankPMID>
+        <GenBankPMID>26272448</GenBankPMID>
+        <GenBankPMID>26118995</GenBankPMID>
+        <GenBankPMID>15388946</GenBankPMID>
+        <GenBankPMID>1885539</GenBankPMID>
+        <GenBankPMID>10393194</GenBankPMID>
+        <GenBankPMID>9288744</GenBankPMID>
+        <GenBankPMID>12823825</GenBankPMID>
+        <GenBankPMID>11866091</GenBankPMID>
+        <GenBankPMID>17189261</GenBankPMID>
+        <GenBankPMID>25717440</GenBankPMID>
+        <GenBankPMID>9862810</GenBankPMID>
+        <GenBankPMID>17583737</GenBankPMID>
+        <GenBankPMID>7861960</GenBankPMID>
+        <GenBankPMID>16104022</GenBankPMID>
+        <GenBankPMID>25756658</GenBankPMID>
+        <GenBankPMID>1461740</GenBankPMID>
+        <GenBankPMID>9927482</GenBankPMID>
+        <GenBankPMID>9778731</GenBankPMID>
+        <GenBankPMID>24392355</GenBankPMID>
+        <GenBankPMID>8643579</GenBankPMID>
+        <GenBankPMID>15014442</GenBankPMID>
+        <GenBankPMID>7868596</GenBankPMID>
+        <GenBankPMID>15836769</GenBankPMID>
+        <GenBankPMID>9323207</GenBankPMID>
+        <GenBankPMID>8747466</GenBankPMID>
+        <GenBankPMID>7798200</GenBankPMID>
+        <GenBankPMID>9973346</GenBankPMID>
+        <GenBankPMID>22535590</GenBankPMID>
+        <GenBankPMID>31386347</GenBankPMID>
+        <GenBankPMID>19460098</GenBankPMID>
+        <GenBankPMID>27611675</GenBankPMID>
+        <GenBankPMID>17532760</GenBankPMID>
+        <GenBankPMID>22829778</GenBankPMID>
+        <GenBankPMID>18801996</GenBankPMID>
+        <GenBankPMID>9746356</GenBankPMID>
+        <GenBankPMID>22378793</GenBankPMID>
+        <GenBankPMID>14527414</GenBankPMID>
+        <GenBankPMID>8430071</GenBankPMID>
+        <GenBankPMID>25146758</GenBankPMID>
+        <GenBankPMID>11114335</GenBankPMID>
+        <GenBankPMID>11459176</GenBankPMID>
+        <GenBankPMID>3191988</GenBankPMID>
+        <GenBankPMID>3298234</GenBankPMID>
+        <GenBankPMID>9288963</GenBankPMID>
+        <GenBankPMID>10561594</GenBankPMID>
+        <GenBankPMID>30848236</GenBankPMID>
+        <GenBankPMID>1909328</GenBankPMID>
+        <GenBankPMID>3317277</GenBankPMID>
+        <GenBankPMID>12169593</GenBankPMID>
+        <GenBankPMID>15199184</GenBankPMID>
         <id>315277</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1515,46 +1515,46 @@
         <scientificName>Chlamydia trachomatis A/HAR-13</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>33055216</GeneBankPMID>
-        <GeneBankPMID>31637787</GeneBankPMID>
-        <GeneBankPMID>21965559</GeneBankPMID>
-        <GeneBankPMID>24392355</GeneBankPMID>
-        <GeneBankPMID>32424009</GeneBankPMID>
-        <GeneBankPMID>30094225</GeneBankPMID>
-        <GeneBankPMID>16436211</GeneBankPMID>
-        <GeneBankPMID>16740930</GeneBankPMID>
-        <GeneBankPMID>20351143</GeneBankPMID>
-        <GeneBankPMID>19651989</GeneBankPMID>
-        <GeneBankPMID>24958721</GeneBankPMID>
-        <GeneBankPMID>21908669</GeneBankPMID>
-        <GeneBankPMID>21725017</GeneBankPMID>
-        <GeneBankPMID>21233161</GeneBankPMID>
-        <GeneBankPMID>23431368</GeneBankPMID>
-        <GeneBankPMID>19460098</GeneBankPMID>
-        <GeneBankPMID>29868501</GeneBankPMID>
-        <GeneBankPMID>16407127</GeneBankPMID>
-        <GeneBankPMID>15557186</GeneBankPMID>
-        <GeneBankPMID>23071807</GeneBankPMID>
-        <GeneBankPMID>25250726</GeneBankPMID>
-        <GeneBankPMID>21883523</GeneBankPMID>
-        <GeneBankPMID>21527029</GeneBankPMID>
-        <GeneBankPMID>16861671</GeneBankPMID>
-        <GeneBankPMID>25690695</GeneBankPMID>
-        <GeneBankPMID>22624851</GeneBankPMID>
-        <GeneBankPMID>18591235</GeneBankPMID>
-        <GeneBankPMID>20360858</GeneBankPMID>
-        <GeneBankPMID>21441519</GeneBankPMID>
-        <GeneBankPMID>9784136</GeneBankPMID>
-        <GeneBankPMID>23796320</GeneBankPMID>
-        <GeneBankPMID>17631635</GeneBankPMID>
-        <GeneBankPMID>17301240</GeneBankPMID>
-        <GeneBankPMID>15316015</GeneBankPMID>
-        <GeneBankPMID>17944365</GeneBankPMID>
-        <GeneBankPMID>20079837</GeneBankPMID>
-        <GeneBankPMID>17616152</GeneBankPMID>
-        <GeneBankPMID>20348249</GeneBankPMID>
-        <GeneBankPMID>19367336</GeneBankPMID>
-        <GeneBankPMID>24646934</GeneBankPMID>
+        <GenBankPMID>33055216</GenBankPMID>
+        <GenBankPMID>31637787</GenBankPMID>
+        <GenBankPMID>21965559</GenBankPMID>
+        <GenBankPMID>24392355</GenBankPMID>
+        <GenBankPMID>32424009</GenBankPMID>
+        <GenBankPMID>30094225</GenBankPMID>
+        <GenBankPMID>16436211</GenBankPMID>
+        <GenBankPMID>16740930</GenBankPMID>
+        <GenBankPMID>20351143</GenBankPMID>
+        <GenBankPMID>19651989</GenBankPMID>
+        <GenBankPMID>24958721</GenBankPMID>
+        <GenBankPMID>21908669</GenBankPMID>
+        <GenBankPMID>21725017</GenBankPMID>
+        <GenBankPMID>21233161</GenBankPMID>
+        <GenBankPMID>23431368</GenBankPMID>
+        <GenBankPMID>19460098</GenBankPMID>
+        <GenBankPMID>29868501</GenBankPMID>
+        <GenBankPMID>16407127</GenBankPMID>
+        <GenBankPMID>15557186</GenBankPMID>
+        <GenBankPMID>23071807</GenBankPMID>
+        <GenBankPMID>25250726</GenBankPMID>
+        <GenBankPMID>21883523</GenBankPMID>
+        <GenBankPMID>21527029</GenBankPMID>
+        <GenBankPMID>16861671</GenBankPMID>
+        <GenBankPMID>25690695</GenBankPMID>
+        <GenBankPMID>22624851</GenBankPMID>
+        <GenBankPMID>18591235</GenBankPMID>
+        <GenBankPMID>20360858</GenBankPMID>
+        <GenBankPMID>21441519</GenBankPMID>
+        <GenBankPMID>9784136</GenBankPMID>
+        <GenBankPMID>23796320</GenBankPMID>
+        <GenBankPMID>17631635</GenBankPMID>
+        <GenBankPMID>17301240</GenBankPMID>
+        <GenBankPMID>15316015</GenBankPMID>
+        <GenBankPMID>17944365</GenBankPMID>
+        <GenBankPMID>20079837</GenBankPMID>
+        <GenBankPMID>17616152</GenBankPMID>
+        <GenBankPMID>20348249</GenBankPMID>
+        <GenBankPMID>19367336</GenBankPMID>
+        <GenBankPMID>24646934</GenBankPMID>
         <id>272561</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -15286,138 +15286,138 @@
     <PMCID>415958</PMCID>
     <PMCID>315339</PMCID>
     <PMCID>284841</PMCID>
-    <GeneBankPMID>26829550</GeneBankPMID>
-    <GeneBankPMID>16369014</GeneBankPMID>
-    <GeneBankPMID>16545062</GeneBankPMID>
-    <GeneBankPMID>31387908</GeneBankPMID>
-    <GeneBankPMID>25193659</GeneBankPMID>
-    <GeneBankPMID>29959096</GeneBankPMID>
-    <GeneBankPMID>20605986</GeneBankPMID>
-    <GeneBankPMID>28347402</GeneBankPMID>
-    <GeneBankPMID>17028176</GeneBankPMID>
-    <GeneBankPMID>23991024</GeneBankPMID>
-    <GeneBankPMID>16553875</GeneBankPMID>
-    <GeneBankPMID>32946535</GeneBankPMID>
-    <GeneBankPMID>17849007</GeneBankPMID>
-    <GeneBankPMID>30061357</GeneBankPMID>
-    <GeneBankPMID>26597572</GeneBankPMID>
-    <GeneBankPMID>30893609</GeneBankPMID>
-    <GeneBankPMID>26424482</GeneBankPMID>
-    <GeneBankPMID>16527508</GeneBankPMID>
-    <GeneBankPMID>30992493</GeneBankPMID>
-    <GeneBankPMID>22353774</GeneBankPMID>
-    <GeneBankPMID>19820100</GeneBankPMID>
-    <GeneBankPMID>21990969</GeneBankPMID>
-    <GeneBankPMID>18442471</GeneBankPMID>
-    <GeneBankPMID>19682078</GeneBankPMID>
-    <GeneBankPMID>19650664</GeneBankPMID>
-    <GeneBankPMID>17360522</GeneBankPMID>
-    <GeneBankPMID>28252385</GeneBankPMID>
-    <GeneBankPMID>23319558</GeneBankPMID>
-    <GeneBankPMID>19837730</GeneBankPMID>
-    <GeneBankPMID>25745888</GeneBankPMID>
-    <GeneBankPMID>21354663</GeneBankPMID>
-    <GeneBankPMID>33106516</GeneBankPMID>
-    <GeneBankPMID>17307941</GeneBankPMID>
-    <GeneBankPMID>25965545</GeneBankPMID>
-    <GeneBankPMID>23542454</GeneBankPMID>
-    <GeneBankPMID>23935908</GeneBankPMID>
-    <GeneBankPMID>19207939</GeneBankPMID>
-    <GeneBankPMID>30038048</GeneBankPMID>
-    <GeneBankPMID>22465117</GeneBankPMID>
-    <GeneBankPMID>18489796</GeneBankPMID>
-    <GeneBankPMID>18978051</GeneBankPMID>
-    <GeneBankPMID>17991015</GeneBankPMID>
-    <GeneBankPMID>24036669</GeneBankPMID>
-    <GeneBankPMID>23620154</GeneBankPMID>
-    <GeneBankPMID>32843479</GeneBankPMID>
-    <GeneBankPMID>26195634</GeneBankPMID>
-    <GeneBankPMID>19556290</GeneBankPMID>
-    <GeneBankPMID>29150677</GeneBankPMID>
-    <GeneBankPMID>20650765</GeneBankPMID>
-    <GeneBankPMID>16736579</GeneBankPMID>
-    <GeneBankPMID>18708139</GeneBankPMID>
-    <GeneBankPMID>16926431</GeneBankPMID>
-    <GeneBankPMID>21605656</GeneBankPMID>
-    <GeneBankPMID>18983929</GeneBankPMID>
-    <GeneBankPMID>26416907</GeneBankPMID>
-    <GeneBankPMID>30555802</GeneBankPMID>
-    <GeneBankPMID>20725727</GeneBankPMID>
-    <GeneBankPMID>23842467</GeneBankPMID>
-    <GeneBankPMID>19001072</GeneBankPMID>
-    <GeneBankPMID>8045424</GeneBankPMID>
-    <GeneBankPMID>17116296</GeneBankPMID>
-    <GeneBankPMID>15673471</GeneBankPMID>
-    <GeneBankPMID>27006461</GeneBankPMID>
-    <GeneBankPMID>22123249</GeneBankPMID>
-    <GeneBankPMID>17604025</GeneBankPMID>
-    <GeneBankPMID>23400774</GeneBankPMID>
-    <GeneBankPMID>29615498</GeneBankPMID>
-    <GeneBankPMID>15205432</GeneBankPMID>
-    <GeneBankPMID>22133609</GeneBankPMID>
-    <GeneBankPMID>29386631</GeneBankPMID>
-    <GeneBankPMID>21558433</GeneBankPMID>
-    <GeneBankPMID>23378575</GeneBankPMID>
-    <GeneBankPMID>15629922</GeneBankPMID>
-    <GeneBankPMID>21722650</GeneBankPMID>
-    <GeneBankPMID>25080811</GeneBankPMID>
-    <GeneBankPMID>18165300</GeneBankPMID>
-    <GeneBankPMID>16824101</GeneBankPMID>
-    <GeneBankPMID>25253688</GeneBankPMID>
-    <GeneBankPMID>22406642</GeneBankPMID>
-    <GeneBankPMID>20657819</GeneBankPMID>
-    <GeneBankPMID>28129328</GeneBankPMID>
-    <GeneBankPMID>23972426</GeneBankPMID>
-    <GeneBankPMID>20686813</GeneBankPMID>
-    <GeneBankPMID>26207372</GeneBankPMID>
-    <GeneBankPMID>22961851</GeneBankPMID>
-    <GeneBankPMID>28226239</GeneBankPMID>
-    <GeneBankPMID>18503636</GeneBankPMID>
-    <GeneBankPMID>26258949</GeneBankPMID>
-    <GeneBankPMID>15872278</GeneBankPMID>
-    <GeneBankPMID>28622339</GeneBankPMID>
-    <GeneBankPMID>16352844</GeneBankPMID>
-    <GeneBankPMID>7861960</GeneBankPMID>
-    <GeneBankPMID>24586162</GeneBankPMID>
-    <GeneBankPMID>23717625</GeneBankPMID>
-    <GeneBankPMID>17090662</GeneBankPMID>
-    <GeneBankPMID>18358006</GeneBankPMID>
-    <GeneBankPMID>16237037</GeneBankPMID>
-    <GeneBankPMID>18947394</GeneBankPMID>
-    <GeneBankPMID>23703617</GeneBankPMID>
-    <GeneBankPMID>30554084</GeneBankPMID>
-    <GeneBankPMID>2194229</GeneBankPMID>
-    <GeneBankPMID>33353937</GeneBankPMID>
-    <GeneBankPMID>16936033</GeneBankPMID>
-    <GeneBankPMID>26625285</GeneBankPMID>
-    <GeneBankPMID>22624979</GeneBankPMID>
-    <GeneBankPMID>27603015</GeneBankPMID>
-    <GeneBankPMID>19388144</GeneBankPMID>
-    <GeneBankPMID>19016873</GeneBankPMID>
-    <GeneBankPMID>20522495</GeneBankPMID>
-    <GeneBankPMID>11402010</GeneBankPMID>
-    <GeneBankPMID>21057008</GeneBankPMID>
-    <GeneBankPMID>32446560</GeneBankPMID>
-    <GeneBankPMID>15629915</GeneBankPMID>
-    <GeneBankPMID>19460133</GeneBankPMID>
-    <GeneBankPMID>33058314</GeneBankPMID>
-    <GeneBankPMID>17532760</GeneBankPMID>
-    <GeneBankPMID>15247479</GeneBankPMID>
-    <GeneBankPMID>21041296</GeneBankPMID>
-    <GeneBankPMID>28593794</GeneBankPMID>
-    <GeneBankPMID>18032721</GeneBankPMID>
-    <GeneBankPMID>18422345</GeneBankPMID>
-    <GeneBankPMID>23043454</GeneBankPMID>
-    <GeneBankPMID>21767809</GeneBankPMID>
-    <GeneBankPMID>17329456</GeneBankPMID>
-    <GeneBankPMID>23852872</GeneBankPMID>
-    <GeneBankPMID>23936096</GeneBankPMID>
-    <GeneBankPMID>21737500</GeneBankPMID>
-    <GeneBankPMID>28970272</GeneBankPMID>
-    <GeneBankPMID>26914207</GeneBankPMID>
-    <GeneBankPMID>1997423</GeneBankPMID>
-    <GeneBankPMID>27436813</GeneBankPMID>
-    <GeneBankPMID>18083799</GeneBankPMID>
+    <GenBankPMID>26829550</GenBankPMID>
+    <GenBankPMID>16369014</GenBankPMID>
+    <GenBankPMID>16545062</GenBankPMID>
+    <GenBankPMID>31387908</GenBankPMID>
+    <GenBankPMID>25193659</GenBankPMID>
+    <GenBankPMID>29959096</GenBankPMID>
+    <GenBankPMID>20605986</GenBankPMID>
+    <GenBankPMID>28347402</GenBankPMID>
+    <GenBankPMID>17028176</GenBankPMID>
+    <GenBankPMID>23991024</GenBankPMID>
+    <GenBankPMID>16553875</GenBankPMID>
+    <GenBankPMID>32946535</GenBankPMID>
+    <GenBankPMID>17849007</GenBankPMID>
+    <GenBankPMID>30061357</GenBankPMID>
+    <GenBankPMID>26597572</GenBankPMID>
+    <GenBankPMID>30893609</GenBankPMID>
+    <GenBankPMID>26424482</GenBankPMID>
+    <GenBankPMID>16527508</GenBankPMID>
+    <GenBankPMID>30992493</GenBankPMID>
+    <GenBankPMID>22353774</GenBankPMID>
+    <GenBankPMID>19820100</GenBankPMID>
+    <GenBankPMID>21990969</GenBankPMID>
+    <GenBankPMID>18442471</GenBankPMID>
+    <GenBankPMID>19682078</GenBankPMID>
+    <GenBankPMID>19650664</GenBankPMID>
+    <GenBankPMID>17360522</GenBankPMID>
+    <GenBankPMID>28252385</GenBankPMID>
+    <GenBankPMID>23319558</GenBankPMID>
+    <GenBankPMID>19837730</GenBankPMID>
+    <GenBankPMID>25745888</GenBankPMID>
+    <GenBankPMID>21354663</GenBankPMID>
+    <GenBankPMID>33106516</GenBankPMID>
+    <GenBankPMID>17307941</GenBankPMID>
+    <GenBankPMID>25965545</GenBankPMID>
+    <GenBankPMID>23542454</GenBankPMID>
+    <GenBankPMID>23935908</GenBankPMID>
+    <GenBankPMID>19207939</GenBankPMID>
+    <GenBankPMID>30038048</GenBankPMID>
+    <GenBankPMID>22465117</GenBankPMID>
+    <GenBankPMID>18489796</GenBankPMID>
+    <GenBankPMID>18978051</GenBankPMID>
+    <GenBankPMID>17991015</GenBankPMID>
+    <GenBankPMID>24036669</GenBankPMID>
+    <GenBankPMID>23620154</GenBankPMID>
+    <GenBankPMID>32843479</GenBankPMID>
+    <GenBankPMID>26195634</GenBankPMID>
+    <GenBankPMID>19556290</GenBankPMID>
+    <GenBankPMID>29150677</GenBankPMID>
+    <GenBankPMID>20650765</GenBankPMID>
+    <GenBankPMID>16736579</GenBankPMID>
+    <GenBankPMID>18708139</GenBankPMID>
+    <GenBankPMID>16926431</GenBankPMID>
+    <GenBankPMID>21605656</GenBankPMID>
+    <GenBankPMID>18983929</GenBankPMID>
+    <GenBankPMID>26416907</GenBankPMID>
+    <GenBankPMID>30555802</GenBankPMID>
+    <GenBankPMID>20725727</GenBankPMID>
+    <GenBankPMID>23842467</GenBankPMID>
+    <GenBankPMID>19001072</GenBankPMID>
+    <GenBankPMID>8045424</GenBankPMID>
+    <GenBankPMID>17116296</GenBankPMID>
+    <GenBankPMID>15673471</GenBankPMID>
+    <GenBankPMID>27006461</GenBankPMID>
+    <GenBankPMID>22123249</GenBankPMID>
+    <GenBankPMID>17604025</GenBankPMID>
+    <GenBankPMID>23400774</GenBankPMID>
+    <GenBankPMID>29615498</GenBankPMID>
+    <GenBankPMID>15205432</GenBankPMID>
+    <GenBankPMID>22133609</GenBankPMID>
+    <GenBankPMID>29386631</GenBankPMID>
+    <GenBankPMID>21558433</GenBankPMID>
+    <GenBankPMID>23378575</GenBankPMID>
+    <GenBankPMID>15629922</GenBankPMID>
+    <GenBankPMID>21722650</GenBankPMID>
+    <GenBankPMID>25080811</GenBankPMID>
+    <GenBankPMID>18165300</GenBankPMID>
+    <GenBankPMID>16824101</GenBankPMID>
+    <GenBankPMID>25253688</GenBankPMID>
+    <GenBankPMID>22406642</GenBankPMID>
+    <GenBankPMID>20657819</GenBankPMID>
+    <GenBankPMID>28129328</GenBankPMID>
+    <GenBankPMID>23972426</GenBankPMID>
+    <GenBankPMID>20686813</GenBankPMID>
+    <GenBankPMID>26207372</GenBankPMID>
+    <GenBankPMID>22961851</GenBankPMID>
+    <GenBankPMID>28226239</GenBankPMID>
+    <GenBankPMID>18503636</GenBankPMID>
+    <GenBankPMID>26258949</GenBankPMID>
+    <GenBankPMID>15872278</GenBankPMID>
+    <GenBankPMID>28622339</GenBankPMID>
+    <GenBankPMID>16352844</GenBankPMID>
+    <GenBankPMID>7861960</GenBankPMID>
+    <GenBankPMID>24586162</GenBankPMID>
+    <GenBankPMID>23717625</GenBankPMID>
+    <GenBankPMID>17090662</GenBankPMID>
+    <GenBankPMID>18358006</GenBankPMID>
+    <GenBankPMID>16237037</GenBankPMID>
+    <GenBankPMID>18947394</GenBankPMID>
+    <GenBankPMID>23703617</GenBankPMID>
+    <GenBankPMID>30554084</GenBankPMID>
+    <GenBankPMID>2194229</GenBankPMID>
+    <GenBankPMID>33353937</GenBankPMID>
+    <GenBankPMID>16936033</GenBankPMID>
+    <GenBankPMID>26625285</GenBankPMID>
+    <GenBankPMID>22624979</GenBankPMID>
+    <GenBankPMID>27603015</GenBankPMID>
+    <GenBankPMID>19388144</GenBankPMID>
+    <GenBankPMID>19016873</GenBankPMID>
+    <GenBankPMID>20522495</GenBankPMID>
+    <GenBankPMID>11402010</GenBankPMID>
+    <GenBankPMID>21057008</GenBankPMID>
+    <GenBankPMID>32446560</GenBankPMID>
+    <GenBankPMID>15629915</GenBankPMID>
+    <GenBankPMID>19460133</GenBankPMID>
+    <GenBankPMID>33058314</GenBankPMID>
+    <GenBankPMID>17532760</GenBankPMID>
+    <GenBankPMID>15247479</GenBankPMID>
+    <GenBankPMID>21041296</GenBankPMID>
+    <GenBankPMID>28593794</GenBankPMID>
+    <GenBankPMID>18032721</GenBankPMID>
+    <GenBankPMID>18422345</GenBankPMID>
+    <GenBankPMID>23043454</GenBankPMID>
+    <GenBankPMID>21767809</GenBankPMID>
+    <GenBankPMID>17329456</GenBankPMID>
+    <GenBankPMID>23852872</GenBankPMID>
+    <GenBankPMID>23936096</GenBankPMID>
+    <GenBankPMID>21737500</GenBankPMID>
+    <GenBankPMID>28970272</GenBankPMID>
+    <GenBankPMID>26914207</GenBankPMID>
+    <GenBankPMID>1997423</GenBankPMID>
+    <GenBankPMID>27436813</GenBankPMID>
+    <GenBankPMID>18083799</GenBankPMID>
     <MeSHPMID>34008722</MeSHPMID>
     <MeSHPMID>33964838</MeSHPMID>
     <MeSHPMID>33960288</MeSHPMID>

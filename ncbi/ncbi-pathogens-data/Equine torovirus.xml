@@ -103,8 +103,8 @@
         <PMCID>331274</PMCID>
         <PMCID>249106</PMCID>
         <PMCID>266050</PMCID>
-        <GeneBankPMID>2024492</GeneBankPMID>
-        <GeneBankPMID>2219698</GeneBankPMID>
+        <GenBankPMID>2024492</GenBankPMID>
+        <GenBankPMID>2219698</GenBankPMID>
         <id>11156</id>
         <meSHTree>B04.820.578.500.540.800</meSHTree>
         <otherNames>&lt;OtherNames&gt; 
@@ -143,7 +143,7 @@
     <PMCID>3115971</PMCID>
     <PMCID>2749830</PMCID>
     <PMCID>1642614</PMCID>
-    <GeneBankPMID>16571831</GeneBankPMID>
+    <GenBankPMID>16571831</GenBankPMID>
     <id>329862</id>
     <meSHTree>B04.820.578.500.540.800</meSHTree>
     <scientificName>Equine torovirus</scientificName>

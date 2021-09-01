@@ -5,7 +5,7 @@
         <scientificName>Swine pneumovirus 57</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>24400129</GeneBankPMID>
+        <GenBankPMID>24400129</GenBankPMID>
         <id>2482952</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -34,10 +34,10 @@
         <PMCID>7088122</PMCID>
         <PMCID>3672079</PMCID>
         <PMCID>3661469</PMCID>
-        <GeneBankPMID>17567693</GeneBankPMID>
-        <GeneBankPMID>8035533</GeneBankPMID>
-        <GeneBankPMID>15604443</GeneBankPMID>
-        <GeneBankPMID>21307191</GeneBankPMID>
+        <GenBankPMID>17567693</GenBankPMID>
+        <GenBankPMID>8035533</GenBankPMID>
+        <GenBankPMID>15604443</GenBankPMID>
+        <GenBankPMID>21307191</GenBankPMID>
         <id>270473</id>
         <scientificName>Pneumonia virus of mice J3666</scientificName>
     </subSpecies>

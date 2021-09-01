@@ -727,8 +727,8 @@
             <PMCID>4159302</PMCID>
             <PMCID>2795755</PMCID>
             <PMCID>7332303</PMCID>
-            <GeneBankPMID>10516074</GeneBankPMID>
-            <GeneBankPMID>25142584</GeneBankPMID>
+            <GenBankPMID>10516074</GenBankPMID>
+            <GenBankPMID>25142584</GenBankPMID>
             <id>106333</id>
             <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -1680,8 +1680,8 @@
             <PMCID>4823300</PMCID>
             <PMCID>4344864</PMCID>
             <PMCID>2795755</PMCID>
-            <GeneBankPMID>15504283</GeneBankPMID>
-            <GeneBankPMID>15449145</GeneBankPMID>
+            <GenBankPMID>15504283</GenBankPMID>
+            <GenBankPMID>15449145</GenBankPMID>
             <id>290314</id>
             <scientificName>Sapovirus C12</scientificName>
         </subSpecies>
@@ -1760,9 +1760,9 @@
             <PMCID>4236159</PMCID>
             <PMCID>4159302</PMCID>
             <PMCID>2795755</PMCID>
-            <GeneBankPMID>15919882</GeneBankPMID>
-            <GeneBankPMID>15504283</GeneBankPMID>
-            <GeneBankPMID>19161558</GeneBankPMID>
+            <GenBankPMID>15919882</GenBankPMID>
+            <GenBankPMID>15504283</GenBankPMID>
+            <GenBankPMID>19161558</GenBankPMID>
             <id>234601</id>
             <scientificName>Sapovirus Mc10</scientificName>
         </subSpecies>
@@ -6167,7 +6167,7 @@
             <scientificName>Sapovirus Hu/Nagoya88/2012/JP</scientificName>
         </subSpecies>
         <subSpecies>
-            <GeneBankPMID>25676762</GeneBankPMID>
+            <GenBankPMID>25676762</GenBankPMID>
             <id>1280920</id>
             <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -9942,7 +9942,7 @@
             <scientificName>Sapovirus NongKhai-50/Thailand</scientificName>
         </subSpecies>
         <subSpecies>
-            <GeneBankPMID>17121797</GeneBankPMID>
+            <GenBankPMID>17121797</GenBankPMID>
             <id>291175</id>
             <scientificName>Sapovirus Hu/Dresden/pJG-Sap01/DE</scientificName>
         </subSpecies>

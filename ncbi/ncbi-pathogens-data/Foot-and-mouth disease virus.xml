@@ -17,9 +17,9 @@
             <id>37556</id>
             <scientificName>Aphthovirus Asia</scientificName>
         </subSpecies>
-        <GeneBankPMID>22963009</GeneBankPMID>
-        <GeneBankPMID>20844943</GeneBankPMID>
-        <GeneBankPMID>17578009</GeneBankPMID>
+        <GenBankPMID>22963009</GenBankPMID>
+        <GenBankPMID>20844943</GenBankPMID>
+        <GenBankPMID>17578009</GenBankPMID>
         <id>110195</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -39,7 +39,7 @@
     </subSpecies>
     <subSpecies>
         <PMCID>6460869</PMCID>
-        <GeneBankPMID>15858032</GeneBankPMID>
+        <GenBankPMID>15858032</GenBankPMID>
         <id>35292</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -67,7 +67,7 @@
         <scientificName>Foot-and-mouth disease virus - type SAT 2</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>15858032</GeneBankPMID>
+        <GenBankPMID>15858032</GenBankPMID>
         <id>12123</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -94,8 +94,8 @@
         <scientificName>Foot-and-mouth disease virus - type SAT 3</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>15858032</GeneBankPMID>
-        <GeneBankPMID>17161881</GeneBankPMID>
+        <GenBankPMID>15858032</GenBankPMID>
+        <GenBankPMID>17161881</GenBankPMID>
         <id>12122</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -501,45 +501,45 @@
             <id>73482</id>
             <scientificName>Foot-and-mouth disease virus (strain O1)</scientificName>
         </subSpecies>
-        <GeneBankPMID>29346074</GeneBankPMID>
-        <GeneBankPMID>26695943</GeneBankPMID>
-        <GeneBankPMID>26354183</GeneBankPMID>
-        <GeneBankPMID>24554650</GeneBankPMID>
-        <GeneBankPMID>24074589</GeneBankPMID>
-        <GeneBankPMID>31915277</GeneBankPMID>
-        <GeneBankPMID>25000961</GeneBankPMID>
-        <GeneBankPMID>23364188</GeneBankPMID>
-        <GeneBankPMID>18753210</GeneBankPMID>
-        <GeneBankPMID>30055516</GeneBankPMID>
-        <GeneBankPMID>29386286</GeneBankPMID>
-        <GeneBankPMID>25085622</GeneBankPMID>
-        <GeneBankPMID>26296881</GeneBankPMID>
-        <GeneBankPMID>15858032</GeneBankPMID>
-        <GeneBankPMID>28662438</GeneBankPMID>
-        <GeneBankPMID>28102839</GeneBankPMID>
-        <GeneBankPMID>22036313</GeneBankPMID>
-        <GeneBankPMID>22718831</GeneBankPMID>
-        <GeneBankPMID>30702422</GeneBankPMID>
-        <GeneBankPMID>23756127</GeneBankPMID>
-        <GeneBankPMID>23515027</GeneBankPMID>
-        <GeneBankPMID>21307201</GeneBankPMID>
-        <GeneBankPMID>23576498</GeneBankPMID>
-        <GeneBankPMID>26901336</GeneBankPMID>
-        <GeneBankPMID>24670358</GeneBankPMID>
-        <GeneBankPMID>26792712</GeneBankPMID>
-        <GeneBankPMID>27707918</GeneBankPMID>
-        <GeneBankPMID>25116389</GeneBankPMID>
-        <GeneBankPMID>22933281</GeneBankPMID>
-        <GeneBankPMID>27249937</GeneBankPMID>
-        <GeneBankPMID>16216271</GeneBankPMID>
-        <GeneBankPMID>23966400</GeneBankPMID>
-        <GeneBankPMID>33028719</GeneBankPMID>
-        <GeneBankPMID>28452293</GeneBankPMID>
-        <GeneBankPMID>10623761</GeneBankPMID>
-        <GeneBankPMID>23764275</GeneBankPMID>
-        <GeneBankPMID>30177393</GeneBankPMID>
-        <GeneBankPMID>26186028</GeneBankPMID>
-        <GeneBankPMID>28878081</GeneBankPMID>
+        <GenBankPMID>29346074</GenBankPMID>
+        <GenBankPMID>26695943</GenBankPMID>
+        <GenBankPMID>26354183</GenBankPMID>
+        <GenBankPMID>24554650</GenBankPMID>
+        <GenBankPMID>24074589</GenBankPMID>
+        <GenBankPMID>31915277</GenBankPMID>
+        <GenBankPMID>25000961</GenBankPMID>
+        <GenBankPMID>23364188</GenBankPMID>
+        <GenBankPMID>18753210</GenBankPMID>
+        <GenBankPMID>30055516</GenBankPMID>
+        <GenBankPMID>29386286</GenBankPMID>
+        <GenBankPMID>25085622</GenBankPMID>
+        <GenBankPMID>26296881</GenBankPMID>
+        <GenBankPMID>15858032</GenBankPMID>
+        <GenBankPMID>28662438</GenBankPMID>
+        <GenBankPMID>28102839</GenBankPMID>
+        <GenBankPMID>22036313</GenBankPMID>
+        <GenBankPMID>22718831</GenBankPMID>
+        <GenBankPMID>30702422</GenBankPMID>
+        <GenBankPMID>23756127</GenBankPMID>
+        <GenBankPMID>23515027</GenBankPMID>
+        <GenBankPMID>21307201</GenBankPMID>
+        <GenBankPMID>23576498</GenBankPMID>
+        <GenBankPMID>26901336</GenBankPMID>
+        <GenBankPMID>24670358</GenBankPMID>
+        <GenBankPMID>26792712</GenBankPMID>
+        <GenBankPMID>27707918</GenBankPMID>
+        <GenBankPMID>25116389</GenBankPMID>
+        <GenBankPMID>22933281</GenBankPMID>
+        <GenBankPMID>27249937</GenBankPMID>
+        <GenBankPMID>16216271</GenBankPMID>
+        <GenBankPMID>23966400</GenBankPMID>
+        <GenBankPMID>33028719</GenBankPMID>
+        <GenBankPMID>28452293</GenBankPMID>
+        <GenBankPMID>10623761</GenBankPMID>
+        <GenBankPMID>23764275</GenBankPMID>
+        <GenBankPMID>30177393</GenBankPMID>
+        <GenBankPMID>26186028</GenBankPMID>
+        <GenBankPMID>28878081</GenBankPMID>
         <id>12118</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -607,17 +607,17 @@
         <PMCID>3165794</PMCID>
         <PMCID>2997101</PMCID>
         <PMCID>222961</PMCID>
-        <GeneBankPMID>16973591</GeneBankPMID>
-        <GeneBankPMID>9658076</GeneBankPMID>
-        <GeneBankPMID>22787230</GeneBankPMID>
-        <GeneBankPMID>22156531</GeneBankPMID>
-        <GeneBankPMID>19403672</GeneBankPMID>
-        <GeneBankPMID>20507978</GeneBankPMID>
-        <GeneBankPMID>15294895</GeneBankPMID>
-        <GeneBankPMID>30068642</GeneBankPMID>
-        <GeneBankPMID>25275544</GeneBankPMID>
-        <GeneBankPMID>23886493</GeneBankPMID>
-        <GeneBankPMID>20392853</GeneBankPMID>
+        <GenBankPMID>16973591</GenBankPMID>
+        <GenBankPMID>9658076</GenBankPMID>
+        <GenBankPMID>22787230</GenBankPMID>
+        <GenBankPMID>22156531</GenBankPMID>
+        <GenBankPMID>19403672</GenBankPMID>
+        <GenBankPMID>20507978</GenBankPMID>
+        <GenBankPMID>15294895</GenBankPMID>
+        <GenBankPMID>30068642</GenBankPMID>
+        <GenBankPMID>25275544</GenBankPMID>
+        <GenBankPMID>23886493</GenBankPMID>
+        <GenBankPMID>20392853</GenBankPMID>
         <id>12116</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;
@@ -824,15 +824,15 @@
             <scientificName>Foot-and-mouth disease virus (strain A10-61)</scientificName>
         </subSpecies>
         <PMCID>5788337</PMCID>
-        <GeneBankPMID>15858032</GeneBankPMID>
-        <GeneBankPMID>21399922</GeneBankPMID>
-        <GeneBankPMID>25326348</GeneBankPMID>
-        <GeneBankPMID>17065215</GeneBankPMID>
-        <GeneBankPMID>20494391</GeneBankPMID>
-        <GeneBankPMID>19580333</GeneBankPMID>
-        <GeneBankPMID>19052079</GeneBankPMID>
-        <GeneBankPMID>22280896</GeneBankPMID>
-        <GeneBankPMID>20849893</GeneBankPMID>
+        <GenBankPMID>15858032</GenBankPMID>
+        <GenBankPMID>21399922</GenBankPMID>
+        <GenBankPMID>25326348</GenBankPMID>
+        <GenBankPMID>17065215</GenBankPMID>
+        <GenBankPMID>20494391</GenBankPMID>
+        <GenBankPMID>19580333</GenBankPMID>
+        <GenBankPMID>19052079</GenBankPMID>
+        <GenBankPMID>22280896</GenBankPMID>
+        <GenBankPMID>20849893</GenBankPMID>
         <id>12111</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;GenbankAcronym&gt;

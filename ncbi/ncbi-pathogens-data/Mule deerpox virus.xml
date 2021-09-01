@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <pathogen>
     <subSpecies>
-        <GeneBankPMID>15613325</GeneBankPMID>
+        <GenBankPMID>15613325</GenBankPMID>
         <id>305676</id>
         <scientificName>Deerpox virus W-1170-84</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>21159883</GeneBankPMID>
-        <GeneBankPMID>15613325</GeneBankPMID>
+        <GenBankPMID>21159883</GenBankPMID>
+        <GenBankPMID>15613325</GenBankPMID>
         <id>305674</id>
         <scientificName>Deerpox virus W-848-83</scientificName>
     </subSpecies>

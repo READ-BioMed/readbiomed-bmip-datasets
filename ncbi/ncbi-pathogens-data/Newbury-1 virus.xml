@@ -22,7 +22,7 @@
         <PMCID>2395209</PMCID>
         <PMCID>2735111</PMCID>
         <PMCID>141104</PMCID>
-        <GeneBankPMID>16574184</GeneBankPMID>
+        <GenBankPMID>16574184</GenBankPMID>
         <id>331642</id>
         <otherNames>&lt;OtherNames&gt; 
  &lt;EquivalentName&gt;
@@ -34,7 +34,7 @@
     <subSpecies>
         <PMCID>4236159</PMCID>
         <PMCID>4159302</PMCID>
-        <GeneBankPMID>12239283</GeneBankPMID>
+        <GenBankPMID>12239283</GenBankPMID>
         <id>190239</id>
         <scientificName>Calicivirus strain NB</scientificName>
     </subSpecies>

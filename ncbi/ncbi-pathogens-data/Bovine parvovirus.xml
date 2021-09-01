@@ -10,7 +10,7 @@
         <scientificName>Bovine parvovirus pAT153/1986</scientificName>
     </subSpecies>
     <subSpecies>
-        <GeneBankPMID>17715221</GeneBankPMID>
+        <GenBankPMID>17715221</GenBankPMID>
         <id>365609</id>
         <scientificName>Bovine parvovirus-1</scientificName>
     </subSpecies>
@@ -77,7 +77,7 @@
     <PMCID>115897</PMCID>
     <PMCID>111511</PMCID>
     <PMCID>420750</PMCID>
-    <GeneBankPMID>3783814</GeneBankPMID>
+    <GenBankPMID>3783814</GenBankPMID>
     <id>10784</id>
     <meSHTree>B04.280.580.650.085</meSHTree>
     <otherNames>&lt;OtherNames&gt; 
