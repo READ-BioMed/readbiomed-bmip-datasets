@@ -1,4 +1,4 @@
-# BMIP data set
+# Pathogens data set
 
 ## Manually annotated data set
 
