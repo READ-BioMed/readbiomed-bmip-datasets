@@ -5,7 +5,7 @@ package.
 
 ## NCBI taxonomy pathogen data set (ncbi folder)
 
-NCBI data sources have been used to automatically collect information about pathogens from NCBI database resources. The
+National Center for Biotechnology Information (NCBI) data sources have been used to automatically collect information about pathogens from NCBI database resources. The
 
 This includes data about taxonomic pathogens (e.g. bacteria and viruses) and as well PrPSc prions and toxins.
 
