@@ -14,3 +14,5 @@ The information for each pathogen is in XML format and includes meta-data about 
 ## Manually annotated data set (manual-set folder)
 
 The manual-set folder contains manual annotation for the characterisation of actively research pathogens from the scientific literature.
+
+More information about the manually annotated data set are available [here](./manual-set/README.md).
