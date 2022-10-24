@@ -14,3 +14,16 @@ The information for each pathogen is in XML format and includes meta-data about 
 The manual-set folder contains manual annotation for the characterisation of actively research pathogens from the scientific literature.
 
 More information about the manually annotated data set is available [here](./manual-set).
+
+# References
+
+If you use this work in your research, remember to cite it. The publication below contains additional information about the creation of this data set.
+
+```
+@article{jimeno2022classifying,
+  title={Classifying literature mentions of biological pathogens as experimentally studied using natural language processing},
+  author={Jimeno Yepes, Antonio and Verspoor, Karin},
+  journal={Journal of Biomedical Semantics},
+  year={2022}
+}
+```
