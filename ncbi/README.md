@@ -10,7 +10,9 @@
 
 ## Toxin data
 
-[toxin-ncbi-data](./toxin-ncbi-data)
+[toxin-ncbi-data](./toxin-ncbi-data) contains a set of XML files with information collected about toxins. The files contains a list of PMIDs recovered for that toxin from MEDLINE in the `MeSHPMID` tag and the name of the toxin in the `name` tag.
+
+The snippet below shows the example for `saxitoxin`.
 
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
