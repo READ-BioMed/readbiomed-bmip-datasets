@@ -8,7 +8,7 @@
 
 [prpsc-ncbi-data](./prpsc-ncbi-data) contains a set of XML files with information collected about PrPSc prions. The files contains a list of PMIDs recovered for that prion from MEDLINE in the `MeSHPMID` tag, the PubMed Query used to recover the PIMDs in `pubMedQuery` and the species in the `species` tag. It contains as well a [terms.txt](./prpsc-ncbi-data/terms.txt) file with the list of prions.
 
-The snippet below shows the example for [cat PrPSc](./prpsc-ncbi-data/Sc (cat).xml).
+The snippet below shows the example for [cat PrPSc](./prpsc-ncbi-data/Sc \(cat\).xml).
 
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
