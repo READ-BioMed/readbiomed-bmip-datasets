@@ -5,9 +5,7 @@ package.
 
 ## NCBI taxonomy pathogen data set (ncbi folder)
 
-National Center for Biotechnology Information (NCBI) data sources have been used to automatically collect information about pathogens from NCBI database resources. The
-
-This includes data about taxonomic pathogens (e.g. bacteria and viruses) and as well PrPSc prions and toxins.
+National Center for Biotechnology Information (NCBI) data sources have been used to automatically collect information about pathogens from NCBI database resources. The folder [ncbi](./ncbi) has the files for [taxonomic pathogens](./ncbi-pathogens-data), [PrPSc prions](./prpsc-ncbi-data) and [toxins](./toxin-ncbi-data) and a description of the content of each folder.
 
 The information for each pathogen is in XML format and includes meta-data about the pathogen, information about subspecies and PubMed and PubMed Central identifiers that can be used to recover information about these pathogens from the scientific literature.
 
@@ -15,4 +13,4 @@ The information for each pathogen is in XML format and includes meta-data about 
 
 The manual-set folder contains manual annotation for the characterisation of actively research pathogens from the scientific literature.
 
-More information about the manually annotated data set are available [here](./manual-set).
+More information about the manually annotated data set is available [here](./manual-set).
