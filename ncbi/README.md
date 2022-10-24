@@ -4,9 +4,13 @@ Pathogen information is divided into taxonimic pathogens, PrPSc prions and toxin
 
 ## Taxonomic pathogen data
 
-[ncbi-pathogens-data](./ncbi-pathogens-data) contains a set of XML files with information about taxonomic pathogens. The files contain several lists of PubMed Identifiers (PMIDs).
+[ncbi-pathogens-data](./ncbi-pathogens-data) contains a set of XML files with information about taxonomic pathogens.
 
-The snippet below shows the example for [Escherichia coli](ncbi-pathogens-data/Escherichia coli.xml).
+For each pathogen, the sub-species are identified. For each species, sub-species, the files contain several lists of PubMed Identifiers (PMIDs) depending where the source of the identifier. If the pathogen was found in the MeSH indexing of MEDLINE, the `MeSHPMID` is used, if the pathogen is found in indexed in PubMed Central, the `PMCID` tag is used, if the pathogen is found in GenBank, the tag `GenBankPMID` is used.
+
+In addition, several XML sets are used to store information about the synonyms and scientific names and the MeSH tree codes (if known). 
+
+The snippet below shows the example for <a href="./ncbi-pathogens-data/Escherichia coli.xml">Escherichia coli</a>.
 
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
