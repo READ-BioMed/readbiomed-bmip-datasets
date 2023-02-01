@@ -20,7 +20,7 @@ More information about the manually annotated data set is available [here](./man
 If you use this work in your research, remember to cite it. The publication below contains additional information about the creation of this data set.
 
 ```
-@article{jimeno2022classifying,
+@article{jimeno2023classifying,
   title={Classifying literature mentions of biological pathogens as experimentally studied using natural language processing},
   author={Jimeno Yepes, Antonio and Verspoor, Karin},
   journal={Journal of Biomedical Semantics},
